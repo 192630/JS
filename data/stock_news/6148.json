@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-26T06:34:23.736688+08:00",
+  "updated_at": "2026-09-27T06:34:04.011703+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6148",
   "name": "驊宏資",
   "count": 12,
   "news": [
+    {
+      "title": "驊宏資續搭資安商機議題 股價收漲近5％",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iR0pGYzg4aHZ6TVdLNUpsUHg5aWFlb0tQNkdVU1ozNjRWQUhranQzZUpiSmM3V3dlSC1SU2pZbmU3ZWRUemRQNEdLWnNGbjlFdWtfRVl6UHB0Z9IBX0FVX3lxTE9kUXRhNEVpb0FZLTgyZ3lkLXJNOHE5bzAxVkV1VWxVY0Uxb29pUjF4TDc2blpHWENVbnBtS0JlOW9qWjBKZV9qMnU3aF9PVWNKRUQ1UnlkTDdqYVNCbXpv?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-24T08:43:42+00:00"
+    },
     {
       "title": "焦點股》驊宏資：AI資安題材熱 股價一度觸漲停",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82UUNZczBEa3lZMUgyaFhib3JER2ZBWmZqVUVJUnZtWnZtNkEwd0tNc0xKWVlpcFFidlRYMjFweEI0WDNQMzhTX2ctTlBpT2ZtQTFJWEtJOEJuWDVsSHZ30gFkQVVfeXFMUDk5TUUxUE9ZNTg4V0xFS0tkZl8xQUlQaHVXLUNuMlhlTEtLdDRlc00zS0hHelV5bFI1SnRVUEJEcDdGSHFObm1PSi00YXdzWTdDRVFfVVNCUVBZWFVOM3U3amFveQ?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmIzRTl1SWthcXg1N043aGpCMzNrTVZIWlBGWlpDU3hZaGZVSUNBZHBqUUc4aDZHbjJoNVFGMXc5SC1BeHdMY1l5dlVyWGpsSWtqYXZzSnBrMFhqLXN0VXVPUi1Ed1hMR3R4X05tQ1UzOURScUV6LVdpSFhMblU4RFVsZVREVUsweFltUlFB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-24T01:43:05+00:00"
-    },
-    {
-      "title": "《資服股》注意股：驊宏資 近5日漲28.55%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazZoSktBUi1sSDFhZHYwTmFHSV92d1lDRHowcWVweWdVNUs1cnR2VWdoUEF0QnJqU0dPYmdSRGlVaDdTWnZWMWUyRE1LZFZuWGYwSWg1VVJZUXljeEVOX0RhOUVjbkJra2NoLXp3YlhUMmVMRjZ4elRSbGpQQlhzVTlUOGlGSUY2?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-20T23:59:00+00:00"
     },
     {
       "title": "盈餘：驊宏資(6148)股價遭警示，自結8月稅後純益700萬，每股賺0.14元",
@@ -45,7 +45,7 @@
       "title": "【10:25 即時新聞】驊宏資(6148)強攻近一成走強資安族群續熱",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVZIU0x6M1h0cjAzeWhmZ3JJRXNnOHVnbGh0UmVyMG5NcFREM2VUOC0zN2x3X0F2TDFtTGZJRHNpVDZJdnpUNDR6T1g1Ty1nSkpRaUZpdElFRXR4dkFpemxlVFA2TC1pVmt6ZnFrRVBzS2I5WFZPMlMwdF9zMnREd3pDeHJXNmhMTTcwM0R3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-18T02:25:34+00:00"
+      "published_at": "2026-09-18T07:00:00+00:00"
     },
     {
       "title": "資安題材持續發酵！驊宏資(6148)連飆3漲停！-CMoney官方",
@@ -74,7 +74,7 @@
     {
       "title": "資服發威驊宏資、華經、訊達再飆漲停！電子股台灣精材、天鉞電、光鼎齊亮燈 台達電噴5%撐盤",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYUJtZ0pscDdaODBJN1RoVjhyRmg5ZGdOeVU1Tmc3dnQtQ3d1dFd2V21Ba0N5cFpYbGZCeGxWbUE3SnduQ2UwNUd1XzFUcXdydEduT2JQaGp2dUtIY05JQk5lZFAtNDVGRTNnUEwtbmpKcWhocFRKNzhIZm90dVVEbVdjSnNsQjRBLU03V212b2FTODhxWE5vSmRfY0huTC1OcmtSRUpPZUpLTFVuQ294d1R2MlBvYUxsZVZEQ20xaEZNMmxwenY1RUppUE1LRUhKRTJpRnluMVk5SWhJQlhMUUVjNEk5d2ZQb05iMExVMW44TGVvMm9LVDdpVnBmaGNiVlJaMk1mQVNTbmtZaXFFa0JtbHBVZmdQMjRRU2F5eXVIdXlDRkVueWIzSTBDczdKcTBhdU5fRy0xVVBSaXNWSEFXdW4wZ2dUQzNzUnZKdWpISTR4RGZyUUQyZU80b28wSXBWMnkyREN5TVpUd0IzS0VxNXQ5U2xlamRPRTNYbWRyQldpMU10Y1V4eWc?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
