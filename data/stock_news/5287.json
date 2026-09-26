@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-26T04:34:55.123071+08:00",
+  "updated_at": "2026-09-27T04:34:04.776473+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5287",
   "name": "數字",
   "count": 12,
   "news": [
-    {
-      "title": "人行：強化香港離岸人民幣樞紐地位 推動數字人民幣跨境支付使用",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ya0oteTduSW0xX01rQ1N5Q0FZbWpNeDlWQVJLdmE5WERMOXVJLXJFWWtjeU8tZl93cVcwSlZaZFZheTRxb1BvbFp6X3hqdC1hejZZUDc4QjdQTzVnb1l0OUQ2eGlIOVR1ZUhRZnpCMA?oc=5",
-      "source": "香港電台新聞網",
-      "published_at": "2026-09-24T11:52:00+00:00"
-    },
     {
       "title": "第五屆全球數字貿易博覽會開幕 超百個場景應用集中呈現 全球客商共赴「AI未來」之約",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43cDB2Y19Ja19qMXpzdHRsYlJWeGJUeUpMbnVDeWk2dGZGLVk0dXF5b2NqYVJLV2czWlROUmVlZ3pEX2FwMzM4TVlodm5TV0dOT0hrRlBuX2d6WGJI?oc=5",
@@ -32,7 +26,7 @@
     {
       "title": "數字看中國│9月以來大陸股票ETF淨流入超人民幣100億元- 兩岸",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMDZpTnBBRWc4d1VCNXZFUm5fOWt5czl1X3ZwYUNrQTg2Wkw1a0ZQOEQwNWJWM1F0SGF1WnZNeHBYUEJidGNOZVFsS0NNcHJpVXFxdWcxbVdXRy1MYXQ4?oc=5",
-      "source": "工商時報",
+      "source": "ctee.com.tw",
       "published_at": "2026-09-22T18:00:00+00:00"
     },
     {
@@ -50,7 +44,7 @@
     {
       "title": "Alphabet VS Meta，誰才是數字廣告王者的“最優解”？",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYjVxSUxUU0lYQzVoOFNVOUprOWY0c3VKLUFUMWVFVDFURmp3TWlBVW5VdHN0dl9pNURlM1RjTWFPZ1lTY3BvQVZxZjNmU2RNZ2YxeTFaSW9xRXlxc2o2U1R1a2pxdktzMkhxTGpWbXQ1cnJISElYZ29fYTJBUkRoSU03c0NrMkt2MHBJOTN6elh6R2poeUJRVkxjbnp2cDJyMi1EbkxJbGFMbWxXdGFzcTFqZ0U2ejBBTEJobE02YnR3MjFaRzFtMmUyZDFUc3FwM0pWcmU0bThnbHRzeVpzUEZ4ejMtelpibGpIT0swRkJyQ1hocWZ4UFBmSUVRWjJERVhtajVycjJZb2hoc094WG91dW9Lb05ZRjNibw?oc=5",
-      "source": "nai500.com",
+      "source": "NAI500",
       "published_at": "2026-09-22T03:44:36+00:00"
     },
     {
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MbEx5VFp5clczNE5BaEU5TDk5OFV3U3lHSFRUN3U5d1N1TTVSNnhYa3JHU1lmSTlza0tybF9NRnVudTBXUjRRZGNPaXZUbUtTajNV?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T13:10:06+00:00"
+    },
+    {
+      "title": "五年規劃｜推動政府數字債券常態化發行 支持海內外龍頭企業上市",
+      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPQk9kazcyUUZXZ3lRUl8tcGJGcGZlaFF3N3NpWWRtYXl6ZDIwR3R3UTFBRmpQbGRiVGhnQmloTnNVMXNsQW1MRTd5cHJJcFRqd2Rma2hneVd5NGVKQ095N1lyaDRWbl92Sk9JRG1maWRxTU5lRGRlN2lYUDVEdUJleHZfOWJhUVZqaHBiWHlnM3FiWEtDWFVPbTQzU0R4dlNQWVVsV3pDM19UYWd3bndPVXJYWVZTUC1YOG9Gb0o4SmE2Tk9ndngzOFUyX1M5ZjVNWXAwdUZmUEprVmFMbnNiZkZxQWdncUZOczhpa2JSM1J2dk9LV1NOVUJVak15RmxMM0prTlk1aldsMXFVS3B3TGJDV3dyNzZWV0Y4T1l3UTNkdzltWGZ6d1lCQ2tHLTZ6ODdYMnFmY0pjU2NqTmlTTlB6Ti1KN1J2akVBQkJhekRrVEtic185Tm5KRUdmQzFvM1QyZ25hWExSN2c3NFNySHZNRm1uYUVhYnVjRWJjSUNWeGR1WFVPejVtMU9fZTI4all4ekt1ZmFMZEoyd21aV3VHNXpUVnk4RWZ2Nmt5R3VPV1ExTFlKc0ZXVFBpWlE1RVFhbl9pa0U?oc=5",
+      "source": "香港01",
+      "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]
 }
