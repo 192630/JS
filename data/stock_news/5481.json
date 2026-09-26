@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-26T05:34:34.310253+08:00",
+  "updated_at": "2026-09-27T05:33:13.386758+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5481",
   "name": "新華",
   "count": 12,
   "news": [
+    {
+      "title": "新華絲路：看外國網紅如何「花式」玩轉黑龍江",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNMW1jbFJCMHdkSzdEbW1iYTY2b1RFZkExVGRmMmp4SnZ2dkF1T3RpNEphS3o3Rlhna0hlNTJNYlBxTVJEZUlHaUJRTkc2RW5UbHo2V1dGMEdGMXZZT2ZBQ094WUQzMWNmME9sOUVVX1MzVXJRejgwTTFzR0NoNFdIYjlPQ1p6VW9GWDVFVUlpeVktSDdRR2k3bERrTHZNbXY2TDJ0d3pya010cjdyYXVwdnBKYzR3ZWNtd3V1SjJsUmVQa2MxLWlFaGktcnYxWVpIRnpUN1VtM2wxWnU2dWMtVVpXUnBTRTU5X19iUm9CXzhYdWpMRjVsWkxZdTBVSkdhRVJQZGNiRWJOQ3N3RDVFRnJ4Yl9EZTc4eWRSckJ5YlpPak5XeENYVXhqc1dBX0JwZk44ekpJMA?oc=5",
+      "source": "香港財經時報HKBT",
+      "published_at": "2026-09-25T13:02:00+00:00"
+    },
     {
       "title": "新華通訊頻媒(00309)：邱伯瑜辭任獨立非執行董事 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tcmJMa0MwTzZsN2dKcU5Wdm9QaUEycUk0Q0hUZ0M3Sk1TVm9GRC1jV1hDMUpMLUc5QVVvYUU0WHBMOW1sdjBGa0RPTzNNS09UZzB6MTZIMHpFNEdYR3B3RzltQXc5M0JaaG1CYVNNbXI?oc=5",
@@ -36,12 +42,6 @@
       "published_at": "2026-09-24T11:55:03+00:00"
     },
     {
-      "title": "新華保險(01336.HK)獲摩根大通增持152.72萬股",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyUmVRTU9qeDJUMnplUVIwdk9PVlQzRm9xT2pWNjVQS2pPeTVKQ3lVY0lUM1R1V0JBYnh1cnItbTgzQmVRQTh2dEZRUTktcVRJNDl3cVc5V1NJcS03MDluYl9Wd0tnMFVabVE?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-23T13:37:56+00:00"
-    },
-    {
       "title": "新華(5481) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqZ01UbXBWaVVZMEpBdjFJTGVVbXBLRmRpdWNMdXFwTmNRc1NfNnlISk9TazVLMmpIczBMbVFxeTliQ2FiT0JsdnlJa3VVUG1ra3ln?oc=5",
       "source": "CMoney",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sanN3QzlTdkFzS2RwU0REWXpKTVFvTmNZRWczd2U2Vl9KN1lDcjR3TmJVOUtRbVpEWDdCX1AyTjR1Y09EV0pPM1lQaXBMQlh5UGx0S0cxZVpmZmZLNjhIZVRMSFFyMVRUcmg2emROWGo?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-22T12:32:42+00:00"
-    },
-    {
-      "title": "山東新華製藥股份(00719)：A股股票交易異常波動前期披露的信息不存在需要更正、補充之處作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZThGUVJ2NVBhVklYeW1fMVprQzAyUUZCbnVvVUxOdkpRZmZxS0E0U1hIZFR6Q3JiRUtMYktPeE5BaEdUMnFoZENjcU5QYTcxdm10eDBWT3ZTNGNscEs2U1pGci11cEdMOXp4MTJaYzI?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-22T10:42:41+00:00"
     },
     {
       "title": "山東新華製藥股份(00719) 海外監管公告-其他",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajNSZzNHeVBIZll3eVNKdHNrSHlNQWFqeEF6YXRMTWJrMDhCbGxJcUwwMmh4NXljU1AtZWs3cWxSQjd2bEhzczdTdWZxdXVSaHF1V3VOREdqc3pkZ1JtVlVWc1RWTmJaSkhqN01fVGRIT0hFOXN4NWVXMXdVY1RYRUxaVnYyWkw4T2FNaEk0eDF5U2xYTG9HY0F3TEVHSEhYT3JMemxNNkRrM2lWTWFBWXlMcw?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-21T16:17:17+00:00"
+    },
+    {
+      "title": "新華聯合投資(08159)建議股份20合1",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaE82MUE4djd0WDdjNTBNYkJXbE5kREl0WVVuaUphNjhxbTdnY2JOdkpmMnlxQl9tSXk4Qjd5aTg0ZGxoSDEwbW9RR3hCWUtieFR4MFVHQzRKLVd6UGQ5SHJRblRGRC01S1RGQ3NfTXE4ZjNFMVF6X1NEeVVDdlU4T2IxbUZ0MGFCT2VlSUhBeVRDYUZYTUI4bWZURGZDNFVCcnNGOHc2UG9QN2VOZzAtUVFmX0lsa0V6VVVwcDBvckhEM3MzYkM2TXEtd2ZJVk5tY3R0UEh6ZzNHOXRIeTN3aWlVTVZZUDJNd2pLbzh0VQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-21T15:16:53+00:00"
     }
   ]
 }
