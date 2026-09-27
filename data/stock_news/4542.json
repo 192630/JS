@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-27T02:36:59.701886+08:00",
+  "updated_at": "2026-09-28T03:32:22.623262+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4542",
   "name": "科嶠",
-  "count": 12,
+  "count": 10,
   "news": [
+    {
+      "title": "焦點股》科嶠：攜手Brooks 股價強漲",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tcTQwOXlsNkJtZml6ejV0SU45Qm5Xa1ladVpUOXN4SnFPanA0VEhnVU95aDZCemE1WHRlcGEtSnhYSzFRVHNLQlEzSDhjeXFadC1WcDFaX3I?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-26T10:09:22+00:00"
+    },
     {
       "title": "【10:32 即時新聞】科嶠(4542)股價走強 聚焦自動化設備成長動能",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13aWFMZV9ERVNuTmdDcXc2UExUMjZZLTItUlRGZlhJNUV1TnNOckpZTHZrd1hPOEVZbnpqV1dZZkVZNTRLUnN2VGxkekQyUVVYQjdpSGhPbDM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-24T02:32:56+00:00"
-    },
-    {
-      "title": "焦點股》科嶠：攜手Brooks 股價強漲",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tcTQwOXlsNkJtZml6ejV0SU45Qm5Xa1ladVpUOXN4SnFPanA0VEhnVU95aDZCemE1WHRlcGEtSnhYSzFRVHNLQlEzSDhjeXFadC1WcDFaX3I?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-22T09:52:15+00:00"
     },
     {
       "title": "4542 科嶠 - 明天會再漲停真期待 - 股市爆料同學會",
@@ -32,7 +32,7 @@
     {
       "title": "【09:24 即時新聞】科嶠(4542)亮燈漲停，短線多方買盤急攻",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1VaODhqNGdDR1k0SUlnVHU1bm5nRjYzREk3eWxrSzlUNTlRaG5vXzV4NllVeEZDU0FiTEZobG5vLVpVX3M4QlVzWTM1dW1JM3gtNUNlaTRKc2xCdHhPaW15c3ZocklEV2JZVGZOUGhEVVFFaVZER05MVDJndFhYQWM1RU9zSXZMTzFyYy1n?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-22T01:25:07+00:00"
     },
     {
@@ -48,18 +48,6 @@
       "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
-      "title": "4542 科嶠- 科嶠雙引擎成長加持營運升溫- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfZ2l0Q3AzR0J3eDZuRXBoMjgtR255bDdoNGN0TWNDRXlxZnliQ1QxOExPZWZKNmFwRXE2RWRHaFV3TThmd05zMHdIbUo2UEpPb3FWT3Qyajk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T06:18:30+00:00"
-    },
-    {
-      "title": "4542 科嶠 - 哈哈大賺特賺 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQ1Jsa1pTdG81aHIwajc3N0htbEJheDIwUkFLOFlwakYwSDVRRFBsZG1jOWl1NC1YMFYxYVhlLU5MbWVGMExUOFEwQ1NYUGpVbzU0Tk5zV3E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T02:09:55+00:00"
-    },
-    {
       "title": "飆股幕後》國際大廠授權案進補 科嶠飆天價 月漲1.42倍",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tdjN1d0QwVE9uZmh5VzkzOEJLQTU5OHNCczFsWTQ1MVJHanE0bUVzWHVFTVBCT0t5dWdkZkdHcFA0LXRyazlob3BpZ1dsaXpOb0E2TGRPSEI?oc=5",
       "source": "自由時報",
@@ -68,13 +56,13 @@
     {
       "title": "【10:46 即時新聞】科嶠(4542)股價上漲7.85%、報價316元，AI半導體裝置授權題材推升買盤＋短線突破300元心態關卡引動軋空力道",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVk1CZXhWYVVKS0dhQkRBUjlieEYzWmZaNlJuTC1GQ0ljS0c1dGxla2YzcDNmYVZVNUd0LTVtREZLWGJzaXZJbWt6RENkbHhnaVpReTBpbEdfbGsybk9YczZ0SUZpWGRrQk9NZGVCRGNUeWVkUmI3SlYzc3VPbzB1U3VDcHZ3Z0R5am5ENEhB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "【12:14 即時新聞】科嶠(4542)股價走強近4%，AI半導體載具清洗與營收高成長加持、多頭格局續維持",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWUNCb1d0RHBfTVBPZTZkYklCaGtpYUxPbUhuUmR4c2ZnT1RNLTluZlRVN2Vzc3ZuOEVzQjlLTm41UkdrQkZ0U0w2TTRDcmdjYTRkdE5QRThBWWZacDNjZGtveFN0MzNEcko4andXX1RiTUFxUGtzNTJFXzJmSmQ3S2tKZU4yTzJ3YnNYMklR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
