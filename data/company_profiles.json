@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-21T06:42:56.059100+08:00",
+  "updated_at": "2026-09-28T06:44:31.229763+08:00",
   "source": "TWSE OpenAPI / TPEx OpenAPI",
-  "count": 1986,
+  "count": 1988,
   "sources": [
     {
       "market": "上市",
       "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
-      "count": 1094
+      "count": 1095
     },
     {
       "market": "上櫃",
       "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "count": 892
+      "count": 893
     }
   ],
   "profiles": {
@@ -12781,6 +12781,19 @@
       "phone": "02-27856892",
       "website": ""
     },
+    "7812": {
+      "code": "7812",
+      "market": "上市",
+      "company_name": "稜研科技股份有限公司",
+      "short_name": "稜研科技*-創",
+      "industry_code": "27",
+      "industry": "通信網路業",
+      "founded_date": "2014-09-22",
+      "listed_date": "2026-09-22",
+      "address": "新北市板橋區遠東路3號3樓",
+      "phone": "02-82269168",
+      "website": ""
+    },
     "7818": {
       "code": "7818",
       "market": "上市",
@@ -24314,6 +24327,19 @@
     },
     "7842": {
       "code": "7842",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
+    "7856": {
+      "code": "7856",
       "market": "上櫃",
       "company_name": "",
       "short_name": "",
