@@ -1,69 +1,21 @@
 {
-  "updated_at": "2026-09-26T15:33:34.004254+08:00",
+  "updated_at": "2026-09-27T15:34:08.298428+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0056",
   "name": "元大高股息",
-  "count": 12,
+  "count": 4,
   "news": [
     {
-      "title": "元大高股息(0056) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUclNKaHBtTmlhUkpJSzUzZEJSQUM0UDlvS2p3Q2RWdldoeVJXN1M5TnF4OEN5SUV6NHBvTkNaOUVERDM4dU5kSW50Nk9JaU5LT0RB?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-25T23:57:21+00:00"
-    },
-    {
-      "title": "0050、0056及006208同步股息入帳 挹注多頭資金活水",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SjVHbTRtX2t1cVdWYUF2aEplbm1wRmVIMTBkVVYyVFpIWU9xM2NxYUU2RkZsLXEwN2d3Z182OW1ZZ1ktdy1SaExuWG1uNmhHalg1T2FFNURfQdIBX0FVX3lxTE5iTHJYTk1TTnNXWWZkcGRqbjMxeEV1VGxidk5aV1hJR0IzUk10Sml6WEpWR1psM1VYU0VCYlNhdWJYU0t0N0F3dnBFendZd0wwcnZKY1RzOEV5UVVGaDRZ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-24T09:00:00+00:00"
-    },
-    {
-      "title": "0050、0056換股後 由這幾檔千億元等級 ETF 接棒演出",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3SzF2YkN1V18wT0tSQ2VYUElDVkxUSktnajBjSGs5YlN0cDRtVEd5eUh5cHM1S2NZUTU2OVJ5empDNnZocEc3aGF4MnpLc29DZURSUUVtVDhvZ9IBX0FVX3lxTE1ndlFDU1hVVWFmRGxYUmV3bDM0MDJLamFPTGIxYWFIYUZfcHFRaXk3a00tazRwTkFHZ1Jla0V1czlnTk1RY0E4OVVKZ0lzdDJkUFNQNmRPdVM0WF9UM0J3?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-23T09:00:00+00:00"
-    },
-    {
-      "title": "存滿1千萬0056可以躺平退休？回測上市18年走勢30種情境裡11種遇破產| 存股族愛ETF | 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MaFFIVks3ekEtN2w1RXJ3Q0x6US1JRlFLVUF3cGstVDFWNUhKZnFiME42MnFBZGRQTmRpSHhja29iOTJVWExybUFUSUMwVFpaYkc4?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-23T03:20:03+00:00"
-    },
-    {
-      "title": "台股都要衝5萬點誰還買房？專家點「200萬槓桿效應」：0056配再多也輸這點",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSmJpdVhtRmI0UGhCWlFQNGdBU2ptUFhLblYyaGplaUp3elFwMjVsX19yUzdHM1hWUjZGX2lKUEZuWmlSV2VZSTNsbkQ2TE1CSmdPWWoxWXZMVC1y0gFiQVVfeXFMTWZweWlOaFM2OHYzVG13eXVVZ1ZNR0pIRjhIU20ySjZqcXY5V2FqZ3RKOHl5Tll1Szd1Sm5pZjNOTnNuV3pqN2xpUHk0UFNrR0pTM1k0Qkc1S3NCUlRFS1Y0Vmc?oc=5",
-      "source": "udn房地產",
-      "published_at": "2026-09-22T07:47:46+00:00"
-    },
-    {
-      "title": "〈台股盤前要聞〉聯茂爆3.19億元違約交割今年上市櫃單次最高、0056規模突破8000億元",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxQU1CY0Q0T203ZDMwM3lPTG9VcHVvT2c5c0xVV29JbnlHMVNFZEZvSGRKYW9UTmNwX3ljYkJxU0ZUQXozb1Z4M3B6alN2OUU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-22T02:14:49+00:00"
-    },
-    {
-      "title": "退休後靠哪檔ETF過生活？施昇輝秒選0056 原因曝光 | 財經 | CTWANT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PTXhMOF9PcjNnSHBJLW9TWlZMdlBZaWJ6alpwR0NHVzhRUmViZ1ozM1F2a0kwSmdTU2xkSnVzdTVBQUdvak9QTllaYkc2eGPSAVRBVV95cUxPNHhEWkFmUTJ0VFNXc1ZaWXNmQk9xVnJ3ZWhsZHlHWEhWZWkwYzhSNWxsNnJDR0lGaEd5dkJyd0x3eVNvcGJHeGNWUXJIaVo0WTZwQzA?oc=5",
-      "source": "CTWANT",
-      "published_at": "2026-09-21T23:18:33+00:00"
-    },
-    {
-      "title": "3年績效1表比》0056、00878、00919...高股息3王誰比較適合長期投資？內行親揭「套娃存股法」：我自己就這樣做- 基金",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ha2xodVVhd29rRDRkOFRGMU5QcmFCOTNFa1B6elVWRG1OdW1fOUJlMk41ZTczSFdnYlhMMzJQc0x4YUlzb1huU2NkT2lHcld5VDQxMm5ZaXpUNmRBY1VMOWtaS21BZHFLYnc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-21T21:23:15+00:00"
-    },
-    {
-      "title": "有望成下個兆元ETF！0056規模破8000億 創高股息新猷",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5TDhhVGRxNkN4bGI5TFNyTm9vdEVFYlFmeG9oS2ZkdmUwZ3pBSDVXSWJabmRwd1lMNW9iOXl2VlYxdTlqN0h6Ym9nQ0JOZ2s?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-09-21T07:02:00+00:00"
+      "title": "元大高股息(0056)持股明細總覽",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZlF1cHAxS1F4ZDlBaDFsVUVJQ3VqdkdIcW44eFhwMmFEYXBUN2ZLX1k0VU9PVnZ0U09pMWlIb1ZiQ0t4bFNEOFJ4OGdqdU1qallGTWJwOXlldw?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-24T07:00:00+00:00"
     },
     {
       "title": "元大高股息(0056)ETF股票型基金的基本資料",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DS0dlTHROZkJVNDFmamk3azdpVkJxc0RRdDJhQlo0WU1CMVpwZ3JRc2ROUDJFTGRBZXQ4T19nZkttQXYyS2FGaVExbmRCcjlFSWc?oc=5",
       "source": "pocket.tw",
-      "published_at": "2026-09-21T07:00:00+00:00"
+      "published_at": "2026-09-24T07:00:00+00:00"
     },
     {
       "title": "元大高股息 0056",
@@ -72,10 +24,10 @@
       "published_at": "2026-09-21T07:00:00+00:00"
     },
     {
-      "title": "高股息第一檔！0056規模突破8000億元 締造新里程碑",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfakY0ZWRWdGxpU3JWTUpDMm1JTUl0WUpaUG5JZDZiRkpsUWs5cS1iNWN0QVZiaW1uSnZLblZvY3ZvaXhQWlc5SVp3WkJXOW8?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-21T05:39:29+00:00"
+      "title": "0056 元大高股息- 可能很多人都沒發現，當AI進入休息階段，金融股默默啟動近10... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43YUtVU0tiSUtzTmo3TVlER2tkUDRYYTllWU5wWVNQVktfSDQyTUdNbEZFUl8zai1lTDd3bkNMWUY1TUdzcFh1N0x6MWZWR1Q4bWhfemJZYmk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }
