@@ -1,81 +1,15 @@
 {
-  "updated_at": "2026-09-26T18:33:59.029619+08:00",
+  "updated_at": "2026-09-27T18:34:08.221212+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2028",
   "name": "威致",
-  "count": 12,
+  "count": 1,
   "news": [
     {
-      "title": "中國同意在2027年及2028年各購買1,000萬噸美國煤炭",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZXhfZVVLVTZqY3FMS2tSeHQxVkZEQzZ6NzB0TlpTeHdtZzNrWGozR3dvcG5YWGtGa2ZrRjZBVHFXdkJyaUhkc3hOUU5hc2hJbGVfLXk2SDROQnpmNmtib19MWkt3d2xldlVKR1oydG5rQTRHVDRMb1lRY3hzMkdYa0NQZGhFMll6aDdhRmtNQzM5dmI5S2ZXZWlJVWoxWVRsUE0zd0w1OUM4UkU4cFRKN0FtMXh0TVBEaUNRM2IwLUVxZnRVaHNvcnR0aU4yeTMyTXhOQkloelh0S0FwQjlLb0VqSFNYSk5PcUlscVViTFUtZDd4eEVGSjRhSHRhN1hYZTVnc2VMdlhJM0JCelZvSmpSdTdDZUVuVDRYV3RCMF9fUkQ5ZkhBZk9hOUt1Y21uZ2F6TFd5b2V3Tnc?oc=5",
-      "source": "hk.finance.yahoo.com",
-      "published_at": "2026-09-26T07:57:23+00:00"
-    },
-    {
-      "title": "星巴克大揮刀！宣布北美「關250家店」 喊2028前砍636億支出",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPYi1MNlBWTmlUX0o2UGZTX0pERDhOZUd2T01Vd0dNQ1kwaFZ3dmJEUlhncUFzaDVVejRRa3hFVXpHQUhJVkxlLXZ6dUFKbGcyMXF0QzVrNTgtQnBIQTZHTlV0UUFWd3RVQnFYNEYxWlhVUWxDRVFYamNTVWhyZU5WWlBJRnNjajJuRXkzaEE4MzctbEl4NDY1Ynl5ZzVLR1FKd3Q5ckVlV013TS1vbTlCQWUxVno5NF9ycUEzWE9ncW9CV0ZWV0lIWFJuZHBTQTF6bDh3UjJZUEFmTmdSRTZEd2c2SUNlUEROcklBSjZ5VlRJNDQwanE4SUNRSUpydlVWUWNpSnVkeVNOSkMzaTY3SWVWRWVTcWZoMXJIWnRWclo3Q2dFZzlNcDNWUVh2WkpVcjdTU1FrcWJTVzU4c0ZsbHFIWC1GRGdM?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-25T13:25:00+00:00"
-    },
-    {
-      "title": "矽光子訂單滿到2028年！「矽晶圓大廠」連拔3根漲停創高 Q3漲價下半年營運更強",
-      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOZnBMOXhKdFp3cFpHamNWWlNEUGp5MkhORlBYeElGWkJsem5jZlRNcWFFYnRkSHY1T1VEOFdpdjNiVG9NYjZELVkyZ1p3bldjaGpwNWo3UkZ6T1QwNUNDS2NDa04xN1dYYk9QNW83S21JNm1wUFljRHFxcjZBZU9kQW9HbDJJRjYyT0pDZFEyNTRmU3VsSEJRb2FYellvZmFLT3ZsNVhJMjFKVm9rWkdjclAwaHh3VmpfMkgybnhGZE1kbEFlb3J0MFk3MEU5aFZ4dEpKekEwekUxREI2a1hxMFNyWXFUYUg1TGhlYmhzT0hBS3JyVFdkamF1Nm5BVmpIMUVJZ3c0R01fSnZOR1BQbVlORlppYVJIUXlTSzBrd1lQZldDZkZfYnlXQnk4b1M4WC0ycjI3SmJVbjZJTkVZWkF6SktpR2daRkZBem4yMjh6TklLRDRmZkIzdmFDVnJZdWdESWNyT0tMd2Z3ajlIdHRMZUxQRHV4a0tnaVJvVXRTT0RISF9ubEszOUtUVWNlYVpVZWdFcUE4UDBKVjlyUDJpXzI3THhqRWYzVnNnV1drcjdmNXcyY1AzS28wT3dCZlJ5bA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "title": "藍營再不回神反守為攻 學者示警：2028也不用想太多了",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcUxlWVNsclA5d3ZTdDB1cWxFamVDSFI4RDZDQVpzWmlqa2hCSklUVUhfWE1RSy1ubmNrMmFXZkRnYkVfd1RMQVprYjFpeDBFaVlxTUlUNDlKYmMtTjNoQnNTZEZaUV93VmQzY1Zyd1o1NGhEczhNR0ktb0tDeWZrWXJFZ0hTT0lBWkQ4ZVV3Z05kbGRPSXIwek1OVGFKSjZRMTR1dEc2bDhVS2c0bnBUQTQ2Wlc4N0RLaFpHM1hYaElLNGJrZ0tUSjFDSGVxWWYzUHNQa2ZUdEN2Ujgta2xDTHh4dm9Sc1JSUkhHVG9hVm1OVk1hcml3UENSbHVoMG1aWDNVQ0IzSFNNNWQ2ckJZZ0cyR1pPekplSXFXYTZ2dmxwXzFnc3phS3N5RFlFSEFLUGwxRlU3VC10NTA2TUQ1RzIzSzZRdVgzSmtHbVJmMl91dXM0Vmww?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-25T03:15:50+00:00"
-    },
-    {
-      "title": "傳美方猛提盧秀燕選2028？吳子嘉噴爆：沒出息國民黨幹的事",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQNmVnUnZfd2tMVmtwZ3NMSWZwZndHQUNLV1lPb2Uza2x3RVJ6dXdEakNBOXp4NGlkSGN2MDFiNko5UU40NFd0S3FlRWVvWTU1QnN0U0xLMTZaQWNCb2d6MHNaSnp5VGpqM3FBUllrOEhwMG80ZkZ0azVZeUZGdVc4MG4wNWFjZFRQekpyRjVYdlVQV1Vqd21PZERmN1FsNl96UEotLW9mZS1NejRCd20tSWY5di1Td2dETGhhOWNGVWRwa3RVT0NRQjlJamJZbFB3TTBVODBrYklScWdWcWdHQktXeHp1QmV2REpTR3RhQVJPUl9MYWVVMzNOMTI1Q0JOdjgzakRYMW9TLUhrMnFpWlJvNUZXWGI1UExJd2hzd2NnMVBvZWI3THJiLTV2cS1JVkxXUlVEYkJzdTVPYlFvcWZZRUdYODVQeDlnd2t3bHVvS3k0d0M0d3pXWGt6OUMxdVVXNEVkX2F3cjBWUGVJ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-25T01:07:28+00:00"
-    },
-    {
-      "title": "藍營再不回神「2028也不用想太多了」學者拋反守為攻3關鍵戰略",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQT0FwVzNKUE5PT0VSV2J5WXNFQjBfejZKdGs5dkwxbFZpZVdRdzR1ekpvS1BMT1ZUWEFHYTRyY3FrRmJZX0xQWmxLQ2g3NkpjWGl1TFdmY0I3THc5d3NYNW1tdVBEcTJCWWtJYUNGNlZPWXpFaEVuYnQxSFd1RFFwQ18tZ19pSmhCZFA0ZGZyNnNIb212LTUwbVN0cW9tX0dOb0Zkc1BCcUJCWGFRSC0tajFiX3RobUR6UGU2QTVsckJsVXpPNXRsXzZlY19EeC1iTGtaNGN1NndQWFhEMXhTbnFrMTV1OXFJWkdoaWwyTm5ZMVpiRkh4ZEg2T3ZSUjh3Q3RkZk1jbEFUMkFwUVlVT3o2V1o3NU81djVmRThJLXY2UHNIODBWSVFRUWtoVEJiaU1namNmUzlvanZJOFdoZnd3aVFibzRXUlc0Y1IzMnZ3UTZReURBckdEYTJrY2pma2lXUmRTRWl6Tm16dFZHU2FKUU9KWFdtUWhlcg?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-24T23:53:15+00:00"
-    },
-    {
-      "title": "VRT Dec 2028 200.000 put (VRT281215P00200000) 互動股市圖表",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XRHctMGdaMFRHYjlFeFpMVFJHaUZZQ3NyREVGdWU4MEZ4Z0EtVnBPWDZPZXZZWmRHZWJ1SGlrbXExcHBfMlRIeTdEZVlQVGhkQ1VFRmdfRWZ4LTdCYnBwM3NQbDQ2OXpCcTc3RA?oc=5",
-      "source": "hk.finance.yahoo.com",
-      "published_at": "2026-09-24T04:28:13+00:00"
-    },
-    {
-      "title": "民調追上蔣萬安？議員揶揄沈伯洋：直攻2028",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaUhWMEtncmxtNE1VbThrZjQwcWJkQkk0R0dPWGw1aU4yTVh2anBPQkF2MTNOZE12YTg3bW1BZW1vSlhDTEFfVFBHTUtJRFhLemdIUERsSWwyQVVqemxPQXJpM0VmZWRMN1pNMTlQMFhRZzN4dTdJUXhqSVNCdS1OaklzQklzeGpYM0oxS3RZd20yTUJzWVJLSS1aLXo4RUJINFJUSXJ0R3ZhRFpIRTk2Z3VlNjFCYmJwekwxcXFOckNRdkpoVEdGYXFVY0h6QTRRbTZCeGdlUmI3XzllVDR6XzNybHppRE1TSWo2X3cyLW1IVEtSMkdyVy1qWndDNjNWZW5oNFNCSk12N0ZQNjIwcnBDZ3E3M1FlUlcw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T14:57:01+00:00"
-    },
-    {
-      "title": "沈伯洋步步進逼！他斷言：蔣萬安沒有2028了",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa2FiaGZoQTNjNzBDR2JJaHlJZ3B1bGs5MFZILTNBV2w4Y0FQN0xTQkNta3JqeEtqd3ppRWZUVUxPZlRQQmh0NW9fU2c1cFQ5TjByR2VlamNjakVSWUhhMzdHYnB0cjlrRHg5dmd1MU9GV2VXWTJaNGZPNmFnZXE4aHlRZDFHVHpvYkgzemRaenFTd2h0N2xtMHVZTDlKMkx2eF95ZE1haW5KYXJFNGJxRFhFRTVrSVRDR1FLbk9vSVg1QkRwZWdFMm9QYjVIeVVmOEJOX2Z3NDhHdkFTUmFoQmFfRGpPZ1JTbmYxZzFUX21yNEV6TGVVMXR4SEdFM0RKQzZDbGdrbGNBV29hdC05X29aVm1GR0xoTmNV?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T13:34:00+00:00"
-    },
-    {
-      "title": "外資喊ABF供需缺口逐年擴大到2028 欣興領軍載板三雄強勢攻漲停",
-      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPbUZmY0traHBRdzdBQnZzS3lMdGJHTmc5ZmNXRThHXzRJNlJpd2ZuSHQzTmJILTFhNU1pSV9RY1hwRjNTRjlPQ1J5b2hhSVFNRWp1eDk3ZTlHM1BtZWRrUzdVcHM2OXk4T1E0RmpJU3cyVjNWUk5JdlBYTDMzbENVRTdtR0lsN3JOb2IzZGFhVThPeTBLWHA5OVBaNF9oM1dvZkpiR3QxSkhsVXdhclVjbWppaDNSVEsyY0x3LTl0Q3hiTmw0TjNnOHN0UWhDX0h4bzdHTnY2bk13eW5LWk9XSGdveGJOZ0NYblNoY0std2RwejBDa2tlMG5aSV9KR18xdE5SQW1PZTdSY2xNekRaS1VZSUFMLUtrQndTNnFsb3BnbTVjN3YxZ2dGUERXOThyeXM3ZTlrbUVTWFFQRXhmNUdQX3dwaFMyVDdoY29OTm1qajNNTnJWdkNWRzV1MWtWLTc0amVGdF8weUJxWG9BVFk4NUE3RXBjbUFqbkUxdnloNmttTllBbEFUVVdIbTduLXc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-22T04:23:02+00:00"
-    },
-    {
-      "title": "美國無力保台了？蘇起：2028成習近平關口",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSEJyQVJuYVhfVENERkd4WU1hdEplMWhlSlAyOU1fQkpHQkxNNE1QeXdZNEc3bGxlSlJZLS1RS0RhaDFZMFRYNVJsOUVEUm5LT293bWxQaHg0R0d2bzN0QVg1S3pYbjV0SzlidWxHbWxYSmlaUEtKc3Z2MFZXWEk3YWJHMGFRaTZMNGhWLWJ5amtDc1puaW9ONlVTb3hzbEZiTmpmR2NoTWV0U0FLWlQ5bk53bjVHRmNjQmtRZFV2YUFzQVJoOUl1VUZpaUs1dlU3eEswMHJ2aThhTGRrQ3RiMWVfUTJVdXQtdmVXanNhcTRBZ2xCZzE4aHE0ZHc1akc3anEtV3VoWG0waGFlWV9B?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-19T13:46:31+00:00"
-    },
-    {
-      "title": "Madison Energy 擴展分散式能源版圖 目標 2028 年新增 1GW 裝置容量",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWUdqWWZQX2MycWxKc3N2UkMyNnBrS254TGYtZnFydm9LSHFXb0xRZFdmaEpSak95ZlRsMF91NGZ3eThwczQ3Mm42bTZmX3A3X2x5ZWd2a2FqX3JmUm5TaWhwNGw3QWY3ZkxPR3lKR1lWa2VIdzNkMTBIcVZ3eE9lWGEtSloxenpkOTZjdHczbVNqQmlzeEVJcUJ6SFRrdk9tV1VsbnNKbFFScEo4My1GSDZySE5vSWMxMGNGVVpiOUJfWDZZNGotTENTU1BJZndaU09TMG1Remt0UWdRbVBTNjBtdlkxbDJvRUFYNnkxdEI0aTBmckZvdjNKcw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-19T12:41:54+00:00"
+      "title": "威致(2028) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12emx1X2VORlFXRjh1SlBtS2g3UkNrdGpHRGs0VDAxV0ZOLUZpVDVQUHVaZ1VxQ2N2bnhUNm82YTVqMVNhTENzYndqVVNFbi1PdkVz?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T05:47:28+00:00"
     }
   ]
 }
