@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-26T23:35:27.514721+08:00",
+  "updated_at": "2026-09-27T23:34:20.555372+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3191",
   "name": "雲嘉南",
-  "count": 12,
+  "count": 9,
   "news": [
+    {
+      "title": "從雲嘉南走向世界20歲電氣裝配國手紀軍焱出戰國際技能競賽- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CNTFLM1dJZnkyYndXRmFvVlh0ZjhEeEVPMEpLeS0zYlFsbG1IdlI3YWtBX0g0NWpJY3hDQkhwZE5lSkh5bzZ2amprYWtRMXpIZWpNWko2ZGU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T08:42:52+00:00"
+    },
     {
       "title": "從雲嘉南走向世界 勞動部南分署培訓國手出征上海 挑戰國際技能競賽",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRV1VfMzVsdUdYMzlqbUxlajRjUlZLY2VJNWNuQ2RYT0VCTmRJSFZHQ3JyZ29EYW5KSGhUNHB4WFFBc3d3NERNUW5NQUVnNmh2eDkwV25DenppbEJnbWtCS0NsVF9md3VsRTlINVNTZw?oc=5",
@@ -18,16 +24,10 @@
       "published_at": "2026-09-22T06:17:50+00:00"
     },
     {
-      "title": "從偏鄉交通到兒童福利 劉建國赴台南取經推雲嘉南合作",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxORzFvRU9NYW5SSzdpVEZsOHZBS0xrOVVRdHRhbEpLYXMyQlM2bjU2M3ktaUFFbGpkMVZOdWU5bUJ1dnRCVEZBci1ZamlaWFpmamJxRFRGRnRCaG5XRGFOR09NWkFsV1ZoXy1vN0RmNzhKV2szajFUTDQxQkJ0a0xMUG9PV1BuWEo4OG5wUXd5bmUtLU5yQWpYR21RZ1V5YjJTNnRFd3BDQWdtQk10NC1xVjY0RGN3eDk0WHZYQmRjMDhsUE5SY2VmQVBoRERhbGstTnJIT1BHbnJSdGRxSDBhVXFCTVh4ZUhYWl9weGI0RU5mZjF6NmRQSnN2QzJlUEpsT2xmbzk5ekJMc3ZselBJdGE2V1FMMEthUXdFNklFdHhiakhGMzQ1LTZRRWY2TGI0Umo1b3ZydFF3TTZMbThXeGc1WnNFeDBFYS02bzc1ejBMeHNKTURGWDUwd2Q4Wk42MXMzU1dFT2RkNEJfeDBQYmhlc0M?oc=5",
+      "title": "張麗善帶你去浪漫一下32公里「浪漫玩騎雲嘉南」首站雲林登場騎進三條崙黑森林感受海線國際魅力",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPRFY4d1p0LWIzZ2U2bHVON1VkWHBtU3MwMmZsaUo1dWJ5dnlWNDF2X0RtZjYwbFp2OEhZSkxKRTVSdVYzQVFIczQ0TDdJdm5wenVjc1RwWWlaMUNYMGxyMmk2M0ZtMzJ2TmNMZXdIdC1kTWptWUFfVVd0bThyTlVTSjRqTUQwLUZPc2l2RFhmYVJsTENIcUlkT2VFY01fMmJMR2tXNWxtTEFmRGpFLVZYUHZyTk80ODhibzhaLWJkR3ZwR3dCQkZueGEzeHRBM2xYM2VEOWV4ekpUT0FWUWNyenp0QmdlbnJ0LTgyWlRrTmVZVnBWZzQ4TGMtQVNuLXE5QXh4NWRPeEt1WURkVkUzM0ZXakxtdG53Q1pkMlJRTmt1NlpDa3IyYm5majJNTjk1RGR1WWlEMkkzWWtuaVpPaTRzNnU2N0RKMnE3MTE5UWtEV1hINVAxS0hvYmZKZjZJXzNmR2sxcVpwTHpXZ3JPbkNxX09FcmRNSUNv?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-18T05:01:29+00:00"
-    },
-    {
-      "title": "2026鯤鯓王平安鹽祭 雲嘉南管理處徵護鹽騎士報名至9/30",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOMGZHYTVaaFViRGtRZFV6RXQwYXJjb3ZGWmxqMHhTMWl6MWtRbWVVMmN4R3lOMFhPdExha0pMa2pyTXlIa1YzVDB3QTJhV0ppZUwtZGdRQ05Rd0JNaXR4NXp5YlgtV2Q2R29Jbjl5Z3FaZVh0NlZsQzdLTTNFbkYwcExyY3ozUEQyTE4yWWxEWVpnWUgtYXB1ODE1YjBSYTIwT2pTX0d4OHdSV1M2MXpKVG1DRnBZSGw4S2ktTEo5V01XdHYtdXYyM2djSFNiREpqM0M4Rm1aZ0V1eGk4NjNUQUtxanVKTDJKZW5xNXZVaUd5bDIzSjlKRVl1TkE3TldoWXN4T09KOHliVFowRUxHNHp4SnlETmVRZkQxNDROc0lkcnNOU3lxMVhCbDVHRDk3UkFLSk00dmowWXNodTJZS3VpNnJJUFB5VlJPOEs1N0hvVTNyRHRtQ3Q5UQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-15T07:00:00+00:00"
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "勞動部雲嘉南分署虎尾就業中心首辦戶外大型徵才 31家企業釋出近1300個職缺",
@@ -36,46 +36,28 @@
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
-      "title": "「浪漫玩騎雲嘉南」首站雲林登場 騎進三條崙黑森林感受海線國際魅力",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPM1FEVU83T0NVMVJQQWlrVUZldnpkcmhhT2pvTGNoUk9YbE1JT1A5MVhjNzVNSWdILXNiNjRIcC1CbmtfX0xDRlEtd2lhS0JUc043elFMZ29GSjlBb0RuVVRNMGN3SDN3ZU5DWXJHWkYzT3VEUVk5cmJpYUQ4RWZmZU1CNFdqRjZJajUzMlZ4TFFpVVI1UU1Bc3ZERjNYazdSVWdrTENpUlBGQnF0a1E0WmdlNG1RSEpycGpBZ25aUkRNelJpdnEtaVdBRk1mOTJJbEppRXlPWUF6eXZOQjgybk91RU15Rnd1VF9sdl96TVZqWUVHempZSDRRc3hGdTZndmxFNnBvQ1pwMmhNc2dTcHZlOTB3S3M5TGhuTEZpbnFhQk1zclB2SWU5LUtGZE92eWdBZm5oMFd1b1ZkYTYxdHlaYUNpNktucnhwakU2aEJuTE01d3RyZ01KY1BYZjBFUl9HN0ZuT05KQ2tzQnpDSDhCTkhCT3RwbkRYWGFPeHcwN1hpaHdjYXpWNHZoNVlvSEtyRk81ZzFMUi1UOTR3OUI2QlA5b2k4QmIzZVpBaklzUQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "title": "雲嘉南分署大型徵才 開幕",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXRmdG5ya0VHR1c1dTlKT1VmNEEwQmt3S2hJV3JWYkJqSFVRVnBucjRTcDBoWnNsZTFLQ0E2YU5LNk1hWHlxOVVhYXpjWVpjLXhaMDI2bzJKUDRtN2tIS0ZFZjBzaHBsV0tTZkI3ckF2M21jN0pobjJCVUZxbnNuclJ5aFMzVkZzWWt4aXFCcS10Z1lJWExXVUJ6bmxfcmtqXy1mSHoxMEpING5hc1JKVUhNdkZsaXJfM1pFWUd3Z254TldYNUtDNmw2QWdjUFFKUjgwT2o0STI?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "title": "張麗善帶你去浪漫一下32公里「浪漫玩騎雲嘉南」首站雲林登場騎進三條崙黑森林感受海線國際魅力",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPRFY4d1p0LWIzZ2U2bHVON1VkWHBtU3MwMmZsaUo1dWJ5dnlWNDF2X0RtZjYwbFp2OEhZSkxKRTVSdVYzQVFIczQ0TDdJdm5wenVjc1RwWWlaMUNYMGxyMmk2M0ZtMzJ2TmNMZXdIdC1kTWptWUFfVVd0bThyTlVTSjRqTUQwLUZPc2l2RFhmYVJsTENIcUlkT2VFY01fMmJMR2tXNWxtTEFmRGpFLVZYUHZyTk80ODhibzhaLWJkR3ZwR3dCQkZueGEzeHRBM2xYM2VEOWV4ekpUT0FWUWNyenp0QmdlbnJ0LTgyWlRrTmVZVnBWZzQ4TGMtQVNuLXE5QXh4NWRPeEt1WURkVkUzM0ZXakxtdG53Q1pkMlJRTmt1NlpDa3IyYm5majJNTjk1RGR1WWlEMkkzWWtuaVpPaTRzNnU2N0RKMnE3MTE5UWtEV1hINVAxS0hvYmZKZjZJXzNmR2sxcVpwTHpXZ3JPbkNxX09FcmRNSUNv?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "title": "雲嘉南首家 新樓電子處方箋上線",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMFRvR1pQVjFVSVpiUW5ZdnNncFdCUU45X0xic01uUUJkYnZaR2dVMFVBbnd3OEtYNjZzSFJWZHVwVnhtaHlkbUttdEZjcDl3OUd1QThWOUxrRWpzZkxJZ3djY2gxVEkyMnFwNjdIRmJmNDNXQmhPVkxsbWRwcTdZOUpWOXlCbTFjYjZQdXhYWUlSaTNXQWVtMXFFMHl2ZV9BRVhtVVJqbEtiS3JQQ2RXTXQxN3YydEhWVXY5SmNJYjV6TVNUc1U4N005RTFwSUNJelBiZnBrc1pmZVFpOXpFZFF3OVJjdzlmMHdaV2hmUE1qTmM5VExHSmpHcWI?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "雲嘉南首家！ 新樓醫院攜手健保署首上線「電子處方箋」手機掃碼就能領藥",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOVzlicG8yYnM3el9sbmgtRE1lY2dGOUFyWTJ3RWlfMy1WbXhGRWtDNjVRZnp6Zy1HRjYyVG1iN2oxMVM0b05aQVl6clhuRkN0ZWp6YklHRHpxUmlEZjJzWGtqMllYcTh1SWVsR0xJREFxV1d2VXZjSFlnUWEtSjlqTnA0dUVDdUR1SnFpY1ZTXzBfbVR4aGwyWnZaV2lpdHpKWjB0eWMzNmpmbUVWTGxlMzBQOC12Rjg2NjBQUnVEeDRwYjBWWG11eEZYU2NrWWZKNlk5bjZMQ1dMZ3U0eUFsaDdnYTlLX1gxbGdta3RLaUZ4OHVkWGFGd3M3aDkzd3Y0dmdxYjJOLWVQQnF2Wk13Vm9wVU5BenQ4dHpzMGR5ZzVzRm1ldUhVb1Q4ODE0cEhweEctTEZ6Tk9rMFdHdmRWREtEZ3lnWkw2M2RsaHE1UnpyVTU4M0VGVXVScGVlOFJPeTBNNU1pcG8yVnNlME1xZU5CVUhDeWlCRU1BR19vdnpJRFRWN2JKR2VuT3BYbmJmbF9Yd0lDcy0wRmFBajBHR2JVdUctdGxyTm96ZnVMQWIxTkZ0cktfVXRsd1EwdU0?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "雲嘉南分署辦大嘉義徵才",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2J2ZkRTa1BmQ1dkclYxQVdKWml6TFBQcGZpMkxMTk83YWUyWVg0WnRGdnN2RzJvRzVvaUhTeUdVU3dsaVJVUEp0cFJHOWxUWTNRRlVUQ2xESXh5NlB1T1FsVWNCMlYyNWFodVpreWRBTk4xVGgyMEtpeUFpdE5kVlVjRkVwdWhvdFJDeGhwTWVMZDhCUTlKdUQxNHAzbkRMa1NFRFBTbFRxY3VmaGUzN0ZEV3JhcEpPd3h0T2M0MFZsNkJ3T25HUUdWcllHM2VhSjY5ZEN2SQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
       "title": "婦女再就業獎勵遭冒用 雲嘉南分署澄清防詐騙",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPU2NHdVpsSlg2c3RZdzQwN2d4ZHpOVmxKUm93dy1ucjg2cm5wbWhIdlJncGY1TzM5bGVoU2pLOGQ1eGMyeE5COTEtMVBqV2M3OGQwSDMyWVd2TjlucHJobVlZMXpLRmJwbk4yYU9yYmZJNXpOQlFyOXRvaml5Mk9hTXoyWFZGM29kbm5ZRURSS2NKNndCZF9mVVNldldyZ2l0aFVub3kxdXFOM3c2MDRBLUFQYi1lc1hYTDVfYjB1ZkhVQ002d0t4cUJlWnRRdlhWNlNxSVV1aHNCbzJhZ25BSmpITm84NERTUHV4VERDNTBQN3Jqa0xjZldDNUtINWhZeU9QQXpSaEJ5SXhZWlQya0p3WWdvaHUwdUFKVFc5QXhlRUk1YnNvbWRDb1FONEdXWDBnTnZvWGRldWp3UlpROTJNS0c?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "連日雨害 雲嘉南牡蠣受損3成",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOelVNX2FrV1N3NmtraDg0R3FxTHh0RFkxYnBmZ0V0YmdvN3pvMTVrcU1Pd00yM1lmek5FTG5VeWhlZ01QZlNod3F2MVlySTloVFJKcHZ5SDlQR1F3ZUdHWklpOWJkZFRUNkZURXJRRU1xRm5hQTEyMjA2ZGt6OXVqRUg1WFFLSV9pV3I0ZzdwbE5vNTNVVWZpWUR0N0RiU0NkMVVsc0tzN1JqSDdKa0pleTB6bUtheklJZ3FYaU14T0ZfS2F1UDRBMmwtcGNBTDBFZVB0NGlpUHctVFRlMzdzaGRMeGxCQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "雲嘉南銀髮中心「職涯支持團體課程」 陪伴中高齡破除焦慮順利就業",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQYS1NdEhSbFJVeFlWNjdqR3VRTmpKZUZ3X24zcktscWFzem9xa2hPSXMxZllxSUR3NVczVTdUazREQ0JXbm1XaktxbUh3WmtuSl9WVHctbWVTbWk2TUxUUzhvQkk2cmlCZjFDdnVQQU95bmctd1hCVGtyZ0MySGw5UllRWXl1akVLdXZVUGJRRGluUkN6VW10SVJkblZoYmZjMnRrRm9BUHQySm9MRldrTmpyQWJYOGNuOVVvdm5HNFRXNEE0N2RhMDRvVXVJTG1URFRub0djMGoweDd6LVEwYUd1c21BdEQwT2ZBSzRZUUdFNkwxT25HVXlPbEhrejk4ZXhST1VpRU03MWNXV0FkZnFaYnJOSE42R3ZhSkV3aVZvODhId0xMbXVLRktISTJYMU15TEZHZF93akwzZlN4STFEM0FTcjV4UEFHNmItdld6aTNMckxaNU5KdTNBQmVZQWJWWGduanFVd0ZOaWtOUnFqbm42c0FxVjlEcm1HcERTZFFvSjZrQk5ObWxKZWM1MmJRWkFLMXdNYzFYeU5hbEI3MHFIQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "南市農友於雲嘉南區酪梨評鑑表現亮眼 勇奪冠、季軍及優等獎",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUEZqanNQckduSVhsNk8yeUl3WURia1l4cTNLdkpHekk1eElfalBvVXRkWmxZaEczZVhLNGdrbFVhMkhyRS1QR0dZV1Z4TXBEc09WdERfMVBac3hQZVFndzd4NldkTWpoYl9WNWlHZDlPWWtiNk42ZFdnaDJzRGVuaHM4bllLUm1aMUNFNUloTnVReFBrZHB5V1ktaHMtWVN0Z1F2TFpIME9zT0hMVUdIaG9GdVMzbVV0ajcwempxN3dGSlJIMkVjU1JsX24tVWxISHJ2dGZpbW9QWVlpSktZWGZVMTVtT2RWam5vbWZFUnVRYUFpdVJZQzRjMGdlVDdIN1lqLTdvZU5xOF90N1dQZzBOU09CVGhIWk92bDJpOVlYTUpLSFZwcXl2N2ZndlU5SHJvaDE4bjFhSmxiYlg2djBnRVMyMTNZZjZCNkNneml6bVFOM0RQSzZBS3J5SFFRb0M5eVYwMWJJLUVhTzN4cGs1ZHBIUFlocWlJYmJMZHJNWGNMckwwblB3NG8wZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
 }
