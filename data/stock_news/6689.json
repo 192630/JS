@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-26T09:33:28.051064+08:00",
+  "updated_at": "2026-09-27T09:34:25.759243+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6689",
   "name": "伊雲谷",
   "count": 12,
   "news": [
-    {
-      "title": "伊雲谷 6689",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTFkTjlkMEFua2tEMHZXMndITVJQNFBlci1IbHdwdWhubzhmV05mbndMeVVJU19RN1hqRzFDbG9UNXg2WnBacVNSNklVLWYyUzZHS2pibUJPMkJVRC1tY01oX3gzZlNOdWFYTVF0TFdoX3Ryd184MG94cUZjeDlodXJXT2swQTlKOVpKdGt3Nmo3bWJGdGlsTUZISHFnVHNhS0F1by1Leno?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-21T07:00:00+00:00"
-    },
     {
       "title": "6689 伊雲谷 - 資金今天流向網通 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EaEFXd3lLNjJFM2gtZUdacHBFTndsNGpPa1NINGppVG1hNVBvTDA1dU9GNDNhaWFnSGEwajhCczlWSU5fVFlCOXlLWVdvZ2FGVUJjM3ZIYTM?oc=5",
@@ -26,13 +20,13 @@
     {
       "title": "【10:25 即時新聞】伊雲谷(6689)股價走強，企業級AI佈局成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2JjSEVwTUtOMng0UVJnNDlDSExKdTFxYlZENFR1YURjQzdIdFlvTWJJRnNOSzU0Y2J2eUJoS2lTMGlQVC1JbURHN1Zyd1ZPM1FVWHQ3LTZ5OXlhdmJNa0RLS0xCQVlIc28tZ3FlT3FmMUp4S1FIcDdZS3VFNEVzS1gzbzNRV1NXU2hqZDVn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "【09:10 即時新聞】伊雲谷(6689)亮燈漲停至70.5元，搭載生成式AI與代理型AI題材＋外資與主力連日偏多推升多頭結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDc3cEhHOEtCNzdTVGpCT2hnMEdjNm1GWVZQSndKbkMzY2VRcHZmNG1IbGpwSnpnSUMtdG1SMmpDZENJSUNzRXR4am8wSnFWb1lMOXM5c2hyRUIxMFdTWFVMaURKMTUwNTFwcTFqS3U2d0ZUQ0lEZzFCaXlrRU1sNTdsUnE4dkZ2OU02MDB3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
@@ -60,12 +54,6 @@
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
-      "title": "伊雲谷發布AI產品全景圖 客戶專案持續落地",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OMDVLQWU2MmptNEp2N2VXWWxDR25YV3NyeU1VREhKTkJ6V1NfYU5tVjllX3BOVUdzdWFGODR6TnBOdEhjOFFXTFo0WF9JM3h5NDk3b0Rid0VzeDI4MnpR0gFkQVVfeXFMT2ZPLUtVRGpBenZJMV9hSGt4ME5hRVpCX0NReDg3Y080ZzhreUkxM3lOcFM4ejNSaHd0eEVyZVJrTEk5UC1qSVllQzRRNjBPWE5IWjhneVJrMHhPdEZEaHo5RlV5UA?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "00875 國泰網路資安- 伊雲谷串聯三大AI 端「企業級AI 全景圖」 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZmpHak10R0tYMVphY0dnamRpVDhELUVjQXJsbEl5elM1ZEJ6dlhzUTY3cTdESXBtUl92MGFrZTNlUzdOUVJuZWJkSlVGRndhVGRUdDdwQXU?oc=5",
       "source": "CMoney",
@@ -74,8 +62,20 @@
     {
       "title": "伊雲谷集團5家公司總動員！進軍企業AI 串聯OpenAI、AWS、Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQZkt4bTh5NnRBRTRMdUxvc2FnSGVPQlJXNVBSQWlaV2dUc1p4dDNZLUY3SlpBaHBFSjROdVN0ODc1TXhDN1NJTk5NMElYYnlLejdDOGNqUE1lU2J2MUlFWEl5c3k3UW1HVGFEYm1DUFN0N3dRZllxT3E2QzlsVFI0NVdBOUVJYTVtSXZjQjYyTkx4V3AwOXBOTnVGczlDNTJFQ1RSN05LdWc5VnNnekVENEx6aV9SVzFWeFE3M0wwZFF2MW5KMDR0OVZRWmh1b09yNWxsTkMwc2U2OENhd1pyRUxmX2lJSFU3ak9DZTdEdFQxMldFOUNpSmt2bW1IMWNKV2UwRTRzSWlNUGdZanJocm0zYVBKNGgwbTNEZ2VFRGNhbVdHeU5vNUhvV3AwY29mWlpfLS04eEJndGg4WF8yRA?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "伊雲谷布局企業級AI新版圖 (圖)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQzFYcEVfai1wTW1TZXJrNXdpUktqYlVua3Q1M3kyUHU5TFRjb0tnZXJrUGxpbi04cVBDanlkQjdhbUUtT1JPNmRiRHN2T1RzS09QOTI4OU9wMURsbVFQNzJxb2hwS0p2dUxJZi14aFRsWWlwcXlGdDROVzh5QXJ6UFctdW1WVDR1b2lwcExMQnNqUmtmSWdINHp2OTdidWNJc1NuWV9mTURwOG1YSWxjUzJSdjVicWstU3JsQnU4NWFpbGpsWE9ncHhENFl2SS1JdktEdnZJRFZUX0pqbWs3eFhsbllNT28?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "伊雲谷攻企業AI應用，盼拓成長曲線",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWHFrXzR5SmdqSzBUUXBVMHc1bUU3T244cnQyYi1Sbl9DdXRsNFZpTVZ3dDdnOFNhdENkUHRKTHI3VF80amd0RV9yQVhMd1c0am5hWGs4c2ZiNXZiQmx3X0VRdlh3WWpfYjB1ZTVURy1ZdzJDU1dBSldGLWlScmdBSXBRTzhzaTlOcU5tVGR2cFRUTHduYWhwb2Jma0FKUllxX1l2TjBoZTdVVnZqc1h2Vk9ra3pVRlNySERoN0RmX3Q1VFdpUEgxS2hoY2FKQnRHdzdZc09qNzNzZFFCSF9nM3cway1qNURmV0JOR0NWTlJZSEVJY09NNFhOZXBvQXF3RzVqcmhWRQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }
