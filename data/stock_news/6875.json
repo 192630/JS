@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-27T10:35:24.824404+08:00",
+  "updated_at": "2026-09-28T11:37:39.533340+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6875",
   "name": "國邑*",
   "count": 10,
   "news": [
+    {
+      "title": "【周跌幅】9/21-9/24周跌幅排行榜: 天良(-18.83%)、國邑*(-11.28%)、漢達(-9.82%)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wOVJfbGhrTVB6LXdXZlVrLXgzWm43a2VnSHpyZllSZU9ETnNBb29xWXZwOG1TUVpMR2VQSndzZDFxdEw5MU5vU1N6MWdLNE1ORjVTajJnRU9FQ0VrMTlmemlSTDhpazcyMDBZSWxR?oc=5",
+      "source": "genetinfo.com",
+      "published_at": "2026-09-26T07:00:00+00:00"
+    },
     {
       "title": "【9/22日股價跌幅】天良(-9.67%)、國邑*(-8.64%)、漢達(-8.00%)",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByMVhVbTlXclhIR2VtR2Z0eTBIZlVGT0FaS3NJQks0c093U0xJbkJ3TDFOdTFwQ2s0el9mNUg5OFNvcVZPTGdWdW4tRDZPMG5sYmRjOHhXU3lwUWVIWHFyb0lXMGxtZGlGM0R0Q1JR?oc=5",
@@ -14,13 +20,13 @@
     {
       "title": "國邑*(6875) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LTkc4WHpZTmFnZng4QzJ4aW9QOU1JRTN3VTA4OG14WTVpTjl0M2NVS2hjMlVnbzFzZWRnczYyZVU3MjNQQzY5UDlhcUtVMWs0aEpz?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T07:21:03+00:00"
     },
     {
       "title": "加速授權與商業價值提升，國邑*兩核心產品同推進- 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0duSV9UR3Jka2lvRENuSXB5ZUM1TjE0Uk93Q19lQms4RnVlOHl1X0NNQUN6dnJXVEJQYWJJbGFWRFAycTVkTk1Nb25oUmtIS0gtLTdlZlhDUGpQNjNKM2o1TXFnSE1BT09rc3RiQWN4WV9CWVVGQzBlTGM3SzNJWU1iX29LUjNRejdESlE3WnZXZw?oc=5",
-      "source": "moneydj.com",
+      "source": "MoneyDJ",
       "published_at": "2026-09-21T02:36:00+00:00"
     },
     {
@@ -42,28 +48,22 @@
       "published_at": "2026-09-18T07:00:00+00:00"
     },
     {
+      "title": "國邑*L606獲中國NMPA核准 加入治療間質性肺病全球臨床三期樞紐試驗",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4YnAwOFdXXzBCZml4Y1NWSGxSNEZiX1F5eklZTUJubFVKZFBrR2FzZTBqR0taY3R4eEllV1NVVmZ6X21xZEhsOVQ3VG9jZG8?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
       "title": "國邑*長效吸入型新藥 啟動中國臨床三期試驗",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUWEFlaTI5eXVKd2hLZ3ZKOGoxOVRWcGlIWDg3aDJ6MVZudzRBc3ljSW5MYXo3b0s4d3JhXzBJeDF5cWNrY2c1RkdZYjhmUnMyaEdvNndwamszV1NhbGNz0gFkQVVfeXFMUFZDT3ZObEJLOVZ4amZTTGR0WHVDZEVlVzFwUUN1QW9PVHhiOEVtQjdPMmpVamJFWkhXWExvWmRqcWNvODd1ZmtMV2tzV3JBRURhZDFxSHNXWkUyWlIxcF9vdWJXZg?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
-      "title": "國邑*L606獲中國NMPA核准 加入治療間質性肺病全球臨床三期樞紐試驗",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQci1wR2VHb255YTBrN2drM3IzRUYxQ09iWW5KTk16c2JiN29kQ0JrZDZ1Q2hhYzdrRXJzSjZHcUpUV3Awc3VTWEV5Mkw4M3ptTVVmYVNyN0VIaFh4SkkwYURLeU1iQ3hsM1JPTnA3dGtjYktLRTFaMFhUakRCTGpvOWxsYU1kMlptb3pXRDdlSEFXVE1aZXBhSmpaQktOY0JJZzBZNGlTNTZoSmRBQzB0aE9pNkhSdVpFTzAyZVpfeVhBWGFZeUptNjY2VExhLXVWWGlMMlBzMWx4RXY2cjFvYlRDTzF5V2t1aFVEd2dfMlBRV0pCOGU5QzJxYV95SUFYc2tXUjBMc3BtMmI5czJfYUtWdlhPNlBJVncySTdjdmE1QXpwbnFNdFlIRm85VkdUYVByMzhRemVzS2hlSllYeUlwMExLNk5TaEFwTVZFRjBfLTVPNlBXZjhVT1BfV2NCbThFeGY2QWVyQV91X3M3RmJtODNOdDc0UG80ZUVXUjBXclZXcVh6cmhnZmhnby03Y0xWcmUwcjNBWHZtTlFFdA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
       "title": "【26Q2財報公告】國邑*(6875) Q2 營收0元，連2季衰退-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPckY4VWo2WFZqOHZ4VHZ1ZWl5ZC0tS05vT1pfeDg4Q0RTbHY5QkxVaEQwT1hBak9Ic0h2Nl9TWWszV1lMTjVydF94akE5SEtpUE45UHJvM2MwaGtZVWJ5NWdjU0tuUXBBWWNheS1iU2IxNDBKRlNRMmlKZ2tnd25RQTdOMWxlMy04WUE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "盤中速報 - 國邑*(6875)急跌-3.72%報31.0元，成交165張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcFp2TVdTVzJ2MmFEWEdvd1RsbVBJWndQUEJaVVZwZDJOamk2T1F4dUxiZWhpb3J4S3FtNGJwQ05vUHN4ZXozSWo2eVdpOUNnUVFHekhVNVd4V3N0ZzBDM25fbjRSQQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }
