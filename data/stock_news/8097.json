@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-27T12:35:56.071988+08:00",
+  "updated_at": "2026-09-28T13:36:20.928078+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8097",
   "name": "常珵",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】常珵(8097) 八月營收年增189.12％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oeFgycU9vYjhCY25TQnVybTNvUm9MLUZGb1I3QzRiS05PMjNtV25iVVg0VDY5R0x1NTlwQ3YxcHZnSWNfcXJKaFphcmhqb0VJZ0RJbURjWTNvWDNJOWZpcGFKS2s3NHc?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }
