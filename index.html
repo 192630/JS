@@ -1613,7 +1613,17 @@ header{
   color:#17202a;
   padding-left:max(46px,calc((100% - 760px) / 2 + 46px));
   border-bottom:0;
+  position:sticky;
+  top:0;
+  z-index:55;
+  transition:padding .2s ease,box-shadow .2s ease,background .2s ease;
 }
+
+header.is-compact{padding-top:10px;padding-bottom:10px;background:rgba(255,254,250,.98);box-shadow:0 5px 16px rgba(48,54,59,.12)}
+header.is-compact h1{font-size:20px}
+header.is-compact p{display:none}
+body > header{position:sticky}
+header + .menu-overlay + .page-nav{top:var(--site-header-height,86px);transition:top .2s ease}
 
 header h1{
   color:#17202a;
@@ -1746,6 +1756,11 @@ header p{
     transform:translateX(-105%);
     transition:transform .22s ease;
   }
+
+  header + .menu-overlay + .page-nav{top:0}
+
+  header.is-compact{padding:9px 16px 9px 43px}
+  header.is-compact h1{font-size:19px}
 
   .page-nav .nav-button{
     width:100%;
@@ -2046,16 +2061,16 @@ footer{
   <div class="drawer-head">
     <button id="menuClose" class="menu-close" type="button" aria-label="關閉分頁選單">×</button>
   </div>
-  <button class="nav-button active" type="button" data-page="home">🏠 首頁</button>
-  <button class="nav-button" type="button" data-page="stocks">🔎 股票搜尋</button>
-  <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
-  <button class="nav-button" type="button" data-page="market">📊 市場排行</button>
-  <button class="nav-button" type="button" data-page="industry">🏭 產業紅綠燈</button>
-  <button class="nav-button" type="button" data-page="global">🌍 全球連動</button>
-  <button class="nav-button" type="button" data-page="watch">🧺 我的觀察 <span id="watchNavCount" class="nav-count">0</span></button>
-  <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF</button>
-  <button class="nav-button" type="button" data-page="news">📰 市場新聞</button>
-  <button class="nav-button" type="button" data-page="quant">🧪 量化研究</button>
+  <button class="nav-button active" type="button" data-page="home">🏠 今日速覽</button>
+  <button class="nav-button" type="button" data-page="stocks">🔎 個股研究室</button>
+  <button class="nav-button" type="button" data-page="all">📚 台股名錄</button>
+  <button class="nav-button" type="button" data-page="market">📊 市場焦點榜</button>
+  <button class="nav-button" type="button" data-page="industry">🌡️ 產業溫度計</button>
+  <button class="nav-button" type="button" data-page="global">🌍 海外風向</button>
+  <button class="nav-button" type="button" data-page="watch">🧺 自選觀察簿 <span id="watchNavCount" class="nav-count">0</span></button>
+  <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF 動向</button>
+  <button class="nav-button" type="button" data-page="news">📰 市場情報站</button>
+  <button class="nav-button" type="button" data-page="quant">🧭 策略掃描室</button>
 </nav>
 
 <main>
@@ -2064,7 +2079,7 @@ footer{
 
 <section id="stockSearchCard" class="card page-section" data-pages="stocks">
 
-  <h2>🔎 股票搜尋</h2>
+  <h2>🔎 個股研究室</h2>
 
   <div class="search-area">
 
@@ -2290,7 +2305,7 @@ footer{
 
 <section id="watchlistCard" class="card page-section" data-pages="watch">
 
-  <h2>🧺 我的觀察</h2>
+  <h2>🧺 自選觀察簿</h2>
   <div class="heat-subtitle">把有興趣的股票先收進來，不代表已經買進。</div>
   <div id="watchlistCount" class="all-stock-count"></div>
   <div id="watchlist"></div>
@@ -2302,7 +2317,7 @@ footer{
 
 <section class="card page-section" data-pages="stocks">
 
-  <h2>🏦 三大法人籌碼</h2>
+  <h2>🏦 法人動向簿</h2>
 
   <div id="instStatus" class="status">
     法人資料載入中...
@@ -2405,7 +2420,7 @@ footer{
 
 <section id="allStocksCard" class="card page-section" data-pages="all">
 
-  <h2>📋 全部股票</h2>
+  <h2>📚 台股名錄</h2>
 
   <div class="all-stock-tools">
     <input
@@ -2426,20 +2441,23 @@ footer{
 </section>
 
 
-<!-- 首頁全球市場連動雷達 -->
+<!-- 首頁只保留定位與主要入口，詳細資料移至各自分頁 -->
 <section class="card page-section" data-pages="home">
-  <div class="global-risk-head"><div><h2>🌍 全球市場連動雷達</h2><div class="heat-subtitle">跨市場風險摘要・行情可能延遲</div></div><div><div id="globalHomeScore" class="global-risk-score">--／100</div><div id="globalHomeState" class="global-risk-state">資料準備中</div></div></div>
-  <div class="global-gauge"><span id="globalHomeMarker" class="global-gauge-marker" style="left:0%"></span></div>
-  <div id="globalHomeSummary" class="plain-note">全球市場資料載入中...</div>
-  <div id="globalHomeIndicators" class="global-indicator-grid"></div>
-  <button class="section-toggle" type="button" onclick="showPage('global')">查看完整全球連動分析</button>
+  <h2>🗂️ 今日研究桌</h2>
+  <div class="heat-subtitle">首頁是快速入口：先選研究方向，再到專屬分頁看完整資料，避免同一份內容重複出現。</div>
+  <div class="etf-summary-grid" style="margin-top:14px">
+    <button class="etf-summary-item" type="button" onclick="showPage('stocks')"><div class="etf-summary-label">查一檔股票</div><div class="etf-summary-text">行情、K 棒、法人與公司資料</div></button>
+    <button class="etf-summary-item" type="button" onclick="showPage('market')"><div class="etf-summary-label">看今天焦點</div><div class="etf-summary-text">成交熱度與市場排行</div></button>
+    <button class="etf-summary-item" type="button" onclick="showPage('etf')"><div class="etf-summary-label">追主動 ETF</div><div class="etf-summary-text">今日調倉與近期買賣軌跡</div></button>
+    <button class="etf-summary-item" type="button" onclick="showPage('global')"><div class="etf-summary-label">看海外風向</div><div class="etf-summary-text">全球市場風險與台股連動</div></button>
+  </div>
 </section>
 
 <!-- 首頁成交量排行 -->
 
-<section class="card page-section" data-pages="home">
+<section class="card page-section" data-pages="market">
 
-  <h2>📊 成交量排行</h2>
+  <h2>⚡ 今日成交焦點</h2>
 
   <div class="market-heat-head">
     <div>
@@ -2469,7 +2487,7 @@ footer{
 
 <section class="card page-section" data-pages="market">
 
-  <h2>📊 市場成交量排行</h2>
+  <h2>📊 市場焦點榜</h2>
 
   <div class="market-heat-head">
     <div>
@@ -2496,7 +2514,7 @@ footer{
 
 <section class="card page-section" data-pages="industry">
 
-  <h2>🏭 產業紅綠燈</h2>
+  <h2>🌡️ 產業溫度計</h2>
   <div class="heat-subtitle">依官方產業分類，計算最近交易日產業內個股等權平均漲跌幅</div>
   <div id="industryHeatStatus" class="status">產業資料載入中...</div>
   <div id="industryHeatList" class="industry-heat-list"></div>
@@ -2511,23 +2529,23 @@ footer{
 <!-- 主動 ETF 子分頁 -->
 
 <nav class="etf-subnav page-section" data-pages="etf" aria-label="主動 ETF 子分頁">
-  <button class="etf-subnav-button active" type="button" data-etf-subpage="summary">🧠 每日摘要</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="directory">📋 ETF 清單</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="compare">🔍 ETF 比較</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="matrix">🧩 持股熱力矩陣</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="changes">📊 每日變化</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="consensus">🔥 共同持有</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="trends">📅 連續趨勢</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="ranking">📈 強弱排行</button>
+  <button class="etf-subnav-button active" type="button" data-etf-subpage="summary">🧠 今日重點</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="directory">📋 基金名冊</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="compare">🔍 雙檔透視</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="matrix">🧩 四檔持股盤</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="changes">🛒 今日調倉</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">⚖️ 配置焦點</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業足跡</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="consensus">🤝 共同押注</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="trends">📅 近期買賣</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="ranking">📈 盤後強弱</button>
 </nav>
 
 <!-- 今日市場熱力 -->
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="summary">
 
-  <h2>🧠 ETF 每日白話摘要</h2>
+  <h2>🧠 主動 ETF 今日重點</h2>
   <div class="heat-subtitle">
     將行情、持股權重、共同持有、產業配置與每日變化整理成規則式研究說明
   </div>
@@ -2543,7 +2561,7 @@ footer{
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="directory">
 
-  <h2>📋 主動 ETF 全部清單</h2>
+  <h2>📋 主動 ETF 基金名冊</h2>
   <div class="heat-subtitle">集中查看目前已接入官方公開投資組合的主動式台股 ETF</div>
 
   <div class="all-stock-tools" style="margin-top:14px">
@@ -2566,7 +2584,7 @@ footer{
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="compare">
 
-  <h2>🔍 ETF 持股重疊比較</h2>
+  <h2>🔍 雙檔持股透視</h2>
   <div class="heat-subtitle">任選兩檔主動 ETF，比較共同持股、權重差異與各自獨有持股</div>
 
   <div class="etf-compare-selects">
@@ -2588,7 +2606,7 @@ footer{
 </section>
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="matrix">
-  <h2>🧩 多檔 ETF 持股收盤熱力矩陣</h2>
+  <h2>🧩 四檔持股盤</h2>
   <div class="heat-subtitle">任選四檔主動 ETF，比較各自前十大持股名次與最近交易日漲跌幅</div>
   <div class="etf-matrix-pickers">
     <select id="etfMatrixA" aria-label="選擇第一檔 ETF"></select>
@@ -2605,10 +2623,10 @@ footer{
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="changes">
 
-  <h2>📊 主動 ETF 每日持股變化</h2>
+  <h2>🛒 各檔 ETF 今日調倉</h2>
 
   <div class="heat-subtitle">
-    比較最近兩個有效交易日的官方投資組合快照
+    比較最近兩個有效交易日的官方投資組合快照，整理今日加碼、減碼、新建倉與清倉
   </div>
 
   <select id="etfChangeSelect" class="etf-change-picker" aria-label="選擇主動 ETF">
@@ -2619,7 +2637,7 @@ footer{
   <div id="etfChangeContent"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>「持股增加／減少」代表兩次公開投資組合的股數差異，不等同可確認的盤中買進或賣出。
+    <strong>資料定義：</strong>本站以日終持股增加／減少作為「買進／賣出」線索；新出現為「新建倉」，歸零為「清倉」。這是兩次公開快照差額，不是基金公司公布的逐筆成交紀錄。
   </div>
 
 </section>
@@ -2627,7 +2645,7 @@ footer{
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="holdings">
 
-  <h2>🌡️ ETF 持股權重排行</h2>
+  <h2>⚖️ 主動 ETF 配置焦點</h2>
   <div class="heat-subtitle">看「配置有多重」：將各 ETF 的個股權重相加，找出整體配置最集中的股票</div>
   <div id="etfHoldingHeatStatus" class="status">持股熱力資料載入中...</div>
   <div id="etfHoldingHeatList" class="etf-holding-heat-list"></div>
@@ -2640,7 +2658,7 @@ footer{
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="industry">
 
-  <h2>🏭 主動 ETF 產業配置熱力</h2>
+  <h2>🏭 主動 ETF 產業足跡</h2>
   <div class="heat-subtitle">依公司官方產業分類，彙總主動 ETF 公開投資組合權重</div>
   <div id="etfIndustryHeatStatus" class="status">產業配置資料載入中...</div>
   <div id="etfIndustryHeatList"></div>
@@ -2653,7 +2671,7 @@ footer{
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="consensus">
 
-  <h2>🔥 ETF 共同持有共識</h2>
+  <h2>🤝 主動 ETF 共同押注</h2>
 
   <div class="heat-subtitle">
     看「有多少檔一起持有」：依持有同一股票的 ETF 檔數排序；累積兩日快照後也會顯示共同增減方向
@@ -2682,10 +2700,16 @@ footer{
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="trends">
 
-  <h2>📅 ETF 連續增減趨勢</h2>
+  <h2>📅 各檔 ETF 近期買賣軌跡</h2>
   <div class="heat-subtitle">
-    依每日官方投資組合快照，整理股票連續被多檔主動 ETF 增加或減少持股的交易日數
+    先選一檔 ETF，查看最近幾個有效交易日加碼、減碼、新建倉與清倉；下方再整理跨 ETF 連續方向
   </div>
+
+  <select id="etfRecentSelect" class="etf-change-picker" aria-label="選擇要查看近期買賣的主動 ETF">
+    <option value="">近期資料載入中...</option>
+  </select>
+  <div id="etfRecentStatus" class="status">近期買賣資料載入中...</div>
+  <div id="etfRecentContent"></div>
 
   <div id="etfTrendStatus" class="status">連續趨勢資料載入中...</div>
 
@@ -2705,9 +2729,9 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="home,etf" data-etf-subpage="ranking">
+<section class="card page-section" data-pages="etf" data-etf-subpage="ranking">
 
-  <h2>🔥 今日市場熱力</h2>
+  <h2>📈 主動 ETF 盤後強弱</h2>
 
   <div class="market-heat-head">
 
@@ -2759,7 +2783,7 @@ footer{
 
 <section class="card page-section" data-pages="news">
 
-  <h2>📰 近期頭條新聞</h2>
+  <h2>📰 市場情報站</h2>
 
   <div class="heat-subtitle">
     台股、上市公司、ETF 與金融市場近期消息
@@ -2794,7 +2818,7 @@ footer{
 
 <section class="card page-section" data-pages="quant">
 
-  <h2>🧪 量化研究</h2>
+  <h2>🧭 策略掃描室</h2>
 
   <div class="quant-block">
     <div class="heat-title">🔺 三角收斂 V1</div>
@@ -2835,13 +2859,13 @@ footer{
   </div>
 
   <div class="plain-note">
-    後續仍會依 roadmap 加入量價突破、法人獲利／虧損、妖股 77、主力雷達、當沖與波段策略。
+    後續仍會依 roadmap 加入法人獲利／虧損、妖股 77、主力雷達、短沖／當沖與波段策略；短沖標示會要求量價、波動與流動性同時達標，不只看單日漲跌。
   </div>
 
 </section>
 
 <section class="card page-section" data-pages="global">
-  <div class="global-risk-head"><div><h2>🌍 全球市場連動雷達</h2><div id="globalPagePhase" class="heat-subtitle">資料載入中...</div></div><div><div id="globalPageScore" class="global-risk-score">--／100</div><div id="globalPageState" class="global-risk-state">資料準備中</div></div></div>
+  <div class="global-risk-head"><div><h2>🌍 海外風向儀</h2><div id="globalPagePhase" class="heat-subtitle">資料載入中...</div></div><div><div id="globalPageScore" class="global-risk-score">--／100</div><div id="globalPageState" class="global-risk-state">資料準備中</div></div></div>
   <div class="global-gauge"><span id="globalPageMarker" class="global-gauge-marker" style="left:0%"></span></div>
   <div id="globalPageStatus" class="status">全球市場資料載入中...</div><div id="globalPageSummary" class="plain-note"></div><div id="globalIndicatorGrid" class="global-indicator-grid"></div>
   <div class="global-history-card">
@@ -3045,6 +3069,15 @@ document.addEventListener("keydown",event => {
     setMenuOpen(false);
   }
 });
+
+const siteHeader = document.querySelector("body > header");
+const updateCompactHeader = () => {
+  siteHeader?.classList.toggle("is-compact",window.scrollY > 28);
+  if(siteHeader) document.documentElement.style.setProperty("--site-header-height",`${siteHeader.offsetHeight}px`);
+};
+window.addEventListener("scroll",updateCompactHeader,{passive:true});
+window.addEventListener("resize",updateCompactHeader,{passive:true});
+updateCompactHeader();
 
 
 const validEtfSubpages = [
@@ -4081,23 +4114,28 @@ async function loadActiveEtfNews(){
 function renderEtfChangeOptions(){
 
   const select = document.getElementById("etfChangeSelect");
-  if(!select){
+  const recentSelect = document.getElementById("etfRecentSelect");
+  if(!select && !recentSelect){
     return;
   }
 
-  const previousValue = select.value;
+  const previousValue = select?.value || "";
+  const previousRecentValue = recentSelect?.value || "";
   const entries = Object.values(activeEtfHoldings)
     .filter(item => item && item.code)
     .sort((a,b) => String(a.code).localeCompare(String(b.code)));
 
-  select.innerHTML = "";
+  if(select) select.innerHTML = "";
+  if(recentSelect) recentSelect.innerHTML = "";
 
   if(!entries.length){
     const option = document.createElement("option");
     option.textContent = "目前沒有可用的主動 ETF 持股資料";
     option.value = "";
-    select.appendChild(option);
+    select?.appendChild(option);
+    if(recentSelect) recentSelect.appendChild(option.cloneNode(true));
     renderSelectedEtfChanges();
+    renderSelectedEtfRecent();
     return;
   }
 
@@ -4105,14 +4143,15 @@ function renderEtfChangeOptions(){
     const option = document.createElement("option");
     option.value = item.code;
     option.textContent = `${item.code}｜${item.name || "主動 ETF"}`;
-    select.appendChild(option);
+    select?.appendChild(option);
+    if(recentSelect) recentSelect.appendChild(option.cloneNode(true));
   });
 
-  select.value = entries.some(item => item.code === previousValue)
-    ? previousValue
-    : entries[0].code;
+  if(select) select.value = entries.some(item => item.code === previousValue) ? previousValue : entries[0].code;
+  if(recentSelect) recentSelect.value = entries.some(item => item.code === previousRecentValue) ? previousRecentValue : entries[0].code;
 
   renderSelectedEtfChanges();
+  renderSelectedEtfRecent();
 
 }
 
@@ -4277,10 +4316,10 @@ function renderSelectedEtfChanges(){
   status.textContent = `${change.previous_date || "前次"} → ${change.current_date || "本次"}｜${change.issuer || holding.issuer || ""}`;
 
   const categories = [
-    {key:"increased",label:"🔴 持股增加",empty:"沒有持股增加"},
-    {key:"decreased",label:"🟢 持股減少",empty:"沒有持股減少"},
-    {key:"new",label:"🆕 新增持股",empty:"沒有新增持股"},
-    {key:"removed",label:"❌ 退出持股",empty:"沒有退出持股"}
+    {key:"increased",label:"🔴 今日加碼（持股增加）",empty:"今日沒有加碼項目"},
+    {key:"decreased",label:"🟢 今日減碼（持股減少）",empty:"今日沒有減碼項目"},
+    {key:"new",label:"🆕 今日新建倉",empty:"今日沒有新建倉"},
+    {key:"removed",label:"❌ 今日清倉",empty:"今日沒有清倉"}
   ];
 
   const summary = document.createElement("div");
@@ -4321,6 +4360,33 @@ function renderSelectedEtfChanges(){
 document
   .getElementById("etfChangeSelect")
   ?.addEventListener("change",renderSelectedEtfChanges);
+
+function renderSelectedEtfRecent(){
+  const select = document.getElementById("etfRecentSelect");
+  const status = document.getElementById("etfRecentStatus");
+  const content = document.getElementById("etfRecentContent");
+  if(!select || !status || !content) return;
+  content.innerHTML = "";
+  const etf = activeEtfTrends?.etfs?.[select.value];
+  if(!activeEtfTrendsReady || !etf){
+    status.textContent = "近期逐檔資料尚未產生，下一次 ETF 趨勢更新後會自動顯示。";
+    return;
+  }
+  const events = Array.isArray(etf.events) ? etf.events : [];
+  status.textContent = `最近 ${cleanNumber(activeEtfTrends?._meta?.comparison_days)} 個交易日區間｜${events.length} 筆持股變動`;
+  if(!events.length){content.innerHTML = '<div class="heat-subtitle">近期公開持股沒有變動</div>';return;}
+  const labels = {increased:"🔴 加碼",decreased:"🟢 減碼",new:"🆕 新建倉",removed:"❌ 清倉"};
+  const byDate = new Map();
+  events.forEach(item => {const date=String(item.date||"日期待確認");if(!byDate.has(date))byDate.set(date,[]);byDate.get(date).push(item);});
+  [...byDate.entries()].slice(0,5).forEach(([date,items]) => {
+    const group=document.createElement("div");group.className="etf-change-group";
+    const title=document.createElement("h3");title.textContent=`📌 ${formatStockDate(date)}`;group.appendChild(title);
+    items.slice(0,20).forEach(item => {const row=makeHoldingChangeRow(item,item.type);const name=row.querySelector(".holding-change-name");if(name)name.textContent=`${labels[item.type]||"持股變動"}｜${name.textContent}`;group.appendChild(row);});
+    content.appendChild(group);
+  });
+}
+
+document.getElementById("etfRecentSelect")?.addEventListener("change",renderSelectedEtfRecent);
 
 
 function getEtfRelatedNews(etf){
@@ -9505,6 +9571,7 @@ Promise.all([
   renderEtfIndustryHeat();
   renderEtfConsensus();
   renderEtfTrends();
+  renderSelectedEtfRecent();
   if(currentStockCode){
     renderActiveEtfDetail(currentStockCode);
   }

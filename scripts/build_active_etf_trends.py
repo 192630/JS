@@ -63,6 +63,7 @@ def main():
             print(f"Skip {path.name}: {error}")
 
     daily = []
+    per_etf = {}
     for index in range(1, len(snapshots)):
         previous_date, previous_etfs = snapshots[index - 1]
         current_date, current_etfs = snapshots[index]
@@ -78,6 +79,12 @@ def main():
 
             previous = holdings_map(previous_etf)
             current = holdings_map(current_etf)
+            etf_result = per_etf.setdefault(etf_code, {
+                "code": etf_code,
+                "name": current_etf.get("name") or previous_etf.get("name") or etf_code,
+                "issuer": current_etf.get("issuer") or previous_etf.get("issuer") or "",
+                "events": [],
+            })
 
             for code in set(previous) | set(current):
                 before = previous.get(code, {}).get("shares", 0)
@@ -96,17 +103,32 @@ def main():
                 })
 
                 if before <= 0 < after:
+                    change_type = "new"
                     row["new_count"] += 1
                     row["net_etf_count"] += 1
                 elif after <= 0 < before:
+                    change_type = "removed"
                     row["removed_count"] += 1
                     row["net_etf_count"] -= 1
                 elif after > before:
+                    change_type = "increased"
                     row["increased_count"] += 1
                     row["net_etf_count"] += 1
                 else:
+                    change_type = "decreased"
                     row["decreased_count"] += 1
                     row["net_etf_count"] -= 1
+
+                etf_result["events"].append({
+                    "date": current_date,
+                    "previous_date": previous_date,
+                    "type": change_type,
+                    "code": code,
+                    "name": current.get(code, previous.get(code, {})).get("name", code),
+                    "previous_shares": before,
+                    "current_shares": after,
+                    "change_shares": after - before,
+                })
 
         daily.append({
             "previous_date": previous_date,
@@ -171,6 +193,15 @@ def main():
         reverse=True,
     )
 
+    recent_etfs = {}
+    for etf_code, etf in per_etf.items():
+        events = sorted(
+            etf["events"],
+            key=lambda item: (item["date"], abs(item["change_shares"])),
+            reverse=True,
+        )
+        recent_etfs[etf_code] = {**etf, "events": events[:80]}
+
     save({
         "_meta": {
             "status": "success",
@@ -182,6 +213,7 @@ def main():
         },
         "positive": positive,
         "negative": negative,
+        "etfs": recent_etfs,
     })
 
     print(f"ETF trends finished: {len(positive)} positive, {len(negative)} negative")
