@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-27T19:34:17.673270+08:00",
+  "updated_at": "2026-09-28T20:43:13.718173+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2314",
   "name": "台揚",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "台揚(2314) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90eHlCMjFuU1gwbVhoNDJScGl0MGg4WGd3WEx0SGpSWVpfbkxEME9SWU8tSnlBS1hWcGZzU1RpVEQ4RDBwWWZJU3BCZUF6eDAzUnln?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-27T06:52:05+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 台揚(2314)股價殺至跌停，跌停價10.8元，成交272張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tb2ctOHpaRnhhdXNWVC03WHo4N1ZFN3R0YWlsNmo0ZlFZMUk3WkJtcG5yaDlMaDlVVGVaTVNHanRHQ280d1g1aWlpTXpYOFNWbVp2OGctT1V6OXdtTW83YXBlTDM?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-18T16:57:46+00:00"
     },
     {
