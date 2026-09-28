@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-27T08:41:44.502115+08:00",
+  "updated_at": "2026-09-28T09:34:37.772666+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6474",
   "name": "華豫寧",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】華豫寧(6474) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrVElzWHJjV3A1eTlUZHdlb1BtWGkyZ0VRUWY4YUpJQ0twM3VvUU9jS1MtWVJMWGRDVGJqVjRpamZsdjlrSTUyZFVfZDI4MS04Q203RlhRR0hIWjlkdXdvbFBwWWlXZ2M?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
