@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updated_at": "2026-09-28T23:57:57.167804+08:00",
-    "current_snapshot": "2026-09-28.json",
-    "previous_snapshot": "2026-09-25.json",
+    "updated_at": "2026-09-30T04:14:35.887106+08:00",
+    "current_snapshot": "2026-09-30.json",
+    "previous_snapshot": "2026-09-28.json",
     "description": "Daily active ETF holding changes. Changes mean differences between daily portfolio snapshots and do not necessarily equal intraday buy/sell transactions."
   },
   "etfs": {
@@ -23,8 +23,8 @@
       "code": "00401A",
       "name": "主動摩根台灣鑫收",
       "issuer": "摩根投信",
-      "current_date": "2026-09-28",
-      "previous_date": "2026-09-25",
+      "current_date": "2026-09-30",
+      "previous_date": "2026-09-28",
       "status": "success",
       "summary": {
         "increased_count": 0,
@@ -45,7 +45,7 @@
           "current_shares": 129000,
           "change_shares": 0,
           "previous_weight": 0.2592,
-          "current_weight": 0.2592
+          "current_weight": 0.2603
         },
         {
           "code": "1303",
@@ -54,7 +54,7 @@
           "current_shares": 146000,
           "change_shares": 0,
           "previous_weight": 0.9373,
-          "current_weight": 0.9373
+          "current_weight": 0.9846
         },
         {
           "code": "1477",
@@ -63,7 +63,7 @@
           "current_shares": 160000,
           "change_shares": 0,
           "previous_weight": 0.8244,
-          "current_weight": 0.8244
+          "current_weight": 0.83
         },
         {
           "code": "2059",
@@ -72,7 +72,7 @@
           "current_shares": 2951,
           "change_shares": 0,
           "previous_weight": 0.9831,
-          "current_weight": 0.9831
+          "current_weight": 0.9761
         },
         {
           "code": "2303",
@@ -81,7 +81,7 @@
           "current_shares": 604000,
           "change_shares": 0,
           "previous_weight": 2.5091,
-          "current_weight": 2.5091
+          "current_weight": 2.5313
         },
         {
           "code": "2308",
@@ -90,7 +90,7 @@
           "current_shares": 49990,
           "change_shares": 0,
           "previous_weight": 2.5756,
-          "current_weight": 2.5756
+          "current_weight": 2.5045
         },
         {
           "code": "2313",
@@ -99,7 +99,7 @@
           "current_shares": 221356,
           "change_shares": 0,
           "previous_weight": 1.3286,
-          "current_weight": 1.3286
+          "current_weight": 1.3658
         },
         {
           "code": "2317",
@@ -108,7 +108,7 @@
           "current_shares": 82000,
           "change_shares": 0,
           "previous_weight": 0.5541,
-          "current_weight": 0.5541
+          "current_weight": 0.5608
         },
         {
           "code": "2327",
@@ -117,7 +117,7 @@
           "current_shares": 40000,
           "change_shares": 0,
           "previous_weight": 0.6258,
-          "current_weight": 0.6258
+          "current_weight": 0.5985
         },
         {
           "code": "2330",
@@ -126,7 +126,7 @@
           "current_shares": 300960,
           "change_shares": 0,
           "previous_weight": 20.0931,
-          "current_weight": 20.0931
+          "current_weight": 20.3368
         },
         {
           "code": "2345",
@@ -135,7 +135,7 @@
           "current_shares": 16423,
           "change_shares": 0,
           "previous_weight": 0.8395,
-          "current_weight": 0.8395
+          "current_weight": 0.8116
         },
         {
           "code": "2357",
@@ -144,7 +144,7 @@
           "current_shares": 68000,
           "change_shares": 0,
           "previous_weight": 1.7481,
-          "current_weight": 1.7481
+          "current_weight": 1.7879
         },
         {
           "code": "2360",
@@ -153,7 +153,7 @@
           "current_shares": 23120,
           "change_shares": 0,
           "previous_weight": 1.4313,
-          "current_weight": 1.4313
+          "current_weight": 1.3792
         },
         {
           "code": "2379",
@@ -162,7 +162,7 @@
           "current_shares": 51000,
           "change_shares": 0,
           "previous_weight": 1.0304,
-          "current_weight": 1.0304
+          "current_weight": 1.0582
         },
         {
           "code": "2382",
@@ -171,7 +171,7 @@
           "current_shares": 233000,
           "change_shares": 0,
           "previous_weight": 2.1275,
-          "current_weight": 2.1275
+          "current_weight": 2.1406
         },
         {
           "code": "2383",
@@ -180,7 +180,7 @@
           "current_shares": 5520,
           "change_shares": 0,
           "previous_weight": 0.752,
-          "current_weight": 0.752
+          "current_weight": 0.7415
         },
         {
           "code": "2412",
@@ -189,7 +189,7 @@
           "current_shares": 202000,
           "change_shares": 0,
           "previous_weight": 0.7901,
-          "current_weight": 0.7901
+          "current_weight": 0.7942
         },
         {
           "code": "2454",
@@ -198,7 +198,7 @@
           "current_shares": 50610,
           "change_shares": 0,
           "previous_weight": 7.2151,
-          "current_weight": 7.2151
+          "current_weight": 6.7845
         },
         {
           "code": "2455",
@@ -207,7 +207,7 @@
           "current_shares": 153000,
           "change_shares": 0,
           "previous_weight": 2.2865,
-          "current_weight": 2.2865
+          "current_weight": 2.2683
         },
         {
           "code": "2603",
@@ -216,7 +216,7 @@
           "current_shares": 155000,
           "change_shares": 0,
           "previous_weight": 1.016,
-          "current_weight": 1.016
+          "current_weight": 1.0072
         },
         {
           "code": "2881",
@@ -225,7 +225,7 @@
           "current_shares": 476000,
           "change_shares": 0,
           "previous_weight": 1.926,
-          "current_weight": 1.926
+          "current_weight": 1.9689
         },
         {
           "code": "2882",
@@ -234,7 +234,7 @@
           "current_shares": 335000,
           "change_shares": 0,
           "previous_weight": 0.9986,
-          "current_weight": 0.9986
+          "current_weight": 1.0198
         },
         {
           "code": "2883",
@@ -243,7 +243,7 @@
           "current_shares": 1563000,
           "change_shares": 0,
           "previous_weight": 1.6422,
-          "current_weight": 1.6422
+          "current_weight": 1.6621
         },
         {
           "code": "2884",
@@ -252,7 +252,7 @@
           "current_shares": 1536000,
           "change_shares": 0,
           "previous_weight": 1.8894,
-          "current_weight": 1.8894
+          "current_weight": 1.8829
         },
         {
           "code": "2885",
@@ -261,7 +261,7 @@
           "current_shares": 10040,
           "change_shares": 0,
           "previous_weight": 0.0187,
-          "current_weight": 0.0187
+          "current_weight": 0.0188
         },
         {
           "code": "2886",
@@ -270,7 +270,7 @@
           "current_shares": 962000,
           "change_shares": 0,
           "previous_weight": 1.2871,
-          "current_weight": 1.2871
+          "current_weight": 1.2896
         },
         {
           "code": "2887",
@@ -279,7 +279,7 @@
           "current_shares": 926160,
           "change_shares": 0,
           "previous_weight": 1.0618,
-          "current_weight": 1.0618
+          "current_weight": 1.057
         },
         {
           "code": "2890",
@@ -288,7 +288,7 @@
           "current_shares": 239920,
           "change_shares": 0,
           "previous_weight": 0.2922,
-          "current_weight": 0.2922
+          "current_weight": 0.2876
         },
         {
           "code": "2891",
@@ -297,7 +297,7 @@
           "current_shares": 801000,
           "change_shares": 0,
           "previous_weight": 1.4801,
-          "current_weight": 1.4801
+          "current_weight": 1.5024
         },
         {
           "code": "2912",
@@ -306,7 +306,7 @@
           "current_shares": 42000,
           "change_shares": 0,
           "previous_weight": 0.2408,
-          "current_weight": 0.2408
+          "current_weight": 0.2431
         },
         {
           "code": "3008",
@@ -315,7 +315,7 @@
           "current_shares": 13108,
           "change_shares": 0,
           "previous_weight": 2.2082,
-          "current_weight": 2.2082
+          "current_weight": 2.1544
         },
         {
           "code": "3034",
@@ -324,7 +324,7 @@
           "current_shares": 14000,
           "change_shares": 0,
           "previous_weight": 0.2051,
-          "current_weight": 0.2051
+          "current_weight": 0.2064
         },
         {
           "code": "3037",
@@ -333,7 +333,7 @@
           "current_shares": 74000,
           "change_shares": 0,
           "previous_weight": 2.3654,
-          "current_weight": 2.3654
+          "current_weight": 2.3537
         },
         {
           "code": "3131",
@@ -342,7 +342,7 @@
           "current_shares": 10760,
           "change_shares": 0,
           "previous_weight": 0.6995,
-          "current_weight": 0.6995
+          "current_weight": 0.7271
         },
         {
           "code": "3231",
@@ -351,7 +351,7 @@
           "current_shares": 324000,
           "change_shares": 0,
           "previous_weight": 1.6125,
-          "current_weight": 1.6125
+          "current_weight": 1.6409
         },
         {
           "code": "3491",
@@ -360,7 +360,7 @@
           "current_shares": 41660,
           "change_shares": 0,
           "previous_weight": 1.7475,
-          "current_weight": 1.7475
+          "current_weight": 1.7175
         },
         {
           "code": "3711",
@@ -369,7 +369,7 @@
           "current_shares": 135000,
           "change_shares": 0,
           "previous_weight": 2.5455,
-          "current_weight": 2.5455
+          "current_weight": 2.5322
         },
         {
           "code": "4904",
@@ -378,7 +378,7 @@
           "current_shares": 255000,
           "change_shares": 0,
           "previous_weight": 0.7257,
-          "current_weight": 0.7257
+          "current_weight": 0.7275
         },
         {
           "code": "4938",
@@ -387,7 +387,7 @@
           "current_shares": 119000,
           "change_shares": 0,
           "previous_weight": 0.2931,
-          "current_weight": 0.2931
+          "current_weight": 0.295
         },
         {
           "code": "4958",
@@ -396,7 +396,7 @@
           "current_shares": 94000,
           "change_shares": 0,
           "previous_weight": 1.2057,
-          "current_weight": 1.2057
+          "current_weight": 1.2794
         },
         {
           "code": "4991",
@@ -405,7 +405,7 @@
           "current_shares": 73000,
           "change_shares": 0,
           "previous_weight": 0.9127,
-          "current_weight": 0.9127
+          "current_weight": 0.9457
         },
         {
           "code": "5274",
@@ -414,7 +414,7 @@
           "current_shares": 3966,
           "change_shares": 0,
           "previous_weight": 2.122,
-          "current_weight": 2.122
+          "current_weight": 2.1001
         },
         {
           "code": "5347",
@@ -423,7 +423,7 @@
           "current_shares": 278000,
           "change_shares": 0,
           "previous_weight": 1.2786,
-          "current_weight": 1.2786
+          "current_weight": 1.3548
         },
         {
           "code": "5871",
@@ -432,7 +432,7 @@
           "current_shares": 44920,
           "change_shares": 0,
           "previous_weight": 0.1297,
-          "current_weight": 0.1297
+          "current_weight": 0.1312
         },
         {
           "code": "5904",
@@ -441,7 +441,7 @@
           "current_shares": 271000,
           "change_shares": 0,
           "previous_weight": 0.5066,
-          "current_weight": 0.5066
+          "current_weight": 0.509
         },
         {
           "code": "6147",
@@ -450,7 +450,7 @@
           "current_shares": 232000,
           "change_shares": 0,
           "previous_weight": 1.3361,
-          "current_weight": 1.3361
+          "current_weight": 1.3207
         },
         {
           "code": "6187",
@@ -459,7 +459,7 @@
           "current_shares": 19065,
           "change_shares": 0,
           "previous_weight": 0.6146,
-          "current_weight": 0.6146
+          "current_weight": 0.6819
         },
         {
           "code": "6223",
@@ -468,7 +468,7 @@
           "current_shares": 11114,
           "change_shares": 0,
           "previous_weight": 1.6234,
-          "current_weight": 1.6234
+          "current_weight": 1.5733
         },
         {
           "code": "6285",
@@ -477,7 +477,7 @@
           "current_shares": 204000,
           "change_shares": 0,
           "previous_weight": 1.3097,
-          "current_weight": 1.3097
+          "current_weight": 1.2949
         },
         {
           "code": "6515",
@@ -486,7 +486,7 @@
           "current_shares": 10743,
           "change_shares": 0,
           "previous_weight": 1.6953,
-          "current_weight": 1.6953
+          "current_weight": 1.6645
         },
         {
           "code": "6531",
@@ -495,7 +495,7 @@
           "current_shares": 64000,
           "change_shares": 0,
           "previous_weight": 1.7143,
-          "current_weight": 1.7143
+          "current_weight": 1.6233
         },
         {
           "code": "6669",
@@ -504,7 +504,7 @@
           "current_shares": 32083,
           "change_shares": 0,
           "previous_weight": 1.8304,
-          "current_weight": 1.8304
+          "current_weight": 1.8395
         },
         {
           "code": "7769",
@@ -513,7 +513,7 @@
           "current_shares": 8597,
           "change_shares": 0,
           "previous_weight": 1.3149,
-          "current_weight": 1.3149
+          "current_weight": 1.3109
         },
         {
           "code": "7828",
@@ -522,7 +522,7 @@
           "current_shares": 34370,
           "change_shares": 0,
           "previous_weight": 1.8265,
-          "current_weight": 1.8265
+          "current_weight": 1.7829
         },
         {
           "code": "7856",
@@ -531,7 +531,7 @@
           "current_shares": 4000,
           "change_shares": 0,
           "previous_weight": 0.4969,
-          "current_weight": 0.4969
+          "current_weight": 0.4712
         },
         {
           "code": "8464",
@@ -540,7 +540,7 @@
           "current_shares": 98000,
           "change_shares": 0,
           "previous_weight": 0.9847,
-          "current_weight": 0.9847
+          "current_weight": 0.9967
         }
       ]
     },
@@ -548,14 +548,474 @@
       "code": "00403A",
       "name": "主動統一升級50",
       "issuer": "統一投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-30",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
-      "increased": [],
-      "decreased": [],
+      "status": "success",
+      "summary": {
+        "increased_count": 3,
+        "decreased_count": 10,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 37
+      },
+      "increased": [
+        {
+          "code": "3189",
+          "name": "景碩",
+          "previous_shares": 4000000,
+          "current_shares": 4310000,
+          "change_shares": 310000,
+          "previous_weight": 2.37,
+          "current_weight": 2.83
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 2770000,
+          "current_shares": 2900000,
+          "change_shares": 130000,
+          "previous_weight": 2.19,
+          "current_weight": 2.53
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 1625000,
+          "current_shares": 1700000,
+          "change_shares": 75000,
+          "previous_weight": 1.64,
+          "current_weight": 1.85
+        }
+      ],
+      "decreased": [
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 60000000,
+          "current_shares": 52000000,
+          "change_shares": -8000000,
+          "previous_weight": 6.28,
+          "current_weight": 5.48
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 13500000,
+          "current_shares": 10000000,
+          "change_shares": -3500000,
+          "previous_weight": 2.01,
+          "current_weight": 1.7
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 8400000,
+          "current_shares": 7700000,
+          "change_shares": -700000,
+          "previous_weight": 13.73,
+          "current_weight": 13.09
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 2850000,
+          "current_shares": 2500000,
+          "change_shares": -350000,
+          "previous_weight": 6.47,
+          "current_weight": 5.84
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 470000,
+          "current_shares": 140000,
+          "change_shares": -330000,
+          "previous_weight": 0.71,
+          "current_weight": 0.21
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 1600000,
+          "current_shares": 1400000,
+          "change_shares": -200000,
+          "previous_weight": 5.25,
+          "current_weight": 4.73
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 1900000,
+          "current_shares": 1800000,
+          "change_shares": -100000,
+          "previous_weight": 2.35,
+          "current_weight": 2.24
+        },
+        {
+          "code": "7769",
+          "name": "鴻勁",
+          "previous_shares": 80000,
+          "current_shares": 1000,
+          "change_shares": -79000,
+          "previous_weight": 0.31,
+          "current_weight": 0.0
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 1827956,
+          "current_shares": 1767956,
+          "change_shares": -60000,
+          "previous_weight": 2.52,
+          "current_weight": 2.55
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 646000,
+          "current_shares": 610000,
+          "change_shares": -36000,
+          "previous_weight": 3.54,
+          "current_weight": 3.32
+        }
+      ],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 191000,
+          "current_shares": 191000,
+          "change_shares": 0,
+          "previous_weight": 0.12,
+          "current_weight": 0.13
+        },
+        {
+          "code": "1717",
+          "name": "長興",
+          "previous_shares": 900000,
+          "current_shares": 900000,
+          "change_shares": 0,
+          "previous_weight": 0.04,
+          "current_weight": 0.04
+        },
+        {
+          "code": "2049",
+          "name": "上銀",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 75000,
+          "current_shares": 75000,
+          "change_shares": 0,
+          "previous_weight": 0.61,
+          "current_weight": 0.62
+        },
+        {
+          "code": "2301",
+          "name": "光寶科",
+          "previous_shares": 300000,
+          "current_shares": 300000,
+          "change_shares": 0,
+          "previous_weight": 0.06,
+          "current_weight": 0.06
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "previous_shares": 2900000,
+          "current_shares": 2900000,
+          "change_shares": 0,
+          "previous_weight": 3.6,
+          "current_weight": 3.66
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "previous_shares": 3200000,
+          "current_shares": 3200000,
+          "change_shares": 0,
+          "previous_weight": 0.54,
+          "current_weight": 0.55
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "previous_shares": 8000000,
+          "current_shares": 8000000,
+          "change_shares": 0,
+          "previous_weight": 3.0,
+          "current_weight": 3.01
+        },
+        {
+          "code": "2337",
+          "name": "旺宏",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2404",
+          "name": "漢唐",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 2800000,
+          "current_shares": 2800000,
+          "change_shares": 0,
+          "previous_weight": 0.94,
+          "current_weight": 0.97
+        },
+        {
+          "code": "2449",
+          "name": "京元電子",
+          "previous_shares": 4000000,
+          "current_shares": 4000000,
+          "change_shares": 0,
+          "previous_weight": 0.8,
+          "current_weight": 0.81
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 2210000,
+          "current_shares": 2210000,
+          "change_shares": 0,
+          "previous_weight": 7.49,
+          "current_weight": 7.45
+        },
+        {
+          "code": "2455",
+          "name": "全新",
+          "previous_shares": 386000,
+          "current_shares": 386000,
+          "change_shares": 0,
+          "previous_weight": 0.14,
+          "current_weight": 0.14
+        },
+        {
+          "code": "2481",
+          "name": "強茂",
+          "previous_shares": 3000000,
+          "current_shares": 3000000,
+          "change_shares": 0,
+          "previous_weight": 0.34,
+          "current_weight": 0.36
+        },
+        {
+          "code": "2882",
+          "name": "國泰金",
+          "previous_shares": 4000000,
+          "current_shares": 4000000,
+          "change_shares": 0,
+          "previous_weight": 0.29,
+          "current_weight": 0.31
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 280000,
+          "current_shares": 280000,
+          "change_shares": 0,
+          "previous_weight": 1.13,
+          "current_weight": 1.16
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 8460000,
+          "current_shares": 8460000,
+          "change_shares": 0,
+          "previous_weight": 6.42,
+          "current_weight": 6.77
+        },
+        {
+          "code": "3211",
+          "name": "順達",
+          "previous_shares": 2000000,
+          "current_shares": 2000000,
+          "change_shares": 0,
+          "previous_weight": 0.5,
+          "current_weight": 0.53
+        },
+        {
+          "code": "3264",
+          "name": "欣銓",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "3450",
+          "name": "聯鈞",
+          "previous_shares": 1500000,
+          "current_shares": 1500000,
+          "change_shares": 0,
+          "previous_weight": 0.51,
+          "current_weight": 0.54
+        },
+        {
+          "code": "3583",
+          "name": "辛耘",
+          "previous_shares": 800000,
+          "current_shares": 800000,
+          "change_shares": 0,
+          "previous_weight": 0.36,
+          "current_weight": 0.39
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 1115000,
+          "current_shares": 1115000,
+          "change_shares": 0,
+          "previous_weight": 4.67,
+          "current_weight": 5.28
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 1293000,
+          "current_shares": 1293000,
+          "change_shares": 0,
+          "previous_weight": 1.98,
+          "current_weight": 2.17
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 95500,
+          "current_shares": 95500,
+          "change_shares": 0,
+          "previous_weight": 1.27,
+          "current_weight": 1.27
+        },
+        {
+          "code": "6196",
+          "name": "帆宣",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 1100000,
+          "current_shares": 1100000,
+          "change_shares": 0,
+          "previous_weight": 4.04,
+          "current_weight": 3.92
+        },
+        {
+          "code": "6239",
+          "name": "力成",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 1900000,
+          "current_shares": 1900000,
+          "change_shares": 0,
+          "previous_weight": 1.81,
+          "current_weight": 1.94
+        },
+        {
+          "code": "6285",
+          "name": "啟碁",
+          "previous_shares": 350000,
+          "current_shares": 350000,
+          "change_shares": 0,
+          "previous_weight": 0.05,
+          "current_weight": 0.06
+        },
+        {
+          "code": "6442",
+          "name": "光聖",
+          "previous_shares": 350000,
+          "current_shares": 350000,
+          "change_shares": 0,
+          "previous_weight": 0.35,
+          "current_weight": 0.36
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "previous_shares": 2800000,
+          "current_shares": 2800000,
+          "change_shares": 0,
+          "previous_weight": 1.74,
+          "current_weight": 1.82
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 840000,
+          "current_shares": 840000,
+          "change_shares": 0,
+          "previous_weight": 1.43,
+          "current_weight": 1.45
+        },
+        {
+          "code": "8299",
+          "name": "群聯",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 0.03,
+          "current_weight": 0.03
+        }
+      ]
     },
     "00404A": {
       "code": "00404A",
@@ -600,40 +1060,1233 @@
       "code": "00407A",
       "name": "主動凱基台灣",
       "issuer": "凱基投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
+      "status": "success",
+      "summary": {
+        "increased_count": 0,
+        "decreased_count": 0,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 50
+      },
       "increased": [],
       "decreased": [],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 729000,
+          "current_shares": 729000,
+          "change_shares": 0,
+          "previous_weight": 0.72,
+          "current_weight": 0.77
+        },
+        {
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 255000,
+          "current_shares": 255000,
+          "change_shares": 0,
+          "previous_weight": 1.03,
+          "current_weight": 1.04
+        },
+        {
+          "code": "1590",
+          "name": "亞德客-KY",
+          "previous_shares": 13000,
+          "current_shares": 13000,
+          "change_shares": 0,
+          "previous_weight": 0.07,
+          "current_weight": 0.07
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 52000,
+          "current_shares": 52000,
+          "change_shares": 0,
+          "previous_weight": 2.67,
+          "current_weight": 2.68
+        },
+        {
+          "code": "2301",
+          "name": "光寶科",
+          "previous_shares": 1216000,
+          "current_shares": 1216000,
+          "change_shares": 0,
+          "previous_weight": 1.45,
+          "current_weight": 1.45
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 921000,
+          "current_shares": 921000,
+          "change_shares": 0,
+          "previous_weight": 0.59,
+          "current_weight": 0.6
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "previous_shares": 339000,
+          "current_shares": 339000,
+          "change_shares": 0,
+          "previous_weight": 2.69,
+          "current_weight": 2.65
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "previous_shares": 939000,
+          "current_shares": 939000,
+          "change_shares": 0,
+          "previous_weight": 2.26,
+          "current_weight": 2.19
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 870000,
+          "current_shares": 870000,
+          "change_shares": 0,
+          "previous_weight": 8.95,
+          "current_weight": 9.16
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "previous_shares": 187000,
+          "current_shares": 187000,
+          "change_shares": 0,
+          "previous_weight": 0.13,
+          "current_weight": 0.14
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 322000,
+          "current_shares": 322000,
+          "change_shares": 0,
+          "previous_weight": 2.54,
+          "current_weight": 2.48
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 190000,
+          "current_shares": 190000,
+          "change_shares": 0,
+          "previous_weight": 1.81,
+          "current_weight": 1.77
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "previous_shares": 119000,
+          "current_shares": 119000,
+          "change_shares": 0,
+          "previous_weight": 0.55,
+          "current_weight": 0.57
+        },
+        {
+          "code": "2379",
+          "name": "瑞昱",
+          "previous_shares": 72000,
+          "current_shares": 72000,
+          "change_shares": 0,
+          "previous_weight": 0.22,
+          "current_weight": 0.23
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 236000,
+          "current_shares": 236000,
+          "change_shares": 0,
+          "previous_weight": 4.95,
+          "current_weight": 4.94
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 447000,
+          "current_shares": 447000,
+          "change_shares": 0,
+          "previous_weight": 0.93,
+          "current_weight": 0.96
+        },
+        {
+          "code": "2412",
+          "name": "中華電",
+          "previous_shares": 67000,
+          "current_shares": 67000,
+          "change_shares": 0,
+          "previous_weight": 0.04,
+          "current_weight": 0.04
+        },
+        {
+          "code": "2451",
+          "name": "創見",
+          "previous_shares": 264000,
+          "current_shares": 264000,
+          "change_shares": 0,
+          "previous_weight": 0.31,
+          "current_weight": 0.32
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 282000,
+          "current_shares": 282000,
+          "change_shares": 0,
+          "previous_weight": 6.19,
+          "current_weight": 5.89
+        },
+        {
+          "code": "2615",
+          "name": "萬海",
+          "previous_shares": 1415000,
+          "current_shares": 1415000,
+          "change_shares": 0,
+          "previous_weight": 0.68,
+          "current_weight": 0.67
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 55000,
+          "current_shares": 55000,
+          "change_shares": 0,
+          "previous_weight": 1.43,
+          "current_weight": 1.41
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 393000,
+          "current_shares": 393000,
+          "change_shares": 0,
+          "previous_weight": 5.8,
+          "current_weight": 5.69
+        },
+        {
+          "code": "3034",
+          "name": "聯詠",
+          "previous_shares": 317000,
+          "current_shares": 317000,
+          "change_shares": 0,
+          "previous_weight": 0.72,
+          "current_weight": 0.73
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 1150000,
+          "current_shares": 1150000,
+          "change_shares": 0,
+          "previous_weight": 5.66,
+          "current_weight": 5.7
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 119000,
+          "current_shares": 119000,
+          "change_shares": 0,
+          "previous_weight": 1.33,
+          "current_weight": 1.34
+        },
+        {
+          "code": "3131",
+          "name": "弘塑",
+          "previous_shares": 84000,
+          "current_shares": 84000,
+          "change_shares": 0,
+          "previous_weight": 0.84,
+          "current_weight": 0.88
+        },
+        {
+          "code": "3231",
+          "name": "緯創",
+          "previous_shares": 921000,
+          "current_shares": 921000,
+          "change_shares": 0,
+          "previous_weight": 0.71,
+          "current_weight": 0.73
+        },
+        {
+          "code": "3260",
+          "name": "威剛",
+          "previous_shares": 176000,
+          "current_shares": 176000,
+          "change_shares": 0,
+          "previous_weight": 0.28,
+          "current_weight": 0.28
+        },
+        {
+          "code": "3293",
+          "name": "鈊象",
+          "previous_shares": 179000,
+          "current_shares": 179000,
+          "change_shares": 0,
+          "previous_weight": 0.57,
+          "current_weight": 0.59
+        },
+        {
+          "code": "3443",
+          "name": "創意電子",
+          "previous_shares": 143000,
+          "current_shares": 143000,
+          "change_shares": 0,
+          "previous_weight": 5.07,
+          "current_weight": 4.82
+        },
+        {
+          "code": "3491",
+          "name": "昇達科",
+          "previous_shares": 142000,
+          "current_shares": 142000,
+          "change_shares": 0,
+          "previous_weight": 0.92,
+          "current_weight": 0.91
+        },
+        {
+          "code": "3529",
+          "name": "力旺",
+          "previous_shares": 50000,
+          "current_shares": 50000,
+          "change_shares": 0,
+          "previous_weight": 0.67,
+          "current_weight": 0.7
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 122000,
+          "current_shares": 122000,
+          "change_shares": 0,
+          "previous_weight": 3.51,
+          "current_weight": 3.58
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 226000,
+          "current_shares": 226000,
+          "change_shares": 0,
+          "previous_weight": 2.2,
+          "current_weight": 2.35
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 998000,
+          "current_shares": 998000,
+          "change_shares": 0,
+          "previous_weight": 2.9,
+          "current_weight": 2.92
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 438000,
+          "current_shares": 438000,
+          "change_shares": 0,
+          "previous_weight": 0.87,
+          "current_weight": 0.93
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 30900,
+          "current_shares": 30900,
+          "change_shares": 0,
+          "previous_weight": 2.55,
+          "current_weight": 2.55
+        },
+        {
+          "code": "5289",
+          "name": "宜鼎",
+          "previous_shares": 58294,
+          "current_shares": 58294,
+          "change_shares": 0,
+          "previous_weight": 0.32,
+          "current_weight": 0.32
+        },
+        {
+          "code": "5434",
+          "name": "崇越",
+          "previous_shares": 87000,
+          "current_shares": 87000,
+          "change_shares": 0,
+          "previous_weight": 0.2,
+          "current_weight": 0.2
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 267000,
+          "current_shares": 267000,
+          "change_shares": 0,
+          "previous_weight": 1.33,
+          "current_weight": 1.49
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 120000,
+          "current_shares": 120000,
+          "change_shares": 0,
+          "previous_weight": 2.7,
+          "current_weight": 2.65
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 565000,
+          "current_shares": 565000,
+          "change_shares": 0,
+          "previous_weight": 3.51,
+          "current_weight": 3.57
+        },
+        {
+          "code": "6446",
+          "name": "藥華藥",
+          "previous_shares": 62000,
+          "current_shares": 62000,
+          "change_shares": 0,
+          "previous_weight": 0.3,
+          "current_weight": 0.32
+        },
+        {
+          "code": "6510",
+          "name": "精測",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 1.38,
+          "current_weight": 1.34
+        },
+        {
+          "code": "6531",
+          "name": "愛普*",
+          "previous_shares": 81000,
+          "current_shares": 81000,
+          "change_shares": 0,
+          "previous_weight": 0.33,
+          "current_weight": 0.32
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 418644,
+          "current_shares": 418644,
+          "change_shares": 0,
+          "previous_weight": 3.68,
+          "current_weight": 3.74
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 207000,
+          "current_shares": 207000,
+          "change_shares": 0,
+          "previous_weight": 2.18,
+          "current_weight": 2.22
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 356000,
+          "current_shares": 356000,
+          "change_shares": 0,
+          "previous_weight": 1.83,
+          "current_weight": 1.92
+        },
+        {
+          "code": "8299",
+          "name": "群聯",
+          "previous_shares": 36000,
+          "current_shares": 36000,
+          "change_shares": 0,
+          "previous_weight": 0.32,
+          "current_weight": 0.32
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 324000,
+          "current_shares": 324000,
+          "change_shares": 0,
+          "previous_weight": 2.06,
+          "current_weight": 2.19
+        }
+      ]
     },
     "00408A": {
       "code": "00408A",
       "name": "主動第一金優股息",
       "issuer": "第一金投信",
-      "current_date": "2026-09-23",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-23",
-      "status": "same_holdings_date",
-      "increased": [],
-      "decreased": [],
-      "new": [],
-      "removed": [],
-      "unchanged": []
+      "status": "success",
+      "summary": {
+        "increased_count": 3,
+        "decreased_count": 9,
+        "new_count": 1,
+        "removed_count": 1,
+        "unchanged_count": 37
+      },
+      "increased": [
+        {
+          "code": "3189",
+          "name": "景碩",
+          "previous_shares": 27000,
+          "current_shares": 34000,
+          "change_shares": 7000,
+          "previous_weight": 1.65,
+          "current_weight": 2.22
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 24000,
+          "current_shares": 28000,
+          "change_shares": 4000,
+          "previous_weight": 2.37,
+          "current_weight": 2.84
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 1000,
+          "current_shares": 4000,
+          "change_shares": 3000,
+          "previous_weight": 0.16,
+          "current_weight": 0.67
+        }
+      ],
+      "decreased": [
+        {
+          "code": "3045",
+          "name": "台灣大",
+          "previous_shares": 250000,
+          "current_shares": 125000,
+          "change_shares": -125000,
+          "previous_weight": 2.08,
+          "current_weight": 1.03
+        },
+        {
+          "code": "9941",
+          "name": "裕融",
+          "previous_shares": 153200,
+          "current_shares": 53200,
+          "change_shares": -100000,
+          "previous_weight": 0.82,
+          "current_weight": 0.28
+        },
+        {
+          "code": "9802",
+          "name": "鈺齊-KY",
+          "previous_shares": 312000,
+          "current_shares": 252000,
+          "change_shares": -60000,
+          "previous_weight": 1.35,
+          "current_weight": 1.11
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 23000,
+          "current_shares": 15000,
+          "change_shares": -8000,
+          "previous_weight": 5.39,
+          "current_weight": 3.48
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 73000,
+          "current_shares": 66000,
+          "change_shares": -7000,
+          "previous_weight": 2.54,
+          "current_weight": 2.28
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 7000,
+          "current_shares": 6000,
+          "change_shares": -1000,
+          "previous_weight": 0.89,
+          "current_weight": 0.74
+        },
+        {
+          "code": "7769",
+          "name": "鴻勁",
+          "previous_shares": 2500,
+          "current_shares": 1500,
+          "change_shares": -1000,
+          "previous_weight": 1.01,
+          "current_weight": 0.57
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 8000,
+          "current_shares": 7500,
+          "change_shares": -500,
+          "previous_weight": 2.71,
+          "current_weight": 2.52
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 6000,
+          "current_shares": 5790,
+          "change_shares": -210,
+          "previous_weight": 2.28,
+          "current_weight": 2.05
+        }
+      ],
+      "new": [
+        {
+          "code": "3026",
+          "name": "禾伸堂",
+          "shares": 6000,
+          "weight": 0.33
+        }
+      ],
+      "removed": [
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "previous_shares": 100000,
+          "current_shares": 0,
+          "change_shares": -100000
+        }
+      ],
+      "unchanged": [
+        {
+          "code": "1216",
+          "name": "統一",
+          "previous_shares": 20000,
+          "current_shares": 20000,
+          "change_shares": 0,
+          "previous_weight": 0.1,
+          "current_weight": 0.1
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 81000,
+          "current_shares": 81000,
+          "change_shares": 0,
+          "previous_weight": 1.24,
+          "current_weight": 1.36
+        },
+        {
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 6000,
+          "current_shares": 6000,
+          "change_shares": 0,
+          "previous_weight": 0.39,
+          "current_weight": 0.39
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 500,
+          "current_shares": 500,
+          "change_shares": 0,
+          "previous_weight": 0.42,
+          "current_weight": 0.41
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 323000,
+          "current_shares": 323000,
+          "change_shares": 0,
+          "previous_weight": 3.49,
+          "current_weight": 3.38
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "previous_shares": 22900,
+          "current_shares": 22900,
+          "change_shares": 0,
+          "previous_weight": 2.94,
+          "current_weight": 2.87
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 33999,
+          "current_shares": 33999,
+          "change_shares": 0,
+          "previous_weight": 5.74,
+          "current_weight": 5.74
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "previous_shares": 40000,
+          "current_shares": 40000,
+          "change_shares": 0,
+          "previous_weight": 0.47,
+          "current_weight": 0.47
+        },
+        {
+          "code": "2357",
+          "name": "華碩",
+          "previous_shares": 30000,
+          "current_shares": 30000,
+          "change_shares": 0,
+          "previous_weight": 1.94,
+          "current_weight": 1.97
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 8000,
+          "current_shares": 8000,
+          "change_shares": 0,
+          "previous_weight": 1.26,
+          "current_weight": 1.19
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "previous_shares": 46000,
+          "current_shares": 46000,
+          "change_shares": 0,
+          "previous_weight": 3.54,
+          "current_weight": 3.51
+        },
+        {
+          "code": "2376",
+          "name": "技嘉",
+          "previous_shares": 55000,
+          "current_shares": 55000,
+          "change_shares": 0,
+          "previous_weight": 1.36,
+          "current_weight": 1.36
+        },
+        {
+          "code": "2382",
+          "name": "廣達",
+          "previous_shares": 10000,
+          "current_shares": 10000,
+          "change_shares": 0,
+          "previous_weight": 0.23,
+          "current_weight": 0.23
+        },
+        {
+          "code": "2395",
+          "name": "研華",
+          "previous_shares": 34000,
+          "current_shares": 34000,
+          "change_shares": 0,
+          "previous_weight": 1.61,
+          "current_weight": 1.69
+        },
+        {
+          "code": "2449",
+          "name": "京元電子",
+          "previous_shares": 75000,
+          "current_shares": 75000,
+          "change_shares": 0,
+          "previous_weight": 1.54,
+          "current_weight": 1.51
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 18500,
+          "current_shares": 18500,
+          "change_shares": 0,
+          "previous_weight": 6.44,
+          "current_weight": 6.21
+        },
+        {
+          "code": "2481",
+          "name": "強茂",
+          "previous_shares": 96000,
+          "current_shares": 96000,
+          "change_shares": 0,
+          "previous_weight": 1.12,
+          "current_weight": 1.15
+        },
+        {
+          "code": "2542",
+          "name": "興富發",
+          "previous_shares": 1350000,
+          "current_shares": 1350000,
+          "change_shares": 0,
+          "previous_weight": 3.6,
+          "current_weight": 3.56
+        },
+        {
+          "code": "2801",
+          "name": "彰銀",
+          "previous_shares": 1165000,
+          "current_shares": 1165000,
+          "change_shares": 0,
+          "previous_weight": 2.19,
+          "current_weight": 2.19
+        },
+        {
+          "code": "2891",
+          "name": "中信金",
+          "previous_shares": 240000,
+          "current_shares": 240000,
+          "change_shares": 0,
+          "previous_weight": 1.12,
+          "current_weight": 1.12
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 2000,
+          "current_shares": 2000,
+          "change_shares": 0,
+          "previous_weight": 0.84,
+          "current_weight": 0.82
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 53000,
+          "current_shares": 53000,
+          "change_shares": 0,
+          "previous_weight": 4.15,
+          "current_weight": 4.21
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 7000,
+          "current_shares": 7000,
+          "change_shares": 0,
+          "previous_weight": 1.27,
+          "current_weight": 1.27
+        },
+        {
+          "code": "3231",
+          "name": "緯創",
+          "previous_shares": 30000,
+          "current_shares": 30000,
+          "change_shares": 0,
+          "previous_weight": 0.36,
+          "current_weight": 0.38
+        },
+        {
+          "code": "3264",
+          "name": "欣銓",
+          "previous_shares": 44000,
+          "current_shares": 44000,
+          "change_shares": 0,
+          "previous_weight": 0.75,
+          "current_weight": 0.72
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.57,
+          "current_weight": 0.54
+        },
+        {
+          "code": "3491",
+          "name": "昇達科",
+          "previous_shares": 10000,
+          "current_shares": 10000,
+          "change_shares": 0,
+          "previous_weight": 1.06,
+          "current_weight": 1.03
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 6000,
+          "current_shares": 6000,
+          "change_shares": 0,
+          "previous_weight": 2.6,
+          "current_weight": 2.82
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 33000,
+          "current_shares": 33000,
+          "change_shares": 0,
+          "previous_weight": 1.54,
+          "current_weight": 1.55
+        },
+        {
+          "code": "5434",
+          "name": "崇越",
+          "previous_shares": 58000,
+          "current_shares": 58000,
+          "change_shares": 0,
+          "previous_weight": 2.12,
+          "current_weight": 2.14
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 11000,
+          "current_shares": 11000,
+          "change_shares": 0,
+          "previous_weight": 0.89,
+          "current_weight": 0.98
+        },
+        {
+          "code": "6239",
+          "name": "力成",
+          "previous_shares": 67000,
+          "current_shares": 67000,
+          "change_shares": 0,
+          "previous_weight": 1.3,
+          "current_weight": 1.28
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "previous_shares": 7000,
+          "current_shares": 7000,
+          "change_shares": 0,
+          "previous_weight": 0.45,
+          "current_weight": 0.45
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 26768,
+          "current_shares": 26768,
+          "change_shares": 0,
+          "previous_weight": 3.8,
+          "current_weight": 3.84
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 1.58,
+          "current_weight": 1.54
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 21000,
+          "current_shares": 21000,
+          "change_shares": 0,
+          "previous_weight": 1.72,
+          "current_weight": 1.82
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 18000,
+          "current_shares": 18000,
+          "change_shares": 0,
+          "previous_weight": 1.87,
+          "current_weight": 1.95
+        }
+      ]
     },
     "00410A": {
       "code": "00410A",
       "name": "主動永豐科技趨勢",
       "issuer": "永豐投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
+      "status": "success",
+      "summary": {
+        "increased_count": 0,
+        "decreased_count": 0,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 29
+      },
       "increased": [],
       "decreased": [],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 150000,
+          "current_shares": 150000,
+          "change_shares": 0,
+          "previous_weight": 1.85,
+          "current_weight": 1.94
+        },
+        {
+          "code": "1519",
+          "name": "華城",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.33,
+          "current_weight": 0.32
+        },
+        {
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 80000,
+          "current_shares": 80000,
+          "change_shares": 0,
+          "previous_weight": 4.02,
+          "current_weight": 4.01
+        },
+        {
+          "code": "1717",
+          "name": "長興",
+          "previous_shares": 250000,
+          "current_shares": 250000,
+          "change_shares": 0,
+          "previous_weight": 0.92,
+          "current_weight": 0.95
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 5000,
+          "current_shares": 5000,
+          "change_shares": 0,
+          "previous_weight": 3.19,
+          "current_weight": 3.18
+        },
+        {
+          "code": "2301",
+          "name": "光寶科",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 1.48,
+          "current_weight": 1.47
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 45000,
+          "current_shares": 45000,
+          "change_shares": 0,
+          "previous_weight": 5.76,
+          "current_weight": 5.85
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 12000,
+          "current_shares": 12000,
+          "change_shares": 0,
+          "previous_weight": 3.13,
+          "current_weight": 3.1
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 2.6,
+          "current_weight": 2.65
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 15000,
+          "current_shares": 15000,
+          "change_shares": 0,
+          "previous_weight": 4.1,
+          "current_weight": 3.86
+        },
+        {
+          "code": "2455",
+          "name": "全新",
+          "previous_shares": 200000,
+          "current_shares": 200000,
+          "change_shares": 0,
+          "previous_weight": 5.73,
+          "current_weight": 5.7
+        },
+        {
+          "code": "2486",
+          "name": "一詮",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 1.21,
+          "current_weight": 1.24
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 15000,
+          "current_shares": 15000,
+          "change_shares": 0,
+          "previous_weight": 4.85,
+          "current_weight": 4.74
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 28000,
+          "current_shares": 28000,
+          "change_shares": 0,
+          "previous_weight": 5.15,
+          "current_weight": 4.99
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 30000,
+          "current_shares": 30000,
+          "change_shares": 0,
+          "previous_weight": 1.84,
+          "current_weight": 1.83
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 25000,
+          "current_shares": 25000,
+          "change_shares": 0,
+          "previous_weight": 3.49,
+          "current_weight": 3.48
+        },
+        {
+          "code": "3406",
+          "name": "玉晶光",
+          "previous_shares": 30000,
+          "current_shares": 30000,
+          "change_shares": 0,
+          "previous_weight": 1.4,
+          "current_weight": 1.39
+        },
+        {
+          "code": "3491",
+          "name": "昇達科",
+          "previous_shares": 60000,
+          "current_shares": 60000,
+          "change_shares": 0,
+          "previous_weight": 4.83,
+          "current_weight": 4.75
+        },
+        {
+          "code": "3529",
+          "name": "力旺",
+          "previous_shares": 30000,
+          "current_shares": 30000,
+          "change_shares": 0,
+          "previous_weight": 5.01,
+          "current_weight": 5.21
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 15000,
+          "current_shares": 15000,
+          "change_shares": 0,
+          "previous_weight": 5.37,
+          "current_weight": 5.43
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 30000,
+          "current_shares": 30000,
+          "change_shares": 0,
+          "previous_weight": 3.63,
+          "current_weight": 3.85
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 60000,
+          "current_shares": 60000,
+          "change_shares": 0,
+          "previous_weight": 2.17,
+          "current_weight": 2.16
+        },
+        {
+          "code": "4749",
+          "name": "新應材",
+          "previous_shares": 45000,
+          "current_shares": 45000,
+          "change_shares": 0,
+          "previous_weight": 1.69,
+          "current_weight": 1.8
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 2.46,
+          "current_weight": 2.61
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 10000,
+          "current_shares": 10000,
+          "change_shares": 0,
+          "previous_weight": 2.8,
+          "current_weight": 2.72
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 25776,
+          "current_shares": 25776,
+          "change_shares": 0,
+          "previous_weight": 2.82,
+          "current_weight": 2.84
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 36000,
+          "current_shares": 36000,
+          "change_shares": 0,
+          "previous_weight": 2.31,
+          "current_weight": 2.4
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 2.64,
+          "current_weight": 2.61
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 60000,
+          "current_shares": 60000,
+          "change_shares": 0,
+          "previous_weight": 4.75,
+          "current_weight": 4.99
+        }
+      ]
     },
     "00980A": {
       "code": "00980A",
@@ -652,40 +2305,1903 @@
       "code": "00981A",
       "name": "主動統一台股增長",
       "issuer": "統一投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-30",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
-      "increased": [],
-      "decreased": [],
+      "status": "success",
+      "summary": {
+        "increased_count": 3,
+        "decreased_count": 28,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 19
+      },
+      "increased": [
+        {
+          "code": "2368",
+          "name": "金像電",
+          "previous_shares": 1663000,
+          "current_shares": 2022000,
+          "change_shares": 359000,
+          "previous_weight": 0.65,
+          "current_weight": 0.8
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 5936000,
+          "current_shares": 6151000,
+          "change_shares": 215000,
+          "previous_weight": 2.96,
+          "current_weight": 3.22
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 1000,
+          "current_shares": 121000,
+          "change_shares": 120000,
+          "previous_weight": 0.0,
+          "current_weight": 0.06
+        }
+      ],
+      "decreased": [
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 15466000,
+          "current_shares": 12966000,
+          "change_shares": -2500000,
+          "previous_weight": 3.66,
+          "current_weight": 3.14
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 89118000,
+          "current_shares": 87118000,
+          "change_shares": -2000000,
+          "previous_weight": 4.87,
+          "current_weight": 4.71
+        },
+        {
+          "code": "6278",
+          "name": "台表科",
+          "previous_shares": 3248000,
+          "current_shares": 2674000,
+          "change_shares": -574000,
+          "previous_weight": 0.23,
+          "current_weight": 0.2
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 11864000,
+          "current_shares": 11464000,
+          "change_shares": -400000,
+          "previous_weight": 10.12,
+          "current_weight": 10.0
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "previous_shares": 25107000,
+          "current_shares": 24757000,
+          "change_shares": -350000,
+          "previous_weight": 4.91,
+          "current_weight": 4.78
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 5138561,
+          "current_shares": 4812561,
+          "change_shares": -326000,
+          "previous_weight": 3.69,
+          "current_weight": 3.56
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 6464000,
+          "current_shares": 6264000,
+          "change_shares": -200000,
+          "previous_weight": 4.17,
+          "current_weight": 4.0
+        },
+        {
+          "code": "2449",
+          "name": "京元電子",
+          "previous_shares": 13138450,
+          "current_shares": 12938450,
+          "change_shares": -200000,
+          "previous_weight": 1.36,
+          "current_weight": 1.34
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 20300000,
+          "current_shares": 20100000,
+          "change_shares": -200000,
+          "previous_weight": 8.04,
+          "current_weight": 8.25
+        },
+        {
+          "code": "3264",
+          "name": "欣銓",
+          "previous_shares": 5182000,
+          "current_shares": 4982000,
+          "change_shares": -200000,
+          "previous_weight": 0.45,
+          "current_weight": 0.42
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 4750000,
+          "current_shares": 4650000,
+          "change_shares": -100000,
+          "previous_weight": 8.14,
+          "current_weight": 8.06
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 5186000,
+          "current_shares": 5086000,
+          "change_shares": -100000,
+          "previous_weight": 9.18,
+          "current_weight": 8.8
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 1773000,
+          "current_shares": 1673000,
+          "change_shares": -100000,
+          "previous_weight": 1.57,
+          "current_weight": 1.48
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 9037000,
+          "current_shares": 8937000,
+          "change_shares": -100000,
+          "previous_weight": 3.73,
+          "current_weight": 4.0
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 3943848,
+          "current_shares": 3876848,
+          "change_shares": -67000,
+          "previous_weight": 3.15,
+          "current_weight": 3.34
+        },
+        {
+          "code": "6191",
+          "name": "精成科",
+          "previous_shares": 3988000,
+          "current_shares": 3921000,
+          "change_shares": -67000,
+          "previous_weight": 0.11,
+          "current_weight": 0.11
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 5949000,
+          "current_shares": 5889000,
+          "change_shares": -60000,
+          "previous_weight": 7.05,
+          "current_weight": 7.06
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 3543000,
+          "current_shares": 3483000,
+          "change_shares": -60000,
+          "previous_weight": 0.57,
+          "current_weight": 0.61
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 2544000,
+          "current_shares": 2499000,
+          "change_shares": -45000,
+          "previous_weight": 4.88,
+          "current_weight": 4.57
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 207900,
+          "current_shares": 168900,
+          "change_shares": -39000,
+          "previous_weight": 1.44,
+          "current_weight": 1.15
+        },
+        {
+          "code": "6271",
+          "name": "同欣電",
+          "previous_shares": 2222000,
+          "current_shares": 2185000,
+          "change_shares": -37000,
+          "previous_weight": 0.17,
+          "current_weight": 0.17
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "previous_shares": 7420000,
+          "current_shares": 7389000,
+          "change_shares": -31000,
+          "previous_weight": 4.81,
+          "current_weight": 4.78
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 413000,
+          "current_shares": 388000,
+          "change_shares": -25000,
+          "previous_weight": 1.18,
+          "current_weight": 1.08
+        },
+        {
+          "code": "8210",
+          "name": "勤誠",
+          "previous_shares": 1159000,
+          "current_shares": 1139000,
+          "change_shares": -20000,
+          "previous_weight": 0.35,
+          "current_weight": 0.35
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 2512000,
+          "current_shares": 2502000,
+          "change_shares": -10000,
+          "previous_weight": 5.5,
+          "current_weight": 6.08
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 485000,
+          "current_shares": 476000,
+          "change_shares": -9000,
+          "previous_weight": 0.25,
+          "current_weight": 0.27
+        },
+        {
+          "code": "6510",
+          "name": "精測",
+          "previous_shares": 256000,
+          "current_shares": 251000,
+          "change_shares": -5000,
+          "previous_weight": 0.3,
+          "current_weight": 0.28
+        },
+        {
+          "code": "6515",
+          "name": "穎崴",
+          "previous_shares": 95000,
+          "current_shares": 93000,
+          "change_shares": -2000,
+          "previous_weight": 0.19,
+          "current_weight": 0.19
+        }
+      ],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1590",
+          "name": "亞德客-KY",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2002",
+          "name": "中鋼",
+          "previous_shares": 5163000,
+          "current_shares": 5163000,
+          "change_shares": 0,
+          "previous_weight": 0.03,
+          "current_weight": 0.03
+        },
+        {
+          "code": "2313",
+          "name": "華通",
+          "previous_shares": 501000,
+          "current_shares": 501000,
+          "change_shares": 0,
+          "previous_weight": 0.04,
+          "current_weight": 0.04
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2382",
+          "name": "廣達",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2439",
+          "name": "美律",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2481",
+          "name": "強茂",
+          "previous_shares": 5000,
+          "current_shares": 5000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2637",
+          "name": "慧洋-KY",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "3376",
+          "name": "新日興",
+          "previous_shares": 1740000,
+          "current_shares": 1740000,
+          "change_shares": 0,
+          "previous_weight": 0.1,
+          "current_weight": 0.11
+        },
+        {
+          "code": "3661",
+          "name": "世芯-KY",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "4966",
+          "name": "譜瑞-KY",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "4979",
+          "name": "華星光",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "5347",
+          "name": "世界",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "8150",
+          "name": "南茂",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        }
+      ]
     },
     "00982A": {
       "code": "00982A",
       "name": "主動群益台灣強棒",
       "issuer": "群益投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
+      "status": "success",
+      "summary": {
+        "increased_count": 0,
+        "decreased_count": 1,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 56
+      },
       "increased": [],
-      "decreased": [],
+      "decreased": [
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 541000,
+          "current_shares": 406000,
+          "change_shares": -135000,
+          "previous_weight": 2.025,
+          "current_weight": 1.4802
+        }
+      ],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1519",
+          "name": "華城",
+          "previous_shares": 660,
+          "current_shares": 660,
+          "change_shares": 0,
+          "previous_weight": 0.0009,
+          "current_weight": 0.0009
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 179000,
+          "current_shares": 179000,
+          "change_shares": 0,
+          "previous_weight": 4.3666,
+          "current_weight": 4.3681
+        },
+        {
+          "code": "2301",
+          "name": "光寶科",
+          "previous_shares": 3216000,
+          "current_shares": 3216000,
+          "change_shares": 0,
+          "previous_weight": 1.8231,
+          "current_weight": 1.8202
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 5116000,
+          "current_shares": 5116000,
+          "change_shares": 0,
+          "previous_weight": 1.5562,
+          "current_weight": 1.5818
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 1794000,
+          "current_shares": 1794000,
+          "change_shares": 0,
+          "previous_weight": 8.7706,
+          "current_weight": 8.9436
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 815000,
+          "current_shares": 815000,
+          "change_shares": 0,
+          "previous_weight": 3.6946,
+          "current_weight": 3.5869
+        },
+        {
+          "code": "2376",
+          "name": "技嘉",
+          "previous_shares": 1737000,
+          "current_shares": 1737000,
+          "change_shares": 0,
+          "previous_weight": 1.2403,
+          "current_weight": 1.2665
+        },
+        {
+          "code": "2377",
+          "name": "微星",
+          "previous_shares": 3344000,
+          "current_shares": 3344000,
+          "change_shares": 0,
+          "previous_weight": 1.0007,
+          "current_weight": 1.017
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 309000,
+          "current_shares": 309000,
+          "change_shares": 0,
+          "previous_weight": 3.0823,
+          "current_weight": 3.0622
+        },
+        {
+          "code": "2395",
+          "name": "研華",
+          "previous_shares": 964000,
+          "current_shares": 964000,
+          "change_shares": 0,
+          "previous_weight": 1.3748,
+          "current_weight": 1.4174
+        },
+        {
+          "code": "2428",
+          "name": "興勤",
+          "previous_shares": 2268000,
+          "current_shares": 2268000,
+          "change_shares": 0,
+          "previous_weight": 1.1423,
+          "current_weight": 1.1489
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 736000,
+          "current_shares": 736000,
+          "change_shares": 0,
+          "previous_weight": 7.6834,
+          "current_weight": 7.279
+        },
+        {
+          "code": "2455",
+          "name": "全新",
+          "previous_shares": 1529000,
+          "current_shares": 1529000,
+          "change_shares": 0,
+          "previous_weight": 1.6732,
+          "current_weight": 1.6723
+        },
+        {
+          "code": "2467",
+          "name": "志聖",
+          "previous_shares": 1000000,
+          "current_shares": 1000000,
+          "change_shares": 0,
+          "previous_weight": 1.0449,
+          "current_weight": 1.0957
+        },
+        {
+          "code": "2476",
+          "name": "鉅祥",
+          "previous_shares": 1281000,
+          "current_shares": 1281000,
+          "change_shares": 0,
+          "previous_weight": 0.3099,
+          "current_weight": 0.3212
+        },
+        {
+          "code": "2478",
+          "name": "大毅",
+          "previous_shares": 4331000,
+          "current_shares": 4331000,
+          "change_shares": 0,
+          "previous_weight": 1.0266,
+          "current_weight": 1.025
+        },
+        {
+          "code": "2486",
+          "name": "一詮",
+          "previous_shares": 1607000,
+          "current_shares": 1607000,
+          "change_shares": 0,
+          "previous_weight": 0.7427,
+          "current_weight": 0.7671
+        },
+        {
+          "code": "2881",
+          "name": "富邦金",
+          "previous_shares": 250,
+          "current_shares": 250,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2885",
+          "name": "元大金",
+          "previous_shares": 2213556,
+          "current_shares": 2213556,
+          "change_shares": 0,
+          "previous_weight": 0.3025,
+          "current_weight": 0.3063
+        },
+        {
+          "code": "2886",
+          "name": "兆豐金",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 251000,
+          "current_shares": 251000,
+          "change_shares": 0,
+          "previous_weight": 3.0962,
+          "current_weight": 3.0435
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 372000,
+          "current_shares": 372000,
+          "change_shares": 0,
+          "previous_weight": 2.6122,
+          "current_weight": 2.5476
+        },
+        {
+          "code": "3090",
+          "name": "日電貿",
+          "previous_shares": 3280000,
+          "current_shares": 3280000,
+          "change_shares": 0,
+          "previous_weight": 1.069,
+          "current_weight": 1.0636
+        },
+        {
+          "code": "3105",
+          "name": "穩懋",
+          "previous_shares": 5709000,
+          "current_shares": 5709000,
+          "change_shares": 0,
+          "previous_weight": 5.661,
+          "current_weight": 5.6692
+        },
+        {
+          "code": "3231",
+          "name": "緯創",
+          "previous_shares": 3638000,
+          "current_shares": 3638000,
+          "change_shares": 0,
+          "previous_weight": 1.3258,
+          "current_weight": 1.3593
+        },
+        {
+          "code": "3265",
+          "name": "台星科",
+          "previous_shares": 3345000,
+          "current_shares": 3345000,
+          "change_shares": 0,
+          "previous_weight": 1.2091,
+          "current_weight": 1.2161
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0168,
+          "current_weight": 0.0159
+        },
+        {
+          "code": "3491",
+          "name": "昇達科",
+          "previous_shares": 1180000,
+          "current_shares": 1180000,
+          "change_shares": 0,
+          "previous_weight": 3.6244,
+          "current_weight": 3.589
+        },
+        {
+          "code": "3529",
+          "name": "力旺",
+          "previous_shares": 93000,
+          "current_shares": 93000,
+          "change_shares": 0,
+          "previous_weight": 0.5933,
+          "current_weight": 0.6191
+        },
+        {
+          "code": "3583",
+          "name": "辛耘",
+          "previous_shares": 790000,
+          "current_shares": 790000,
+          "change_shares": 0,
+          "previous_weight": 1.0892,
+          "current_weight": 1.1345
+        },
+        {
+          "code": "3617",
+          "name": "碩天",
+          "previous_shares": 627000,
+          "current_shares": 627000,
+          "change_shares": 0,
+          "previous_weight": 0.3003,
+          "current_weight": 0.3037
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 876000,
+          "current_shares": 876000,
+          "change_shares": 0,
+          "previous_weight": 1.2095,
+          "current_weight": 1.2122
+        },
+        {
+          "code": "4441",
+          "name": "振大環球",
+          "previous_shares": 4000,
+          "current_shares": 4000,
+          "change_shares": 0,
+          "previous_weight": 0.0013,
+          "current_weight": 0.0013
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 3158000,
+          "current_shares": 3158000,
+          "change_shares": 0,
+          "previous_weight": 2.9661,
+          "current_weight": 3.1709
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 35900,
+          "current_shares": 35900,
+          "change_shares": 0,
+          "previous_weight": 1.4065,
+          "current_weight": 1.4024
+        },
+        {
+          "code": "5425",
+          "name": "台半",
+          "previous_shares": 6382000,
+          "current_shares": 6382000,
+          "change_shares": 0,
+          "previous_weight": 1.1913,
+          "current_weight": 1.2315
+        },
+        {
+          "code": "5483",
+          "name": "中美晶",
+          "previous_shares": 3415000,
+          "current_shares": 3415000,
+          "change_shares": 0,
+          "previous_weight": 1.2715,
+          "current_weight": 1.3
+        },
+        {
+          "code": "5536",
+          "name": "聖暉*",
+          "previous_shares": 455000,
+          "current_shares": 455000,
+          "change_shares": 0,
+          "previous_weight": 0.8106,
+          "current_weight": 0.8266
+        },
+        {
+          "code": "6139",
+          "name": "亞翔",
+          "previous_shares": 3697000,
+          "current_shares": 3697000,
+          "change_shares": 0,
+          "previous_weight": 5.4989,
+          "current_weight": 5.451
+        },
+        {
+          "code": "6177",
+          "name": "達麗",
+          "previous_shares": 194350,
+          "current_shares": 194350,
+          "change_shares": 0,
+          "previous_weight": 0.0177,
+          "current_weight": 0.0181
+        },
+        {
+          "code": "6196",
+          "name": "帆宣",
+          "previous_shares": 304000,
+          "current_shares": 304000,
+          "change_shares": 0,
+          "previous_weight": 0.3392,
+          "current_weight": 0.3331
+        },
+        {
+          "code": "6213",
+          "name": "聯茂",
+          "previous_shares": 380000,
+          "current_shares": 380000,
+          "change_shares": 0,
+          "previous_weight": 0.4466,
+          "current_weight": 0.4745
+        },
+        {
+          "code": "6214",
+          "name": "精誠",
+          "previous_shares": 3438000,
+          "current_shares": 3438000,
+          "change_shares": 0,
+          "previous_weight": 1.2937,
+          "current_weight": 1.3088
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 301000,
+          "current_shares": 301000,
+          "change_shares": 0,
+          "previous_weight": 3.2195,
+          "current_weight": 3.1436
+        },
+        {
+          "code": "6239",
+          "name": "力成",
+          "previous_shares": 1910000,
+          "current_shares": 1910000,
+          "change_shares": 0,
+          "previous_weight": 1.0828,
+          "current_weight": 1.081
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 418000,
+          "current_shares": 418000,
+          "change_shares": 0,
+          "previous_weight": 1.2343,
+          "current_weight": 1.2503
+        },
+        {
+          "code": "6446",
+          "name": "藥華藥",
+          "previous_shares": 42000,
+          "current_shares": 42000,
+          "change_shares": 0,
+          "previous_weight": 0.0958,
+          "current_weight": 0.101
+        },
+        {
+          "code": "6472",
+          "name": "保瑞",
+          "previous_shares": 1032000,
+          "current_shares": 1032000,
+          "change_shares": 0,
+          "previous_weight": 0.8592,
+          "current_weight": 0.8782
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "previous_shares": 1082000,
+          "current_shares": 1082000,
+          "change_shares": 0,
+          "previous_weight": 2.0261,
+          "current_weight": 2.0595
+        },
+        {
+          "code": "6531",
+          "name": "愛普*",
+          "previous_shares": 2041000,
+          "current_shares": 2041000,
+          "change_shares": 0,
+          "previous_weight": 4.0033,
+          "current_weight": 3.8192
+        },
+        {
+          "code": "6640",
+          "name": "均華",
+          "previous_shares": 143000,
+          "current_shares": 143000,
+          "change_shares": 0,
+          "previous_weight": 0.2852,
+          "current_weight": 0.2995
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 1016225,
+          "current_shares": 1016225,
+          "change_shares": 0,
+          "previous_weight": 4.2455,
+          "current_weight": 4.2985
+        },
+        {
+          "code": "6672",
+          "name": "騰輝電子-KY",
+          "previous_shares": 527000,
+          "current_shares": 527000,
+          "change_shares": 0,
+          "previous_weight": 0.3513,
+          "current_weight": 0.3561
+        },
+        {
+          "code": "8070",
+          "name": "長華*",
+          "previous_shares": 3212000,
+          "current_shares": 3212000,
+          "change_shares": 0,
+          "previous_weight": 0.3153,
+          "current_weight": 0.3215
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 382000,
+          "current_shares": 382000,
+          "change_shares": 0,
+          "previous_weight": 1.1544,
+          "current_weight": 1.2195
+        }
+      ]
     },
     "00984A": {
       "code": "00984A",
       "name": "主動安聯台灣高息",
       "issuer": "安聯投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
+      "status": "success",
+      "summary": {
+        "increased_count": 0,
+        "decreased_count": 0,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 97
+      },
       "increased": [],
       "decreased": [],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1102",
+          "name": "亞泥",
+          "previous_shares": 4789000,
+          "current_shares": 4789000,
+          "change_shares": 0,
+          "previous_weight": 1.74,
+          "current_weight": 1.73
+        },
+        {
+          "code": "1229",
+          "name": "聯華實業",
+          "previous_shares": 1543000,
+          "current_shares": 1543000,
+          "change_shares": 0,
+          "previous_weight": 0.63,
+          "current_weight": 0.62
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 1063000,
+          "current_shares": 1063000,
+          "change_shares": 0,
+          "previous_weight": 2.58,
+          "current_weight": 2.68
+        },
+        {
+          "code": "1326",
+          "name": "台化",
+          "previous_shares": 935000,
+          "current_shares": 935000,
+          "change_shares": 0,
+          "previous_weight": 0.64,
+          "current_weight": 0.64
+        },
+        {
+          "code": "1402",
+          "name": "遠東新",
+          "previous_shares": 6658000,
+          "current_shares": 6658000,
+          "change_shares": 0,
+          "previous_weight": 1.91,
+          "current_weight": 1.89
+        },
+        {
+          "code": "1409",
+          "name": "新纖",
+          "previous_shares": 2720000,
+          "current_shares": 2720000,
+          "change_shares": 0,
+          "previous_weight": 0.67,
+          "current_weight": 0.68
+        },
+        {
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 55000,
+          "current_shares": 55000,
+          "change_shares": 0,
+          "previous_weight": 0.54,
+          "current_weight": 0.54
+        },
+        {
+          "code": "1795",
+          "name": "美時製藥",
+          "previous_shares": 572,
+          "current_shares": 572,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "1808",
+          "name": "潤隆",
+          "previous_shares": 1033000,
+          "current_shares": 1033000,
+          "change_shares": 0,
+          "previous_weight": 0.34,
+          "current_weight": 0.33
+        },
+        {
+          "code": "1907",
+          "name": "永豐餘",
+          "previous_shares": 1178000,
+          "current_shares": 1178000,
+          "change_shares": 0,
+          "previous_weight": 0.34,
+          "current_weight": 0.34
+        },
+        {
+          "code": "2006",
+          "name": "東和鋼鐵",
+          "previous_shares": 1466000,
+          "current_shares": 1466000,
+          "change_shares": 0,
+          "previous_weight": 1.31,
+          "current_weight": 1.28
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 20000,
+          "current_shares": 20000,
+          "change_shares": 0,
+          "previous_weight": 2.51,
+          "current_weight": 2.47
+        },
+        {
+          "code": "2301",
+          "name": "光寶科技",
+          "previous_shares": 446000,
+          "current_shares": 446000,
+          "change_shares": 0,
+          "previous_weight": 1.3,
+          "current_weight": 1.28
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 564000,
+          "current_shares": 564000,
+          "change_shares": 0,
+          "previous_weight": 0.88,
+          "current_weight": 0.88
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 142000,
+          "current_shares": 142000,
+          "change_shares": 0,
+          "previous_weight": 3.58,
+          "current_weight": 3.59
+        },
+        {
+          "code": "2344",
+          "name": "華邦電子",
+          "previous_shares": 801000,
+          "current_shares": 801000,
+          "change_shares": 0,
+          "previous_weight": 1.4,
+          "current_weight": 1.42
+        },
+        {
+          "code": "2351",
+          "name": "順德",
+          "previous_shares": 278000,
+          "current_shares": 278000,
+          "change_shares": 0,
+          "previous_weight": 0.62,
+          "current_weight": 0.61
+        },
+        {
+          "code": "2357",
+          "name": "華碩",
+          "previous_shares": 68000,
+          "current_shares": 68000,
+          "change_shares": 0,
+          "previous_weight": 0.66,
+          "current_weight": 0.67
+        },
+        {
+          "code": "2379",
+          "name": "瑞昱",
+          "previous_shares": 362000,
+          "current_shares": 362000,
+          "change_shares": 0,
+          "previous_weight": 2.76,
+          "current_weight": 2.81
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "previous_shares": 36000,
+          "current_shares": 36000,
+          "change_shares": 0,
+          "previous_weight": 1.85,
+          "current_weight": 1.81
+        },
+        {
+          "code": "2395",
+          "name": "研華",
+          "previous_shares": 199000,
+          "current_shares": 199000,
+          "change_shares": 0,
+          "previous_weight": 1.46,
+          "current_weight": 1.48
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 441000,
+          "current_shares": 441000,
+          "change_shares": 0,
+          "previous_weight": 2.26,
+          "current_weight": 2.28
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 4000,
+          "current_shares": 4000,
+          "change_shares": 0,
+          "previous_weight": 0.22,
+          "current_weight": 0.2
+        },
+        {
+          "code": "2464",
+          "name": "盟立",
+          "previous_shares": 572000,
+          "current_shares": 572000,
+          "change_shares": 0,
+          "previous_weight": 1.14,
+          "current_weight": 1.12
+        },
+        {
+          "code": "2467",
+          "name": "志聖",
+          "previous_shares": 221000,
+          "current_shares": 221000,
+          "change_shares": 0,
+          "previous_weight": 1.19,
+          "current_weight": 1.23
+        },
+        {
+          "code": "2520",
+          "name": "冠德",
+          "previous_shares": 976000,
+          "current_shares": 976000,
+          "change_shares": 0,
+          "previous_weight": 0.37,
+          "current_weight": 0.37
+        },
+        {
+          "code": "2542",
+          "name": "興富發",
+          "previous_shares": 3571000,
+          "current_shares": 3571000,
+          "change_shares": 0,
+          "previous_weight": 1.44,
+          "current_weight": 1.41
+        },
+        {
+          "code": "2546",
+          "name": "根基",
+          "previous_shares": 19560,
+          "current_shares": 19560,
+          "change_shares": 0,
+          "previous_weight": 0.02,
+          "current_weight": 0.02
+        },
+        {
+          "code": "2603",
+          "name": "長榮海運",
+          "previous_shares": 1526000,
+          "current_shares": 1526000,
+          "change_shares": 0,
+          "previous_weight": 3.71,
+          "current_weight": 3.76
+        },
+        {
+          "code": "2615",
+          "name": "萬海",
+          "previous_shares": 592000,
+          "current_shares": 592000,
+          "change_shares": 0,
+          "previous_weight": 0.7,
+          "current_weight": 0.67
+        },
+        {
+          "code": "2618",
+          "name": "長榮航",
+          "previous_shares": 5386000,
+          "current_shares": 5386000,
+          "change_shares": 0,
+          "previous_weight": 2.3,
+          "current_weight": 2.28
+        },
+        {
+          "code": "2633",
+          "name": "台灣高鐵",
+          "previous_shares": 3057000,
+          "current_shares": 3057000,
+          "change_shares": 0,
+          "previous_weight": 0.8,
+          "current_weight": 0.79
+        },
+        {
+          "code": "2845",
+          "name": "遠東銀行",
+          "previous_shares": 10159094,
+          "current_shares": 10159094,
+          "change_shares": 0,
+          "previous_weight": 1.38,
+          "current_weight": 1.36
+        },
+        {
+          "code": "2850",
+          "name": "新光產險",
+          "previous_shares": 224000,
+          "current_shares": 224000,
+          "change_shares": 0,
+          "previous_weight": 0.36,
+          "current_weight": 0.37
+        },
+        {
+          "code": "2851",
+          "name": "中央再保",
+          "previous_shares": 2234000,
+          "current_shares": 2234000,
+          "change_shares": 0,
+          "previous_weight": 1.08,
+          "current_weight": 1.07
+        },
+        {
+          "code": "2855",
+          "name": "統一證券",
+          "previous_shares": 1378000,
+          "current_shares": 1378000,
+          "change_shares": 0,
+          "previous_weight": 0.81,
+          "current_weight": 0.78
+        },
+        {
+          "code": "2881",
+          "name": "富邦金控",
+          "previous_shares": 474000,
+          "current_shares": 474000,
+          "change_shares": 0,
+          "previous_weight": 0.72,
+          "current_weight": 0.73
+        },
+        {
+          "code": "2882",
+          "name": "國泰金",
+          "previous_shares": 873000,
+          "current_shares": 873000,
+          "change_shares": 0,
+          "previous_weight": 0.98,
+          "current_weight": 0.99
+        },
+        {
+          "code": "2883",
+          "name": "凱基金控",
+          "previous_shares": 2015000,
+          "current_shares": 2015000,
+          "change_shares": 0,
+          "previous_weight": 0.8,
+          "current_weight": 0.8
+        },
+        {
+          "code": "2885",
+          "name": "元大金",
+          "previous_shares": 2199880,
+          "current_shares": 2199880,
+          "change_shares": 0,
+          "previous_weight": 1.55,
+          "current_weight": 1.54
+        },
+        {
+          "code": "2887",
+          "name": "台新新光金",
+          "previous_shares": 1770000,
+          "current_shares": 1770000,
+          "change_shares": 0,
+          "previous_weight": 0.77,
+          "current_weight": 0.76
+        },
+        {
+          "code": "2890",
+          "name": "永豐金控",
+          "previous_shares": 1661000,
+          "current_shares": 1661000,
+          "change_shares": 0,
+          "previous_weight": 0.76,
+          "current_weight": 0.74
+        },
+        {
+          "code": "2891",
+          "name": "中信金",
+          "previous_shares": 973000,
+          "current_shares": 973000,
+          "change_shares": 0,
+          "previous_weight": 0.68,
+          "current_weight": 0.68
+        },
+        {
+          "code": "2897",
+          "name": "王道銀行",
+          "previous_shares": 2785000,
+          "current_shares": 2785000,
+          "change_shares": 0,
+          "previous_weight": 0.31,
+          "current_weight": 0.31
+        },
+        {
+          "code": "2903",
+          "name": "遠百",
+          "previous_shares": 1595000,
+          "current_shares": 1595000,
+          "change_shares": 0,
+          "previous_weight": 0.36,
+          "current_weight": 0.36
+        },
+        {
+          "code": "3006",
+          "name": "晶豪",
+          "previous_shares": 235000,
+          "current_shares": 235000,
+          "change_shares": 0,
+          "previous_weight": 0.66,
+          "current_weight": 0.68
+        },
+        {
+          "code": "3008",
+          "name": "大立光電",
+          "previous_shares": 24000,
+          "current_shares": 24000,
+          "change_shares": 0,
+          "previous_weight": 1.53,
+          "current_weight": 1.48
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 44000,
+          "current_shares": 44000,
+          "change_shares": 0,
+          "previous_weight": 1.59,
+          "current_weight": 1.53
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 164000,
+          "current_shares": 164000,
+          "change_shares": 0,
+          "previous_weight": 1.98,
+          "current_weight": 1.95
+        },
+        {
+          "code": "3044",
+          "name": "健鼎科技",
+          "previous_shares": 135000,
+          "current_shares": 135000,
+          "change_shares": 0,
+          "previous_weight": 0.74,
+          "current_weight": 0.72
+        },
+        {
+          "code": "3045",
+          "name": "台灣大",
+          "previous_shares": 2194000,
+          "current_shares": 2194000,
+          "change_shares": 0,
+          "previous_weight": 2.74,
+          "current_weight": 2.71
+        },
+        {
+          "code": "3189",
+          "name": "景碩科技",
+          "previous_shares": 165000,
+          "current_shares": 165000,
+          "change_shares": 0,
+          "previous_weight": 1.62,
+          "current_weight": 1.61
+        },
+        {
+          "code": "3260",
+          "name": "威剛科技",
+          "previous_shares": 165000,
+          "current_shares": 165000,
+          "change_shares": 0,
+          "previous_weight": 0.63,
+          "current_weight": 0.64
+        },
+        {
+          "code": "3264",
+          "name": "欣銓",
+          "previous_shares": 431000,
+          "current_shares": 431000,
+          "change_shares": 0,
+          "previous_weight": 1.08,
+          "current_weight": 1.06
+        },
+        {
+          "code": "3443",
+          "name": "創意電子",
+          "previous_shares": 14000,
+          "current_shares": 14000,
+          "change_shares": 0,
+          "previous_weight": 1.21,
+          "current_weight": 1.13
+        },
+        {
+          "code": "3450",
+          "name": "聯鈞",
+          "previous_shares": 256000,
+          "current_shares": 256000,
+          "change_shares": 0,
+          "previous_weight": 1.34,
+          "current_weight": 1.37
+        },
+        {
+          "code": "3532",
+          "name": "台勝科",
+          "previous_shares": 155000,
+          "current_shares": 155000,
+          "change_shares": 0,
+          "previous_weight": 0.71,
+          "current_weight": 0.72
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 19000,
+          "current_shares": 19000,
+          "change_shares": 0,
+          "previous_weight": 1.34,
+          "current_weight": 1.34
+        },
+        {
+          "code": "3661",
+          "name": "世芯-KY",
+          "previous_shares": 5000,
+          "current_shares": 5000,
+          "change_shares": 0,
+          "previous_weight": 0.19,
+          "current_weight": 0.19
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 25000,
+          "current_shares": 25000,
+          "change_shares": 0,
+          "previous_weight": 0.6,
+          "current_weight": 0.62
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 72000,
+          "current_shares": 72000,
+          "change_shares": 0,
+          "previous_weight": 0.51,
+          "current_weight": 0.51
+        },
+        {
+          "code": "4123",
+          "name": "晟德",
+          "previous_shares": 30841,
+          "current_shares": 30841,
+          "change_shares": 0,
+          "previous_weight": 0.01,
+          "current_weight": 0.01
+        },
+        {
+          "code": "4763",
+          "name": "材料*-KY",
+          "previous_shares": 1972000,
+          "current_shares": 1972000,
+          "change_shares": 0,
+          "previous_weight": 0.93,
+          "current_weight": 0.94
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 92000,
+          "current_shares": 92000,
+          "change_shares": 0,
+          "previous_weight": 0.45,
+          "current_weight": 0.47
+        },
+        {
+          "code": "4967",
+          "name": "十銓",
+          "previous_shares": 249000,
+          "current_shares": 249000,
+          "change_shares": 0,
+          "previous_weight": 0.69,
+          "current_weight": 0.69
+        },
+        {
+          "code": "5274",
+          "name": "信驊科技",
+          "previous_shares": 1200,
+          "current_shares": 1200,
+          "change_shares": 0,
+          "previous_weight": 0.24,
+          "current_weight": 0.24
+        },
+        {
+          "code": "5289",
+          "name": "宜鼎國際",
+          "previous_shares": 1355,
+          "current_shares": 1355,
+          "change_shares": 0,
+          "previous_weight": 0.02,
+          "current_weight": 0.02
+        },
+        {
+          "code": "5306",
+          "name": "桂盟",
+          "previous_shares": 113000,
+          "current_shares": 113000,
+          "change_shares": 0,
+          "previous_weight": 0.1,
+          "current_weight": 0.1
+        },
+        {
+          "code": "5351",
+          "name": "鈺創",
+          "previous_shares": 585000,
+          "current_shares": 585000,
+          "change_shares": 0,
+          "previous_weight": 0.64,
+          "current_weight": 0.65
+        },
+        {
+          "code": "5534",
+          "name": "長虹",
+          "previous_shares": 505000,
+          "current_shares": 505000,
+          "change_shares": 0,
+          "previous_weight": 0.38,
+          "current_weight": 0.38
+        },
+        {
+          "code": "5871",
+          "name": "中租-KY",
+          "previous_shares": 1908840,
+          "current_shares": 1908840,
+          "change_shares": 0,
+          "previous_weight": 2.08,
+          "current_weight": 2.09
+        },
+        {
+          "code": "5876",
+          "name": "上海商銀",
+          "previous_shares": 4977000,
+          "current_shares": 4977000,
+          "change_shares": 0,
+          "previous_weight": 2.48,
+          "current_weight": 2.48
+        },
+        {
+          "code": "5904",
+          "name": "寶雅*",
+          "previous_shares": 902000,
+          "current_shares": 902000,
+          "change_shares": 0,
+          "previous_weight": 0.64,
+          "current_weight": 0.63
+        },
+        {
+          "code": "6139",
+          "name": "亞翔工程",
+          "previous_shares": 290000,
+          "current_shares": 290000,
+          "change_shares": 0,
+          "previous_weight": 2.22,
+          "current_weight": 2.17
+        },
+        {
+          "code": "6173",
+          "name": "信昌電陶",
+          "previous_shares": 359000,
+          "current_shares": 359000,
+          "change_shares": 0,
+          "previous_weight": 1.12,
+          "current_weight": 1.09
+        },
+        {
+          "code": "6177",
+          "name": "達麗",
+          "previous_shares": 748000,
+          "current_shares": 748000,
+          "change_shares": 0,
+          "previous_weight": 0.35,
+          "current_weight": 0.35
+        },
+        {
+          "code": "6187",
+          "name": "萬潤科技",
+          "previous_shares": 165000,
+          "current_shares": 165000,
+          "change_shares": 0,
+          "previous_weight": 2.01,
+          "current_weight": 2.21
+        },
+        {
+          "code": "6213",
+          "name": "聯茂",
+          "previous_shares": 248000,
+          "current_shares": 248000,
+          "change_shares": 0,
+          "previous_weight": 1.5,
+          "current_weight": 1.57
+        },
+        {
+          "code": "6214",
+          "name": "精誠資訊",
+          "previous_shares": 349000,
+          "current_shares": 349000,
+          "change_shares": 0,
+          "previous_weight": 0.68,
+          "current_weight": 0.67
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.06,
+          "current_weight": 0.05
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 2000,
+          "current_shares": 2000,
+          "change_shares": 0,
+          "previous_weight": 0.03,
+          "current_weight": 0.03
+        },
+        {
+          "code": "6426",
+          "name": "統新",
+          "previous_shares": 118000,
+          "current_shares": 118000,
+          "change_shares": 0,
+          "previous_weight": 0.47,
+          "current_weight": 0.43
+        },
+        {
+          "code": "6446",
+          "name": "藥華醫藥",
+          "previous_shares": 180424,
+          "current_shares": 180424,
+          "change_shares": 0,
+          "previous_weight": 2.12,
+          "current_weight": 2.2
+        },
+        {
+          "code": "6548",
+          "name": "長科*",
+          "previous_shares": 1855000,
+          "current_shares": 1855000,
+          "change_shares": 0,
+          "previous_weight": 1.35,
+          "current_weight": 1.36
+        },
+        {
+          "code": "6584",
+          "name": "南俊國際",
+          "previous_shares": 62000,
+          "current_shares": 62000,
+          "change_shares": 0,
+          "previous_weight": 0.34,
+          "current_weight": 0.34
+        },
+        {
+          "code": "6592",
+          "name": "和潤企業",
+          "previous_shares": 357000,
+          "current_shares": 357000,
+          "change_shares": 0,
+          "previous_weight": 0.21,
+          "current_weight": 0.21
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 70741,
+          "current_shares": 70741,
+          "change_shares": 0,
+          "previous_weight": 1.52,
+          "current_weight": 1.52
+        },
+        {
+          "code": "6670",
+          "name": "復盛應用",
+          "previous_shares": 129000,
+          "current_shares": 129000,
+          "change_shares": 0,
+          "previous_weight": 0.36,
+          "current_weight": 0.36
+        },
+        {
+          "code": "7750",
+          "name": "新代",
+          "previous_shares": 31000,
+          "current_shares": 31000,
+          "change_shares": 0,
+          "previous_weight": 0.62,
+          "current_weight": 0.62
+        },
+        {
+          "code": "7780",
+          "name": "大研生醫*",
+          "previous_shares": 645000,
+          "current_shares": 645000,
+          "change_shares": 0,
+          "previous_weight": 0.11,
+          "current_weight": 0.11
+        },
+        {
+          "code": "8021",
+          "name": "尖點",
+          "previous_shares": 155000,
+          "current_shares": 155000,
+          "change_shares": 0,
+          "previous_weight": 0.76,
+          "current_weight": 0.76
+        },
+        {
+          "code": "8039",
+          "name": "台虹科技",
+          "previous_shares": 211000,
+          "current_shares": 211000,
+          "change_shares": 0,
+          "previous_weight": 0.56,
+          "current_weight": 0.59
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 60000,
+          "current_shares": 60000,
+          "change_shares": 0,
+          "previous_weight": 0.76,
+          "current_weight": 0.78
+        },
+        {
+          "code": "8415",
+          "name": "大國鋼",
+          "previous_shares": 125000,
+          "current_shares": 125000,
+          "change_shares": 0,
+          "previous_weight": 0.05,
+          "current_weight": 0.04
+        },
+        {
+          "code": "9802",
+          "name": "鈺齊-KY",
+          "previous_shares": 410000,
+          "current_shares": 410000,
+          "change_shares": 0,
+          "previous_weight": 0.27,
+          "current_weight": 0.27
+        },
+        {
+          "code": "9933",
+          "name": "中鼎",
+          "previous_shares": 853619,
+          "current_shares": 853619,
+          "change_shares": 0,
+          "previous_weight": 0.36,
+          "current_weight": 0.35
+        },
+        {
+          "code": "9941",
+          "name": "裕融",
+          "previous_shares": 1105000,
+          "current_shares": 1105000,
+          "change_shares": 0,
+          "previous_weight": 0.89,
+          "current_weight": 0.88
+        }
+      ]
     },
     "00985A": {
       "code": "00985A",
@@ -704,66 +4220,2017 @@
       "code": "00987A",
       "name": "主動台新優勢成長",
       "issuer": "台新投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
-      "increased": [],
-      "decreased": [],
+      "status": "success",
+      "summary": {
+        "increased_count": 1,
+        "decreased_count": 1,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 27
+      },
+      "increased": [
+        {
+          "code": "3665",
+          "name": "貿聯 -KY",
+          "previous_shares": 39000,
+          "current_shares": 44000,
+          "change_shares": 5000,
+          "previous_weight": 3.546,
+          "current_weight": 4.2585
+        }
+      ],
+      "decreased": [
+        {
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 17000,
+          "current_shares": 15000,
+          "change_shares": -2000,
+          "previous_weight": 5.6312,
+          "current_weight": 4.7056
+        }
+      ],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 90000,
+          "current_shares": 90000,
+          "change_shares": 0,
+          "previous_weight": 8.6552,
+          "current_weight": 8.8174
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 28000,
+          "current_shares": 28000,
+          "change_shares": 0,
+          "previous_weight": 2.0617,
+          "current_weight": 2.0061
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 29000,
+          "current_shares": 29000,
+          "change_shares": 0,
+          "previous_weight": 5.6905,
+          "current_weight": 5.6479
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 127000,
+          "current_shares": 127000,
+          "change_shares": 0,
+          "previous_weight": 2.4822,
+          "current_weight": 2.5438
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 32000,
+          "current_shares": 32000,
+          "change_shares": 0,
+          "previous_weight": 6.5714,
+          "current_weight": 6.2195
+        },
+        {
+          "code": "2455",
+          "name": "全新",
+          "previous_shares": 205000,
+          "current_shares": 205000,
+          "change_shares": 0,
+          "previous_weight": 4.4129,
+          "current_weight": 4.4063
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 52000,
+          "current_shares": 52000,
+          "change_shares": 0,
+          "previous_weight": 7.183,
+          "current_weight": 6.9985
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 166000,
+          "current_shares": 166000,
+          "change_shares": 0,
+          "previous_weight": 7.6434,
+          "current_weight": 7.6552
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 29800,
+          "current_shares": 29800,
+          "change_shares": 0,
+          "previous_weight": 3.1264,
+          "current_weight": 3.126
+        },
+        {
+          "code": "3363",
+          "name": "上詮",
+          "previous_shares": 92729,
+          "current_shares": 92729,
+          "change_shares": 0,
+          "previous_weight": 2.3492,
+          "current_weight": 2.3932
+        },
+        {
+          "code": "3491",
+          "name": "昇達科",
+          "previous_shares": 52000,
+          "current_shares": 52000,
+          "change_shares": 0,
+          "previous_weight": 3.1419,
+          "current_weight": 3.1081
+        },
+        {
+          "code": "3529",
+          "name": "力旺",
+          "previous_shares": 16000,
+          "current_shares": 16000,
+          "change_shares": 0,
+          "previous_weight": 2.0081,
+          "current_weight": 2.0932
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 18000,
+          "current_shares": 18000,
+          "change_shares": 0,
+          "previous_weight": 4.8399,
+          "current_weight": 4.9128
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎 -KY",
+          "previous_shares": 100000,
+          "current_shares": 100000,
+          "change_shares": 0,
+          "previous_weight": 1.8476,
+          "current_weight": 1.9733
+        },
+        {
+          "code": "4991",
+          "name": "環宇 -KY",
+          "previous_shares": 71000,
+          "current_shares": 71000,
+          "change_shares": 0,
+          "previous_weight": 1.2787,
+          "current_weight": 1.3336
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 300,
+          "current_shares": 300,
+          "change_shares": 0,
+          "previous_weight": 0.2312,
+          "current_weight": 0.2303
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 47000,
+          "current_shares": 47000,
+          "change_shares": 0,
+          "previous_weight": 2.1824,
+          "current_weight": 2.4372
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 5000,
+          "current_shares": 5000,
+          "change_shares": 0,
+          "previous_weight": 1.052,
+          "current_weight": 1.0262
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 75000,
+          "current_shares": 75000,
+          "change_shares": 0,
+          "previous_weight": 4.3568,
+          "current_weight": 4.4087
+        },
+        {
+          "code": "6510",
+          "name": "精測",
+          "previous_shares": 22000,
+          "current_shares": 22000,
+          "change_shares": 0,
+          "previous_weight": 2.8295,
+          "current_weight": 2.7345
+        },
+        {
+          "code": "6515",
+          "name": "穎崴",
+          "previous_shares": 8000,
+          "current_shares": 8000,
+          "change_shares": 0,
+          "previous_weight": 1.8185,
+          "current_weight": 1.7971
+        },
+        {
+          "code": "6683",
+          "name": "雍智科技",
+          "previous_shares": 26000,
+          "current_shares": 26000,
+          "change_shares": 0,
+          "previous_weight": 1.5356,
+          "current_weight": 1.5181
+        },
+        {
+          "code": "6739",
+          "name": "竹陞科技",
+          "previous_shares": 50000,
+          "current_shares": 50000,
+          "change_shares": 0,
+          "previous_weight": 2.1565,
+          "current_weight": 2.2266
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 36000,
+          "current_shares": 36000,
+          "change_shares": 0,
+          "previous_weight": 3.539,
+          "current_weight": 3.584
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 46000,
+          "current_shares": 46000,
+          "change_shares": 0,
+          "previous_weight": 2.2164,
+          "current_weight": 2.3125
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "previous_shares": 134000,
+          "current_shares": 134000,
+          "change_shares": 0,
+          "previous_weight": 2.6606,
+          "current_weight": 2.6415
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 35000,
+          "current_shares": 35000,
+          "change_shares": 0,
+          "previous_weight": 2.0808,
+          "current_weight": 2.1959
+        }
+      ]
     },
     "00991A": {
       "code": "00991A",
       "name": "主動復華未來50",
       "issuer": "復華投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
-      "increased": [],
-      "decreased": [],
+      "status": "success",
+      "summary": {
+        "increased_count": 6,
+        "decreased_count": 3,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 41
+      },
+      "increased": [
+        {
+          "code": "1303",
+          "name": "南亞塑膠",
+          "previous_shares": 6700000,
+          "current_shares": 7000000,
+          "change_shares": 300000,
+          "previous_weight": 2.021,
+          "current_weight": 2.232
+        },
+        {
+          "code": "2330",
+          "name": "台灣積體",
+          "previous_shares": 3800000,
+          "current_shares": 4000000,
+          "change_shares": 200000,
+          "previous_weight": 11.92,
+          "current_weight": 12.781
+        },
+        {
+          "code": "3037",
+          "name": "欣興電子",
+          "previous_shares": 5100000,
+          "current_shares": 5200000,
+          "change_shares": 100000,
+          "previous_weight": 7.66,
+          "current_weight": 7.821
+        },
+        {
+          "code": "3189",
+          "name": "景碩科技",
+          "previous_shares": 4400000,
+          "current_shares": 4500000,
+          "change_shares": 100000,
+          "previous_weight": 5.365,
+          "current_weight": 5.548
+        },
+        {
+          "code": "8046",
+          "name": "南亞電路",
+          "previous_shares": 3300000,
+          "current_shares": 3400000,
+          "change_shares": 100000,
+          "previous_weight": 5.186,
+          "current_weight": 5.574
+        },
+        {
+          "code": "2454",
+          "name": "聯發科技",
+          "previous_shares": 1080000,
+          "current_shares": 1130000,
+          "change_shares": 50000,
+          "previous_weight": 7.234,
+          "current_weight": 7.163
+        }
+      ],
+      "decreased": [
+        {
+          "code": "2327",
+          "name": "國巨股份",
+          "previous_shares": 6700000,
+          "current_shares": 6000000,
+          "change_shares": -700000,
+          "previous_weight": 4.925,
+          "current_weight": 4.245
+        },
+        {
+          "code": "2345",
+          "name": "智邦科技",
+          "previous_shares": 740000,
+          "current_shares": 430000,
+          "change_shares": -310000,
+          "previous_weight": 1.777,
+          "current_weight": 1.005
+        },
+        {
+          "code": "6223",
+          "name": "旺矽科技",
+          "previous_shares": 250000,
+          "current_shares": 150000,
+          "change_shares": -100000,
+          "previous_weight": 1.716,
+          "current_weight": 1.004
+        }
+      ],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1216",
+          "name": "統一企業",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2059",
+          "name": "川湖科技",
+          "previous_shares": 480000,
+          "current_shares": 480000,
+          "change_shares": 0,
+          "previous_weight": 7.513,
+          "current_weight": 7.507
+        },
+        {
+          "code": "2303",
+          "name": "聯華電子",
+          "previous_shares": 10400000,
+          "current_shares": 10400000,
+          "change_shares": 0,
+          "previous_weight": 2.03,
+          "current_weight": 2.061
+        },
+        {
+          "code": "2308",
+          "name": "台達電子",
+          "previous_shares": 871000,
+          "current_shares": 871000,
+          "change_shares": 0,
+          "previous_weight": 2.109,
+          "current_weight": 2.063
+        },
+        {
+          "code": "2313",
+          "name": "華通電腦",
+          "previous_shares": 1253,
+          "current_shares": 1253,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2317",
+          "name": "鴻海精密",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.003,
+          "current_weight": 0.003
+        },
+        {
+          "code": "2357",
+          "name": "華碩電腦",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2360",
+          "name": "致茂電子",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.003,
+          "current_weight": 0.003
+        },
+        {
+          "code": "2379",
+          "name": "瑞昱半導",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2382",
+          "name": "廣達電腦",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.004,
+          "current_weight": 0.004
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "previous_shares": 1350000,
+          "current_shares": 1350000,
+          "change_shares": 0,
+          "previous_weight": 8.641,
+          "current_weight": 8.575
+        },
+        {
+          "code": "2408",
+          "name": "南亞科技",
+          "previous_shares": 13000000,
+          "current_shares": 13000000,
+          "change_shares": 0,
+          "previous_weight": 8.288,
+          "current_weight": 8.492
+        },
+        {
+          "code": "2412",
+          "name": "中華電信",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2449",
+          "name": "京元電子",
+          "previous_shares": 1450,
+          "current_shares": 1450,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2603",
+          "name": "長榮海運",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.003,
+          "current_weight": 0.003
+        },
+        {
+          "code": "2880",
+          "name": "華南金融",
+          "previous_shares": 9090,
+          "current_shares": 9090,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2881",
+          "name": "富邦金融",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.002,
+          "current_weight": 0.002
+        },
+        {
+          "code": "2882",
+          "name": "國泰金融",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2883",
+          "name": "凱基金融",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2884",
+          "name": "玉山金融",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2885",
+          "name": "元大金融",
+          "previous_shares": 9360,
+          "current_shares": 9360,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2886",
+          "name": "兆豐金融",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2887",
+          "name": "台新新光",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "2890",
+          "name": "永豐金融",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "2891",
+          "name": "中國信託",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "3008",
+          "name": "大立光電",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.008,
+          "current_weight": 0.008
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐科技",
+          "previous_shares": 1250000,
+          "current_shares": 1250000,
+          "change_shares": 0,
+          "previous_weight": 5.632,
+          "current_weight": 5.487
+        },
+        {
+          "code": "3026",
+          "name": "禾伸堂企",
+          "previous_shares": 2700000,
+          "current_shares": 2700000,
+          "change_shares": 0,
+          "previous_weight": 2.772,
+          "current_weight": 2.775
+        },
+        {
+          "code": "3036",
+          "name": "文曄科技",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0,
+          "current_weight": 0.0
+        },
+        {
+          "code": "3044",
+          "name": "健鼎科技",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.001,
+          "current_weight": 0.001
+        },
+        {
+          "code": "3081",
+          "name": "聯亞光電",
+          "previous_shares": 900000,
+          "current_shares": 900000,
+          "change_shares": 0,
+          "previous_weight": 3.08,
+          "current_weight": 3.079
+        },
+        {
+          "code": "3231",
+          "name": "緯創資通",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.002,
+          "current_weight": 0.002
+        },
+        {
+          "code": "3653",
+          "name": "健策精密",
+          "previous_shares": 290000,
+          "current_shares": 290000,
+          "change_shares": 0,
+          "previous_weight": 2.544,
+          "current_weight": 2.581
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.003,
+          "current_weight": 0.003
+        },
+        {
+          "code": "3711",
+          "name": "日月光投",
+          "previous_shares": 2030000,
+          "current_shares": 2030000,
+          "change_shares": 0,
+          "previous_weight": 1.798,
+          "current_weight": 1.8
+        },
+        {
+          "code": "5274",
+          "name": "信驊科技",
+          "previous_shares": 140500,
+          "current_shares": 140500,
+          "change_shares": 0,
+          "previous_weight": 3.532,
+          "current_weight": 3.518
+        },
+        {
+          "code": "5347",
+          "name": "世界先進",
+          "previous_shares": 9000,
+          "current_shares": 9000,
+          "change_shares": 0,
+          "previous_weight": 0.002,
+          "current_weight": 0.002
+        },
+        {
+          "code": "6274",
+          "name": "台燿科技",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.002,
+          "current_weight": 0.002
+        },
+        {
+          "code": "6669",
+          "name": "緯穎科技",
+          "previous_shares": 1150020,
+          "current_shares": 1150020,
+          "change_shares": 0,
+          "previous_weight": 3.083,
+          "current_weight": 3.118
+        },
+        {
+          "code": "7769",
+          "name": "鴻勁精密",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.007,
+          "current_weight": 0.007
+        },
+        {
+          "code": "8299",
+          "name": "群聯電子",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.003,
+          "current_weight": 0.003
+        }
+      ]
     },
     "00992A": {
       "code": "00992A",
       "name": "主動群益科技創新",
       "issuer": "群益投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
+      "status": "success",
+      "summary": {
+        "increased_count": 0,
+        "decreased_count": 0,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 42
+      },
       "increased": [],
       "decreased": [],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 3645000,
+          "current_shares": 3645000,
+          "change_shares": 0,
+          "previous_weight": 2.0601,
+          "current_weight": 2.1641
+        },
+        {
+          "code": "1815",
+          "name": "富喬",
+          "previous_shares": 11420868,
+          "current_shares": 11420868,
+          "change_shares": 0,
+          "previous_weight": 3.1461,
+          "current_weight": 3.1844
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 205000,
+          "current_shares": 205000,
+          "change_shares": 0,
+          "previous_weight": 6.0123,
+          "current_weight": 5.9698
+        },
+        {
+          "code": "2301",
+          "name": "光寶科",
+          "previous_shares": 659000,
+          "current_shares": 659000,
+          "change_shares": 0,
+          "previous_weight": 0.4491,
+          "current_weight": 0.4451
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "previous_shares": 200000,
+          "current_shares": 200000,
+          "change_shares": 0,
+          "previous_weight": 0.9071,
+          "current_weight": 0.8821
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 1116000,
+          "current_shares": 1116000,
+          "change_shares": 0,
+          "previous_weight": 6.5594,
+          "current_weight": 6.6393
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 1104000,
+          "current_shares": 1104000,
+          "change_shares": 0,
+          "previous_weight": 4.9682,
+          "current_weight": 4.8032
+        },
+        {
+          "code": "2357",
+          "name": "華碩",
+          "previous_shares": 196000,
+          "current_shares": 196000,
+          "change_shares": 0,
+          "previous_weight": 0.4435,
+          "current_weight": 0.4536
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 76000,
+          "current_shares": 76000,
+          "change_shares": 0,
+          "previous_weight": 0.4142,
+          "current_weight": 0.3991
+        },
+        {
+          "code": "2376",
+          "name": "技嘉",
+          "previous_shares": 508000,
+          "current_shares": 508000,
+          "change_shares": 0,
+          "previous_weight": 0.4361,
+          "current_weight": 0.442
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 465000,
+          "current_shares": 465000,
+          "change_shares": 0,
+          "previous_weight": 5.5766,
+          "current_weight": 5.4992
+        },
+        {
+          "code": "2404",
+          "name": "漢唐",
+          "previous_shares": 155000,
+          "current_shares": 155000,
+          "change_shares": 0,
+          "previous_weight": 0.473,
+          "current_weight": 0.4545
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 179000,
+          "current_shares": 179000,
+          "change_shares": 0,
+          "previous_weight": 2.2465,
+          "current_weight": 2.1126
+        },
+        {
+          "code": "2455",
+          "name": "全新",
+          "previous_shares": 1700000,
+          "current_shares": 1700000,
+          "change_shares": 0,
+          "previous_weight": 2.2365,
+          "current_weight": 2.2188
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 293000,
+          "current_shares": 293000,
+          "change_shares": 0,
+          "previous_weight": 4.3453,
+          "current_weight": 4.2398
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 1001000,
+          "current_shares": 1001000,
+          "change_shares": 0,
+          "previous_weight": 8.4508,
+          "current_weight": 8.1808
+        },
+        {
+          "code": "3026",
+          "name": "禾伸堂",
+          "previous_shares": 261000,
+          "current_shares": 261000,
+          "change_shares": 0,
+          "previous_weight": 0.502,
+          "current_weight": 0.4993
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 2482000,
+          "current_shares": 2482000,
+          "change_shares": 0,
+          "previous_weight": 6.9846,
+          "current_weight": 6.9504
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 63000,
+          "current_shares": 63000,
+          "change_shares": 0,
+          "previous_weight": 0.4039,
+          "current_weight": 0.4013
+        },
+        {
+          "code": "3131",
+          "name": "弘塑",
+          "previous_shares": 1000,
+          "current_shares": 1000,
+          "change_shares": 0,
+          "previous_weight": 0.0057,
+          "current_weight": 0.0059
+        },
+        {
+          "code": "3189",
+          "name": "景碩",
+          "previous_shares": 844013,
+          "current_shares": 844013,
+          "change_shares": 0,
+          "previous_weight": 1.9281,
+          "current_weight": 1.9374
+        },
+        {
+          "code": "3231",
+          "name": "緯創",
+          "previous_shares": 7245000,
+          "current_shares": 7245000,
+          "change_shares": 0,
+          "previous_weight": 3.1743,
+          "current_weight": 3.2304
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 164000,
+          "current_shares": 164000,
+          "change_shares": 0,
+          "previous_weight": 3.3202,
+          "current_weight": 3.1241
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 33000,
+          "current_shares": 33000,
+          "change_shares": 0,
+          "previous_weight": 0.5423,
+          "current_weight": 0.5469
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 1161000,
+          "current_shares": 1161000,
+          "change_shares": 0,
+          "previous_weight": 6.4517,
+          "current_weight": 6.8232
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 250000,
+          "current_shares": 250000,
+          "change_shares": 0,
+          "previous_weight": 0.4149,
+          "current_weight": 0.4128
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 1000000,
+          "current_shares": 1000000,
+          "change_shares": 0,
+          "previous_weight": 1.1292,
+          "current_weight": 1.1982
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 11000,
+          "current_shares": 11000,
+          "change_shares": 0,
+          "previous_weight": 0.5181,
+          "current_weight": 0.5128
+        },
+        {
+          "code": "5289",
+          "name": "宜鼎",
+          "previous_shares": 99952,
+          "current_shares": 99952,
+          "change_shares": 0,
+          "previous_weight": 0.3097,
+          "current_weight": 0.3075
+        },
+        {
+          "code": "5347",
+          "name": "世界",
+          "previous_shares": 629000,
+          "current_shares": 629000,
+          "change_shares": 0,
+          "previous_weight": 0.2546,
+          "current_weight": 0.2698
+        },
+        {
+          "code": "6139",
+          "name": "亞翔",
+          "previous_shares": 250000,
+          "current_shares": 250000,
+          "change_shares": 0,
+          "previous_weight": 0.447,
+          "current_weight": 0.4398
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 134000,
+          "current_shares": 134000,
+          "change_shares": 0,
+          "previous_weight": 0.3802,
+          "current_weight": 0.4219
+        },
+        {
+          "code": "6213",
+          "name": "聯茂",
+          "previous_shares": 373000,
+          "current_shares": 373000,
+          "change_shares": 0,
+          "previous_weight": 0.527,
+          "current_weight": 0.5558
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 344000,
+          "current_shares": 344000,
+          "change_shares": 0,
+          "previous_weight": 4.4236,
+          "current_weight": 4.2873
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 113000,
+          "current_shares": 113000,
+          "change_shares": 0,
+          "previous_weight": 0.4011,
+          "current_weight": 0.4033
+        },
+        {
+          "code": "6515",
+          "name": "穎崴",
+          "previous_shares": 51000,
+          "current_shares": 51000,
+          "change_shares": 0,
+          "previous_weight": 0.7085,
+          "current_weight": 0.6956
+        },
+        {
+          "code": "6584",
+          "name": "南俊國際",
+          "previous_shares": 2213000,
+          "current_shares": 2213000,
+          "change_shares": 0,
+          "previous_weight": 2.8589,
+          "current_weight": 2.8884
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 429675,
+          "current_shares": 429675,
+          "change_shares": 0,
+          "previous_weight": 2.1581,
+          "current_weight": 2.1689
+        },
+        {
+          "code": "8021",
+          "name": "尖點",
+          "previous_shares": 2682000,
+          "current_shares": 2682000,
+          "change_shares": 0,
+          "previous_weight": 3.0572,
+          "current_weight": 3.0944
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 968000,
+          "current_shares": 968000,
+          "change_shares": 0,
+          "previous_weight": 2.8505,
+          "current_weight": 2.955
+        },
+        {
+          "code": "8150",
+          "name": "南茂",
+          "previous_shares": 1957000,
+          "current_shares": 1957000,
+          "change_shares": 0,
+          "previous_weight": 0.5205,
+          "current_weight": 0.4915
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 1630000,
+          "current_shares": 1630000,
+          "change_shares": 0,
+          "previous_weight": 5.9225,
+          "current_weight": 6.2101
+        }
+      ]
     },
     "00993A": {
       "code": "00993A",
       "name": "主動安聯台灣",
       "issuer": "安聯投信",
-      "current_date": "2026-09-24",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-24",
-      "status": "same_holdings_date",
+      "status": "success",
+      "summary": {
+        "increased_count": 0,
+        "decreased_count": 0,
+        "new_count": 0,
+        "removed_count": 0,
+        "unchanged_count": 53
+      },
       "increased": [],
       "decreased": [],
       "new": [],
       "removed": [],
-      "unchanged": []
+      "unchanged": [
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 571000,
+          "current_shares": 571000,
+          "change_shares": 0,
+          "previous_weight": 1.32,
+          "current_weight": 1.39
+        },
+        {
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 106000,
+          "current_shares": 106000,
+          "change_shares": 0,
+          "previous_weight": 1.0,
+          "current_weight": 1.0
+        },
+        {
+          "code": "2006",
+          "name": "東和鋼鐵",
+          "previous_shares": 699000,
+          "current_shares": 699000,
+          "change_shares": 0,
+          "previous_weight": 0.59,
+          "current_weight": 0.59
+        },
+        {
+          "code": "2027",
+          "name": "大成鋼",
+          "previous_shares": 459000,
+          "current_shares": 459000,
+          "change_shares": 0,
+          "previous_weight": 0.21,
+          "current_weight": 0.21
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 20000,
+          "current_shares": 20000,
+          "change_shares": 0,
+          "previous_weight": 2.39,
+          "current_weight": 2.39
+        },
+        {
+          "code": "2301",
+          "name": "光寶科技",
+          "previous_shares": 89000,
+          "current_shares": 89000,
+          "change_shares": 0,
+          "previous_weight": 0.25,
+          "current_weight": 0.25
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 1938000,
+          "current_shares": 1938000,
+          "change_shares": 0,
+          "previous_weight": 2.89,
+          "current_weight": 2.94
+        },
+        {
+          "code": "2308",
+          "name": "台達電子",
+          "previous_shares": 108000,
+          "current_shares": 108000,
+          "change_shares": 0,
+          "previous_weight": 2.0,
+          "current_weight": 1.96
+        },
+        {
+          "code": "2313",
+          "name": "華通",
+          "previous_shares": 110000,
+          "current_shares": 110000,
+          "change_shares": 0,
+          "previous_weight": 0.24,
+          "current_weight": 0.25
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "previous_shares": 388000,
+          "current_shares": 388000,
+          "change_shares": 0,
+          "previous_weight": 2.18,
+          "current_weight": 2.1
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 349000,
+          "current_shares": 349000,
+          "change_shares": 0,
+          "previous_weight": 8.32,
+          "current_weight": 8.5
+        },
+        {
+          "code": "2344",
+          "name": "華邦電子",
+          "previous_shares": 1238000,
+          "current_shares": 1238000,
+          "change_shares": 0,
+          "previous_weight": 2.06,
+          "current_weight": 2.13
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 129000,
+          "current_shares": 129000,
+          "change_shares": 0,
+          "previous_weight": 2.37,
+          "current_weight": 2.31
+        },
+        {
+          "code": "2347",
+          "name": "聯強",
+          "previous_shares": 474000,
+          "current_shares": 474000,
+          "change_shares": 0,
+          "previous_weight": 0.43,
+          "current_weight": 0.44
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 15000,
+          "current_shares": 15000,
+          "change_shares": 0,
+          "previous_weight": 0.33,
+          "current_weight": 0.32
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "previous_shares": 101000,
+          "current_shares": 101000,
+          "change_shares": 0,
+          "previous_weight": 4.94,
+          "current_weight": 4.91
+        },
+        {
+          "code": "2395",
+          "name": "研華",
+          "previous_shares": 84000,
+          "current_shares": 84000,
+          "change_shares": 0,
+          "previous_weight": 0.59,
+          "current_weight": 0.61
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 630000,
+          "current_shares": 630000,
+          "change_shares": 0,
+          "previous_weight": 3.07,
+          "current_weight": 3.15
+        },
+        {
+          "code": "2412",
+          "name": "中華電",
+          "previous_shares": 357000,
+          "current_shares": 357000,
+          "change_shares": 0,
+          "previous_weight": 0.5,
+          "current_weight": 0.51
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 131000,
+          "current_shares": 131000,
+          "change_shares": 0,
+          "previous_weight": 6.7,
+          "current_weight": 6.35
+        },
+        {
+          "code": "2455",
+          "name": "全新",
+          "previous_shares": 348000,
+          "current_shares": 348000,
+          "change_shares": 0,
+          "previous_weight": 1.87,
+          "current_weight": 1.87
+        },
+        {
+          "code": "2603",
+          "name": "長榮海運",
+          "previous_shares": 135000,
+          "current_shares": 135000,
+          "change_shares": 0,
+          "previous_weight": 0.32,
+          "current_weight": 0.32
+        },
+        {
+          "code": "2606",
+          "name": "裕民",
+          "previous_shares": 498000,
+          "current_shares": 498000,
+          "change_shares": 0,
+          "previous_weight": 0.37,
+          "current_weight": 0.36
+        },
+        {
+          "code": "2618",
+          "name": "長榮航",
+          "previous_shares": 487000,
+          "current_shares": 487000,
+          "change_shares": 0,
+          "previous_weight": 0.2,
+          "current_weight": 0.2
+        },
+        {
+          "code": "2885",
+          "name": "元大金",
+          "previous_shares": 105360,
+          "current_shares": 105360,
+          "change_shares": 0,
+          "previous_weight": 0.07,
+          "current_weight": 0.07
+        },
+        {
+          "code": "3008",
+          "name": "大立光電",
+          "previous_shares": 26000,
+          "current_shares": 26000,
+          "change_shares": 0,
+          "previous_weight": 1.57,
+          "current_weight": 1.55
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 164000,
+          "current_shares": 164000,
+          "change_shares": 0,
+          "previous_weight": 5.65,
+          "current_weight": 5.51
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 519000,
+          "current_shares": 519000,
+          "change_shares": 0,
+          "previous_weight": 5.96,
+          "current_weight": 5.97
+        },
+        {
+          "code": "3044",
+          "name": "健鼎科技",
+          "previous_shares": 54000,
+          "current_shares": 54000,
+          "change_shares": 0,
+          "previous_weight": 0.28,
+          "current_weight": 0.28
+        },
+        {
+          "code": "3081",
+          "name": "聯亞光電",
+          "previous_shares": 19000,
+          "current_shares": 19000,
+          "change_shares": 0,
+          "previous_weight": 0.5,
+          "current_weight": 0.5
+        },
+        {
+          "code": "3189",
+          "name": "景碩科技",
+          "previous_shares": 431000,
+          "current_shares": 431000,
+          "change_shares": 0,
+          "previous_weight": 4.01,
+          "current_weight": 4.07
+        },
+        {
+          "code": "3324",
+          "name": "雙鴻科技",
+          "previous_shares": 38000,
+          "current_shares": 38000,
+          "change_shares": 0,
+          "previous_weight": 0.63,
+          "current_weight": 0.61
+        },
+        {
+          "code": "3406",
+          "name": "玉晶光",
+          "previous_shares": 33000,
+          "current_shares": 33000,
+          "change_shares": 0,
+          "previous_weight": 0.29,
+          "current_weight": 0.29
+        },
+        {
+          "code": "3443",
+          "name": "創意電子",
+          "previous_shares": 66000,
+          "current_shares": 66000,
+          "change_shares": 0,
+          "previous_weight": 5.45,
+          "current_weight": 5.17
+        },
+        {
+          "code": "3491",
+          "name": "昇達科技",
+          "previous_shares": 11000,
+          "current_shares": 11000,
+          "change_shares": 0,
+          "previous_weight": 0.17,
+          "current_weight": 0.16
+        },
+        {
+          "code": "3532",
+          "name": "台勝科",
+          "previous_shares": 80000,
+          "current_shares": 80000,
+          "change_shares": 0,
+          "previous_weight": 0.35,
+          "current_weight": 0.36
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 34000,
+          "current_shares": 34000,
+          "change_shares": 0,
+          "previous_weight": 2.28,
+          "current_weight": 2.32
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 83000,
+          "current_shares": 83000,
+          "change_shares": 0,
+          "previous_weight": 1.88,
+          "current_weight": 2.0
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 85000,
+          "current_shares": 85000,
+          "change_shares": 0,
+          "previous_weight": 0.58,
+          "current_weight": 0.58
+        },
+        {
+          "code": "4904",
+          "name": "遠傳",
+          "previous_shares": 266000,
+          "current_shares": 266000,
+          "change_shares": 0,
+          "previous_weight": 0.27,
+          "current_weight": 0.27
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 255000,
+          "current_shares": 255000,
+          "change_shares": 0,
+          "previous_weight": 1.17,
+          "current_weight": 1.26
+        },
+        {
+          "code": "5274",
+          "name": "信驊科技",
+          "previous_shares": 20600,
+          "current_shares": 20600,
+          "change_shares": 0,
+          "previous_weight": 3.96,
+          "current_weight": 3.95
+        },
+        {
+          "code": "5289",
+          "name": "宜鼎國際",
+          "previous_shares": 2872,
+          "current_shares": 2872,
+          "change_shares": 0,
+          "previous_weight": 0.04,
+          "current_weight": 0.04
+        },
+        {
+          "code": "6147",
+          "name": "頎邦",
+          "previous_shares": 113000,
+          "current_shares": 113000,
+          "change_shares": 0,
+          "previous_weight": 0.23,
+          "current_weight": 0.23
+        },
+        {
+          "code": "6213",
+          "name": "聯茂",
+          "previous_shares": 95000,
+          "current_shares": 95000,
+          "change_shares": 0,
+          "previous_weight": 0.55,
+          "current_weight": 0.58
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 82000,
+          "current_shares": 82000,
+          "change_shares": 0,
+          "previous_weight": 4.3,
+          "current_weight": 4.2
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 159000,
+          "current_shares": 159000,
+          "change_shares": 0,
+          "previous_weight": 2.3,
+          "current_weight": 2.33
+        },
+        {
+          "code": "6505",
+          "name": "台塑石化",
+          "previous_shares": 378000,
+          "current_shares": 378000,
+          "change_shares": 0,
+          "previous_weight": 0.32,
+          "current_weight": 0.35
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 215191,
+          "current_shares": 215191,
+          "change_shares": 0,
+          "previous_weight": 4.41,
+          "current_weight": 4.46
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 22000,
+          "current_shares": 22000,
+          "change_shares": 0,
+          "previous_weight": 0.54,
+          "current_weight": 0.55
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 254000,
+          "current_shares": 254000,
+          "change_shares": 0,
+          "previous_weight": 3.05,
+          "current_weight": 3.19
+        },
+        {
+          "code": "8299",
+          "name": "群聯電子",
+          "previous_shares": 10000,
+          "current_shares": 10000,
+          "change_shares": 0,
+          "previous_weight": 0.21,
+          "current_weight": 0.21
+        },
+        {
+          "code": "8358",
+          "name": "金居開發",
+          "previous_shares": 121000,
+          "current_shares": 121000,
+          "change_shares": 0,
+          "previous_weight": 0.6,
+          "current_weight": 0.6
+        }
+      ]
     },
     "00994A": {
       "code": "00994A",
       "name": "主動第一金台股優",
       "issuer": "第一金投信",
-      "current_date": "2026-09-23",
+      "current_date": "2026-09-29",
       "previous_date": "2026-09-23",
-      "status": "same_holdings_date",
-      "increased": [],
-      "decreased": [],
-      "new": [],
-      "removed": [],
-      "unchanged": []
+      "status": "success",
+      "summary": {
+        "increased_count": 3,
+        "decreased_count": 6,
+        "new_count": 1,
+        "removed_count": 1,
+        "unchanged_count": 27
+      },
+      "increased": [
+        {
+          "code": "3189",
+          "name": "景碩",
+          "previous_shares": 95000,
+          "current_shares": 102000,
+          "change_shares": 7000,
+          "previous_weight": 1.86,
+          "current_weight": 2.15
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 13000,
+          "current_shares": 19000,
+          "change_shares": 6000,
+          "previous_weight": 0.66,
+          "current_weight": 1.02
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "previous_shares": 138000,
+          "current_shares": 138001,
+          "change_shares": 1,
+          "previous_weight": 4.36,
+          "current_weight": 4.51
+        }
+      ],
+      "decreased": [
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 210000,
+          "current_shares": 170000,
+          "change_shares": -40000,
+          "previous_weight": 2.34,
+          "current_weight": 1.89
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 103500,
+          "current_shares": 83500,
+          "change_shares": -20000,
+          "previous_weight": 7.77,
+          "current_weight": 6.25
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 39000,
+          "current_shares": 31000,
+          "change_shares": -8000,
+          "previous_weight": 1.6,
+          "current_weight": 1.24
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 39901,
+          "current_shares": 31901,
+          "change_shares": -8000,
+          "previous_weight": 4.85,
+          "current_weight": 3.64
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 50001,
+          "current_shares": 46001,
+          "change_shares": -4000,
+          "previous_weight": 5.43,
+          "current_weight": 4.98
+        },
+        {
+          "code": "7769",
+          "name": "鴻勁",
+          "previous_shares": 5000,
+          "current_shares": 4000,
+          "change_shares": -1000,
+          "previous_weight": 0.65,
+          "current_weight": 0.49
+        }
+      ],
+      "new": [
+        {
+          "code": "3026",
+          "name": "禾伸堂",
+          "shares": 17000,
+          "weight": 0.3
+        }
+      ],
+      "removed": [
+        {
+          "code": "9941",
+          "name": "裕融",
+          "previous_shares": 260,
+          "current_shares": 0,
+          "change_shares": -260
+        }
+      ],
+      "unchanged": [
+        {
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 95000,
+          "current_shares": 95000,
+          "change_shares": 0,
+          "previous_weight": 0.47,
+          "current_weight": 0.52
+        },
+        {
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 16000,
+          "current_shares": 16000,
+          "change_shares": 0,
+          "previous_weight": 0.33,
+          "current_weight": 0.34
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "previous_shares": 14501,
+          "current_shares": 14501,
+          "change_shares": 0,
+          "previous_weight": 3.89,
+          "current_weight": 3.87
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 800000,
+          "current_shares": 800000,
+          "change_shares": 0,
+          "previous_weight": 2.77,
+          "current_weight": 2.7
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "previous_shares": 46500,
+          "current_shares": 46500,
+          "change_shares": 0,
+          "previous_weight": 1.91,
+          "current_weight": 1.88
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 265999,
+          "current_shares": 265999,
+          "change_shares": 0,
+          "previous_weight": 14.41,
+          "current_weight": 14.5
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 25000,
+          "current_shares": 25000,
+          "change_shares": 0,
+          "previous_weight": 1.26,
+          "current_weight": 1.2
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "previous_shares": 16000,
+          "current_shares": 16000,
+          "change_shares": 0,
+          "previous_weight": 0.39,
+          "current_weight": 0.39
+        },
+        {
+          "code": "2449",
+          "name": "京元電子",
+          "previous_shares": 180000,
+          "current_shares": 180000,
+          "change_shares": 0,
+          "previous_weight": 1.18,
+          "current_weight": 1.17
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 70101,
+          "current_shares": 70101,
+          "change_shares": 0,
+          "previous_weight": 7.87,
+          "current_weight": 7.58
+        },
+        {
+          "code": "2481",
+          "name": "強茂",
+          "previous_shares": 290000,
+          "current_shares": 290000,
+          "change_shares": 0,
+          "previous_weight": 1.09,
+          "current_weight": 1.12
+        },
+        {
+          "code": "2801",
+          "name": "彰銀",
+          "previous_shares": 51000,
+          "current_shares": 51000,
+          "change_shares": 0,
+          "previous_weight": 0.03,
+          "current_weight": 0.03
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 3000,
+          "current_shares": 3000,
+          "change_shares": 0,
+          "previous_weight": 0.4,
+          "current_weight": 0.4
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 246001,
+          "current_shares": 246001,
+          "change_shares": 0,
+          "previous_weight": 6.18,
+          "current_weight": 6.31
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 28000,
+          "current_shares": 28000,
+          "change_shares": 0,
+          "previous_weight": 1.62,
+          "current_weight": 1.63
+        },
+        {
+          "code": "3264",
+          "name": "欣銓",
+          "previous_shares": 91000,
+          "current_shares": 91000,
+          "change_shares": 0,
+          "previous_weight": 0.5,
+          "current_weight": 0.48
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 22050,
+          "current_shares": 22050,
+          "change_shares": 0,
+          "previous_weight": 4.0,
+          "current_weight": 3.85
+        },
+        {
+          "code": "3491",
+          "name": "昇達科",
+          "previous_shares": 30000,
+          "current_shares": 30000,
+          "change_shares": 0,
+          "previous_weight": 1.02,
+          "current_weight": 1.0
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 25000,
+          "current_shares": 25000,
+          "change_shares": 0,
+          "previous_weight": 3.47,
+          "current_weight": 3.8
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 146002,
+          "current_shares": 146002,
+          "change_shares": 0,
+          "previous_weight": 2.19,
+          "current_weight": 2.21
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 6420,
+          "current_shares": 6420,
+          "change_shares": 0,
+          "previous_weight": 2.82,
+          "current_weight": 2.74
+        },
+        {
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 27000,
+          "current_shares": 27000,
+          "change_shares": 0,
+          "previous_weight": 0.7,
+          "current_weight": 0.78
+        },
+        {
+          "code": "6239",
+          "name": "力成",
+          "previous_shares": 175000,
+          "current_shares": 175000,
+          "change_shares": 0,
+          "previous_weight": 1.09,
+          "current_weight": 1.08
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 55518,
+          "current_shares": 55518,
+          "change_shares": 0,
+          "previous_weight": 2.53,
+          "current_weight": 2.57
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 37000,
+          "current_shares": 37000,
+          "change_shares": 0,
+          "previous_weight": 2.08,
+          "current_weight": 2.05
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 125000,
+          "current_shares": 125000,
+          "change_shares": 0,
+          "previous_weight": 3.27,
+          "current_weight": 3.5
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "previous_shares": 37000,
+          "current_shares": 37000,
+          "change_shares": 0,
+          "previous_weight": 1.23,
+          "current_weight": 1.29
+        }
+      ]
     },
     "00995A": {
       "code": "00995A",
@@ -805,5 +6272,669 @@
       "unchanged": []
     }
   },
-  "consensus": []
+  "consensus": [
+    {
+      "code": "3189",
+      "name": "景碩",
+      "increased_etfs": [
+        "00403A",
+        "00408A",
+        "00991A",
+        "00994A"
+      ],
+      "decreased_etfs": [],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 4,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 4
+    },
+    {
+      "code": "6274",
+      "name": "台燿",
+      "increased_etfs": [
+        "00408A",
+        "00981A",
+        "00994A"
+      ],
+      "decreased_etfs": [],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 3,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 3
+    },
+    {
+      "code": "3665",
+      "name": "貿聯-KY",
+      "increased_etfs": [
+        "00408A",
+        "00987A",
+        "00994A"
+      ],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 3,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2
+    },
+    {
+      "code": "3026",
+      "name": "禾伸堂",
+      "increased_etfs": [],
+      "decreased_etfs": [],
+      "new_etfs": [
+        "00408A",
+        "00994A"
+      ],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 2,
+      "removed_count": 0,
+      "net_etf_count": 2
+    },
+    {
+      "code": "8046",
+      "name": "南電",
+      "increased_etfs": [
+        "00403A",
+        "00991A"
+      ],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 2,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1
+    },
+    {
+      "code": "2368",
+      "name": "金像電",
+      "increased_etfs": [
+        "00981A"
+      ],
+      "decreased_etfs": [],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1
+    },
+    {
+      "code": "6187",
+      "name": "萬潤",
+      "increased_etfs": [
+        "00981A"
+      ],
+      "decreased_etfs": [],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1
+    },
+    {
+      "code": "8996",
+      "name": "高力",
+      "increased_etfs": [
+        "00403A"
+      ],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 1,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 0
+    },
+    {
+      "code": "1303",
+      "name": "南亞",
+      "increased_etfs": [
+        "00991A"
+      ],
+      "decreased_etfs": [
+        "00403A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 1,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 0
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "increased_etfs": [
+        "00991A"
+      ],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 1,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 0
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "increased_etfs": [
+        "00991A"
+      ],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 1,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 0
+    },
+    {
+      "code": "2330",
+      "name": "台積電",
+      "increased_etfs": [
+        "00991A"
+      ],
+      "decreased_etfs": [
+        "00403A",
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 1,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "2360",
+      "name": "致茂",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "3045",
+      "name": "台灣大",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00408A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "9802",
+      "name": "鈺齊-KY",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00408A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "2317",
+      "name": "鴻海",
+      "increased_etfs": [],
+      "decreased_etfs": [],
+      "new_etfs": [],
+      "removed_etfs": [
+        "00408A"
+      ],
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1
+    },
+    {
+      "code": "3711",
+      "name": "日月光投控",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "6278",
+      "name": "台表科",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "2449",
+      "name": "京元電子",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "3264",
+      "name": "欣銓",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "6805",
+      "name": "富世達",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "6191",
+      "name": "精成科",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "4958",
+      "name": "臻鼎-KY",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "5274",
+      "name": "信驊",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "6271",
+      "name": "同欣電",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "8210",
+      "name": "勤誠",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "3653",
+      "name": "健策",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "6510",
+      "name": "精測",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "6515",
+      "name": "穎崴",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1
+    },
+    {
+      "code": "2303",
+      "name": "聯電",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A",
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A",
+        "00981A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2
+    },
+    {
+      "code": "9941",
+      "name": "裕融",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00408A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [
+        "00994A"
+      ],
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -2
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00408A",
+        "00994A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00981A",
+        "00991A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2
+    },
+    {
+      "code": "7769",
+      "name": "鴻勁",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A",
+        "00408A",
+        "00994A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 3,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -3
+    },
+    {
+      "code": "3443",
+      "name": "創意",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A",
+        "00981A",
+        "00987A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 3,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -3
+    },
+    {
+      "code": "3017",
+      "name": "奇鋐",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A",
+        "00408A",
+        "00981A",
+        "00994A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 4,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -4
+    },
+    {
+      "code": "2383",
+      "name": "台光電",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A",
+        "00408A",
+        "00981A",
+        "00994A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 4,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -4
+    },
+    {
+      "code": "6223",
+      "name": "旺矽",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00408A",
+        "00981A",
+        "00991A",
+        "00994A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 4,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -4
+    },
+    {
+      "code": "2345",
+      "name": "智邦",
+      "increased_etfs": [],
+      "decreased_etfs": [
+        "00403A",
+        "00408A",
+        "00981A",
+        "00982A",
+        "00991A",
+        "00994A"
+      ],
+      "new_etfs": [],
+      "removed_etfs": [],
+      "increased_count": 0,
+      "decreased_count": 6,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -6
+    }
+  ]
 }
