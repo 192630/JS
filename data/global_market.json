@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T04:08:46.361712+08:00",
+  "generated_at": "2026-09-29T08:24:11.921028+08:00",
   "taiwan_market_phase": "盤後",
   "update_status": "更新完成（延遲行情）",
   "risk": {
-    "score": 61,
+    "score": 67,
     "status": "風險偏好降溫",
     "color": "orange"
   },
-  "summary": "盤後整理：全球風險溫度 61／100（風險偏好降溫）。主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。",
+  "summary": "盤後整理：全球風險溫度 67／100（風險偏好降溫）。加密資產與科技股同步下跌，規則判定風險偏好下降。",
   "taiwan_impact": "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
   "indicators": [
     {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 83476.0,
-      "change_percent": -1.4725387970066117,
-      "data_time": "2026-09-29T04:06:30+08:00",
+      "price": 83386.0,
+      "change_percent": -1.7758261574396133,
+      "data_time": "2026-09-29T08:22:10+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 2679.26,
-      "change_percent": -0.4738768996729207,
-      "data_time": "2026-09-29T04:06:30+08:00",
+      "price": 2684.13,
+      "change_percent": -0.45607785225903347,
+      "data_time": "2026-09-29T08:22:10+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -43,9 +43,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "NQ=F",
-      "price": 30569.0,
-      "change_percent": -0.6362801582980522,
-      "data_time": "2026-09-29T03:58:46+08:00",
+      "price": 30584.0,
+      "change_percent": -0.5875230580453279,
+      "data_time": "2026-09-29T08:14:11+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -56,9 +56,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "ES=F",
-      "price": 7746.25,
-      "change_percent": -0.3377291733676423,
-      "data_time": "2026-09-29T03:58:46+08:00",
+      "price": 7747.75,
+      "change_percent": -0.3184303634609199,
+      "data_time": "2026-09-29T08:14:08+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -71,7 +71,7 @@
       "symbol": "^SOX",
       "price": 12465.241,
       "change_percent": 0.2579470883129557,
-      "data_time": "2026-09-29T04:08:45+08:00",
+      "data_time": "2026-09-29T05:15:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -82,9 +82,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "^VIX",
-      "price": 16.14,
-      "change_percent": 13.581984517945106,
-      "data_time": "2026-09-29T03:53:31+08:00",
+      "price": 16.07,
+      "change_percent": 13.08937368050668,
+      "data_time": "2026-09-29T04:15:01+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -95,9 +95,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "CL=F",
-      "price": 93.05,
-      "change_percent": 0.9657118055555562,
-      "data_time": "2026-09-29T03:58:45+08:00",
+      "price": 93.51,
+      "change_percent": 1.4648437500000093,
+      "data_time": "2026-09-29T08:14:03+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -108,9 +108,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "GC=F",
-      "price": 4156.8,
-      "change_percent": -3.7421267135976164,
-      "data_time": "2026-09-29T03:58:43+08:00",
+      "price": 4155.0,
+      "change_percent": -3.7838088180807623,
+      "data_time": "2026-09-29T08:14:03+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -121,9 +121,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "DX-Y.NYB",
-      "price": 101.214,
-      "change_percent": 0.11275964391691821,
-      "data_time": "2026-09-29T03:58:45+08:00",
+      "price": 101.236,
+      "change_percent": 0.13452027695352115,
+      "data_time": "2026-09-29T08:14:10+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,24 +143,43 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 83,476.00，漲跌幅 -1.47%",
-    "以太幣 2,679.26，漲跌幅 -0.47%",
-    "納斯達克100期貨 30,569.00，漲跌幅 -0.64%",
-    "標普500期貨 7,746.25，漲跌幅 -0.34%",
+    "比特幣 83,386.00，漲跌幅 -1.78%",
+    "以太幣 2,684.13，漲跌幅 -0.46%",
+    "納斯達克100期貨 30,584.00，漲跌幅 -0.59%",
+    "標普500期貨 7,747.75，漲跌幅 -0.32%",
     "費城半導體指數 12,465.24，漲跌幅 +0.26%",
-    "VIX恐慌指數 16.14，漲跌幅 +13.58%",
-    "WTI原油 93.05，漲跌幅 +0.97%",
-    "黃金 4,156.80，漲跌幅 -3.74%",
-    "美元指數 101.21，漲跌幅 +0.11%",
+    "VIX恐慌指數 16.07，漲跌幅 +13.09%",
+    "WTI原油 93.51，漲跌幅 +1.46%",
+    "黃金 4,155.00，漲跌幅 -3.78%",
+    "美元指數 101.24，漲跌幅 +0.13%",
     "美國10年期公債殖利率 5.24，漲跌幅 +5.48%"
   ],
   "rule_signals": [
-    "主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。"
+    "加密資產與科技股同步下跌，規則判定風險偏好下降。"
   ],
   "inferences": [
-    "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。"
+    "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
+    "AI與半導體：承壓（依據：科技與風險資產同步轉弱）",
+    "科技權值股：承壓（依據：納指期貨轉弱）",
+    "航運與原物料：留意成本與報價（依據：原油波動較明顯）"
   ],
-  "affected_sectors": [],
+  "affected_sectors": [
+    {
+      "name": "AI與半導體",
+      "direction": "承壓",
+      "basis": "科技與風險資產同步轉弱"
+    },
+    {
+      "name": "科技權值股",
+      "direction": "承壓",
+      "basis": "納指期貨轉弱"
+    },
+    {
+      "name": "航運與原物料",
+      "direction": "留意成本與報價",
+      "basis": "原油波動較明顯"
+    }
+  ],
   "watch_next": [
     "VIX是否持續擴大漲幅",
     "納指期貨與費半是否同向",
@@ -178,11 +197,6 @@
   ],
   "commercial_use_note": "目前免費來源僅供研究站原型驗證。正式會員制上線前，必須逐項確認商用展示、重分發及即時行情授權，必要時改接付費授權 API。",
   "risk_history": [
-    {
-      "generated_at": "2026-09-25T22:33:03.648981+08:00",
-      "score": 51,
-      "status": "風險偏好降溫"
-    },
     {
       "generated_at": "2026-09-25T23:31:36.589024+08:00",
       "score": 41,
@@ -536,6 +550,11 @@
     {
       "generated_at": "2026-09-29T04:08:46.361712+08:00",
       "score": 61,
+      "status": "風險偏好降溫"
+    },
+    {
+      "generated_at": "2026-09-29T08:24:11.921028+08:00",
+      "score": 67,
       "status": "風險偏好降溫"
     }
   ],
