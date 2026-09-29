@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-27T21:33:50.006755+08:00",
+  "updated_at": "2026-09-29T08:27:14.849233+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2753",
   "name": "八方雲集",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "八方雲集德州首間門市開幕！不只水餃牛肉麵 台式香腸、貢丸湯驚豔美國",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56LWpNWjBtVzFTWGx5ZVNuSDFFUlpKR0YwUWdYeUhiMm02Y0RnanpTTDlNNHpKU2t5MkpucVBmOEstYVRqai03NU5YQQ?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-28T04:15:35+00:00"
+    },
+    {
+      "title": "八方雲集進軍德州! 鍋貼.水餃.牛肉麵必吃 新推香腸.貢丸湯搶美國胃",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uMEdVazFrWWpwMll5di1DWHpxQjBGRVdVa1VDX1N6dmFYeUN0QkdoRGpLbWoxeDVmcE9zRFpYNGstZVdKZzVpRm0yYVdrYkVwWEVuWWF0WUxCS1ZCRV90Uw?oc=5",
+      "source": "民視新聞網",
+      "published_at": "2026-09-28T04:13:04+00:00"
+    },
     {
       "title": "外帶專門店上路！八方雲集8月營收再寫新高 9月美德州開業助攻",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPNVdOMzM0MmV4OFNFbzJnMjNCMGtPT09sZEtDSmtWdFJaV1Y3d2xLR2YwMEFxZmN0MjRRem02VUFyQTlBWHBiVjBqV0F3ZW1FWVNfYXY2cjJ0YTRpZXp3Yi1KRzRQdXA4akpUZnY1MG4tT3VYZ1pja3QyUVBoZDc1dWRKYVpmSUJwQUZ5NWdGMHlRQ3ZiemFtN216SDRvSjRNWkZSbFhRc21LXzZOckNZQjV0VW1jQlBXZlZ3dW51M2dBSHNsVDktekkyM3Zvem42Nm5VblV4bHZ6T2VMTWg1cTJZbWdkbHhtdUNTQ3lWd01hUG9rbzBORnkxSTFDekRTaDl3dUZYWGdpbDcyMkM0Q0FmTXlGbkVOVGdBUGJxMzhjUzVzd1dJMXpWU0d0bW05NFQ3MFZ0VGctYTdiWWUtQTVZV2hOdTcwZ3ZNdkM1VTRhYklNdzdiUFlKWV9rQ3Q3Z2NWRTJZcHY5c0lzTDRpc0ttNEI2RWlTX3J4LTJhd05PRk9KR1dFYldxUmgtUHppMVNKN3BGX0ZGVnpTOTYzWFBjVQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "八方雲集8月營收創高，Q4多動能挹注營運向上",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPUkVVY1JRaWxzMXQySlg1WFZzTFpfT2xRYUxwRjhUUVhHNmc5M0JfY05YQ0REeHFEaHQwUk9EVDA0bjlFY093MGVZNTItUUFQcUNzRXpGczNKNDJsZUlzcmNOZW13UjQ3UGJjTlZTVVU5Q21FeVRsSHR3bEo2cFhiLWJ1Y2RQWG4ta3VrOWs3YURhTFZDVkZRbWdCNktnR0p4NGYtWUx2Q0l1ZWJQNWlvN1Z0dEN3c19iSXE4NmhJd2ZxZW1JaGF6S2dJbUhlU0ZmNTBKWjJlcmlpTkZ3dzctYkJNcVFVUGlyNTA1OGt4LWZLVVF5ekZXQjM3eDZPTG9YLU4zeXp4a3piVXBsMnlVM2w0TnVDLVlCQV9WVzJwMXE3NF9qNWFCTUtHQU00bjhjYjFTbF9DZTY?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
@@ -24,16 +30,16 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "八方雲集8月營收創高，Q4多動能挹注營運向上",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPUkVVY1JRaWxzMXQySlg1WFZzTFpfT2xRYUxwRjhUUVhHNmc5M0JfY05YQ0REeHFEaHQwUk9EVDA0bjlFY093MGVZNTItUUFQcUNzRXpGczNKNDJsZUlzcmNOZW13UjQ3UGJjTlZTVVU5Q21FeVRsSHR3bEo2cFhiLWJ1Y2RQWG4ta3VrOWs3YURhTFZDVkZRbWdCNktnR0p4NGYtWUx2Q0l1ZWJQNWlvN1Z0dEN3c19iSXE4NmhJd2ZxZW1JaGF6S2dJbUhlU0ZmNTBKWjJlcmlpTkZ3dzctYkJNcVFVUGlyNTA1OGt4LWZLVVF5ekZXQjM3eDZPTG9YLU4zeXp4a3piVXBsMnlVM2w0TnVDLVlCQV9WVzJwMXE3NF9qNWFCTUtHQU00bjhjYjFTbF9DZTY?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "八方雲集：8月營收8.20億元創歷史新高 獲選外資精選「中堅潛力企業」",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mUmsyaG5MdXBTWFJGaS1YNWJzQzFpMDVXRGhYQlRwTXJtSHNRaUJLSHpRcWN5VmJTRERkV0FWWmlkd3p3T1JKY9IBTEFVX3lxTFBpZ0puVjdzQmhDakNjUlc4cGxtNENEZkVQay1mbTlYS1ZCREpINWpjdlBBd1N0X1ZtUm84M0lVeGpqbW42ZFkyQ3hJMmc?oc=5",
       "source": "三立新聞網SETN.com",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "4大超商「咖啡買2送2、買20送20」！ 飲料滿額送20顆八方雲集鍋貼",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOaENxY0ktZGRBQWc1ZFM4Z2tqcFZqWkpRazllWFlfcERRamgtcEZZMm1wQUlYVnVLb2FUVjdOd0NGZGhDUndPOVYxMUtUQ2VNQ2NvTzBLQ2JuTE9ET0h3cGxtQm9SYk00dzkxdldfeUNwWkJsMlZPWDVLX3dISkN2OXdBR2lUSUlwci1XTzIwWWFvWjI5ZHpXXzhWVU85V3dXMFBReFlCN1lzTmNNTm9McURvSE8wb0NuQms1UUFDdFpvdjdZTnU0b21MMkwya1BDWk5rakdFODVJNnZ2WU1xeWRESGNVbDkxRGZMTDlNdWFWbHIwT0tZUTQwblZsRml6ZENudVNqclEwaTZINjZodjFibENIZmFyb0xhdzFaTzhucDBWOGc0VGw3N0daNjU5YkNnVkpnSGJwZXlSSzV4TWs5THBJbFNHSVh1MVpGdUxLaVNuRkdpR2ttUTRELWM?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "八方雲集暖心捐助北港高中女排 以實際行動陪伴學子勇敢追夢",

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-27T21:33:42.261372+08:00",
+  "updated_at": "2026-09-29T08:27:06.442962+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2722",
   "name": "夏都",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "2722 夏都 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13cFc0d21WV3lyWlBLV2hlWWJsV1lyR1NlbTNwVFgyU1lSOXVvNjlDWlhCZkJETG1CZllGS1I1el94TGNFTjR2d09XOFlmQ05lZVhSZ1NjbXo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T10:43:07+00:00"
+    }
+  ]
 }
