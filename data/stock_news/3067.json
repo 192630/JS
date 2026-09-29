@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-27T23:33:59.043039+08:00",
+  "updated_at": "2026-09-29T15:02:42.937163+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3067",
   "name": "全域",
-  "count": 6,
+  "count": 2,
   "news": [
-    {
-      "title": "北京觀察》中國低空經濟突踩煞車！杭州擬撤補貼、北京無人機全域禁存 兆元產業變天了？",
-      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPTmR1Ql9hZjhZUGh1RGRWa1dlTHNJd3pJQlVoU3Y4c2JOYWxhTWVfQjViYTRjOUdrMGpJT3R6NXY5a3RCVGVsQXF5SjUydEtUM0NXb1dMc3VTOWFkdmpOcG9abDVRMFJMbm4yMTNrWXd6WlVCVEp0ekRfTG90Z2hfUm8wTklqYkxpWE5ISHh0aXJDU214Z0EweHdkMFp3SW5sYnlmYzRzLUNIVy1QUC1Ia1ViYk1TbS1tbzVWSzFRT3ZMZzB4NDVaYlJkSDhTaVhNdFBudUVnWS1pSHBqM19tV3hwWTlTaXpQSDdYQzlqRmhRbnJfTVM4UVJhTVBkU2RRa29lNkJOSmlheXlYd3JFS1NkNmE5Sk1feUF2ZmxzXzlvYjBMRERCQUNHUmJfLVdNdldOdXlLNjZva2o4TTY0blUwbGhnbjBfYkRNNU96bl9lbkpsdWRJaG1FTk44UFRXN1JSVDh3VEdvLTRFWExMWEhIcEJtRjBobEN0c2RPVmFLd3VVUllBLVNsZzNFY2FZb242bW44ZXdwclRLN2J2NkRuN0VkcDZoVU1fRmVjZS1QalFaOEFHbEFteTNrV01RRE85c0xvWDd5OTBaTWJZZVVMcDZqbHlJWUFkSnZ1ZXN2NFZrRGd2Mlltc0tBWVlKSGFEUGprbHhsRlk0SDByZEZYLUw2MFU2?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-25T02:43:04+00:00"
-    },
     {
       "title": "首都專線｜北京11月中起全域禁存無人機 本台實測回收僅原價五成半",
       "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNMWRmSVdMYVMxbG1VRUtTdHZZTHNHRFpyelZmRzhjQUo0Y3MwRHE2SXAyeHBZOGI5dEgxdlJuTEl5MDB1Qi0tM0UwTFFoUlJTdmNKMkl6MlVKOXJRTjNlSUZZU3NERENMbU5OYzVZWDFJMkMzejI1bm9aU0habmJNOE1XZHg3TjNpZTVnYmlUcDNIQ1RWWVVMSHJoQWF6YTZnaUZjWURyc2kzMW9mbVp4Y01QYi12SnI0ZjdGOGJ5b2xmTWM5VXJJTi1oYTJsMEpVM0tydnVzSFVVcTNvMlM4RE5GZ0Mwc0VURUhfaWd2TzhpVG9UZG4yOUtvMUU3QzZMYW5hem9PZDNpamQ0RXM5MWJNQnVoc25ZUWZrWXpzbWtCUWpFdUVKN1dWY01XUWtPajZPMVM1VHFuZ19qVmxxMWdCaUdkaVdQTkZnVjFVWkhYMlhUaklReUhfdmpidU4xeFlveEtKeU1KbG5vMFE1ZXBWenUtMkhIS3oyNkdtTjVuaEhobTRYSU1vZXUtd29iY0JkWWtPaVVxV0JpN3M0X3dWbEZPczd3?oc=5",
@@ -22,24 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zM0xxS0h2SHJZS2lxUjBJTkx6UFI2T3lDVThyTWtxM19qUU5GMGkxeUhjQ1E1WE9BVlNPWVFBZUVvYlNhNWlKTVpqSWxnMFJGS3FDQi1yc0U?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "北京再收緊無人機規定！11/15起「全域禁存」不得持有、存放",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQSHNnNUVIbno0REZuaGM2MXpocFlLelBtelFzOEZMOVNNTS1QcWRkSUNkaUNVMzQ0bXNvNXd3Zmp2T3VnRndtcVYycXRqWVJGZ1hXZkpVemhsdzBKMzN0TkxUbTQ5VXlIeWE5c0FLVEtEVjhObGE3a0U3VF94aG84SHUyZDhLVDJJSmc3eGFTeUh1Q3phNGtURnNjUHpuS2FyenA5eVAwT2h2aEpUdUNTMmZrNVkxY2ZpWnlTWkN5c2FhLTUwZWZXbHJ3d3ZCa0VMTk9sNndOZGR6cV84ZDlxVG1FYldfUXR5M1c5MlN2NlZPYy1qdnQ4LTI2UGpOM25EaGVqWGRUOUZtaUc2MnBQcHl2Y3hhdmVJcEFjODJaUHpxOEw4emJhZjNqemg5eWU0WkU2MUEyenpuSUZueWZFTHVR?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "title": "北京市再收緊無人機管制11/15起全域禁飛禁存禁運| 中國",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcmYyVXMyLXlVY3RuRS1hMXpvOUliVjNONXJKS2wxbVpLQlllamlUUmJfdWVjU0dETkt6djNGbjlySUxZT09EOFZoZnNoeWJqeVFtVVQzUFo3WlU?oc=5",
-      "source": "Newtalk新聞",
-      "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/07月營收公告】全域(3067) 七月營收創近4個月以來新高，月增246.96%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTBEMUc4bEJ6V1JsbWdhVmxWa1pZZmpYbi1mN1Z3T0QzR0pKTHNDcUdVdTh4Z2YzMGNGaHo2QXEtZDc4RUgxbVdrbmxNb1ZNdE1TWVJERWkwX2FRekV6SlVrUmF0ZTQxM2FveG90ZVhlWWxBNlhSZ1lVSHlMMzFTREZYbVlHZEFjV1E?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }
