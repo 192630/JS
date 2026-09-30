@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-28T05:33:38.502925+08:00",
+  "updated_at": "2026-10-01T02:29:28.183589+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5223",
   "name": "安力-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【09/14 產業即時新聞】電子NB與手機零組件走弱跌逾3%，奇鋐遭重擊、安力-KY逆勢抗跌-stock_notes",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbE4tYWxRRncwR0xqYzdWRGNEMnBTMEFQWEx3ZmdwbU91aGhvaHp3YkN2VkdoR3prR2tsclcxZmRVUXpsM1dnUEdsTE9raklkLVdvN0lsTHB6ekFIWU00SWtzZE9qSlY1dmRGdmZzMDlnQWNEaFJ5M09FbkJKZmRpU196S0pVOTBkRzdKb2ZGQW9xQUhHbmoxcA?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "【09/14 產業即時新聞】電子NB與手機零組件走弱跌逾3%，奇鋐遭重擊、安力-KY逆勢抗跌",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uYVVWcl96el9fQ0h1SVVfLVc2TnJQLVdQQzh1SzdZNERySTd5bWZkYnZTbGUwU0FrUkRSTGlqcS1iMm5QbWpJWGdoUEQ3bDdYUU1nUWxDRUM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
+    }
+  ]
 }
