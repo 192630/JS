@@ -1,289 +1,707 @@
 {
   "_meta": {
     "status": "success",
-    "updated_at": "2026-10-01T04:47:05.326209+08:00",
-    "snapshot_count": 9,
-    "comparison_days": 8,
-    "latest_date": "2026-10-01",
+    "updated_at": "2026-10-02T05:00:02.016005+08:00",
+    "snapshot_count": 10,
+    "comparison_days": 9,
+    "latest_date": "2026-10-02",
     "description": "依每日官方投資組合快照計算跨 ETF 持股股數方向與連續交易日"
   },
   "positive": [
     {
       "code": "3665",
       "name": "貿聯-KY",
-      "increased_count": 6,
+      "increased_count": 4,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "net_etf_count": 6,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
+      "net_etf_count": 4,
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
     },
     {
       "code": "2368",
-      "name": "金像電",
+      "name": "金像電子",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3653",
+      "name": "健策精密工業",
+      "increased_count": 3,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 3,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2330",
+      "name": "台灣積體電路製造",
+      "increased_count": 3,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 3,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "increased_count": 3,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3529",
+      "name": "力旺電子",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 2,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2303",
+      "name": "聯華電子",
+      "increased_count": 2,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6505",
+      "name": "台塑石化",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2308",
+      "name": "台達電子工業",
       "increased_count": 1,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
       "streak_days": 2,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "1303",
-      "name": "南亞",
-      "increased_count": 5,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 5,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "increased_count": 4,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 4,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2383",
-      "name": "台光電",
-      "increased_count": 3,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 3,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "6505",
-      "name": "台塑化",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2330",
-      "name": "台灣積體電路製造",
-      "increased_count": 2,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3037",
-      "name": "欣興電子",
-      "increased_count": 2,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3653",
-      "name": "健策精密工業",
-      "increased_count": 2,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2303",
-      "name": "聯華電子",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
       "code": "6691",
       "name": "洋基工程",
       "increased_count": 0,
       "decreased_count": 0,
-      "new_count": 2,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3105",
-      "name": "穩懋",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 2,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "7856",
-      "name": "HERMES TESTING SOLUTIONS INC ORD TWD 10",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2885",
-      "name": "元大金融控股",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "1717",
-      "name": "長興",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "7769",
-      "name": "鴻勁精密",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "7751",
-      "name": "竑騰科技",
-      "increased_count": 0,
-      "decreased_count": 0,
       "new_count": 1,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "6515",
-      "name": "穎崴科技",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3081",
-      "name": "聯亞光電工業",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
     },
     {
       "code": "1605",
       "name": "華新麗華",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6488",
+      "name": "環球晶",
+      "increased_count": 3,
+      "decreased_count": 0,
+      "new_count": 2,
+      "removed_count": 0,
+      "net_etf_count": 5,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3711",
+      "name": "日月光投資控股",
+      "increased_count": 4,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 4,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2395",
+      "name": "研華",
+      "increased_count": 3,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 3,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "8046",
+      "name": "南電",
+      "increased_count": 3,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3189",
+      "name": "景碩",
+      "increased_count": 2,
+      "decreased_count": 1,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3017",
+      "name": "奇鋐科技",
+      "increased_count": 3,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
       "increased_count": 0,
       "decreased_count": 0,
-      "new_count": 1,
+      "new_count": 2,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1560",
+      "name": "中砂",
+      "increased_count": 2,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2360",
+      "name": "致茂電子",
+      "increased_count": 2,
+      "decreased_count": 1,
+      "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "1301",
-      "name": "台灣塑膠工業",
+      "code": "6213",
+      "name": "聯茂",
+      "increased_count": 2,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6147",
+      "name": "頎邦科技",
       "increased_count": 1,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "1101",
-      "name": "臺灣水泥",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3529",
-      "name": "力旺電子",
+      "code": "3406",
+      "name": "玉晶光",
       "increased_count": 1,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2615",
+      "name": "萬海",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3264",
+      "name": "欣銓",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2892",
+      "name": "第一金",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "5904",
+      "name": "寶雅*",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2886",
+      "name": "兆豐金控",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2634",
+      "name": "漢翔公司",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1326",
+      "name": "台化",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2404",
+      "name": "漢唐",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6197",
+      "name": "佳必琪",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2801",
+      "name": "彰銀",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "5434",
+      "name": "崇越",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2880",
+      "name": "華南金控",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2881",
+      "name": "富邦金控",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2887",
+      "name": "台新新光金",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2882",
+      "name": "國泰金",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "5274",
+      "name": "信驊科技",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2409",
+      "name": "友達",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3605",
+      "name": "宏致",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2637",
+      "name": "慧洋-KY",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2313",
+      "name": "華通",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3714",
+      "name": "富采",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2890",
+      "name": "永豐金控",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3661",
+      "name": "世芯-KY",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2884",
+      "name": "玉山金控",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1216",
+      "name": "統一",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3034",
+      "name": "聯詠",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2464",
+      "name": "盟立",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6274",
+      "name": "台燿",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2351",
+      "name": "順德",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "4904",
+      "name": "遠傳電信",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2317",
+      "name": "鴻海精密工業",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2376",
+      "name": "技嘉科技",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2412",
+      "name": "中華電信",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2377",
+      "name": "微星科技",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3324",
+      "name": "雙鴻科技",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "8150",
+      "name": "南茂科技",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
     }
   ],
   "negative": [
     {
       "code": "2345",
       "name": "智邦",
-      "increased_count": 1,
-      "decreased_count": 5,
+      "increased_count": 0,
+      "decreased_count": 2,
       "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -5,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "2360",
-      "name": "致茂",
+      "code": "3443",
+      "name": "創意",
       "increased_count": 0,
-      "decreased_count": 1,
+      "decreased_count": 2,
       "new_count": 0,
-      "removed_count": 1,
+      "removed_count": 0,
       "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6805",
+      "name": "富世達",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
     },
     {
       "code": "9941",
@@ -291,32 +709,21 @@
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "3443",
-      "name": "創意",
+      "code": "3045",
+      "name": "台灣大",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "6805",
-      "name": "富世達",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
     },
     {
       "code": "9802",
@@ -326,85 +733,30 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
+      "streak_days": 3,
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "3045",
-      "name": "台灣大",
+      "code": "2891",
+      "name": "中信金",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2317",
-      "name": "鴻海精密工業",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "4958",
-      "name": "臻鼎科技控股",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2454",
-      "name": "聯發科",
-      "increased_count": 1,
-      "decreased_count": 3,
-      "new_count": 0,
-      "removed_count": 0,
+      "removed_count": 2,
       "net_etf_count": -2,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "6442",
-      "name": "光 聖",
+      "code": "6831",
+      "name": "邁科",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
       "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3008",
-      "name": "大立光",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "6488",
-      "name": "環球晶",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
     },
     {
       "code": "7734",
@@ -414,184 +766,624 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "6831",
-      "name": "邁科",
+      "code": "5534",
+      "name": "長虹",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2376",
-      "name": "技嘉科技",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3533",
-      "name": "嘉澤端子工業",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2884",
-      "name": "玉山金融控股",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "2891",
-      "name": "中國信託金融控股",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
     },
     {
       "code": "3044",
       "name": "健鼎科技",
       "increased_count": 0,
-      "decreased_count": 1,
+      "decreased_count": 0,
       "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 2,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "increased_count": 0,
+      "decreased_count": 3,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -3,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3081",
+      "name": "聯亞",
+      "increased_count": 1,
+      "decreased_count": 3,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6223",
+      "name": "旺矽",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6187",
+      "name": "萬潤",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "8210",
+      "name": "勤誠",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2344",
+      "name": "華邦電子",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1303",
+      "name": "南亞",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 1,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "6274",
-      "name": "台燿科技",
+      "code": "2455",
+      "name": "全新",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "2382",
-      "name": "廣達電腦",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3189",
-      "name": "景碩科技",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "7750",
-      "name": "新代科技",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-10-01"
-    },
-    {
-      "code": "3131",
-      "name": "弘塑科技",
+      "code": "3260",
+      "name": "威剛科技",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "1216",
-      "name": "統一企業",
+      "code": "2467",
+      "name": "志聖",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "4746",
-      "name": "台耀化學",
+      "code": "2379",
+      "name": "瑞昱",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "2393",
-      "name": "億光電子工業",
+      "code": "2845",
+      "name": "遠東銀行",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "2727",
-      "name": "王品餐飲",
+      "code": "2851",
+      "name": "中央再保",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
     },
     {
-      "code": "5534",
-      "name": "長虹建設",
+      "code": "1102",
+      "name": "亞泥",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6446",
+      "name": "藥華醫藥",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-10-01"
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6670",
+      "name": "復盛應用",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "7780",
+      "name": "大研生醫*",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3532",
+      "name": "台勝科",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1409",
+      "name": "新纖",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2897",
+      "name": "王道銀行",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "4967",
+      "name": "十銓",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2542",
+      "name": "興富發",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1907",
+      "name": "永豐餘",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2633",
+      "name": "台灣高鐵",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6584",
+      "name": "南俊國際",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2903",
+      "name": "遠百",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1808",
+      "name": "潤隆",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2301",
+      "name": "光寶科技",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "9933",
+      "name": "中鼎",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6177",
+      "name": "達麗",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6548",
+      "name": "長科*",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1229",
+      "name": "聯華實業",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2618",
+      "name": "長榮航",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2006",
+      "name": "東和鋼鐵",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "5876",
+      "name": "上海商銀",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "4763",
+      "name": "材料*-KY",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "1402",
+      "name": "遠東新",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2855",
+      "name": "統一證券",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6426",
+      "name": "統新",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2520",
+      "name": "冠德",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6592",
+      "name": "和潤企業",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "8415",
+      "name": "大國鋼",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "5306",
+      "name": "桂盟",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2546",
+      "name": "根基",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "5871",
+      "name": "中租-KY",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "6173",
+      "name": "信昌電陶",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2850",
+      "name": "新光產險",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "4123",
+      "name": "晟德",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "5289",
+      "name": "宜鼎國際",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "8358",
+      "name": "金居開發",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3023",
+      "name": "信邦電子",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
+    },
+    {
+      "code": "3211",
+      "name": "順達科技",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-10-02"
     }
   ],
   "etfs": {
@@ -600,6 +1392,26 @@
       "name": "主動國泰動能高息",
       "issuer": "國泰投信",
       "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6488",
+          "name": "環球晶",
+          "previous_shares": 622000.0,
+          "current_shares": 884000.0,
+          "change_shares": 262000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 238000.0,
+          "current_shares": 181000.0,
+          "change_shares": -57000.0
+        },
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
@@ -885,6 +1697,76 @@
       "issuer": "統一投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 700000.0,
+          "current_shares": 530000.0,
+          "change_shares": -170000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 2900000.0,
+          "current_shares": 3010000.0,
+          "change_shares": 110000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 1700000.0,
+          "current_shares": 1600000.0,
+          "change_shares": -100000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2455",
+          "name": "全新",
+          "previous_shares": 386000.0,
+          "current_shares": 300000.0,
+          "change_shares": -86000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 1000000.0,
+          "current_shares": 930000.0,
+          "change_shares": -70000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 1400000.0,
+          "current_shares": 1460000.0,
+          "change_shares": 60000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 610000.0,
+          "current_shares": 570000.0,
+          "change_shares": -40000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "decreased",
@@ -907,6 +1789,16 @@
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
+          "type": "decreased",
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 1800000.0,
+          "current_shares": 1700000.0,
+          "change_shares": -100000.0
+        },
+        {
+          "date": "2026-10-01",
+          "previous_date": "2026-09-30",
           "type": "increased",
           "code": "8996",
           "name": "高力",
@@ -922,16 +1814,6 @@
           "name": "旺矽",
           "previous_shares": 1100000.0,
           "current_shares": 1000000.0,
-          "change_shares": -100000.0
-        },
-        {
-          "date": "2026-10-01",
-          "previous_date": "2026-09-30",
-          "type": "decreased",
-          "code": "2345",
-          "name": "智邦",
-          "previous_shares": 1800000.0,
-          "current_shares": 1700000.0,
           "change_shares": -100000.0
         },
         {
@@ -1218,20 +2100,20 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "6669",
-          "name": "緯穎",
-          "previous_shares": 1987956.0,
-          "current_shares": 1867956.0,
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 2180000.0,
+          "current_shares": 2060000.0,
           "change_shares": -120000.0
         },
         {
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "2345",
-          "name": "智邦",
-          "previous_shares": 2180000.0,
-          "current_shares": 2060000.0,
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 1987956.0,
+          "current_shares": 1867956.0,
           "change_shares": -120000.0
         },
         {
@@ -1492,6 +2374,86 @@
       "issuer": "富邦投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 0,
+          "current_shares": 700000.0,
+          "change_shares": 700000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3450",
+          "name": "聯鈞",
+          "previous_shares": 650000.0,
+          "current_shares": 250000.0,
+          "change_shares": -400000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 1720000.0,
+          "current_shares": 1920000.0,
+          "change_shares": 200000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 739000.0,
+          "current_shares": 859000.0,
+          "change_shares": 120000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "6831",
+          "name": "邁科",
+          "previous_shares": 100000.0,
+          "current_shares": 0,
+          "change_shares": -100000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6510",
+          "name": "精測",
+          "previous_shares": 245000.0,
+          "current_shares": 155000.0,
+          "change_shares": -90000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "3189",
+          "name": "景碩",
+          "previous_shares": 0,
+          "current_shares": 50000.0,
+          "change_shares": 50000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "7734",
+          "name": "印能科技",
+          "previous_shares": 80000.0,
+          "current_shares": 30000.0,
+          "change_shares": -50000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "decreased",
@@ -1669,6 +2631,166 @@
       "issuer": "中信投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2303",
+          "name": "聯華電子",
+          "previous_shares": 7550000.0,
+          "current_shares": 9068000.0,
+          "change_shares": 1518000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3711",
+          "name": "日月光投資控股",
+          "previous_shares": 1810000.0,
+          "current_shares": 2115000.0,
+          "change_shares": 305000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6147",
+          "name": "頎邦科技",
+          "previous_shares": 1060000.0,
+          "current_shares": 1330000.0,
+          "change_shares": 270000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3037",
+          "name": "欣興電子",
+          "previous_shares": 2575000.0,
+          "current_shares": 2735000.0,
+          "change_shares": 160000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3189",
+          "name": "景碩科技",
+          "previous_shares": 554000.0,
+          "current_shares": 686000.0,
+          "change_shares": 132000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2368",
+          "name": "金像電子",
+          "previous_shares": 180000.0,
+          "current_shares": 310000.0,
+          "change_shares": 130000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2330",
+          "name": "台灣積體電路製造",
+          "previous_shares": 2179000.0,
+          "current_shares": 2289000.0,
+          "change_shares": 110000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2454",
+          "name": "聯發科技",
+          "previous_shares": 677000.0,
+          "current_shares": 747000.0,
+          "change_shares": 70000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3017",
+          "name": "奇鋐科技",
+          "previous_shares": 931000.0,
+          "current_shares": 996000.0,
+          "change_shares": 65000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "3529",
+          "name": "力旺電子",
+          "previous_shares": 0,
+          "current_shares": 50000.0,
+          "change_shares": 50000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2308",
+          "name": "台達電子工業",
+          "previous_shares": 1073000.0,
+          "current_shares": 1123000.0,
+          "change_shares": 50000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2383",
+          "name": "台光電子材料",
+          "previous_shares": 615000.0,
+          "current_shares": 647000.0,
+          "change_shares": 32000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2360",
+          "name": "致茂電子",
+          "previous_shares": 174000.0,
+          "current_shares": 204000.0,
+          "change_shares": 30000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3653",
+          "name": "健策精密工業",
+          "previous_shares": 316000.0,
+          "current_shares": 346000.0,
+          "change_shares": 30000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6510",
+          "name": "中華精測科技",
+          "previous_shares": 220000.0,
+          "current_shares": 245000.0,
+          "change_shares": 25000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3665",
+          "name": "貿聯控股",
+          "previous_shares": 751000.0,
+          "current_shares": 771000.0,
+          "change_shares": 20000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
@@ -1722,20 +2844,20 @@
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
-          "code": "2330",
-          "name": "台灣積體電路製造",
-          "previous_shares": 1879000.0,
-          "current_shares": 2179000.0,
+          "code": "3665",
+          "name": "貿聯控股",
+          "previous_shares": 451000.0,
+          "current_shares": 751000.0,
           "change_shares": 300000.0
         },
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
-          "code": "3665",
-          "name": "貿聯控股",
-          "previous_shares": 451000.0,
-          "current_shares": 751000.0,
+          "code": "2330",
+          "name": "台灣積體電路製造",
+          "previous_shares": 1879000.0,
+          "current_shares": 2179000.0,
           "change_shares": 300000.0
         },
         {
@@ -1802,20 +2924,20 @@
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
-          "code": "5274",
-          "name": "信驊科技",
-          "previous_shares": 68000.0,
-          "current_shares": 93000.0,
+          "code": "3653",
+          "name": "健策精密工業",
+          "previous_shares": 291000.0,
+          "current_shares": 316000.0,
           "change_shares": 25000.0
         },
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
-          "code": "3653",
-          "name": "健策精密工業",
-          "previous_shares": 291000.0,
-          "current_shares": 316000.0,
+          "code": "5274",
+          "name": "信驊科技",
+          "previous_shares": 68000.0,
+          "current_shares": 93000.0,
           "change_shares": 25000.0
         },
         {
@@ -1842,20 +2964,20 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "2330",
-          "name": "台灣積體電路製造",
-          "previous_shares": 1859000.0,
-          "current_shares": 1879000.0,
+          "code": "3653",
+          "name": "健策精密工業",
+          "previous_shares": 271000.0,
+          "current_shares": 291000.0,
           "change_shares": 20000.0
         },
         {
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "3653",
-          "name": "健策精密工業",
-          "previous_shares": 271000.0,
-          "current_shares": 291000.0,
+          "code": "2330",
+          "name": "台灣積體電路製造",
+          "previous_shares": 1859000.0,
+          "current_shares": 1879000.0,
           "change_shares": 20000.0
         },
         {
@@ -2046,6 +3168,36 @@
       "issuer": "凱基投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "8046",
+          "name": "南電",
+          "previous_shares": 356000.0,
+          "current_shares": 506000.0,
+          "change_shares": 150000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 207000.0,
+          "current_shares": 117000.0,
+          "change_shares": -90000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 190000.0,
+          "current_shares": 110000.0,
+          "change_shares": -80000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "decreased",
@@ -2119,16 +3271,6 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "3231",
-          "name": "緯創",
-          "previous_shares": 956000.0,
-          "current_shares": 921000.0,
-          "change_shares": -35000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
           "code": "2303",
           "name": "聯電",
           "previous_shares": 956000.0,
@@ -2143,6 +3285,16 @@
           "name": "國巨*",
           "previous_shares": 974000.0,
           "current_shares": 939000.0,
+          "change_shares": -35000.0
+        },
+        {
+          "date": "2026-09-23",
+          "previous_date": "2026-09-22",
+          "type": "decreased",
+          "code": "3231",
+          "name": "緯創",
+          "previous_shares": 956000.0,
+          "current_shares": 921000.0,
           "change_shares": -35000.0
         },
         {
@@ -2229,6 +3381,16 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 334000.0,
+          "current_shares": 322000.0,
+          "change_shares": -12000.0
+        },
+        {
+          "date": "2026-09-23",
+          "previous_date": "2026-09-22",
+          "type": "decreased",
           "code": "8996",
           "name": "高力",
           "previous_shares": 336000.0,
@@ -2243,16 +3405,6 @@
           "name": "聯詠",
           "previous_shares": 329000.0,
           "current_shares": 317000.0,
-          "change_shares": -12000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "2345",
-          "name": "智邦",
-          "previous_shares": 334000.0,
-          "current_shares": 322000.0,
           "change_shares": -12000.0
         },
         {
@@ -2279,20 +3431,20 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "2451",
-          "name": "創見",
-          "previous_shares": 274000.0,
-          "current_shares": 264000.0,
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 265000.0,
+          "current_shares": 255000.0,
           "change_shares": -10000.0
         },
         {
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "1560",
-          "name": "中砂",
-          "previous_shares": 265000.0,
-          "current_shares": 255000.0,
+          "code": "2451",
+          "name": "創見",
+          "previous_shares": 274000.0,
+          "current_shares": 264000.0,
           "change_shares": -10000.0
         },
         {
@@ -2329,20 +3481,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "3293",
-          "name": "鈊象",
-          "previous_shares": 186000.0,
-          "current_shares": 179000.0,
-          "change_shares": -7000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "2344",
-          "name": "華邦電",
-          "previous_shares": 194000.0,
-          "current_shares": 187000.0,
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 197000.0,
+          "current_shares": 190000.0,
           "change_shares": -7000.0
         },
         {
@@ -2359,18 +3501,48 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "2360",
-          "name": "致茂",
-          "previous_shares": 197000.0,
-          "current_shares": 190000.0,
+          "code": "2344",
+          "name": "華邦電",
+          "previous_shares": 194000.0,
+          "current_shares": 187000.0,
           "change_shares": -7000.0
         },
         {
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "2368",
-          "name": "金像電",
+          "code": "3293",
+          "name": "鈊象",
+          "previous_shares": 186000.0,
+          "current_shares": 179000.0,
+          "change_shares": -7000.0
+        },
+        {
+          "date": "2026-09-23",
+          "previous_date": "2026-09-22",
+          "type": "decreased",
+          "code": "3491",
+          "name": "昇達科",
+          "previous_shares": 147000.0,
+          "current_shares": 142000.0,
+          "change_shares": -5000.0
+        },
+        {
+          "date": "2026-09-23",
+          "previous_date": "2026-09-22",
+          "type": "decreased",
+          "code": "3443",
+          "name": "創意電子",
+          "previous_shares": 148000.0,
+          "current_shares": 143000.0,
+          "change_shares": -5000.0
+        },
+        {
+          "date": "2026-09-23",
+          "previous_date": "2026-09-22",
+          "type": "decreased",
+          "code": "3081",
+          "name": "聯亞",
           "previous_shares": 124000.0,
           "current_shares": 119000.0,
           "change_shares": -5000.0
@@ -2389,20 +3561,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "3443",
-          "name": "創意電子",
-          "previous_shares": 148000.0,
-          "current_shares": 143000.0,
-          "change_shares": -5000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "3491",
-          "name": "昇達科",
-          "previous_shares": 147000.0,
-          "current_shares": 142000.0,
+          "code": "2368",
+          "name": "金像電",
+          "previous_shares": 124000.0,
+          "current_shares": 119000.0,
           "change_shares": -5000.0
         },
         {
@@ -2419,16 +3581,6 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "3081",
-          "name": "聯亞",
-          "previous_shares": 124000.0,
-          "current_shares": 119000.0,
-          "change_shares": -5000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
           "code": "6510",
           "name": "精測",
           "previous_shares": 104000.0,
@@ -2439,20 +3591,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "5434",
-          "name": "崇越",
-          "previous_shares": 90000.0,
-          "current_shares": 87000.0,
-          "change_shares": -3000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "3131",
-          "name": "弘塑",
-          "previous_shares": 87000.0,
-          "current_shares": 84000.0,
+          "code": "2379",
+          "name": "瑞昱",
+          "previous_shares": 75000.0,
+          "current_shares": 72000.0,
           "change_shares": -3000.0
         },
         {
@@ -2469,6 +3611,16 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
+          "code": "5434",
+          "name": "崇越",
+          "previous_shares": 90000.0,
+          "current_shares": 87000.0,
+          "change_shares": -3000.0
+        },
+        {
+          "date": "2026-09-23",
+          "previous_date": "2026-09-22",
+          "type": "decreased",
           "code": "2412",
           "name": "中華電",
           "previous_shares": 70000.0,
@@ -2479,10 +3631,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "2379",
-          "name": "瑞昱",
-          "previous_shares": 75000.0,
-          "current_shares": 72000.0,
+          "code": "3131",
+          "name": "弘塑",
+          "previous_shares": 87000.0,
+          "current_shares": 84000.0,
           "change_shares": -3000.0
         },
         {
@@ -2509,20 +3661,20 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "5289",
-          "name": "宜鼎",
-          "previous_shares": 60294.0,
-          "current_shares": 58294.0,
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 57000.0,
+          "current_shares": 55000.0,
           "change_shares": -2000.0
         },
         {
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "3008",
-          "name": "大立光",
-          "previous_shares": 57000.0,
-          "current_shares": 55000.0,
+          "code": "5289",
+          "name": "宜鼎",
+          "previous_shares": 60294.0,
+          "current_shares": 58294.0,
           "change_shares": -2000.0
         },
         {
@@ -2539,10 +3691,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "5274",
-          "name": "信驊",
-          "previous_shares": 31900.0,
-          "current_shares": 30900.0,
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 419644.0,
+          "current_shares": 418644.0,
           "change_shares": -1000.0
         },
         {
@@ -2559,10 +3711,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "decreased",
-          "code": "6669",
-          "name": "緯穎",
-          "previous_shares": 419644.0,
-          "current_shares": 418644.0,
+          "code": "5274",
+          "name": "信驊",
+          "previous_shares": 31900.0,
+          "current_shares": 30900.0,
           "change_shares": -1000.0
         },
         {
@@ -2619,8 +3771,8 @@
           "date": "2026-09-22",
           "previous_date": "2026-09-21",
           "type": "decreased",
-          "code": "3231",
-          "name": "緯創",
+          "code": "2303",
+          "name": "聯電",
           "previous_shares": 1000000.0,
           "current_shares": 956000.0,
           "change_shares": -44000.0
@@ -2629,8 +3781,8 @@
           "date": "2026-09-22",
           "previous_date": "2026-09-21",
           "type": "decreased",
-          "code": "2303",
-          "name": "聯電",
+          "code": "3231",
+          "name": "緯創",
           "previous_shares": 1000000.0,
           "current_shares": 956000.0,
           "change_shares": -44000.0
@@ -2719,6 +3871,16 @@
           "date": "2026-09-22",
           "previous_date": "2026-09-21",
           "type": "decreased",
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 349000.0,
+          "current_shares": 334000.0,
+          "change_shares": -15000.0
+        },
+        {
+          "date": "2026-09-22",
+          "previous_date": "2026-09-21",
+          "type": "decreased",
           "code": "8996",
           "name": "高力",
           "previous_shares": 351000.0,
@@ -2739,11 +3901,11 @@
           "date": "2026-09-22",
           "previous_date": "2026-09-21",
           "type": "decreased",
-          "code": "2345",
-          "name": "智邦",
-          "previous_shares": 349000.0,
-          "current_shares": 334000.0,
-          "change_shares": -15000.0
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 306000.0,
+          "current_shares": 293000.0,
+          "change_shares": -13000.0
         },
         {
           "date": "2026-09-22",
@@ -2753,16 +3915,6 @@
           "name": "萬潤",
           "previous_shares": 290000.0,
           "current_shares": 277000.0,
-          "change_shares": -13000.0
-        },
-        {
-          "date": "2026-09-22",
-          "previous_date": "2026-09-21",
-          "type": "decreased",
-          "code": "2454",
-          "name": "聯發科",
-          "previous_shares": 306000.0,
-          "current_shares": 293000.0,
           "change_shares": -13000.0
         },
         {
@@ -2814,36 +3966,6 @@
           "previous_shares": 225000.0,
           "current_shares": 215000.0,
           "change_shares": -10000.0
-        },
-        {
-          "date": "2026-09-22",
-          "previous_date": "2026-09-21",
-          "type": "decreased",
-          "code": "3293",
-          "name": "鈊象",
-          "previous_shares": 195000.0,
-          "current_shares": 186000.0,
-          "change_shares": -9000.0
-        },
-        {
-          "date": "2026-09-22",
-          "previous_date": "2026-09-21",
-          "type": "decreased",
-          "code": "2344",
-          "name": "華邦電",
-          "previous_shares": 203000.0,
-          "current_shares": 194000.0,
-          "change_shares": -9000.0
-        },
-        {
-          "date": "2026-09-22",
-          "previous_date": "2026-09-21",
-          "type": "decreased",
-          "code": "2360",
-          "name": "致茂",
-          "previous_shares": 206000.0,
-          "current_shares": 197000.0,
-          "change_shares": -9000.0
         }
       ]
     },
@@ -2852,6 +3974,66 @@
       "name": "主動第一金優股息",
       "issuer": "第一金投信",
       "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "2891",
+          "name": "中信金",
+          "previous_shares": 240000.0,
+          "current_shares": 0,
+          "change_shares": -240000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2327",
+          "name": "國巨*",
+          "previous_shares": 0,
+          "current_shares": 15000.0,
+          "change_shares": 15000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6488",
+          "name": "環球晶",
+          "previous_shares": 7000.0,
+          "current_shares": 14000.0,
+          "change_shares": 7000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 11000.0,
+          "current_shares": 7000.0,
+          "change_shares": -4000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 16500.0,
+          "current_shares": 14500.0,
+          "change_shares": -2000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 7000.0,
+          "current_shares": 6500.0,
+          "change_shares": -500.0
+        },
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
@@ -2865,22 +4047,22 @@
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
-          "type": "decreased",
-          "code": "9802",
-          "name": "鈺齊-KY",
-          "previous_shares": 252000.0,
-          "current_shares": 192000.0,
-          "change_shares": -60000.0
-        },
-        {
-          "date": "2026-10-01",
-          "previous_date": "2026-09-30",
           "type": "increased",
           "code": "1303",
           "name": "南亞",
           "previous_shares": 81000.0,
           "current_shares": 141000.0,
           "change_shares": 60000.0
+        },
+        {
+          "date": "2026-10-01",
+          "previous_date": "2026-09-30",
+          "type": "decreased",
+          "code": "9802",
+          "name": "鈺齊-KY",
+          "previous_shares": 252000.0,
+          "current_shares": 192000.0,
+          "change_shares": -60000.0
         },
         {
           "date": "2026-10-01",
@@ -3046,20 +4228,20 @@
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "7769",
-          "name": "鴻勁",
-          "previous_shares": 2500.0,
-          "current_shares": 1500.0,
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 7000.0,
+          "current_shares": 6000.0,
           "change_shares": -1000.0
         },
         {
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "2345",
-          "name": "智邦",
-          "previous_shares": 7000.0,
-          "current_shares": 6000.0,
+          "code": "7769",
+          "name": "鴻勁",
+          "previous_shares": 2500.0,
+          "current_shares": 1500.0,
           "change_shares": -1000.0
         },
         {
@@ -3550,6 +4732,36 @@
       "issuer": "永豐投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3406",
+          "name": "玉晶光",
+          "previous_shares": 30000.0,
+          "current_shares": 45000.0,
+          "change_shares": 15000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3665",
+          "name": "貿聯-KY",
+          "previous_shares": 30000.0,
+          "current_shares": 35000.0,
+          "change_shares": 5000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3008",
+          "name": "大立光",
+          "previous_shares": 15000.0,
+          "current_shares": 12000.0,
+          "change_shares": -3000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
@@ -3874,6 +5086,26 @@
       "issuer": "統一投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 4812561.0,
+          "current_shares": 4662561.0,
+          "change_shares": -150000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "8210",
+          "name": "勤誠",
+          "previous_shares": 1139000.0,
+          "current_shares": 1044000.0,
+          "change_shares": -95000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
@@ -3977,26 +5209,6 @@
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "3037",
-          "name": "欣興",
-          "previous_shares": 20300000.0,
-          "current_shares": 20100000.0,
-          "change_shares": -200000.0
-        },
-        {
-          "date": "2026-09-30",
-          "previous_date": "2026-09-28",
-          "type": "decreased",
-          "code": "2449",
-          "name": "京元電子",
-          "previous_shares": 13138450.0,
-          "current_shares": 12938450.0,
-          "change_shares": -200000.0
-        },
-        {
-          "date": "2026-09-30",
-          "previous_date": "2026-09-28",
-          "type": "decreased",
           "code": "3264",
           "name": "欣銓",
           "previous_shares": 5182000.0,
@@ -4016,6 +5228,26 @@
         {
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
+          "type": "decreased",
+          "code": "2449",
+          "name": "京元電子",
+          "previous_shares": 13138450.0,
+          "current_shares": 12938450.0,
+          "change_shares": -200000.0
+        },
+        {
+          "date": "2026-09-30",
+          "previous_date": "2026-09-28",
+          "type": "decreased",
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 20300000.0,
+          "current_shares": 20100000.0,
+          "change_shares": -200000.0
+        },
+        {
+          "date": "2026-09-30",
+          "previous_date": "2026-09-28",
           "type": "increased",
           "code": "6187",
           "name": "萬潤",
@@ -4027,10 +5259,10 @@
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "2383",
-          "name": "台光電",
-          "previous_shares": 4750000.0,
-          "current_shares": 4650000.0,
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 5186000.0,
+          "current_shares": 5086000.0,
           "change_shares": -100000.0
         },
         {
@@ -4047,20 +5279,20 @@
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "2454",
-          "name": "聯發科",
-          "previous_shares": 5186000.0,
-          "current_shares": 5086000.0,
+          "code": "6805",
+          "name": "富世達",
+          "previous_shares": 1773000.0,
+          "current_shares": 1673000.0,
           "change_shares": -100000.0
         },
         {
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "6805",
-          "name": "富世達",
-          "previous_shares": 1773000.0,
-          "current_shares": 1673000.0,
+          "code": "2383",
+          "name": "台光電",
+          "previous_shares": 4750000.0,
+          "current_shares": 4650000.0,
           "change_shares": -100000.0
         },
         {
@@ -4087,20 +5319,20 @@
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "4958",
-          "name": "臻鼎-KY",
-          "previous_shares": 3543000.0,
-          "current_shares": 3483000.0,
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 5949000.0,
+          "current_shares": 5889000.0,
           "change_shares": -60000.0
         },
         {
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "3017",
-          "name": "奇鋐",
-          "previous_shares": 5949000.0,
-          "current_shares": 5889000.0,
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 3543000.0,
+          "current_shares": 3483000.0,
           "change_shares": -60000.0
         },
         {
@@ -4451,6 +5683,36 @@
       "issuer": "群益投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6213",
+          "name": "聯茂",
+          "previous_shares": 740000.0,
+          "current_shares": 940000.0,
+          "change_shares": 200000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 363000.0,
+          "current_shares": 222000.0,
+          "change_shares": -141000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6139",
+          "name": "亞翔",
+          "previous_shares": 3697000.0,
+          "current_shares": 3700000.0,
+          "change_shares": 3000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "increased",
@@ -4514,20 +5776,20 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "decreased",
-          "code": "2478",
-          "name": "大毅",
-          "previous_shares": 4360000.0,
-          "current_shares": 4331000.0,
+          "code": "2303",
+          "name": "聯電",
+          "previous_shares": 5145000.0,
+          "current_shares": 5116000.0,
           "change_shares": -29000.0
         },
         {
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "decreased",
-          "code": "2303",
-          "name": "聯電",
-          "previous_shares": 5145000.0,
-          "current_shares": 5116000.0,
+          "code": "2478",
+          "name": "大毅",
+          "previous_shares": 4360000.0,
+          "current_shares": 4331000.0,
           "change_shares": -29000.0
         },
         {
@@ -4564,10 +5826,20 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "decreased",
-          "code": "3231",
-          "name": "緯創",
-          "previous_shares": 3660000.0,
-          "current_shares": 3638000.0,
+          "code": "3090",
+          "name": "日電貿",
+          "previous_shares": 3302000.0,
+          "current_shares": 3280000.0,
+          "change_shares": -22000.0
+        },
+        {
+          "date": "2026-09-24",
+          "previous_date": "2026-09-23",
+          "type": "decreased",
+          "code": "5483",
+          "name": "中美晶",
+          "previous_shares": 3437000.0,
+          "current_shares": 3415000.0,
           "change_shares": -22000.0
         },
         {
@@ -4584,20 +5856,10 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "decreased",
-          "code": "3090",
-          "name": "日電貿",
-          "previous_shares": 3302000.0,
-          "current_shares": 3280000.0,
-          "change_shares": -22000.0
-        },
-        {
-          "date": "2026-09-24",
-          "previous_date": "2026-09-23",
-          "type": "decreased",
-          "code": "5483",
-          "name": "中美晶",
-          "previous_shares": 3437000.0,
-          "current_shares": 3415000.0,
+          "code": "3231",
+          "name": "緯創",
+          "previous_shares": 3660000.0,
+          "current_shares": 3638000.0,
           "change_shares": -22000.0
         },
         {
@@ -4756,13 +6018,934 @@
       "code": "00984A",
       "name": "主動安聯台灣高息",
       "issuer": "安聯投信",
-      "events": []
+      "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "1402",
+          "name": "遠東新",
+          "previous_shares": 6658000.0,
+          "current_shares": 0,
+          "change_shares": -6658000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2845",
+          "name": "遠東銀行",
+          "previous_shares": 10159094.0,
+          "current_shares": 5079547.0,
+          "change_shares": -5079547.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2887",
+          "name": "台新新光金",
+          "previous_shares": 1770000.0,
+          "current_shares": 6777000.0,
+          "change_shares": 5007000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "1102",
+          "name": "亞泥",
+          "previous_shares": 4789000.0,
+          "current_shares": 0,
+          "change_shares": -4789000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2618",
+          "name": "長榮航",
+          "previous_shares": 5386000.0,
+          "current_shares": 734000.0,
+          "change_shares": -4652000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "5876",
+          "name": "上海商銀",
+          "previous_shares": 4977000.0,
+          "current_shares": 641000.0,
+          "change_shares": -4336000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2884",
+          "name": "玉山金控",
+          "previous_shares": 0,
+          "current_shares": 3812000.0,
+          "change_shares": 3812000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "2542",
+          "name": "興富發",
+          "previous_shares": 3571000.0,
+          "current_shares": 0,
+          "change_shares": -3571000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2886",
+          "name": "兆豐金控",
+          "previous_shares": 0,
+          "current_shares": 3194000.0,
+          "change_shares": 3194000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2890",
+          "name": "永豐金控",
+          "previous_shares": 1661000.0,
+          "current_shares": 4488000.0,
+          "change_shares": 2827000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "2897",
+          "name": "王道銀行",
+          "previous_shares": 2785000.0,
+          "current_shares": 0,
+          "change_shares": -2785000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2409",
+          "name": "友達",
+          "previous_shares": 0,
+          "current_shares": 2628000.0,
+          "change_shares": 2628000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2880",
+          "name": "華南金控",
+          "previous_shares": 0,
+          "current_shares": 2618000.0,
+          "change_shares": 2618000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2892",
+          "name": "第一金",
+          "previous_shares": 0,
+          "current_shares": 2488000.0,
+          "change_shares": 2488000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "6505",
+          "name": "台塑石化",
+          "previous_shares": 0,
+          "current_shares": 2435000.0,
+          "change_shares": 2435000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "4763",
+          "name": "材料*-KY",
+          "previous_shares": 1972000.0,
+          "current_shares": 0,
+          "change_shares": -1972000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2885",
+          "name": "元大金",
+          "previous_shares": 2199880.0,
+          "current_shares": 4165880.0,
+          "change_shares": 1966000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "6548",
+          "name": "長科*",
+          "previous_shares": 1855000.0,
+          "current_shares": 0,
+          "change_shares": -1855000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2881",
+          "name": "富邦金控",
+          "previous_shares": 474000.0,
+          "current_shares": 2214000.0,
+          "change_shares": 1740000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "5871",
+          "name": "中租-KY",
+          "previous_shares": 1908840.0,
+          "current_shares": 293840.0,
+          "change_shares": -1615000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2882",
+          "name": "國泰金",
+          "previous_shares": 873000.0,
+          "current_shares": 2440000.0,
+          "change_shares": 1567000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2633",
+          "name": "台灣高鐵",
+          "previous_shares": 3057000.0,
+          "current_shares": 1528500.0,
+          "change_shares": -1528500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2006",
+          "name": "東和鋼鐵",
+          "previous_shares": 1466000.0,
+          "current_shares": 368000.0,
+          "change_shares": -1098000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "1808",
+          "name": "潤隆",
+          "previous_shares": 1033000.0,
+          "current_shares": 0,
+          "change_shares": -1033000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "2891",
+          "name": "中信金",
+          "previous_shares": 973000.0,
+          "current_shares": 0,
+          "change_shares": -973000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2801",
+          "name": "彰銀",
+          "previous_shares": 0,
+          "current_shares": 888000.0,
+          "change_shares": 888000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3045",
+          "name": "台灣大",
+          "previous_shares": 2194000.0,
+          "current_shares": 1349000.0,
+          "change_shares": -845000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "9933",
+          "name": "中鼎",
+          "previous_shares": 853619.0,
+          "current_shares": 18619.0,
+          "change_shares": -835000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2851",
+          "name": "中央再保",
+          "previous_shares": 2234000.0,
+          "current_shares": 1400000.0,
+          "change_shares": -834000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2603",
+          "name": "長榮海運",
+          "previous_shares": 1526000.0,
+          "current_shares": 726000.0,
+          "change_shares": -800000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2903",
+          "name": "遠百",
+          "previous_shares": 1595000.0,
+          "current_shares": 797500.0,
+          "change_shares": -797500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "1229",
+          "name": "聯華實業",
+          "previous_shares": 1543000.0,
+          "current_shares": 771500.0,
+          "change_shares": -771500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "6177",
+          "name": "達麗",
+          "previous_shares": 748000.0,
+          "current_shares": 0,
+          "change_shares": -748000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "3714",
+          "name": "富采",
+          "previous_shares": 0,
+          "current_shares": 712000.0,
+          "change_shares": 712000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "1907",
+          "name": "永豐餘",
+          "previous_shares": 1178000.0,
+          "current_shares": 589000.0,
+          "change_shares": -589000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "9941",
+          "name": "裕融",
+          "previous_shares": 1105000.0,
+          "current_shares": 552500.0,
+          "change_shares": -552500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2520",
+          "name": "冠德",
+          "previous_shares": 976000.0,
+          "current_shares": 488000.0,
+          "change_shares": -488000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2634",
+          "name": "漢翔公司",
+          "previous_shares": 0,
+          "current_shares": 382000.0,
+          "change_shares": 382000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2344",
+          "name": "華邦電子",
+          "previous_shares": 801000.0,
+          "current_shares": 421000.0,
+          "change_shares": -380000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "5904",
+          "name": "寶雅*",
+          "previous_shares": 902000.0,
+          "current_shares": 1263000.0,
+          "change_shares": 361000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "6173",
+          "name": "信昌電陶",
+          "previous_shares": 359000.0,
+          "current_shares": 0,
+          "change_shares": -359000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "1326",
+          "name": "台化",
+          "previous_shares": 935000.0,
+          "current_shares": 1271000.0,
+          "change_shares": 336000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "1216",
+          "name": "統一",
+          "previous_shares": 0,
+          "current_shares": 329000.0,
+          "change_shares": 329000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "7780",
+          "name": "大研生醫*",
+          "previous_shares": 645000.0,
+          "current_shares": 322500.0,
+          "change_shares": -322500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2379",
+          "name": "瑞昱",
+          "previous_shares": 362000.0,
+          "current_shares": 42000.0,
+          "change_shares": -320000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "3605",
+          "name": "宏致",
+          "previous_shares": 0,
+          "current_shares": 301000.0,
+          "change_shares": 301000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "6139",
+          "name": "亞翔工程",
+          "previous_shares": 290000.0,
+          "current_shares": 0,
+          "change_shares": -290000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "3231",
+          "name": "緯創",
+          "previous_shares": 0,
+          "current_shares": 269000.0,
+          "change_shares": 269000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2637",
+          "name": "慧洋-KY",
+          "previous_shares": 0,
+          "current_shares": 253000.0,
+          "change_shares": 253000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "5534",
+          "name": "長虹",
+          "previous_shares": 505000.0,
+          "current_shares": 252500.0,
+          "change_shares": -252500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "4967",
+          "name": "十銓",
+          "previous_shares": 249000.0,
+          "current_shares": 0,
+          "change_shares": -249000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3264",
+          "name": "欣銓",
+          "previous_shares": 431000.0,
+          "current_shares": 660000.0,
+          "change_shares": 229000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "2850",
+          "name": "新光產險",
+          "previous_shares": 224000.0,
+          "current_shares": 0,
+          "change_shares": -224000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "2467",
+          "name": "志聖",
+          "previous_shares": 221000.0,
+          "current_shares": 0,
+          "change_shares": -221000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2301",
+          "name": "光寶科技",
+          "previous_shares": 446000.0,
+          "current_shares": 229000.0,
+          "change_shares": -217000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2855",
+          "name": "統一證券",
+          "previous_shares": 1378000.0,
+          "current_shares": 1167000.0,
+          "change_shares": -211000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "9802",
+          "name": "鈺齊-KY",
+          "previous_shares": 410000.0,
+          "current_shares": 205000.0,
+          "change_shares": -205000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2615",
+          "name": "萬海",
+          "previous_shares": 592000.0,
+          "current_shares": 781000.0,
+          "change_shares": 189000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6592",
+          "name": "和潤企業",
+          "previous_shares": 357000.0,
+          "current_shares": 178500.0,
+          "change_shares": -178500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "3260",
+          "name": "威剛科技",
+          "previous_shares": 165000.0,
+          "current_shares": 0,
+          "change_shares": -165000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "3532",
+          "name": "台勝科",
+          "previous_shares": 155000.0,
+          "current_shares": 0,
+          "change_shares": -155000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "1409",
+          "name": "新纖",
+          "previous_shares": 2720000.0,
+          "current_shares": 2566000.0,
+          "change_shares": -154000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "6197",
+          "name": "佳必琪",
+          "previous_shares": 0,
+          "current_shares": 151000.0,
+          "change_shares": 151000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "3044",
+          "name": "健鼎科技",
+          "previous_shares": 135000.0,
+          "current_shares": 0,
+          "change_shares": -135000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2395",
+          "name": "研華",
+          "previous_shares": 199000.0,
+          "current_shares": 329000.0,
+          "change_shares": 130000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "8415",
+          "name": "大國鋼",
+          "previous_shares": 125000.0,
+          "current_shares": 0,
+          "change_shares": -125000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "6426",
+          "name": "統新",
+          "previous_shares": 118000.0,
+          "current_shares": 0,
+          "change_shares": -118000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3450",
+          "name": "聯鈞",
+          "previous_shares": 256000.0,
+          "current_shares": 144000.0,
+          "change_shares": -112000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2464",
+          "name": "盟立",
+          "previous_shares": 572000.0,
+          "current_shares": 651000.0,
+          "change_shares": 79000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 1063000.0,
+          "current_shares": 991000.0,
+          "change_shares": -72000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "6691",
+          "name": "洋基工程",
+          "previous_shares": 0,
+          "current_shares": 68000.0,
+          "change_shares": 68000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 44000.0,
+          "current_shares": 111000.0,
+          "change_shares": 67000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 55000.0,
+          "current_shares": 119000.0,
+          "change_shares": 64000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "6584",
+          "name": "南俊國際",
+          "previous_shares": 62000.0,
+          "current_shares": 0,
+          "change_shares": -62000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "5306",
+          "name": "桂盟",
+          "previous_shares": 113000.0,
+          "current_shares": 56500.0,
+          "change_shares": -56500.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6446",
+          "name": "藥華醫藥",
+          "previous_shares": 180424.0,
+          "current_shares": 127424.0,
+          "change_shares": -53000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2313",
+          "name": "華通",
+          "previous_shares": 0,
+          "current_shares": 49000.0,
+          "change_shares": 49000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "3034",
+          "name": "聯詠",
+          "previous_shares": 0,
+          "current_shares": 44000.0,
+          "change_shares": 44000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "5434",
+          "name": "崇越",
+          "previous_shares": 0,
+          "current_shares": 43000.0,
+          "change_shares": 43000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6213",
+          "name": "聯茂",
+          "previous_shares": 248000.0,
+          "current_shares": 209000.0,
+          "change_shares": -39000.0
+        }
+      ]
     },
     "00985A": {
       "code": "00985A",
       "name": "主動野村台灣50",
       "issuer": "野村投信",
       "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "4904",
+          "name": "遠傳電信",
+          "previous_shares": 3954000.0,
+          "current_shares": 4427000.0,
+          "change_shares": 473000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2303",
+          "name": "聯華電子",
+          "previous_shares": 766000.0,
+          "current_shares": 1092000.0,
+          "change_shares": 326000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "1605",
+          "name": "華新麗華",
+          "previous_shares": 3375000.0,
+          "current_shares": 3636000.0,
+          "change_shares": 261000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2412",
+          "name": "中華電信",
+          "previous_shares": 2980000.0,
+          "current_shares": 3202000.0,
+          "change_shares": 222000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2377",
+          "name": "微星科技",
+          "previous_shares": 1213000.0,
+          "current_shares": 1302000.0,
+          "change_shares": 89000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2603",
+          "name": "長榮海運",
+          "previous_shares": 726000.0,
+          "current_shares": 787000.0,
+          "change_shares": 61000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2376",
+          "name": "技嘉科技",
+          "previous_shares": 1030000.0,
+          "current_shares": 1088000.0,
+          "change_shares": 58000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2317",
+          "name": "鴻海精密工業",
+          "previous_shares": 853000.0,
+          "current_shares": 910000.0,
+          "change_shares": 57000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6488",
+          "name": "環球晶圓",
+          "previous_shares": 143000.0,
+          "current_shares": 187000.0,
+          "change_shares": 44000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2330",
+          "name": "台灣積體電路製造",
+          "previous_shares": 637000.0,
+          "current_shares": 680000.0,
+          "change_shares": 43000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2395",
+          "name": "研華",
+          "previous_shares": 482000.0,
+          "current_shares": 517000.0,
+          "change_shares": 35000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3081",
+          "name": "聯亞光電工業",
+          "previous_shares": 38000.0,
+          "current_shares": 54000.0,
+          "change_shares": 16000.0
+        },
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
@@ -5061,6 +7244,16 @@
       "issuer": "台新投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3443",
+          "name": "創意",
+          "previous_shares": 15000.0,
+          "current_shares": 13000.0,
+          "change_shares": -2000.0
+        },
+        {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
           "type": "decreased",
@@ -5167,6 +7360,26 @@
       "name": "主動復華未來50",
       "issuer": "復華投信",
       "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6505",
+          "name": "台塑石化",
+          "previous_shares": 4000000.0,
+          "current_shares": 8500000.0,
+          "change_shares": 4500000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3081",
+          "name": "聯亞光電",
+          "previous_shares": 900000.0,
+          "current_shares": 800000.0,
+          "change_shares": -100000.0
+        },
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
@@ -5281,20 +7494,20 @@
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "increased",
-          "code": "3037",
-          "name": "欣興電子",
-          "previous_shares": 5100000.0,
-          "current_shares": 5200000.0,
+          "code": "3189",
+          "name": "景碩科技",
+          "previous_shares": 4400000.0,
+          "current_shares": 4500000.0,
           "change_shares": 100000.0
         },
         {
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "increased",
-          "code": "3189",
-          "name": "景碩科技",
-          "previous_shares": 4400000.0,
-          "current_shares": 4500000.0,
+          "code": "3037",
+          "name": "欣興電子",
+          "previous_shares": 5100000.0,
+          "current_shares": 5200000.0,
           "change_shares": 100000.0
         },
         {
@@ -5485,6 +7698,16 @@
       "issuer": "群益投信",
       "events": [
         {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 1001000.0,
+          "current_shares": 871000.0,
+          "change_shares": -130000.0
+        },
+        {
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "decreased",
@@ -5551,6 +7774,176 @@
       "name": "主動安聯台灣",
       "issuer": "安聯投信",
       "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "8358",
+          "name": "金居開發",
+          "previous_shares": 121000.0,
+          "current_shares": 0,
+          "change_shares": -121000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "removed",
+          "code": "2885",
+          "name": "元大金",
+          "previous_shares": 105360.0,
+          "current_shares": 0,
+          "change_shares": -105360.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2344",
+          "name": "華邦電子",
+          "previous_shares": 1238000.0,
+          "current_shares": 1214000.0,
+          "change_shares": -24000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6669",
+          "name": "緯穎",
+          "previous_shares": 215191.0,
+          "current_shares": 195191.0,
+          "change_shares": -20000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "1303",
+          "name": "南亞",
+          "previous_shares": 571000.0,
+          "current_shares": 553000.0,
+          "change_shares": -18000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 519000.0,
+          "current_shares": 531000.0,
+          "change_shares": 12000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "6213",
+          "name": "聯茂",
+          "previous_shares": 95000.0,
+          "current_shares": 105000.0,
+          "change_shares": 10000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "previous_shares": 255000.0,
+          "current_shares": 246000.0,
+          "change_shares": -9000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3189",
+          "name": "景碩科技",
+          "previous_shares": 431000.0,
+          "current_shares": 440000.0,
+          "change_shares": 9000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3653",
+          "name": "健策",
+          "previous_shares": 34000.0,
+          "current_shares": 41000.0,
+          "change_shares": 7000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2395",
+          "name": "研華",
+          "previous_shares": 84000.0,
+          "current_shares": 90000.0,
+          "change_shares": 6000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3017",
+          "name": "奇鋐",
+          "previous_shares": 164000.0,
+          "current_shares": 169000.0,
+          "change_shares": 5000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3711",
+          "name": "日月光投控",
+          "previous_shares": 85000.0,
+          "current_shares": 90000.0,
+          "change_shares": 5000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "1560",
+          "name": "中砂",
+          "previous_shares": 106000.0,
+          "current_shares": 111000.0,
+          "change_shares": 5000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2408",
+          "name": "南亞科",
+          "previous_shares": 630000.0,
+          "current_shares": 626000.0,
+          "change_shares": -4000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3324",
+          "name": "雙鴻科技",
+          "previous_shares": 38000.0,
+          "current_shares": 41000.0,
+          "change_shares": 3000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "5289",
+          "name": "宜鼎國際",
+          "previous_shares": 2872.0,
+          "current_shares": 1873.0,
+          "change_shares": -999.0
+        },
         {
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
@@ -5725,20 +8118,20 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "2301",
-          "name": "光寶科技",
-          "previous_shares": 80000.0,
-          "current_shares": 89000.0,
+          "code": "2347",
+          "name": "聯強",
+          "previous_shares": 465000.0,
+          "current_shares": 474000.0,
           "change_shares": 9000.0
         },
         {
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "2347",
-          "name": "聯強",
-          "previous_shares": 465000.0,
-          "current_shares": 474000.0,
+          "code": "2301",
+          "name": "光寶科技",
+          "previous_shares": 80000.0,
+          "current_shares": 89000.0,
           "change_shares": 9000.0
         },
         {
@@ -5805,16 +8198,6 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "2330",
-          "name": "台積電",
-          "previous_shares": 347000.0,
-          "current_shares": 349000.0,
-          "change_shares": 2000.0
-        },
-        {
-          "date": "2026-09-24",
-          "previous_date": "2026-09-23",
-          "type": "increased",
           "code": "6223",
           "name": "旺矽",
           "previous_shares": 80000.0,
@@ -5825,20 +8208,20 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "2383",
-          "name": "台光電子",
-          "previous_shares": 100000.0,
-          "current_shares": 101000.0,
-          "change_shares": 1000.0
+          "code": "2330",
+          "name": "台積電",
+          "previous_shares": 347000.0,
+          "current_shares": 349000.0,
+          "change_shares": 2000.0
         },
         {
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "3443",
-          "name": "創意電子",
-          "previous_shares": 65000.0,
-          "current_shares": 66000.0,
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 14000.0,
+          "current_shares": 15000.0,
           "change_shares": 1000.0
         },
         {
@@ -5855,10 +8238,20 @@
           "date": "2026-09-24",
           "previous_date": "2026-09-23",
           "type": "increased",
-          "code": "2360",
-          "name": "致茂",
-          "previous_shares": 14000.0,
-          "current_shares": 15000.0,
+          "code": "3443",
+          "name": "創意電子",
+          "previous_shares": 65000.0,
+          "current_shares": 66000.0,
+          "change_shares": 1000.0
+        },
+        {
+          "date": "2026-09-24",
+          "previous_date": "2026-09-23",
+          "type": "increased",
+          "code": "2383",
+          "name": "台光電子",
+          "previous_shares": 100000.0,
+          "current_shares": 101000.0,
           "change_shares": 1000.0
         },
         {
@@ -6055,8 +8448,8 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "removed",
-          "code": "6139",
-          "name": "亞翔工程",
+          "code": "6239",
+          "name": "力成",
           "previous_shares": 165000.0,
           "current_shares": 0,
           "change_shares": -165000.0
@@ -6065,8 +8458,8 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "removed",
-          "code": "6239",
-          "name": "力成",
+          "code": "6139",
+          "name": "亞翔工程",
           "previous_shares": 165000.0,
           "current_shares": 0,
           "change_shares": -165000.0
@@ -6085,8 +8478,8 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "removed",
-          "code": "8996",
-          "name": "高力",
+          "code": "2449",
+          "name": "京元電子",
           "previous_shares": 134000.0,
           "current_shares": 0,
           "change_shares": -134000.0
@@ -6095,8 +8488,8 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "removed",
-          "code": "2449",
-          "name": "京元電子",
+          "code": "8996",
+          "name": "高力",
           "previous_shares": 134000.0,
           "current_shares": 0,
           "change_shares": -134000.0
@@ -6180,176 +8573,6 @@
           "previous_shares": 0,
           "current_shares": 76000.0,
           "change_shares": 76000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "new",
-          "code": "2395",
-          "name": "研華",
-          "previous_shares": 0,
-          "current_shares": 76000.0,
-          "change_shares": 76000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "removed",
-          "code": "8210",
-          "name": "勤誠興業",
-          "previous_shares": 75000.0,
-          "current_shares": 0,
-          "change_shares": -75000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "new",
-          "code": "3532",
-          "name": "台勝科",
-          "previous_shares": 0,
-          "current_shares": 70000.0,
-          "change_shares": 70000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "increased",
-          "code": "8046",
-          "name": "南電",
-          "previous_shares": 181000.0,
-          "current_shares": 247000.0,
-          "change_shares": 66000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "2313",
-          "name": "華通",
-          "previous_shares": 165000.0,
-          "current_shares": 110000.0,
-          "change_shares": -55000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "increased",
-          "code": "3017",
-          "name": "奇鋐",
-          "previous_shares": 105000.0,
-          "current_shares": 158000.0,
-          "change_shares": 53000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "2408",
-          "name": "南亞科",
-          "previous_shares": 665000.0,
-          "current_shares": 613000.0,
-          "change_shares": -52000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "6805",
-          "name": "富世達",
-          "previous_shares": 72000.0,
-          "current_shares": 22000.0,
-          "change_shares": -50000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "5289",
-          "name": "宜鼎國際",
-          "previous_shares": 52872.0,
-          "current_shares": 2872.0,
-          "change_shares": -50000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "3044",
-          "name": "健鼎科技",
-          "previous_shares": 90000.0,
-          "current_shares": 54000.0,
-          "change_shares": -36000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "new",
-          "code": "3324",
-          "name": "雙鴻科技",
-          "previous_shares": 0,
-          "current_shares": 35000.0,
-          "change_shares": 35000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "2344",
-          "name": "華邦電子",
-          "previous_shares": 1260000.0,
-          "current_shares": 1228000.0,
-          "change_shares": -32000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "removed",
-          "code": "6515",
-          "name": "穎崴",
-          "previous_shares": 32000.0,
-          "current_shares": 0,
-          "change_shares": -32000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "new",
-          "code": "3406",
-          "name": "玉晶光",
-          "previous_shares": 0,
-          "current_shares": 29000.0,
-          "change_shares": 29000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "3081",
-          "name": "聯亞光電",
-          "previous_shares": 46000.0,
-          "current_shares": 19000.0,
-          "change_shares": -27000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "removed",
-          "code": "3131",
-          "name": "弘塑科技",
-          "previous_shares": 24000.0,
-          "current_shares": 0,
-          "change_shares": -24000.0
-        },
-        {
-          "date": "2026-09-23",
-          "previous_date": "2026-09-22",
-          "type": "decreased",
-          "code": "6274",
-          "name": "台燿",
-          "previous_shares": 183000.0,
-          "current_shares": 159000.0,
-          "change_shares": -24000.0
         }
       ]
     },
@@ -6358,6 +8581,56 @@
       "name": "主動第一金台股優",
       "issuer": "第一金投信",
       "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "2327",
+          "name": "國巨*",
+          "previous_shares": 0,
+          "current_shares": 40000.0,
+          "change_shares": 40000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "6488",
+          "name": "環球晶",
+          "previous_shares": 0,
+          "current_shares": 15000.0,
+          "change_shares": 15000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6187",
+          "name": "萬潤",
+          "previous_shares": 27000.0,
+          "current_shares": 16000.0,
+          "change_shares": -11000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3081",
+          "name": "聯亞",
+          "previous_shares": 28000.0,
+          "current_shares": 22000.0,
+          "change_shares": -6000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "2454",
+          "name": "聯發科",
+          "previous_shares": 63101.0,
+          "current_shares": 60101.0,
+          "change_shares": -3000.0
+        },
         {
           "date": "2026-10-01",
           "previous_date": "2026-09-30",
@@ -6452,20 +8725,20 @@
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "6223",
-          "name": "旺矽",
-          "previous_shares": 39901.0,
-          "current_shares": 31901.0,
+          "code": "2345",
+          "name": "智邦",
+          "previous_shares": 39000.0,
+          "current_shares": 31000.0,
           "change_shares": -8000.0
         },
         {
           "date": "2026-09-30",
           "previous_date": "2026-09-28",
           "type": "decreased",
-          "code": "2345",
-          "name": "智邦",
-          "previous_shares": 39000.0,
-          "current_shares": 31000.0,
+          "code": "6223",
+          "name": "旺矽",
+          "previous_shares": 39901.0,
+          "current_shares": 31901.0,
           "change_shares": -8000.0
         },
         {
@@ -6712,20 +8985,20 @@
           "date": "2026-09-22",
           "previous_date": "2026-09-21",
           "type": "increased",
-          "code": "3037",
-          "name": "欣興",
-          "previous_shares": 231001.0,
-          "current_shares": 235001.0,
+          "code": "2360",
+          "name": "致茂",
+          "previous_shares": 21000.0,
+          "current_shares": 25000.0,
           "change_shares": 4000.0
         },
         {
           "date": "2026-09-22",
           "previous_date": "2026-09-21",
           "type": "increased",
-          "code": "2360",
-          "name": "致茂",
-          "previous_shares": 21000.0,
-          "current_shares": 25000.0,
+          "code": "3037",
+          "name": "欣興",
+          "previous_shares": 231001.0,
+          "current_shares": 235001.0,
           "change_shares": 4000.0
         },
         {
@@ -6825,6 +9098,106 @@
       "name": "中信台灣卓越成長主動式ETF",
       "issuer": "中信投信",
       "events": [
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "8210",
+          "name": "勤誠興業",
+          "previous_shares": 43000.0,
+          "current_shares": 3000.0,
+          "change_shares": -40000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3211",
+          "name": "順達科技",
+          "previous_shares": 30000.0,
+          "current_shares": 1000.0,
+          "change_shares": -29000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "3023",
+          "name": "信邦電子",
+          "previous_shares": 28000.0,
+          "current_shares": 1000.0,
+          "change_shares": -27000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "6488",
+          "name": "環球晶圓",
+          "previous_shares": 0,
+          "current_shares": 22000.0,
+          "change_shares": 22000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "8150",
+          "name": "南茂科技",
+          "previous_shares": 280000.0,
+          "current_shares": 300000.0,
+          "change_shares": 20000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "6531",
+          "name": "愛普科技",
+          "previous_shares": 13000.0,
+          "current_shares": 1000.0,
+          "change_shares": -12000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "decreased",
+          "code": "7750",
+          "name": "新代",
+          "previous_shares": 12000.0,
+          "current_shares": 1000.0,
+          "change_shares": -11000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "3711",
+          "name": "日月光投資控股",
+          "previous_shares": 207000.0,
+          "current_shares": 217000.0,
+          "change_shares": 10000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "increased",
+          "code": "2360",
+          "name": "致茂電子",
+          "previous_shares": 26000.0,
+          "current_shares": 33000.0,
+          "change_shares": 7000.0
+        },
+        {
+          "date": "2026-10-02",
+          "previous_date": "2026-10-01",
+          "type": "new",
+          "code": "3529",
+          "name": "力旺電子",
+          "previous_shares": 0,
+          "current_shares": 5000.0,
+          "change_shares": 5000.0
+        },
         {
           "date": "2026-09-25",
           "previous_date": "2026-09-24",
@@ -7412,10 +9785,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "increased",
-          "code": "3008",
-          "name": "大立光電",
-          "previous_shares": 28000.0,
-          "current_shares": 31000.0,
+          "code": "6223",
+          "name": "旺矽科技",
+          "previous_shares": 45000.0,
+          "current_shares": 48000.0,
           "change_shares": 3000.0
         },
         {
@@ -7432,10 +9805,10 @@
           "date": "2026-09-23",
           "previous_date": "2026-09-22",
           "type": "increased",
-          "code": "6223",
-          "name": "旺矽科技",
-          "previous_shares": 45000.0,
-          "current_shares": 48000.0,
+          "code": "3008",
+          "name": "大立光電",
+          "previous_shares": 28000.0,
+          "current_shares": 31000.0,
           "change_shares": 3000.0
         },
         {
@@ -7551,22 +9924,22 @@
         {
           "date": "2026-09-22",
           "previous_date": "2026-09-21",
-          "type": "decreased",
-          "code": "5534",
-          "name": "長虹建設",
-          "previous_shares": 2382000.0,
-          "current_shares": 2263000.0,
-          "change_shares": -119000.0
-        },
-        {
-          "date": "2026-09-22",
-          "previous_date": "2026-09-21",
           "type": "increased",
           "code": "5439",
           "name": "高技企業",
           "previous_shares": 160000.0,
           "current_shares": 279000.0,
           "change_shares": 119000.0
+        },
+        {
+          "date": "2026-09-22",
+          "previous_date": "2026-09-21",
+          "type": "decreased",
+          "code": "5534",
+          "name": "長虹建設",
+          "previous_shares": 2382000.0,
+          "current_shares": 2263000.0,
+          "change_shares": -119000.0
         },
         {
           "date": "2026-09-22",
