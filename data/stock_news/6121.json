@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-28T06:35:28.605830+08:00",
+  "updated_at": "2026-10-01T10:14:13.754398+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6121",
   "name": "新普",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "6781 AES-KY - 新普的公司怎麼都這樣子不會動呢?AES 子公司也是這樣？糟糕 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwbGhtYjBIdDRNSkJIWWNTOHJoVS1uMDVSUFRTZWdfc3gtZDdlSmZxYzFtaGhHemFQS0dNTG1UM1hydThHQUZ3NGxpaElZb1JiLVRia0NtZno?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-30T02:57:38+00:00"
+    },
     {
       "title": "新普科技股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXEzRl8tRE93UnBpaE5xcVNma2tJSnVKOUtQaWZxMXd3czJEdTBKV1dxcXg5clBGQ0t0M0xubVJRaTB0eXk1MUdONUFXWFhjSEtLVzJyOTZ1U203Mlp5RTVLclI3Y3RDOWg0NmRNeU9JMTNrZlA3SEJwYUR5MmJ5TVdKaEJlekszcWpuTDcteWoxVzR4RE0w?oc=5",
-      "source": "MoneyDJ",
+      "source": "MoneyDJ理財網",
       "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
