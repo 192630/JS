@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T07:33:01.038220+08:00",
+  "updated_at": "2026-10-01T17:07:09.338768+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6170",
   "name": "統振",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】統振(6170) 八月營收2.85億元，表現亮眼、呈現雙成長，創近19個月以來新高，年增4.7%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlJJdFk1LU9XN3NqLWFvRjBkQUN1LURkVkJRVTFWRjBlTVdvWldMd1dxM0hXcWt3a2tocnByRUtMWG1ESGt1S0NDdkl2aU9OcUhOTmZFN3gyMURRclhoYUNHdWY0aU1ySlVhTlpSeHV4VWEtNjAxd2JGcnNVVU1aWmwxVjFjQTQzSlE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

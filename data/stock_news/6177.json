@@ -1,45 +1,81 @@
 {
-  "updated_at": "2026-09-28T07:33:03.876686+08:00",
+  "updated_at": "2026-10-01T17:07:11.976033+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6177",
   "name": "達麗",
-  "count": 6,
+  "count": 12,
   "news": [
     {
-      "title": "達麗（6177）2027年殖利率11%起！ROE四成又有央行鬆綁帶動？",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjc1BFMHhFVWVVVmNILWRybVBjekhERXJNOTFoaGtTc2I4RGlNV0FYRFk3ME5iNTVkcEI3NElWOVdWc2IzTnZYeUxGbGxwRmptZEpfOTk1bjhGV2RGbmFXZkRHUlVFX3lsRlI5ZlpQLWQ?oc=5",
+      "title": "達麗首度插旗台積電亞利桑那特區 斥資布局鳳凰城指標商辦",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XTHZ5ajN0SmNIamNEZWJ3WFdFb2FlSGZaUHlQWEpqMmIyY2lhZUdDSmx1MnJ5TlhidWpweWx3N1hUcHNiM0xXSWZkd29ZcjF6SGF5ZVFaZ2pySThmdXZyVtIBZkFVX3lxTE1KTTdhamdKLS1RQzlmeG05THpqb2VyR1ZlMDBaZTVSSnNNS1hwNEVYTnFhZ0p1Vmt1ZUZXYkNPb0tqMU9DRVpUbHl6dWFrZEpoS2VHWk9tclNtbGdpVlZnVVFIWmtFZw?oc=5",
+      "source": "鏡新聞",
+      "published_at": "2026-09-30T15:20:00+00:00"
+    },
+    {
+      "title": "跟著台積電 達麗建設代子公司公告取得亞利桑那鳳凰城指標商辦",
+      "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxOV1J0alMxT1o3a0t2M3Y1UjlxMnZUWXI5STlQdnY1Y1JETmszZklydG1JMWVNWFFOb1JPQnZpRGFLUlFudW94WmxwXzVCbklOakdaRXJmV2VRMVlmNlNiNC1tenk3a2pUNXZ6OEw5ZlliWURidnN5eVdHbDZ4WlF2RGNyUWVVQVZrdEVFdl9iSHhsbkFuVkdkeEdiRkpUOENjZzVrRHh2Y0p3ZW4tektJcHFxTnRIOHlsaFI5ZVowTlFUVC1Zd2FORUdLUkhsem41LWlzcllDN2ZNZlB6SzdtR2ROTjVTMXJZbG15UTcyWVhTczllSERLbEtJYjNXUmxWU3BFOVcxR3d2VkFjOUpXQXZGOFZJdy1fWUtIWUpISjVnZjB3TzlYLXJCZ2VsVnN3NlQtOXBIa080Q2xGUDRsM3NDd0pHNWdpX3l0T01lUFJGS3ByWkV4OW9fcG83a01IcW5PbGVaOWxsa1RjaC1Kd21WR3NrZW1yRUJudEk1U3dVRnM0N3dmVl9HY0IxSlFScWp5QjRqb1F2WXNmb0VCOGd2blQxZnY2Y28tQ0FvUjBPV0dWSTgtSFdiRkdFNEJwVDRqLTZ5RW9TSFZkdEZSeGxTdzRsSVUwd3plc2R2WWlGR3FIN0pLYjg5OEp6R0NPVGNzSUZ5ODMzRldLZXNGazJtNG9tQnB4WktfZU5BbjNPeGRlczRmaXJZeGl1Mnk3Mk9YbG9ITEVjYmthME9tWFJrekRUQlN6bm5OeWJxbmo0TUYwcG1XUldrNktHeFc4UWZZQlc2YjZTdVJDcm1PQlVOSTZKdTJfSmNnOEY1NlZIbUx5VjFKa212TkY2bjlwTnRXRkdDQ3lYU2lMNmthQV80MElNODI0RVpZcnhSYWZ0TU12Wi1nTnFLUTVuZTQ1akEtQmFEa0dfZkJaa05oZWxFV0dIN2ZhX1dkRW81b25BMUZJYXpDRnA5X29IYS1TRmc?oc=5",
       "source": "理財周刊",
-      "published_at": "2026-09-25T07:00:00+00:00"
+      "published_at": "2026-09-30T08:37:35+00:00"
+    },
+    {
+      "title": "不只在台灣蓋住宅！達麗斥資5.9億插旗美國鳳凰城 買下台積電周邊商辦",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPNTVtRmtfdXJGSG9CQVRhS3I5aVV5cHlqVnZzZ2NYNlpYTUQtRkpPNWVSZFE1Zi15VzQwZnJiV2QwSFBWMFpPUmtLYWxwOTltdDA3WkxxTE9yOWxicEo1NFhNUGU3TGxtN19hZGVVVWdFQXN2NjMxdzBkYkF4aXJXdWh1RHVwbXROMGUzd1hHOFVRQzM1UzhnY1c3M3VvT2FJR0FxTHctSlA3YXdQVVBheU93d3BZVkoxMWFOVFZVbFFaQWJVX1JUS2J0dTV1TFRGLW1RbEdUdndBN1otbnF4dnpOa3p5SE9mZEdrQ0Z4NkNnRmNEVTM3SzM0ZFJrcmJrc012Q0lqLXZkQ0xXR2g5TFZDdFNKUWZVb3RQZEJ4QkZvLTNkQkFvbGJRd1oxSDZsLXhScnlLM2VwQ2U1N1JRd2otaVVrdEFkcC1UUW81bzE4TnpHN0wzYXIxMmV0S2lLLW4zbllCUlp5amZGcmtFcmp5ZzNUQXJ4azlXY1hSN2g0M01ua2ZzRXNfSFBRYmVrTE05NXp2dERUa1pwaFctOU83bHQ5cVF2WGk3RXpwbkFRdTBTUjd2ZVhiSjJaNUNGRXpaUjNSaw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-30T06:56:54+00:00"
+    },
+    {
+      "title": "台積電供應鏈廊道帶旺商辦需求，達麗斥資5.89億插旗鳳凰城-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXczN2VvT2xET3NKOVBVVnJQNmphTVlNVzRfblhtVjdBTm5MZWFEcnZoU3IzQU15UGs1VHRtVVdzSXQ2ZTkzR0h4NElVZEZReWkwYlUxX1MtaWd2RXZOTmlTZGIxOTBaLWNvVjBNYjMxVlMyWUx6NFNqelJIRW02d1F3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-30T06:14:52+00:00"
+    },
+    {
+      "title": "達麗在美布局 挺進亞利桑那鳳凰城科技走廊在台積電特區奪指標商辦",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBadUFMWHEzYks1R1dUWFFGRXlZOE5BRFd2V1NiZDBZeDNkZ3AzdlRSZDk0VGh5UUx4MzlvQ1c3LUo3eTlzdjNuRU5GSDRiQWs?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-30T03:23:43+00:00"
+    },
+    {
+      "title": "《營建股》達麗跟著台積電走 砸5.9億元收購鳳凰城商辦",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVQwR1ZRT0N6UTUxWV96X3k3SVFIZm51MFJMeXFjZnRsOHBfN0NITDJvVGZ5d3RXQzF4TUNiR0J2eHhndExiemM2MkxjZXU5UUdZdy1NdXJxeHlmNjI5V3JJQlE5RWpiUUljYlVaZkRkVmhIVVFKc2pCQXkxRHNKb2F5SWMzV1VE?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-30T03:11:00+00:00"
+    },
+    {
+      "title": "跟著台積電走！達麗斥資5.9億元插旗鳳凰城科技走廊",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2a19HQmNpT2ZLd0t2M0FaWDhvNUpQcEE5NGM5NWVMek9UcDd2dVM4RUNzY2pYNUVRMzdpQTMybmFDSmttcHF4eVkyRGtJeHFDNjFaZDhB0gFWQVVfeXFMUHZrX0dCY2lPZkt3S3YzQVpYOG81SlBwQTk0Yzk1ZUx6T1RwN3Z1UzhFQ3Njalg1RVEzN2lBMzJuYUNKa21wcXh5WTJEa0l4cUM2MVpkOEE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-30T02:57:22+00:00"
+    },
+    {
+      "title": "達麗建設入手美國鳳凰城商辦 看準台積電供應鏈投資商機",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03OTZ5VEU1Rnd2N0xRei1kNG9qZlNFQ1FlbHRhcjN0bTNLNHlxWEk5RTdRRDBZSzdta2pOOHp0SVVydkdSNm1DcjdUbDRPclotUWxlN09rVjY?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-29T12:53:00+00:00"
+    },
+    {
+      "title": "達麗、基泰等16日起召開股東會 建商董總將剖析房市景氣",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmRDFtNnVjbFVvRGFUaVFfUjVaa0VUSXlXR2M3RlZKdzJSaXJGWE1QVk9XWTJJS1RRVktsQUZkcHFxSG9aSmRxemJUOU5vNEhTSURGa01KYlNtUdIBX0FVX3lxTFBDN0RCd19iOFlJcWJQTHBERV9qaU5MR0xoa0luSV9acDhOMFJrTFZwYU1FVzdmNXAtcDlLek1fbk1HVmV6RUZkQjVmN21TTHhjT1h6WFN3YXJSVnZxdWhr?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-29T09:00:00+00:00"
+    },
+    {
+      "title": "達麗（6177）2027年殖利率11%起！ROE四成又有央行鬆綁帶動？",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WdFNLQ3VpeGpndTlxeUZQcGMwNWRSQ3YyY1FqM1c0SnRFeGFSOTRhMmNwVDZNanVqbFdrcmxuZGs0TVljRDFEODRoMnJwVGRWT2xlRkhKaEdQYk5xbnRDZW4zLXl6XzFndEV2bVlGSQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-24T16:00:19+00:00"
+    },
+    {
+      "title": "台積電、鴻海插旗白埔 「達麗世界學」卡位3園區核心",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5Mzd5RWtxREFHaTZ1ZlBxeWFEdW5DZ3dRTHlGWmFHMG1OejIyUTcteGROdEJmTTdaenJRSDhZWUV4NUVxUVpGYXc1VEVFT0XSAU5BVV95cUxOTmdmd3BvLTFEYTliTjBpbklvN3g1czM1bFBQbWhfSVZNQVotNkNsbGJramFkMld4UHZ3R2ZyTExPaWRpaGpKUjRkeS1kY3c?oc=5",
+      "source": "ETtoday房產雲",
+      "published_at": "2026-09-23T01:15:00+00:00"
     },
     {
       "title": "6177 達麗 - https://youtu.be/_q8s93klams?s... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80cEs3b3NFaFUtNzM0Sm9IZFlOWldHQzUtVDlVSFNzMFRXb1pGLWZWTzlzV0dxZjB5ZUtoS2RxdHBLVTZCUXg0N2tHdzFZcjFkRWE1Umt6MGI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "6177 達麗- 整理中- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDeXhPZFlZYXVKMUFvcjJJMG56eWJqek5td25hQl9tcE1ZRXhaOUMyNEZYd2VFY3o3X19kR1Q4STZQeXpudEhHV2lvNElkMm9nTU5GMVd0T1Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T05:17:24+00:00"
-    },
-    {
-      "title": "6177 達麗 - 【達麗(6177)盤後解析】價平量增，法人對作籌碼換手 今... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zbUV5Sk80VEJlVnFZaVdSRmtjQUtfQjV4WE1WdkREWjh4Z3FRajRvRzg2MkxOdlhyVkJ6YzhfVmxCVFg3bERzX3gyR2JaTWtOSmZTbmpEMTg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "6177 達麗- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rb2ZkOHdhTVVvbG5VQnRRVW04TEVyRmhQcTYxV2VQVzZrdXBsbHNTRmFBY3ItLUFEQXRMWXd0ZFVxbGEySDhKYTBMOERmSnRwekVuSVljd3U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "【12:32 即時新聞】達麗(6177)股價上攻逾3%，營收爆發支撐評價重估＋中短期籌碼高檔換手成焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTVQaGJBZl85cnpTMVBCSGJUbXpGUEs4bXNDeFpfMzBMOUNTZkFNM1otWnN0Z1lsWjZiQ212VHF0WlZ0VEljWHlmYWRSVjR1WXM2eXh4cEpHMWVIcFpYaDlKQ01MNWdjVkpjNWI0UEVkc2p1MEd4ZnhSc0R4RjVfZ3lDVklsVF84VUVXbWVB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }
