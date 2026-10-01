@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-28T09:34:59.677302+08:00",
+  "updated_at": "2026-10-02T05:52:49.555466+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6569",
   "name": "醫揚",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《櫃買市場券商買超比前30名 3-2》醫揚(15.25)、五福(14.98)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVA0Q1czY3d2a3gzeVY4Q0ZoWjdvNHE0Zm8zUEwtUzlmU0hpSEx0OVNTSExhd1NXN2szSjBhRy1FY3B3LWF1SEROUkRreGtYUHZWQXMzVjFDU2tqd1VfRXJtaEl2dnZ4REZ2SUltY3d5MTg2eDMxTFYzUkdXS29TUXF6XzZ1RG40?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-28T23:32:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】醫揚(6569) 八月營收1.35億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增43.2%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlRuVUNUZ3MxUHE5Z2R0T0FrM3lxcWM3bDNMdkd3V2JGN0VmTTB1WDhxbDFxREJFU3JqVWRwT044aXdQbDc3NjhqZWdyQ3NqdjNEcDdoT3Q4MTl0SEp3U0IzWVE2MTlXSXY1ZWp5MGt3ZHZ2VjhGclFld1NGS1JtMXR0TVF5bnRvN3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
