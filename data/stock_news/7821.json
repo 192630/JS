@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-09-28T12:38:20.282364+08:00",
+  "updated_at": "2026-10-02T23:53:53.342890+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7821",
   "name": "神數",
-  "count": 0,
-  "news": []
+  "count": 4,
+  "news": [
+    {
+      "title": "《集中市場券商賣超比前30名 3-2》神數(-23.48)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWdPNDRGOTBDY0pFSDlHbkpPWUFuc085ZlphRldsVjZvUEtESlU0NjROOEwwcXBzV1FwTVQ5UHRnZzdDMmU4UTlxNXlOVGFpQUMzbVdOQzkzeVlSTlh2MGlfbUY1eUMyNjFKbHVfNG5LRksyM2ZNdndqVGpkNWdIS1dOcGRRekZ3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-01T23:29:00+00:00"
+    },
+    {
+      "title": "神數 (7821.TW) 期權鏈",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zVEplUmpVYVpYM0ZmcEp2bmctbDlQU1FHLTFvN2p2WkN4bC1FYUhHY1A1VnlBNWxSMGhwQjU2TDdpcGRfY2R1VDdNYjNBTGl3WTliLXRzRXl3SDFzTDNkUg?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-29T10:58:37+00:00"
+    },
+    {
+      "title": "7821 神數- 【09/29 產業即時新聞】電子下游-工業電腦族群強勢大漲資金點火邊緣AI與智慧製造題材- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oM3V4RWNScGZ2cldBLXl6V2FnN09jSnZMeWxqYUhyZTJISHRveHA0NjN0TmFkcDFObl9BaEsyWkViTjNBLWxuTmRacVBlRFJfejR2V01tNTA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-29T01:40:59+00:00"
+    },
+    {
+      "title": "7821 神數 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aT044d0xvZnowcGJJcGptcWVuaWNZN3dPaThNczU4UnVqSnYwbXBkek5kNEVfOG5TQURYTEVLdGc2NTRIWnRUWk9LdFBMQW1oZlp0LTBzY3U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-27T11:29:38+00:00"
+    }
+  ]
 }
