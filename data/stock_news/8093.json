@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-28T13:36:20.124554+08:00",
+  "updated_at": "2026-10-03T04:49:51.366371+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8093",
   "name": "保銳",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 保銳(8093)股價拉至漲停，漲停價24.85元，成交200張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoakF5T2FXeVdaXzc2ZXE4c3NyaFk1cTgxcHpOMWlrb190LVV3dGlrRUI4RDF4X19HQjRyYlh6Ti1NOC0zSGVueEVaYTZrV3NGVEs2cGM4V2w5WERDNUM1d056MFk?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-27T21:14:21+00:00"
+    },
+    {
+      "title": "8093 保銳 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tN1ZfRko4QlZIQ3JVQzNzMWNZVVRoMEczOUI1T3MwZzZwNFdtOEttUGNHcUlYNWN2dWtaV1ZadWxwUFdzbDBzOUZJeHpSRjNaeGFBOHpLOXg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-27T11:24:27+00:00"
+    }
+  ]
 }

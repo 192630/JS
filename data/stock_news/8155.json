@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T13:36:28.059754+08:00",
+  "updated_at": "2026-10-03T04:50:00.075521+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8155",
   "name": "博智",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《櫃買市場券商賣超前30名 3-2》九暘(-260)、博智(-215)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN05FejlHcXFYUTNwVERDMktmTFdwcEVEdjhrWHdObFQybE02VWRxSHFMU3gwN1g4R0Z1S3o1R3BITkFKTWxTOXlOOHFPdjdmNUYxYUxUQVd6Vk5SdWdfd2I0OEJveDc2VDJ5N01ZaVRDZUJ3eUhCLUNXNFZKM2xWbWNaWHpRRUZ5?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-29T23:29:00+00:00"
+    }
+  ]
 }
