@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T23:52:10.478094+08:00",
-  "taiwan_market_phase": "盤後",
+  "generated_at": "2026-10-03T04:48:00.221652+08:00",
+  "taiwan_market_phase": "休市",
   "update_status": "更新完成（延遲行情）",
   "risk": {
-    "score": 23,
-    "status": "偏多",
-    "color": "green"
+    "score": 28,
+    "status": "中性",
+    "color": "yellow"
   },
-  "summary": "盤後整理：全球風險溫度 23／100（偏多）。主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。",
+  "summary": "休市觀察：全球風險溫度 28／100（中性）。美元指數與美國10年期殖利率同步走升，成長股估值壓力可能增加。",
   "taiwan_impact": "台股大盤暫偏中性，仍需搭配台指、成交量與法人資料觀察。",
   "indicators": [
     {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 85359.0,
-      "change_percent": 1.4772606413603788,
-      "data_time": "2026-10-02T23:50:20+08:00",
+      "price": 84253.0,
+      "change_percent": -0.3989756817997939,
+      "data_time": "2026-10-03T04:46:20+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 2696.98,
-      "change_percent": 0.5682127183823547,
-      "data_time": "2026-10-02T23:50:20+08:00",
+      "price": 2662.44,
+      "change_percent": -1.271221223711465,
+      "data_time": "2026-10-03T04:46:20+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -43,9 +43,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "NQ=F",
-      "price": 31070.0,
-      "change_percent": 1.648059542796385,
-      "data_time": "2026-10-02T23:42:09+08:00",
+      "price": 31069.25,
+      "change_percent": 1.645605856132172,
+      "data_time": "2026-10-03T04:37:54+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -56,9 +56,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "ES=F",
-      "price": 7772.25,
-      "change_percent": 0.32917029722141544,
-      "data_time": "2026-10-02T23:42:09+08:00",
+      "price": 7779.25,
+      "change_percent": 0.41953077096847063,
+      "data_time": "2026-10-03T04:37:48+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -69,9 +69,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "^SOX",
-      "price": 13245.772,
-      "change_percent": 4.553202204132476,
-      "data_time": "2026-10-02T23:52:06+08:00",
+      "price": 13136.675,
+      "change_percent": 3.6920639706747056,
+      "data_time": "2026-10-03T04:47:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -82,9 +82,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "^VIX",
-      "price": 15.53,
-      "change_percent": -3.3602986932171808,
-      "data_time": "2026-10-02T23:37:01+08:00",
+      "price": 15.31,
+      "change_percent": -4.729309271935281,
+      "data_time": "2026-10-03T04:15:01+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -95,9 +95,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "CL=F",
-      "price": 90.32,
-      "change_percent": -2.4622030237581005,
-      "data_time": "2026-10-02T23:42:08+08:00",
+      "price": 91.45,
+      "change_percent": -1.241900647948155,
+      "data_time": "2026-10-03T04:37:49+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -108,9 +108,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "GC=F",
-      "price": 4166.3,
-      "change_percent": -0.050379042318382465,
-      "data_time": "2026-10-02T23:42:08+08:00",
+      "price": 4168.4,
+      "change_percent": 0.0,
+      "data_time": "2026-10-03T04:37:55+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -121,9 +121,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "DX-Y.NYB",
-      "price": 101.899,
-      "change_percent": 0.6907114624505909,
-      "data_time": "2026-10-02T23:42:09+08:00",
+      "price": 101.922,
+      "change_percent": 0.7134387351778598,
+      "data_time": "2026-10-03T04:37:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -134,34 +134,40 @@
       "unit": "%",
       "source": "yahoo",
       "symbol": "^TNX",
-      "price": 5.252,
-      "change_percent": 0.22900763358777798,
-      "data_time": "2026-10-02T23:37:05+08:00",
+      "price": 5.277,
+      "change_percent": 0.7061068702290061,
+      "data_time": "2026-10-03T02:59:55+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
     }
   ],
   "confirmed_data": [
-    "比特幣 85,359.00，漲跌幅 +1.48%",
-    "以太幣 2,696.98，漲跌幅 +0.57%",
-    "納斯達克100期貨 31,070.00，漲跌幅 +1.65%",
-    "標普500期貨 7,772.25，漲跌幅 +0.33%",
-    "費城半導體指數 13,245.77，漲跌幅 +4.55%",
-    "VIX恐慌指數 15.53，漲跌幅 -3.36%",
-    "WTI原油 90.32，漲跌幅 -2.46%",
-    "黃金 4,166.30，漲跌幅 -0.05%",
-    "美元指數 101.90，漲跌幅 +0.69%",
-    "美國10年期公債殖利率 5.25，漲跌幅 +0.23%"
+    "比特幣 84,253.00，漲跌幅 -0.40%",
+    "以太幣 2,662.44，漲跌幅 -1.27%",
+    "納斯達克100期貨 31,069.25，漲跌幅 +1.65%",
+    "標普500期貨 7,779.25，漲跌幅 +0.42%",
+    "費城半導體指數 13,136.67，漲跌幅 +3.69%",
+    "VIX恐慌指數 15.31，漲跌幅 -4.73%",
+    "WTI原油 91.45，漲跌幅 -1.24%",
+    "黃金 4,168.40，漲跌幅 +0.00%",
+    "美元指數 101.92，漲跌幅 +0.71%",
+    "美國10年期公債殖利率 5.28，漲跌幅 +0.71%"
   ],
   "rule_signals": [
-    "主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。"
+    "美元指數與美國10年期殖利率同步走升，成長股估值壓力可能增加。"
   ],
   "inferences": [
     "台股大盤暫偏中性，仍需搭配台指、成交量與法人資料觀察。",
+    "科技權值股：留意（依據：美元與殖利率同步走升）",
     "航運與原物料：留意成本與報價（依據：原油波動較明顯）"
   ],
   "affected_sectors": [
+    {
+      "name": "科技權值股",
+      "direction": "留意",
+      "basis": "美元與殖利率同步走升"
+    },
     {
       "name": "航運與原物料",
       "direction": "留意成本與報價",
@@ -185,56 +191,6 @@
   ],
   "commercial_use_note": "目前免費來源僅供研究站原型驗證。正式會員制上線前，必須逐項確認商用展示、重分發及即時行情授權，必要時改接付費授權 API。",
   "risk_history": [
-    {
-      "generated_at": "2026-09-26T14:36:03.951528+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T15:29:37.578493+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T16:31:39.583585+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T17:29:45.525931+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T18:29:37.735338+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T19:29:13.485198+08:00",
-      "score": 47,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T20:35:07.426319+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T21:29:06.930732+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T22:30:16.342250+08:00",
-      "score": 41,
-      "status": "中性"
-    },
-    {
-      "generated_at": "2026-09-26T23:30:15.121654+08:00",
-      "score": 41,
-      "status": "中性"
-    },
     {
       "generated_at": "2026-09-27T00:30:49.774939+08:00",
       "score": 41,
@@ -544,8 +500,13 @@
       "generated_at": "2026-10-02T23:52:10.478094+08:00",
       "score": 23,
       "status": "偏多"
+    },
+    {
+      "generated_at": "2026-10-03T04:48:00.221652+08:00",
+      "score": 28,
+      "status": "中性"
     }
   ],
-  "risk_change": -5,
-  "risk_history_sample_count": 72
+  "risk_change": 5,
+  "risk_history_sample_count": 63
 }
