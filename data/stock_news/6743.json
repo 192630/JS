@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T10:36:41.562988+08:00",
+  "updated_at": "2026-10-02T09:43:46.797989+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6743",
   "name": "安普新",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【13:04 即時新聞】安普新(6743)盤中走強，耳機與新產品營運展望受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHdwdF9tZkFheFBpVnNuYXVpN0wtT1NFVnRuY0FkcXJYREtjcEJmb1FjYUw5THB5c25tZWtRdW5uOW5QSmNYaWQ4ekNxSDE5RTFmckcxYWtWUS1hRmtsbVNNWHZacnVoLTV4bENOUFpkQnBsTjA1RUxCaHNucENnM1JNYjd4NU50dHdTQjJR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-01T05:04:49+00:00"
+    }
+  ]
 }

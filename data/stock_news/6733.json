@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T10:36:38.911822+08:00",
+  "updated_at": "2026-10-02T09:43:44.663817+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6733",
   "name": "博晟生醫",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】博晟生醫(6733) 八月營收年增9.32%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjJOQWZMRnpLLXZ5eVA0QW9oMHFPY29yTWJHY1FfZHp1MUVkNEFLRkZoLUhxV1BhVlF0cDV3NE54Z28xclNHbjRIeHNud1VrMnJNQnJ3T2ZkenQ5WTBSLTNfNnBtc2lybmFhemE1aFY4YlY5b3RZX3dOWjV3a1lBTE9NS29vTWdCYWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }
