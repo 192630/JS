@@ -2858,8 +2858,19 @@ footer{
     <strong>研究說明：</strong>法人共識只代表當日公開買賣超方向；買超不保證上漲，賣超也不保證下跌，仍需搭配價格、成交量與後續資料觀察。
   </div>
 
+  <div class="quant-block quant-block-separated">
+    <div class="heat-title">⚡ 短沖活躍雷達 V1</div>
+    <div class="heat-subtitle">同時檢查近 20 日成交金額、近 5 日波動、今日量能與價格方向</div>
+    <div id="shortTradeStatus" class="status">歷史行情載入中...</div>
+    <div id="shortTradeList" class="quant-result-list"></div>
+  </div>
+
+  <div class="heat-note">
+    <strong>研究說明：</strong>此處的「偏強／偏弱／震盪」只描述最新盤後量價狀態；名單代表流動性與波動較活躍，不等於適合當沖，也不是進出場建議。實際交易仍須考量即時委買賣、價差、滑價與風險承受度。
+  </div>
+
   <div class="plain-note">
-    後續仍會依 roadmap 加入法人獲利／虧損、妖股 77、主力雷達、短沖／當沖與波段策略；短沖標示會要求量價、波動與流動性同時達標，不只看單日漲跌。
+    後續仍會依 roadmap 加入法人獲利／虧損、妖股 77、主力雷達與波段策略；各項標示會使用全市場一致規則，不會因單一股票個案臨時調整標準。
   </div>
 
 </section>
@@ -3192,6 +3203,7 @@ function showPage(page,updateHash = true){
     renderTriangleScan();
     renderBreakoutScan();
     renderInstitutionScan();
+    renderShortTradeScan();
     renderActiveEtfRanking();
     renderAllStocks();
     renderWatchlist();
@@ -6824,8 +6836,20 @@ function getTriangleCandidate(code,history,name){
   const firstVolume = volumes.slice(0,5).reduce((sum,value) => sum + value,0) / 5;
   const lastVolume = volumes.slice(-5).reduce((sum,value) => sum + value,0) / 5;
   const volumeRatio = firstVolume > 0 ? lastVolume / firstVolume : 1;
+  const turnoverValues = recent
+    .map((row,index) => closes[index] * getHistoryNumber(row,"volume"))
+    .filter(value => value > 0)
+    .sort((a,b) => a - b);
+  const medianTurnover = turnoverValues.length
+    ? turnoverValues[Math.floor(turnoverValues.length / 2)]
+    : 0;
 
-  if(!(highSlope < -.02 && lowSlope > .02 && widthRatio < .88)){
+  if(
+    volumes.some(value => !(value > 0)) ||
+    medianTurnover < 10000000 ||
+    volumeRatio > 10 ||
+    !(highSlope < -.02 && lowSlope > .02 && widthRatio < .88)
+  ){
     return null;
   }
 
@@ -6985,6 +7009,166 @@ function renderInstitutionScan(){
 }
 
 
+function getShortTradeCandidate(code,history,name){
+
+  if(!Array.isArray(history) || history.length < 21) return null;
+
+  const recent20 = history.slice(-20);
+  const recent5 = history.slice(-5);
+  const latest = recent20[recent20.length - 1];
+  const previous = recent20[recent20.length - 2];
+  const open = getHistoryNumber(latest,"open");
+  const high = getHistoryNumber(latest,"high");
+  const low = getHistoryNumber(latest,"low");
+  const close = getHistoryClose(latest);
+  const volume = getHistoryNumber(latest,"volume");
+  const previousClose = getHistoryClose(previous);
+
+  if([open,high,low,close,volume,previousClose].some(value => !(value > 0))){
+    return null;
+  }
+
+  const turnoverValues = recent20
+    .slice(0,-1)
+    .map(row => getHistoryClose(row) * getHistoryNumber(row,"volume"))
+    .filter(value => value > 0)
+    .sort((a,b) => a - b);
+  const volumeValues = recent5
+    .slice(0,-1)
+    .map(row => getHistoryNumber(row,"volume"))
+    .filter(value => value > 0);
+  const amplitudeValues = recent5
+    .map(row => {
+      const rowHigh = getHistoryNumber(row,"high");
+      const rowLow = getHistoryNumber(row,"low");
+      const rowClose = getHistoryClose(row);
+      return rowClose > 0 ? (rowHigh - rowLow) / rowClose * 100 : 0;
+    })
+    .filter(value => value > 0);
+
+  if(turnoverValues.length < 15 || volumeValues.length !== 4 || amplitudeValues.length < 4){
+    return null;
+  }
+
+  const averageTurnover = turnoverValues[Math.floor(turnoverValues.length / 2)];
+  const averageVolume = volumeValues.reduce((sum,value) => sum + value,0) / volumeValues.length;
+  const averageAmplitude = amplitudeValues.reduce((sum,value) => sum + value,0) / amplitudeValues.length;
+  const volumeRatio = volume / averageVolume;
+  const latestAmplitude = (high - low) / close * 100;
+  const changePercent = (close - previousClose) / previousClose * 100;
+
+  if(
+    averageTurnover < 50000000 ||
+    averageAmplitude < 2 ||
+    averageAmplitude > 10 ||
+    latestAmplitude < 2 ||
+    volumeRatio < 1.2 ||
+    volumeRatio > 20
+  ){
+    return null;
+  }
+
+  let direction = "震盪";
+  if(close > open && changePercent > 0) direction = "偏強";
+  if(close < open && changePercent < 0) direction = "偏弱";
+
+  const score =
+    Math.min(35,Math.log10(Math.max(averageTurnover,1) / 50000000 + 1) * 35) +
+    Math.min(35,averageAmplitude * 4) +
+    Math.min(30,(volumeRatio - 1) * 20);
+
+  return {
+    code,
+    name,
+    score,
+    direction,
+    close,
+    averageTurnover,
+    averageAmplitude,
+    latestAmplitude,
+    volumeRatio,
+    changePercent
+  };
+
+}
+
+
+function renderShortTradeScan(){
+
+  const container = document.getElementById("shortTradeList");
+  const status = document.getElementById("shortTradeStatus");
+
+  if(!container || !status) return;
+
+  if(!marketHistoryReady || !stockDataReady){
+    status.textContent = "歷史行情載入中...";
+    return;
+  }
+
+  const names = new Map(
+    stocks.map(row => {
+      const values = getStockValues(row);
+      return [String(values.code || "").trim(),String(values.name || "").trim()];
+    })
+  );
+
+  const results = Object.entries(marketHistory)
+    .filter(([code]) => code !== "_meta" && /^\d{4}$/.test(code))
+    .map(([code,history]) => getShortTradeCandidate(code,history,names.get(code) || code))
+    .filter(Boolean)
+    .sort((a,b) => b.score - a.score || b.averageTurnover - a.averageTurnover)
+    .slice(0,30);
+
+  container.innerHTML = "";
+
+  if(!results.length){
+    status.textContent = "最近交易日沒有同時符合流動性、波動與量能門檻的股票";
+    return;
+  }
+
+  status.textContent = `✅ 找到 ${results.length} 檔活躍標的，依流動性、波動與量能綜合排序`;
+
+  results.forEach((item,index) => {
+    const row = document.createElement("div");
+    row.className = "quant-result";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
+
+    const rank = document.createElement("div");
+    rank.className = "quant-rank";
+    rank.textContent = `NO.${index + 1}`;
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "quant-name";
+    name.textContent = item.name;
+    const code = document.createElement("div");
+    code.className = "quant-code";
+    code.textContent = `${item.code}　查看個股 ›`;
+    main.append(name,code);
+
+    const values = document.createElement("div");
+    values.className = `quant-score ${item.direction === "偏強" ? "buy" : item.direction === "偏弱" ? "sell" : ""}`;
+    values.textContent = `${item.direction} ${item.changePercent > 0 ? "+" : ""}${item.changePercent.toFixed(2)}%`;
+    const detail = document.createElement("div");
+    detail.className = "quant-detail";
+    detail.textContent = `量能 ${item.volumeRatio.toFixed(1)} 倍｜近 5 日均振幅 ${item.averageAmplitude.toFixed(1)}%`;
+    values.appendChild(detail);
+
+    row.append(rank,main,values);
+    row.addEventListener("click",() => openStockFromList(item.code));
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter" || event.key === " "){
+        event.preventDefault();
+        openStockFromList(item.code);
+      }
+    });
+    container.appendChild(row);
+  });
+
+}
+
+
 function getBreakoutCandidate(code,history,name){
 
   if(!Array.isArray(history) || history.length < 22) return null;
@@ -6997,8 +7181,22 @@ function getBreakoutCandidate(code,history,name){
   const recentVolumes = previous.slice(-5)
     .map(row => getHistoryNumber(row,"volume"))
     .filter(value => value > 0);
+  const turnoverValues = previous
+    .map(row => getHistoryClose(row) * getHistoryNumber(row,"volume"))
+    .filter(value => value > 0)
+    .sort((a,b) => a - b);
+  const medianTurnover = turnoverValues.length
+    ? turnoverValues[Math.floor(turnoverValues.length / 2)]
+    : 0;
 
-  if(!(close > 0) || !(previousHigh > 0) || !recentVolumes.length || !(latestVolume > 0)){
+  if(
+    !(close > 0) ||
+    !(previousHigh > 0) ||
+    recentVolumes.length !== 5 ||
+    turnoverValues.length < 15 ||
+    medianTurnover < 10000000 ||
+    !(latestVolume > 0)
+  ){
     return null;
   }
 
@@ -7006,7 +7204,7 @@ function getBreakoutCandidate(code,history,name){
   const volumeRatio = latestVolume / averageVolume;
   const breakoutPercent = (close - previousHigh) / previousHigh * 100;
 
-  if(!(close > previousHigh && volumeRatio >= 1.5)){
+  if(!(close > previousHigh && volumeRatio >= 1.5 && volumeRatio <= 20)){
     return null;
   }
 
