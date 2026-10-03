@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T15:37:15.659615+08:00",
+  "updated_at": "2026-10-03T14:38:52.950277+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9925",
   "name": "新保",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "連鎖加盟商機熱 新保推「AI智慧店長」串聯安全、影像與營運數據",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Lc2pRaktfVnFKd19QcV8wMlExQVlaaFZuVmI1SGRySmtIUXdZV2JHYXVMWDhtLWh1WFFWOXBlalVrYkNqeVY1enRyVmF4NDQ?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-10-02T05:58:31+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T15:37:06.450087+08:00",
+  "updated_at": "2026-10-03T14:38:43.847485+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9136",
   "name": "巨騰-DR",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 巨騰-DR(9136)股價殺至跌停，跌停價10.8元，成交781張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OLWlXNHdNaEdzUU93dG9FVVBDMDM5c3JDdVM5b3k1YW54NlE4cXJJX3l4Z1c1c0V2Z3ZPUndFRGxFNGdZOWh5LWZhNjJwRHJBaUt2UXJkbjNfSFItLVdfNWRhR2k?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-28T02:27:28+00:00"
+    }
+  ]
 }

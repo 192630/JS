@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T15:37:14.025575+08:00",
+  "updated_at": "2026-10-03T14:38:51.248362+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9919",
   "name": "康那香",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "個股：康那香(9919)10/6受邀參加凱基證券舉辦之線上法人說明會",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWFJSFM3MVA0cVFDMFEyOHNYMTR6X1pScm9PVU82azBwVmI4QnF6ak95bGFraFZsRHFIU3h6SjFGVjAtTUN1M0tkUzRhOEQzWmhPWWFsQzA3UzdRZzQxUEw1aHVmNnlaOWVMLXplRHJWX2UwQ3ZHS0VTYVpKdWJnYk9lUHZDWUh0SUdIbm8zSkFSZw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-02T07:12:00+00:00"
+    }
+  ]
 }
