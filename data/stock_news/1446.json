@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T17:38:13.607718+08:00",
+  "updated_at": "2026-10-04T01:26:49.903889+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1446",
   "name": "宏和",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "兆韓企尋求與中國電子布大廠合作：宏和科技、菲利華、中國巨石迎來機遇",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05UmxvSTBQVGpxVmluTjVGT1ZBZFJMTlpxVU94YVh2Qzc0MG9kMV9UcVdWZTFOOGljNFFQMk95dDVka01lTDBPSA?oc=5",
+      "source": "鉅亨號",
+      "published_at": "2026-09-30T10:35:00+00:00"
+    }
+  ]
 }

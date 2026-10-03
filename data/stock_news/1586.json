@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T18:36:33.253501+08:00",
+  "updated_at": "2026-10-04T01:27:22.827949+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1586",
   "name": "和勤",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1586 和勤 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sU0xxcHFuT2RlUi1BSjFFYk4tR19jYU5GQUJUWFYwaEpuMUhIUk04emRROXBFN3l0LWM2b1VQTHBJQk9GRTZ6a1ZUYWY4N3I5V05yam9McFc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-28T15:59:24+00:00"
+    }
+  ]
 }
