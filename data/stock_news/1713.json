@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-28T18:36:47.671077+08:00",
+  "updated_at": "2026-10-04T05:29:12.365386+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1713",
   "name": "國化",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收：國化(1713)9月營收5497萬元，月增率41.82%，年增率56.90%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYk0yUDJYNTJkNnppMFk4SzJKcmJBZlNzR0Y2d3ZxZlROaklPZjFrUkNhdHZ4Um9pRFpsc2J4a2ZqQWJBLXE0ZFdaY2RjbjlicTY3LU5ud25Scm9ac2VWTjZwQjRuUGM0QVAwbUN2X1U2V1FEMW1mejV1bUJLYXhrVVJuQWJzZndP?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-02T06:45:00+00:00"
+    },
+    {
+      "title": "營收速報 - 國化(1713)9月營收5,497萬元年增率高達56.9％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iZXdXaTVGTHMtcndwdVVjYTFQS0F0dWhRVDhxdlZlYWtPSTVwVVJrdDVkYWNFYXFyTWxzR1VGS1ByMEw0OGxzS01VV01LOFBYV0tWNzhfWnVIRno1akF1Q2hVUzh5U1ZFSnl6RjgxMXFwekNhV0E?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-10-01T18:20:00+00:00"
+    }
+  ]
 }

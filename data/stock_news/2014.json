@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-28T19:37:54.613425+08:00",
+  "updated_at": "2026-10-04T05:29:40.296282+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2014",
   "name": "中鴻",
   "count": 3,
   "news": [
+    {
+      "title": "亞洲鋼市供給緊繃 中鴻5月盤價大漲1200到1500元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LeEQ2YWUyNmxwYmYwbkp3d19mUE5xQm5kWlNPUjVJdjhwTDJ5U1lEX2p3R1BqNVNDOVppbkc3RWd5WW9oNTRtV2NraHlNQmsyN2ltN0prT2g?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-27T19:46:14+00:00"
+    },
     {
       "title": "中鴻10月內銷開漲盤",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBneVJ1bXRNSTRqVm1NWTFxQW0yWU9IUGc3UHl0YmRsU0NyZHRmLVpGM2c5S29pNXdCV1Y2aE5kTnN2bEtwNlB3ZmxacTFxMGVu0gFWQVVfeXFMTkFkZTQ4OVFlYXV6SWJyVnVOQmJCZzBmbzVRNFVTaFNONl9fLWNzT1pxV0tMNjV6V1Z3ak4zV0V1ZDBNVkV5X3FMc0d5MF9sQWFvWVB0bnc?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOM2U4cnpMMTlLQlFpOGNmRlhqMHI1TzN3QXlnNDJrUVBMUVNXY0V4NUNQZGFGd1RncHpodzZzTWVGWEhIc3doUXVFX0NFRG8?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "亞洲鋼市供給緊繃 中鴻5月盤價大漲1200到1500元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LeEQ2YWUyNmxwYmYwbkp3d19mUE5xQm5kWlNPUjVJdjhwTDJ5U1lEX2p3R1BqNVNDOVppbkc3RWd5WW9oNTRtV2NraHlNQmsyN2ltN0prT2g?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-12T01:56:42+00:00"
     }
   ]
 }

@@ -1,39 +1,21 @@
 {
-  "updated_at": "2026-09-28T18:36:40.041212+08:00",
+  "updated_at": "2026-10-04T05:29:04.949495+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1611",
   "name": "中電",
-  "count": 12,
+  "count": 4,
   "news": [
+    {
+      "title": "中電新推出「中電重新校驗審核計劃」 至今已有逾70間企業參與",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQakNsZ05JSVJ4NV9rVEtBMnFlNEVPMGpJbTBOakxvWG5wUm5sTHVjZ0l0eVJoaEhEeW56YjVWeU4taDRkYm9xaVBTcmM1X3JmT0VvaDQ5ckZITFRZbzFYOVR2LTlQYzJyMnR5czUtYnBFY0E1WnJRMjlwMzhMWGJpeFAzQW15ZERfQUZ5bUtfb1pJckJ1Y1VMRUpTOHJmZDBJOGh5YnJ1NnFoeTk4ckNtSURkQW84SXNZN2pMRTk3cXhVTE1DQmQ0TEQtUFQ0bmN3UU5zd0dTUkJmTUlLQmU3QTRPay1heDJLakNFUUtkMWV3cXJIR1pnTEJKQjRTTmdaN1p6NklaNXZvUXZDdExIbktZSGRSVDI0eUlxQzB3YXpiVzZ4SzMwcUNpcFdNTnY3czhLbHMydnVIMklMSGlrdUgzTjUtY3M1eFlxLU5Pckx4RkhOZ2xGOXdhT2FYVXRBOFFpNGxhX0JuZGs1T2JEM3dyak5NalRfZEVSODROYVhlWl9UaXh1V3ZkZlp4UUE?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-30T06:07:59+00:00"
+    },
     {
       "title": "中電與潤江智算共推沙嶺數據園建設 明年中分階段投入運作 (20:20) - 20260923 - 即時財經新聞",
       "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPSkhUYjZCVWRYZVRFdlRxaHgwa2hfNVNNS2Q2cDUxZDRsOWtzZllyenhWMzlZZmVoNXp5WUtUVER5UTJKMnE5bklVcThyRGp4eFBmSklNUzcwSnUzNDVES29MOGF4MnYyb0xIV3kwelF0N2VPelRQSzlKaXBDdm83ejVRNXZpeVIyeUYtOC1TY0sxck51cVJlWWdPMGhaQXAyNllVUlo4N2VncVlnNzQ4RnVfRTYtakw5UklZaEppVlc4bktlSTFRUU1xcnVDMlUxSjQ0TWw1SjFtQ093SFVmWV9mYjdsUWZ0VUNkaUZWVlY5NGswaDRXR3hTNWd5cjJEN2xrdFViai05VDNRcnZqY2dLV0otN3dMcFEzUjBacXNmVUQxczZzbG41QVlESHRjNXoyN3pUM2xlbW1Ta2JJRHZOdW1UTVJYclhNdzV2YnF6cVJZTWh6VGliajFoUUtyTzFaT2tZUThWQy1DaDhpNjY3aFYyMWNBYkNaVk9CTURxUjVaQ2t3Wk50MEFvUDhSOHUyQkxlTGFMRHJ1WkpiY1NkS1FRbEtadHRZ?oc=5",
-      "source": "finance.mingpao.com",
-      "published_at": "2026-09-23T12:29:35+00:00"
-    },
-    {
-      "title": "中電控股(00002.HK)10月12日董事會考慮宣佈派發2026年第3期中期股息",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzcjkzWmNkNUNOMVoyeGNBYkZLdVFyLXgwVGN1cG8zVDllYlYzMl81UzBpWVhBeXdGZ0dGNWRHcUhFODBGTEM1MXV4WWNhNl9ud1BCUUxwaXoxN3prcmNvNE1UQVhQUUVIZ0E?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-23T04:59:24+00:00"
-    },
-    {
-      "title": "0002 中電控股技術分析｜移動平均線與技術指標解讀",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNMjV3Y1RJeDRjSzhXZUJjejdtc0dWdm5SbHdmSGNxOHZURmZqM1Z3c1NBUjNsdHVFSXZjUUZoZmZEV2FYdWFJREFPMA?oc=5",
-      "source": "SL886 財經網",
-      "published_at": "2026-09-21T07:00:00+00:00"
-    },
-    {
-      "title": "中電受惠北都發展|香港經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenRGNk1hQ182a2RlN0RoMUx3eW41dGlxUmwwMjFLSnRUZkM1Z0ZMTVBhTEw5TmFoZDlxekFGVERjX1I4cjJSUE1GaUtJX1ZkSXplT2g5emhJRTBwUkNPQXB3V2dUTWVLT3VrYmNlcnNBSG1nOVJKZkw5SUlHaTZlTVhZZkxNOE9GM1ZxaGdpX3hKdnNCU2d6enVGaDQ2LXZfdWVUUzA1SVllTE5jdmgtUnlB?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-09-20T16:14:00+00:00"
-    },
-    {
-      "title": "《大行》滙研：港府維持支持公用事業政策方向 重申中電(00002.HK)「買入」評級",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNcExWWFB1bEJKRVdFV09xejhfbDJ6QVpTYmg4azB5NUtPdXJVUTA4bWVaLUNySnJiRV91Z1VTR3BDX0dTUG9EQzRERTl3S05xd1BDOGFMMDk4S1lzemJUaHI5a0syRkFVTl96T1lZa2VSTW9HMjFHU3VOWG03aUdidEdhZ19STXFwQ1RWd2hERGdwUDdUd2huTTlqeFZ4VXlfcFFnSkpMQ0NLS1BwTlE1UUVfT3BhMmh2dVFJRHdaOFh1bklEeVhEaFpqSFpmaVR2S1hMT0RFSHFUX2Y5Z0E2LUZpNjBNb0MyRVNyU2tGN3NucFI2ZV9lemp5RTBhbXhsMnUtTUV1OS1wN1B0eE4tdkZVRGRVSE1QbVpzODFxc2cxUFgyMVFNUnNGUFcwMWhhVFZTb2RnT3Jza29Td3NjVm5XXzAzNHlMS1NkZ2x3TGE3WThadUVzLVFOUGcycGd2Q1l5ZEdndGpmTi14bXcwWE1n?oc=5",
-      "source": "hk.finance.yahoo.com",
-      "published_at": "2026-09-17T07:46:40+00:00"
+      "source": "明報財經網",
+      "published_at": "2026-09-23T07:00:00+00:00"
     },
     {
       "title": "施政報告尋寶 「四大天王」看中銀 中電 國泰 港交所？|香港經濟日報",
@@ -42,40 +24,10 @@
       "published_at": "2026-09-16T10:19:00+00:00"
     },
     {
-      "title": "中電主辦2026年亞太電協CEO會議",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPczNNVUlRWlQ5RVhwWjdxZGtER0V0Tmw5RHVyUnN5alJSclJkNTgzM1h2X0V6T0wyY0VadjhvOHVLQTNHUWJNQ0NWRFFId1hFSFE5azY1OGhlcl9hUkQ4SjdMQmw3ekxzejlNVDA3UWFITGhsVVVqbDVGUEg5TjNjSjkwLS00RWp2VExFQmNLVkRkUURKS3hZbFdYUVNoT3BnZXRjTGg3LTJOR2F6SnhmYVJIdmZ4SGtVRDZXQVMxSE1vRVluOHNLc05POVJnX000Y0lVTFlYTGxHNVR6T3lNUGhjVnJJSVlCaHQ0?oc=5",
-      "source": "hk.finance.yahoo.com",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "1611 中電- 【09/15 產業即時新聞】氫燃料電池強彈近5% 綠能題材點火、長園科亮燈漲停- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4cktDUjhrZDc0RTF6WldNa2JaNk5zTU0zNC1ySkZUckpuTFdXRnBiODFwWTNHYmxKYzQtOXBxZFdoTk5wM2FkdnNkUWFqSVdqaWRYbXhlcUs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "蔣東強：APEC助促跨境投資中電續透過審慎投資支持區內能源轉型(17:19) - 20260911 - 即時財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQa2N6Q1ZmdnNJNTV3UXJRTUx2RmkwcGxGZUlBWjN2LWFqdjhvV3BQZnVkRVNZUWVOSVNSUVFjdmp1WU1EdnYwemw0RWNILThkYkV3dmRFQkFMd1pJelMySzRsMHpnNXh4Rl9haElMMnFHMjBtT0xfUGR1WUxpazlqUE5wUmlWMmFoeXV1Uzl5N2Y1Q1JXZG14cUEtdkFxc0E1ajhvZWc2cG5sVmV4TUQxQWI0ajYzbVlQSWRDckxEYXdSMzJ0MmxUYlRNaXE2dzFESWt4ZDdfMXpDNmFCRU1IemdTVVllbVlZS1ZGTGFVYmluTUFGLWhrMk4xNjNwbFcwY3VTbGh0bnI3TG14aWt5eGprb0ZXcFYxUUJtTkljd25kYXdfX19Ud0hzYm55WndOZWhycVJadzNPbkZnYmhrWU44d2FLVE5vSHFDd096QWpiRDVPUXJZY3Vmdmp3LVFmaTNCaTdueVl0c0Y5TlRNSUlCeDJKWGdCWktSN1ZmU3dyaDczUmg2U2k0OUdDRlotUTJ0dTJEMlhsbGtaT2tPX0JlMWRvSms0MlI4R2daRVlnZw?oc=5",
-      "source": "finance.mingpao.com",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】中電(1611) 八月營收年增0.09%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFp1UlJQUnFmNGhhNkJiYzN1ZjQyaVR2ZWdJM2I5a01qanZLQTNRMVR2WjN1R1ppMWtXVXhyeU5neHM0dlk1Z2RqTFpoT2hJekdfR2I4QVVFLTEybWlRRV9DbHVaX1p0NXYwMmh2QVh1Z1NGYkQ2MWRHa3lSbG9oNU5BMTJUVHZUN3c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "中電蔣東強： 在五年規劃中應視電力為戰略經濟基建可結合金融中心發展平台助亞洲低碳轉型",
       "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxOMXNfVktuQWhuMEg1a05SeTZtc3hRT244U3piR2dtcFFyd1dQTG1wNVNZREtaejR0ZHlmVzNaNzRCX1RsbjFlVXQyYkxXbmtmSGE5NUFUUFh2eXFZc0VQTzdJaHBrRWJNS0NIcDlVMmh1bWxDUm9xTjFXUVVXUUpuWjd1M1FjN0hWRzJuMDZMY3FYSllveVl2TVhpMkpsTXRlOXc5QVlQYkl0MDRLaWx4TlpCQ2wyNXYybFByNmM2MUFOZHd2UE9tWDhORkhid21SS3RjeklFQW5XeXlZbjZQM3RNSlFHNFlaTlNWZm1yQU5kOU15SkpQMldwT0V1ODVIX19tM29SRC1lUFFnYS1oQVpXU0ZQXzRna3FRX0xnUkY0U1NCc2lxNDVPMTV5Tmk0UWZJMV9oQ081T0U0SmNUaHZzbXdjemhhN3RVaWhMUE94NmhHMklSM1pqUWZsQ2pfeWhCVnpsUk5EbHowOFRMV0RjdVBXSDRRSGxRdFRtVmtPMFY1LTJnSW1KVDBOQVd3Y1NPNkNiNWVqdUN4bHB3dm8xRjlqbVlCSmVwbmMxVFVBV0ZmYm9VSkZYdWxzd19BUFFIOWhyTkFtV2xNdUVVR3JXTzdRRjJiNnZuNWZ0MERvYzMtYzBzZjhQdnBzV2hyNVpBTFd1YVJIUFN5NVVtNXhhOWFxUUpuakdHOXFOREV5bVJETEhmaG9TcEU2ekYzenN2NGxlMmYtalBTSXZ2S1ZLd19VNzRySE1IQWt0dWkyZFV1NWFxZVE1OE1COVFlNG5hQg?oc=5",
-      "source": "finance.mingpao.com",
+      "source": "明報財經網",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "科技女力！高雄女中電資班學子奪IOAI 銅牌",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVE94cHpJSndUbW01NlYtSzladEVUMjFvTWJDZkpvbllQY1haSXV5ZkpSSEJfYWJkX3lxNkxCR0lkQUgyQjVtZVFOam50Tm0xWjY0T0dSVHdGRVlsOEM4Y29mM1BsaEdvQmxnc1FSdFVGT251NzJKZnhmM0hwUklGM21OYVlPMzgxU0RQSWh4NE9NVGJGTGNwLUs3WkkySEhPaC1EWVlEVjNQaU94OG1fdnJCUENGLS1mTEsyTUpKN0RZWXZfQVNaclFUdjlrdEQzWWtPRFhjODNQQkJrNzh2allfNE1xWFpRQ1o1RkxpeDJpSkxpbk03R1ktWC1tS01jZl9OdVVsNjN1aE0zU29mVl9nQUFzTnlIcWN3?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
 }
