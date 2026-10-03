@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T17:38:09.895484+08:00",
+  "updated_at": "2026-10-03T20:38:47.768337+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1436",
   "name": "華友聯",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "逆局大搶房市商機 華友聯連續申報開工4案三地高雄車站總銷至少百億",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGt3VW1GaVAybkNrTlpabGs3WmZpNm9SeVk5b3VRSjBfX2VfUUlwbmdRZUhfX19Ec3ZVNXJxTFNISUVKblp1WGVnTXo2aHpDNm1PRFlfendabjhXYjNibzctcm1DTlZQS0VNdjZXSFJ3YXh2SXR3VEgtekgxV3JDYlpUbw?oc=5",
+      "source": "壹蘋新聞網",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }

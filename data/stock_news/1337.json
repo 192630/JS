@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T16:38:19.494455+08:00",
+  "updated_at": "2026-10-03T20:38:39.362589+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1337",
   "name": "再生-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1337 再生-KY - 美國生技指數8月創歷史新高，莫德納「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10dmdFVGQ3VEhueHZzTk1HRGdTT2o3YURWblJRaUQ0VkJRRmtIdUdiamhsQ29IT3F3VWJRcGlVTTV3Yjk1QTZQOURXVlNNcWIxRWFTWUJhajk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T07:00:00+00:00"
+    }
+  ]
 }
