@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T14:44:37.526152+08:00",
+  "updated_at": "2026-10-03T08:34:01.574362+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8429",
   "name": "金麗-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】金麗-KY(8429) 八月營收年增7.38％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92YlRONkRVbXdqUnM4TDdFWnlLLUpaMHNFSl8yUk1ubXMyMHd2Z1h3eGN4WkVhVy1BWWY5LWdQVU0yVzJocGpwZ0tCOGJBNDB5WmVXVUYyVi1jSmoxQms5S1ZaRXE2UnM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }
