@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T15:00:18.826647+08:00",
+  "generated_at": "2026-10-04T21:16:33.996503+08:00",
   "taiwan_market_phase": "休市",
   "update_status": "更新完成（延遲行情）",
   "risk": {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 85028.0,
-      "change_percent": 0.5568010055953407,
-      "data_time": "2026-10-04T14:58:10+08:00",
+      "price": 85149.0,
+      "change_percent": 0.3793079621870446,
+      "data_time": "2026-10-04T21:14:50+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 2695.87,
-      "change_percent": 0.612062751149998,
-      "data_time": "2026-10-04T14:58:20+08:00",
+      "price": 2696.87,
+      "change_percent": 0.6093318060141503,
+      "data_time": "2026-10-04T21:14:50+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,8 +143,8 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 85,028.00，漲跌幅 +0.56%",
-    "以太幣 2,695.87，漲跌幅 +0.61%",
+    "比特幣 85,149.00，漲跌幅 +0.38%",
+    "以太幣 2,696.87，漲跌幅 +0.61%",
     "納斯達克100期貨 31,061.75，漲跌幅 +1.47%",
     "標普500期貨 7,777.25，漲跌幅 +0.59%",
     "費城半導體指數 13,136.67，漲跌幅 +3.69%",
@@ -420,8 +420,13 @@
       "generated_at": "2026-10-04T15:00:18.826647+08:00",
       "score": 28,
       "status": "中性"
+    },
+    {
+      "generated_at": "2026-10-04T21:16:33.996503+08:00",
+      "score": 28,
+      "status": "中性"
     }
   ],
   "risk_change": 0,
-  "risk_history_sample_count": 46
+  "risk_history_sample_count": 47
 }
