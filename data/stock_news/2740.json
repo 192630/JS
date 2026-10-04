@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-29T08:27:11.622933+08:00",
+  "updated_at": "2026-10-05T02:41:07.142075+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2740",
   "name": "華軒",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】華軒(2740) 八月營收創近3個月以來新高，月增17%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOekREa1dSN0djNWgyc1lCcXhGOXIyaHdHclcyZi1kUUhGU1hQTzBDWVA5Q09oM3FxellmTjdKa2JDVF9qSUNYSjI3bjdIVVNEZmwxcDVxTFlCX25NZWxWc0I1U1E1Z2haYU15aG9xLW5SQURtbzN0c0drRVdZYnpmSFJ5dm1MZmY3Q1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }
