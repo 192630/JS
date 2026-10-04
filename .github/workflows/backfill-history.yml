@@ -738,15 +738,28 @@ jobs:
           # 判斷是否完成整輪
           # ==========================================
 
+          # If an upstream source failed for securities that returned no rows,
+          # keep this batch pending instead of silently skipping those codes.
+          retry_current_batch = (
+              failed_requests > 0
+              and empty_codes > 0
+          )
+
+
           cycle_complete = (
               end_index >= total_securities
+              and not retry_current_batch
           )
 
 
           next_index = (
-              0
-              if cycle_complete
-              else end_index
+              start_index
+              if retry_current_batch
+              else (
+                  0
+                  if cycle_complete
+                  else end_index
+              )
           )
 
 
@@ -838,6 +851,9 @@ jobs:
 
               "failed_requests":
                   failed_requests,
+
+              "retry_current_batch":
+                  retry_current_batch,
 
               "cycle_complete":
                   cycle_complete
