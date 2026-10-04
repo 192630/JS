@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-29T15:02:35.290506+08:00",
+  "updated_at": "2026-10-05T06:23:21.517366+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3046",
   "name": "建碁",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "建碁(3046) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lcGZ4TU5ZVWdITXU1UnN1T2ZleV83ZmhKVGRBb19YR0EwUmRCVGoxUkY2Rk9RMlRWbE9ralI3TEgxNS1jS2R2X25COWFWcDYwMy1r?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-30T14:32:51+00:00"
+    }
+  ]
 }
