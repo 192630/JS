@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T19:37:58.934083+08:00",
+  "updated_at": "2026-10-04T09:42:46.420656+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2025",
   "name": "千興",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【10:48 即時新聞】千興(2025)股價急攻近一成，融資融券恢復成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQTZaYUZjYmpWTkJ4UFhzYnN5c0R4YzNmdEJkQXFHVDU3TjRVMEswWUpyTkdlQ19tRzFrNmg1X283TERTUmNDYkQ3WExUdHV1WUdhN3owUkRnU0x0R0VjTnJtbWU2WGsyVFpNRm10elA1aXdGLU1FVnR6czJxMk5ZbmMxaVJtMl9nREtialZR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-30T02:48:47+00:00"
+    }
+  ]
 }
