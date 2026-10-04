@@ -1622,6 +1622,7 @@ header{
 header.is-compact{padding-top:10px;padding-bottom:10px;background:rgba(255,254,250,.98);box-shadow:0 5px 16px rgba(48,54,59,.12)}
 header.is-compact h1{font-size:20px}
 header.is-compact p{display:none}
+header.is-title-expanded{background:#fffefa;box-shadow:0 7px 20px rgba(48,54,59,.14)}
 body > header{position:sticky}
 header + .menu-overlay + .page-nav{top:var(--site-header-height,86px);transition:top .2s ease}
 
@@ -2050,7 +2051,7 @@ footer{
     <span></span><span></span><span></span>
   </button>
   <div class="site-brand">
-    <h1><button id="homeBrand" class="site-title-button" type="button" aria-label="返回首頁">📈 台股 AI 研究站</button></h1>
+    <h1><button id="homeBrand" class="site-title-button" type="button" aria-label="返回今日速覽" aria-expanded="true">📈 台股 AI 研究站</button></h1>
     <p>TWSE 自動資料更新・量價與法人籌碼研究</p>
   </div>
 </header>
@@ -3082,8 +3083,19 @@ document.addEventListener("keydown",event => {
 });
 
 const siteHeader = document.querySelector("body > header");
+const homeBrand = document.getElementById("homeBrand");
+let titleExpandedByTap = false;
 const updateCompactHeader = () => {
-  siteHeader?.classList.toggle("is-compact",window.scrollY > 28);
+  if(window.scrollY <= 28){
+    titleExpandedByTap = false;
+  }
+  const shouldCompact = window.scrollY > 28 && !titleExpandedByTap;
+  siteHeader?.classList.toggle("is-compact",shouldCompact);
+  siteHeader?.classList.toggle("is-title-expanded",window.scrollY > 28 && titleExpandedByTap);
+  if(homeBrand){
+    homeBrand.setAttribute("aria-expanded",String(!shouldCompact));
+    homeBrand.setAttribute("aria-label",shouldCompact ? "展開網站標題" : "返回今日速覽");
+  }
   if(siteHeader) document.documentElement.style.setProperty("--site-header-height",`${siteHeader.offsetHeight}px`);
 };
 window.addEventListener("scroll",updateCompactHeader,{passive:true});
@@ -3255,6 +3267,12 @@ document
 document
   .getElementById("homeBrand")
   ?.addEventListener("click",() => {
+    if(window.scrollY > 28 && siteHeader?.classList.contains("is-compact")){
+      titleExpandedByTap = true;
+      updateCompactHeader();
+      return;
+    }
+    titleExpandedByTap = false;
     showPage("home");
   });
 

@@ -156,7 +156,7 @@ jobs:
           history["_meta"] = meta
 
           HISTORY_FILE.write_text(
-              json.dumps(history, ensure_ascii=False, indent=2),
+              json.dumps(history, ensure_ascii=False, separators=(",", ":")),
               encoding="utf-8",
           )
 

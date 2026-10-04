@@ -799,7 +799,7 @@ jobs:
                   history,
                   f,
                   ensure_ascii=False,
-                  indent=2
+                  separators=(",", ":")
               )
 
 

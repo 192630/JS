@@ -147,7 +147,7 @@ jobs:
                   output,
                   f,
                   ensure_ascii=False,
-                  indent=2
+                  separators=(",", ":")
               )
 
           print("Downloaded", len(twse_stocks), "TWSE and", len(tpex_stocks), "TPEx records")
