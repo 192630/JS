@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-28T20:43:50.877721+08:00",
+  "updated_at": "2026-10-04T16:34:41.049788+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2425",
   "name": "承啟",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "中國思騰合力列美實體清單 承啟7.9億元處分51％股權",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5VWoyVnRvNzRhRDk0czcyMGJZZDRkUDhPSEtHRDBWOGp5Yi1ZMU1pWldSMWp6RXo5RGNwc1QxUndOajlGak1maUxVeHpBckNPN0JQXzdUR28?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-29T23:11:38+00:00"
+    }
+  ]
 }
