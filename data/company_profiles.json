@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T06:44:31.229763+08:00",
+  "updated_at": "2026-10-05T06:45:57.322897+08:00",
   "source": "TWSE OpenAPI / TPEx OpenAPI",
-  "count": 1988,
+  "count": 1987,
   "sources": [
     {
       "market": "上市",
@@ -11,7 +11,7 @@
     {
       "market": "上櫃",
       "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "count": 893
+      "count": 892
     }
   ],
   "profiles": {
@@ -8097,7 +8097,7 @@
       "industry": "電子零組件業",
       "founded_date": "2003-12-22",
       "listed_date": "2009-03-16",
-      "address": "高雄市左營區菜公一路62巷15號",
+      "address": "高雄市前鎮區一心二路128號8樓之一",
       "phone": "07-3433776",
       "website": ""
     },
@@ -24964,19 +24964,6 @@
     },
     "8182": {
       "code": "8182",
-      "market": "上櫃",
-      "company_name": "",
-      "short_name": "",
-      "industry_code": "",
-      "industry": "",
-      "founded_date": "",
-      "listed_date": "",
-      "address": "",
-      "phone": "",
-      "website": ""
-    },
-    "8183": {
-      "code": "8183",
       "market": "上櫃",
       "company_name": "",
       "short_name": "",
