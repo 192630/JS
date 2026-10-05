@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-30T13:44:53.004755+08:00",
+  "updated_at": "2026-10-06T06:47:25.341994+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4523",
   "name": "永彰",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《櫃買市場券商買超比前30名 3-3》晉泰(13.91)、永彰(13.48)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2o4YlRpbUU2V3NDMXVuMk9qZTJLN3A2QlY5TmkwWExHSi1JUGtMNFFOLXdRUkNUNGo4OEwyRGRYZGsya3VZb25YaUR1WkJTZ19qUFItYzhGa1NBYXo2cUotWEVnai1seXM2X1pSR3dIeXJzMHVaTUFuUnJlNWFTYlFxWDJvLW0w?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:29:00+00:00"
+    },
+    {
+      "title": "營收速報 - 永彰(4523)8月營收1.35億元年增率高達242.54％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JZVhCRkNDYzVWc2pra0M4Ni1QUm9vN2NYcDc0NUItNHdiTFo2bUVmVDZtbmwxLVBtS2ZfNVFsTzZUWEo4bG5CdkdvLVl2NldZUlRJemxUYVlwcEJSa0pFVGUyRnd4TjRUZ3U5YUNhcjZTeF9qb0E?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

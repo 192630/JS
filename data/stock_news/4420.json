@@ -1,81 +1,45 @@
 {
-  "updated_at": "2026-09-30T13:44:45.724153+08:00",
+  "updated_at": "2026-10-06T06:47:18.627213+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4420",
   "name": "光明",
-  "count": 12,
+  "count": 6,
   "news": [
     {
       "title": "前景光明",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWR3S1BnMloxeF9jX1NuRGc1aUNUSnhYVUFQS1p6QUdfWXVOR2xGMm01c0x5QzlLa1lIV2szYmxlQWdsWGZsbkEzY3dWTE5FX1NnMDRJSEw1STI3VFFqd2RLbzcyWi1oWHU1RXpsWnlCZDAyR0NzYkN0MWxWQ19wN3pB?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "2026-09-29T11:17:29+00:00"
     },
     {
-      "title": "習特會｜習近平與特朗普茶敘 形容這次訪問令中美關係前景更光明",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQa0lndUZFOHhqZ0k5YkNWeDNNTEhGVVdrcDBGTEQ3VXJtYWNiS0ktblE0WFdtb1hrV01WOFl2cWRpOTJJT0ZwcUo2YUdXVWxmV3JNOEFxNFUtV0pEUFZ5UnEwTWYzV2d5NDh1LUpsbU5SdzFCTUlhS25rY3RaY3RfZGhDWUJUT1gyOXhRQTA4WGFWdGFBYWRBVUVJVjl1aWZZanB3SUxFTXU1VGhfSUVwaHFaNTFMMkpXQTdqcHVObE5GdHRfN0NSbWJ4MWlvdnN6YktNb0JjQzgweGpjRHhKSENTMm9ncjUta3kyQ1ZWSHIxcG1menQ1aFJoQnZsMUJ3LVdUOWNuSGdET1pjYVZRZkxhMWRqNUVPN3VMUlB3emt4VDJFOTlXeVgzMWgxRVB4MVF3SHBHSmFGMm96c2NDRHZLS3Q3TWt3UXFxcjctWExRMXZrZld6amRJR2ZLQ3k2U3hwSzRZQkhVVGxMR0R3LWcyb3Y3bWloeldTQ2V3dWl5eEhaUE0tYXZReGZJTTNnYl9jUHByY0RjY2JFcTNqVFJTbklRQQ?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-09-25T17:36:33+00:00"
+      "title": "竹縣實物銀行攜手光明國小師生「瘋裝箱」200份物資傳遞愛心- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GVHJQRl9ITmJvVGdCb29kYkp2YnlyLWlpS2lKcmpnNU5Na0tqU0Vpd0EwRkhVWkoxbWV0VkdMQ3paemxXZXFQSy1vaWNDUTMwbzhFcUFhaEk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T07:00:00+00:00"
+    },
+    {
+      "title": "竹縣府攜手公益團體辦「食時有愛」 光明國小師生裝箱傳愛",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPNmNpX3hVR2gwTU14Uld4VGFMNVhzNjZtdFhmeTY3RnBTSWpITi1vNVI4bDVDSi1sLXJob1NxSkRfdTZjVkJGd2ZPbl9NbS1Zc0JIZnROVWJxZ1p6OWtXTnA0SVBPa3hKc0wtQW1vTWJOZDJ2ZUlGZC1ZcjNHSW5IVFAyYUVtd3BwbVB5X1JPM2pibFNCaEM0YTBGWXRsYmlGQ1ptMXRjdV9Fa2cxcTJPU29MQWN2d0FYbU90YUFDbjVXa3BzdU5nQmZDNVZ3aDZla1gxbmQ2NHkzSE45UXBJU3Z0ajl0TWFYbV9QQ3RCV2VVdS1fNDRvUzdJZ0g3Mzh6QklhX3E1d2lWNmxTRVdpUzhlTkpwU1FaMXFMUGlaSm5DcWFHcmlnMGxFQ0hwQm9hcDdCdDRXQW03Rk9PTFhQSWNaV0JaMUs1b3Q5b1JGUnQtYjNsYXFsaXVPa0hOejBkVE1SQ3cxNkhsNndGN1JtYjhZSkFUQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T07:00:00+00:00"
     },
     {
       "title": "從企業社會責任到公共衛生影響：Colgate「甜美的微笑，光明的未來」計畫如何推動下一代十億兒童及其家庭的行為改變",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNR2tQQkJmS0staURQVTI2d1NPWGptWnlCaU9WX3laUUt3STFLTk1sXzFleURLcXpqTzV4UDJTLTJ0YS1ueVJZblFCNVQ0aERkaHZ4Z0hYM2N4QU1QQVRPUkctbEtqLVJ6Rmp2VkFlU3p6cVR2NUlFaC16WnU2WGFob0J5OHkwM1A3NGVvcEFCeHlqbFRGazgxWjdZRjhjZUc0aVRUdlFCVU9lWmNuRnZicU1WWFhZRjFPenVvTE96cDM5aTIweUMxbnozMVBMNW8wRC1VT3lFTlN0amtYVW1rang3b0xlSDgzZlB6U3lHaHJxdHp0TlV4UzdIWmFNWFRvN3lYeXlEaHNiWVMydXVwNnNCNXBMNllPV04tTndCTld2bHhDdjJPMHdyRm92RENIWWpLZVJVM0FpeTlrcnJZLXkwcUduWnhxYWt2a01mS3hQSXA4dy1KWTBZYUQ1cTNtcmdSQnZQdTZHQXFRbWx6bkFDb1ZjLWhEQjBSVm80QTRidFRnYnBOMk1PcmN6eVk0RklSRncybGRHdWNuQUVzUGNGX0JOc1paM0Rrd0tXT1ZtSWw0eVp2SXJoVVdnbGpkc1k3ZUlWZ3dCQUg5aWs0VGhILXBzdFhwajdHaWp3?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-22T22:58:00+00:00"
+      "published_at": "2026-09-22T07:00:00+00:00"
     },
     {
-      "title": "竹縣實物銀行攜手光明國小師生「瘋裝箱」200份物資傳遞愛心- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HMGhNSmc0THd3NXpyU0NlWE9LVlhFWU1KbEZSMm9jSjJJeGJkd1dmY0NtYkk1UGFUOHFLRUpSTm1rRnp3TFVETnFRQi10ZHpjd1hYYzBZeWw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T17:46:03+00:00"
-    },
-    {
-      "title": "驚險！竹北民宅火警父與3歲女受困獲救光明十街救災人車管制- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03MmZUZ2o2RXZIV21WcENIUzR2NTIyaHFwR3gzeHBuaUJ6X05mdmh2TTRXb2pQRGRJcmFQUFhSQ0c1NmFLVUhvSm00ZlhHYTFtb0RaVVV5bnM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "D 道明尼資源- 多米尼翁與下一能源攜手推出每年10億美元維吉尼亞供應商計畫，合併前景光明！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DWk8xTTFOMkdLLURiUTlnd2Q4QXV6UWRDM09CTUJkeHdManh4cTd0eFUteXJ5U05EM282aVdZcXhpZUloSG42N0RnLThxNzd4N3p1X3c5dG4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "高價股吸睛華碩、玉晶光早盤登高力拚49檔千金股重聚光明頂- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wM3g5MHNUNm1STnZmXzdvM3N4aDBxSFFTSHg5eDdPcURmeXlZVmFobVNNemFSYXdBMTktN0NVR3BlUF9wUGpzeEp6N180eDl1N0FaejNzT09QNTVkSFpz?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "淡江大傳學生展現採訪實力 兩作品獲社會光明面新聞報導獎",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNOXYzaXR4TUh5ZGRyeURROGtBU3FPTDdtTkg0aHFLZnhpYS04Qm1ERWJOa3VmTm5iMm01QlNFOWRVbFkzdHJzWUl5a25yMTNISXVjX0k2bTk1WmlybnBibTV2MUtMNzU1ckpJWDlnVnNkN3lIRktwYU9fY2t5S0ZnenB1dWptSzl0bExHeWwxa3FWVHY1YnF6TlFVb0FYb1JoU2tpSHB3T1VOalAzaUotQUptek53blkza0F6MlJWNGo4NENyQ0ZfWDBrZzgxZ1BNVDVFVnBlNnlFcV9NRFdEMl9jNi1vMTA2TndKTVA3SzhUUEtPaVUwaTRCTUZNY3RUQjFVVHVwVGtNWkw2WXRMSkRFaFBlT3RHV1h6cEgyUVNkaEh2WUpieV9aeDI2SzlGZi1zNXJ5dlJOaV9WMm9VUXNnazNIclJaT0tUdkROSFFtUWtsNGJNWXpwTGkxYUFfU1JLcXE4eEpiZW05MEJoMjlnNHY3QklEV3dZWk9udmFyTDBFOXNiMW96VHo?oc=5",
+      "title": "響應國家防災日！蘆竹消防攜手光明國小 安全觀念向下扎根",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPLWFUX2h3SkVCY2xremlkQTZJbFN5bUw5dTQya1BBSk1KUVNfZmVxSVJKVzhXaUdXQU9Zamp3WHlPYzJKNlhOWlNWdlJxeGs2TkRkYURfVTUzNnllVER6Y3VWQ1VwLV9rNW92bWp3NDMxTnc5Sm1wVFFreHdDdTVUNjUzNWhLRlFzb1Yyd1RwZE4zRHExeUNoYnllYkJlZzBSZEI5Uzhmbi1paHNSZXBDUmJwc2VETlRhN1dkMFFWdml0UjNpbDJKTkVRQXNBWEFwZWF4T1BjeWhJTDFfX1B2RDAyNUVUcVNyWHNyYTNrZmNNV0d3eVduRnA3c3dxWWZpNVo0eEtvX0pQYXFoYllITkxfLTRpWHVZRnZWUXdjRHdGZDV4bGh3WDJRYTZMUUltRHhDbDZpdk5wclNWSWp1eUFFRWZwR3ltVXgwQXlxbXhZbkVaX2UtQjBuWklQTXhvMGViSnJsbXBhS1p2ai1WdnZjOGdzMGpuNjFUaEVWbkgzdw?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "published_at": "2026-09-18T07:00:00+00:00"
     },
     {
-      "title": "49歲何妤玟突爆眼疾！淚嘆生命中幸好有他：重見光明",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxONEphd2M2TWxGZVZZdGVvb3pteG9YOGVmYWtZN1R4ZXEtOGdnbDJsMGtJN3RFS0F4SzZtczkzVDVpVmtST3ppSkhPREdOeVhlMjMxamlHWl9CXzZIU3RscGF3YzBYYkVzVVNjYXlkZk1BVHFDeGNNdXNqcjVTN01OeWRYMzZubXI2WDU4ODcxSjNIYXRFeFFGYW1FQ1k5b21BUnRUb1A5Tk0wTms3VzFhUVRybmI2T2IySDliZVo2NmxOQnVOcWhHVEx4cXg3cnN5dEo2M3ZzWXlxdjBVNW45eEJRelR1VnRka19MMDFvdE1YTXRfSm5UT21DVW1zZmVyRnhKVmxSbW1wVVhDRDR3MEp2NjRPWGpyV0pfcEdrZ2wyT2M0Y2pPenB2U1pKdW5YVWV2d2NIYk1UUEhhT3NIVnI5MngwX3BLRkFBYVNjOWNQVnVN?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "股價飆不停！大立光明起被關禁閉到「這一天」 聯鈞也一起關- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zc1htMDNMX3A4VU5ITlczYkdSMktMVFlESURIanp3R1hxck9LZWV6eXBfSlktWFFuVHRXZXNXbzNPWDFxNkRqVEszRnRQSl9fV084OWhBUzlmU2ZqSXlv?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "從市東公園出發「迎向光明」 鄭朝方完成新竹縣長參選登記",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPc0pzNkxGcFNJSVpueS1tSjA0eTUwNUhqSlZoOVNkUHFkbXhTdUZNUVhtUWMwYWl5OFFVbmxiV2tncVlfYVp4Z21LalFxQzRPZm9Xemw3Z2U3VmFTLURqN0NSLVBVZk90UGhReVg3MmNCR19EcVkwV3VpRlNRdXhmQXgwRXVGLXJjS0VWbEdaWHBvdHF5ZHJUQVRYcTJZaFZTOUFxM2dEMnkwcHZ3aVFvNFdDZS1XUWhPN2x3NWVkNTBlTVBDR0lWVEZNTzQwbjl0dHk5bjZOYzZ1TmhlR2MwT25NOG5jRnRnYXh6MmgwYkxYTl9Fb0hrdnhNdXhtdEZiTjVYTXE5X0Y1d0RTOUlIYnlvTGJHRXBnZy1aNmRvVjNmR21oWTBNdTJ6cXZzN1lhWHRTWWEtMjBGaGJpQ2tVdjNOZTV4cFdfX1VPeHNtNjBoR3pQeE9qYmpod0Fwc1habFNqaU54ZGRlZDdaLUpFemJjMUFOUQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "6飆股「抓去關」新名單 玉晶光明起處置到9／8",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BX0hJOEJVaE9nQXd5OW9tLXRQNXM1NzI4WW1Eek1Fdkx6SXQxblRHRG9McHVyaGZONXYtOXBBVXFrbHRjVHFJNjU1MG9yTDZQdlHSAVBBVV95cUxPd2dEeVNRaDdERGJ6STN4TGtLMWVtX0hCQ3RHSlgxRGZRamltWWFlR3lTZTVvMnFOSFhKemZfU3E2X29pNEZpZXBQbFJFLThzeg?oc=5",
-      "source": "ETtoday財經雲",
-      "published_at": "2026-09-01T07:00:00+00:00"
+      "title": "High-NA EUV每台要價124億 4大晶片巨頭搶著要 ASML前景光明",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11UEoyVEVBckRrRUY0NmI3SG1qM1h5eGVmV0ltR2NYdHg1SGI5c2JScWUzcFRMdWYyQm9qd3FhZ2hIeU1XZkRCOUZGZ0pJdElQZTdPS3hNTzU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-08T16:05:41+00:00"
     }
   ]
 }

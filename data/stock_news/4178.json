@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-30T13:44:35.229058+08:00",
+  "updated_at": "2026-10-06T06:47:09.235364+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4178",
   "name": "永笙-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《集中市場券商買超前30名 3-2》仁寶(4178)、華航(3583)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPME1wSTVnVlliVjdnbXR1X2hpX3I4TnVHMDNQNnhJMWtwSDB1S3RvVzNGaE1XZVJrelRGSUR0eVJLZnZZQWctbVREYlZWMS00TUdWbjFvTmozVzcwOHhoSVVodlFQeUpfYTVrWHNYdldEVUJfeEZQYzhzNjRZT3JsRlMzcUk2SVJt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-30T23:30:00+00:00"
+    },
+    {
+      "title": "永笙-KY臍帶血細胞製劑 申請台灣藥證",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUM3pZZGEwR3pReERDaDQ2TjlJUmhpc2laUDdiMEphVnpqQ0IxcmNnZEludzg2WjVFcVA5UEhadEpyQk45ZmhwS0M2WDdwM0tfTXBBSHl1d3paanRNc3o40gFkQVVfeXFMTkJGZUthemNlektvOTgtY3FjRWRzb1RoVW40X19mQUJCbzFzMzFjZGhJUkpWc2ZVZnBVbEpGTExrRDltTi1jMHRSMTNtakFDQ2c5eXIybzR1TGFmOTJyNmdZeFdWRg?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-30T12:27:55+00:00"
+    }
+  ]
 }
