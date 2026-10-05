@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-30T13:44:19.905276+08:00",
+  "updated_at": "2026-10-06T00:13:05.936909+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4126",
   "name": "太醫",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "太醫 115年9月營收2.20億、年增2.99%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jdG92Mno4czZsaUszRnBuNUZmWTg0Qi1QdGVnNU1pVFQ0bjBNdzNKNUpvQnJ3MXY1X05aWkdNNW13LVFhMnY3cS1YR3YtQ0NKTndRLVJyWTQ?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-10-05T09:28:58+00:00"
+    },
+    {
+      "title": "太醫9月營收看俏，Q3表現亮眼",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWZVU2hjcGxOYkJodFMyM1BIZ0tsRWh6S0hsQnhBeTl2dHE2LThuU25oTnA4dlJNMmNpRkdxMUFUWl9OOGRnWENHaHpIcEZCUFRyY3UtNzBNcERoc3ZheVV0cS1ZQnpadjA0REg2U3hpMXl5UXNLRkVfNDVaLUd1V2RBTDVlT01jNU44OE56VmNtSzJrUmkwZ0F3SkpGNFBiZ09SUk8tZmlBdG5VbWVEWmRaUjFzWnJ3Nk9HdmtqV0NoSEZ0REVlR29IN3Q5VHRBa3dJWWJpaUJiZ1dVY3JjdmR3Rlo?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-30T04:55:51+00:00"
+    }
+  ]
 }

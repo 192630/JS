@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-30T07:48:14.160589+08:00",
+  "updated_at": "2026-10-06T00:12:37.611590+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3623",
   "name": "富晶通",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "3623 富晶通- 【10/02 產業即時新聞】面板觸控族群強勢大漲，TPK-KY亮燈點火、資金回流中游零組件- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DUl9JNkhkZlp6bVRJb2VkTHV0dDJHNXU1UnFUeXM5cmNrb01YSXRjSnBuU0FKZl9SQ3pGVkVuYzFuaHlsWVhHeFVvS1RyWG84bkZ5ZXEzQ2o?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-10-02T03:20:48+00:00"
+    }
+  ]
 }

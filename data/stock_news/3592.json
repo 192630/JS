@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-30T07:48:08.746192+08:00",
+  "updated_at": "2026-10-06T00:12:32.479921+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3592",
   "name": "瑞鼎",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "瑞鼎(3592) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MNUxRMFVOWHFuV29MaC1tVGRUQ21uV2V6UHNFdTZMTFp1UkxVUkZTR25KaG10bzBpXzl0aGpQUV9NR2gwaTNWX3g1TzVtdHRnRmp3?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-30T07:32:59+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】瑞鼎(3592) 八月營收22.13億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增22.85%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjNpclRweXBRR1JvSmpOaTVBc1E2Z0NuMjdvOTZwTHFPb3JWLWNyS2VDNWVMekNQTHFSUk15VkdsQ2xQTGRyeTlhT3hpdGh5WVU1NWUzWTBVZGx4Y1l4UVU2ODNjcGc3NFpBZm9ZUVdFWVhHeVR3cjlUZnM0QWxLdkVoV3psM0w0ZUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }
