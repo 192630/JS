@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-29T22:10:21.818868+08:00",
+  "updated_at": "2026-10-05T09:05:23.123760+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3310",
   "name": "佳穎",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收速報 - 佳穎(3310)8月營收4.62億元年增率高達259.96％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZUXNpQXpDZXU5OE1vOFdqdnVtcUY0WFpvbXVjR0d0WXJKNkZOaGJfWnZvOWxpOWUtVDVOMWV6MHJ1aDhJTW9IbHlZQUhiXzA0YWU3M2ZwdG5xekpBQWxUa1cydXlKM1dpSE5TSzNwdmFMRnVKb2c?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-09-29T22:10:08.066013+08:00",
+  "updated_at": "2026-10-05T09:05:08.398274+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3227",
   "name": "原相",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "原相(3227) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqalFEQ2h4UWNCWTAtbWpmWFptWnBNVHpNRTVNSUlHY3REZDQ5Z0tpYWp6SDNxbTMxdS15R2t2T3I5dUhRY3ZJMThTdTNhWXA5eXZv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-04T01:54:27+00:00"
+    },
+    {
+      "title": "3227 原相 - 請教各位大哥大姊：股價差不多，要選緯創還是原相呢？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jdkhab1JORWlVWUpMVWpfNW4xTll2aU1vMEk5aGJ5cnhVMEVvZkF3QkU5S1NMV05TLTZYZmF2M0RrX09jM0o5ZVMxUTRKeXVhZVQ3OGREeTY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-30T21:18:39+00:00"
+    },
+    {
+      "title": "3227 原相- 特價中，優惠不是每天都有不要變貴了才後悔😆 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iUi01NkFYdUJ0allySDFWZDhtZjZSTGpxd2xBLUUteW5yUmgxb0VHWldKRE9pVno5YTFBWldxM1ZBcTFSRWVRX0t6Zy1PUkpaWlcybW9Cc00?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T07:00:00+00:00"
+    }
+  ]
 }
