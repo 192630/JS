@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-30T03:30:32.395592+08:00",
+  "updated_at": "2026-10-05T15:13:12.139200+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3501",
   "name": "維熹",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "維熹(3501) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94TE90RTh0WDgyUHpOcnZSd0hsU3dDRDgwVHJZOU56aXh0TnYwd1dXVURsZGt4bTJzcXFmQTYzM1haQ3FVZ1RoaHRmbXh4aXhQaEc4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-02T17:50:48+00:00"
+    }
+  ]
 }
