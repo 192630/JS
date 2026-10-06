@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-30T20:48:15.725045+08:00",
+  "updated_at": "2026-10-06T11:08:36.976532+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4561",
   "name": "健椿",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-電機》健椿9月營收為1.12億元，年增79.80%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREJNdzJ0SjNjZHJfT2ZJX1BWUTFKeWRVTXNJZVdYQTlIbU9DY25QTWNwemdabzdQSDg4TW03bVdhbkM4LW1zTXRqV3JzYm1ySFh2MlNNbzEwRktpeFpxTVZNZ18yNUxUbmh4ZW5RWHhreXJJXzMwaWFJMjV0czZlWEJfaXlKSG90?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-05T06:58:00+00:00"
+    },
+    {
+      "title": "【營收快訊】健椿(4561)公告09月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GOGIyNzRZdlJtVjFrZkhJWTcwY1JpWU5CVFNERXhlRzd2WVotWEs2S2d0aFF0RVBRb1BnZjB3a3FiRU5TcktJNjVHZGZsNzJwYnhmN3ZwQUQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-05T06:51:56+00:00"
+    }
+  ]
 }
