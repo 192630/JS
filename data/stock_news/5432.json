@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-01T07:06:04.741361+08:00",
+  "updated_at": "2026-10-07T01:18:23.823343+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5432",
   "name": "新門",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "新門 115年9月營收1971萬、年增44.06%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1STlRJcXloZ1B6VGhVS1lqVEFLOEJSY21fS2xiME9DY2wzd1pTWWREdi1PWEN3N2o5OFNIRVdkTERKdHBLcW8xSmZUS0RrTUVFTUQ3ZWpNY0Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T10:09:39+00:00"
+    },
+    {
+      "title": "【09:47 即時新聞】新門(5432)股價走強，綠能環保題材成盤中焦點-CMoney 研究員",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYU95WmU2NUlrV1dGZ2N3T0JkWVhVcm9BY2x2c09IeENxaFlMSE9hVnd1Q2gzUXExZFkwcHN0b2Q0MlFLLXgtYjhSQnNXVjZHRXBfMkZXY0lsd1kyUWFaOXVnZ2RSSnlkOWFZRFhHbXBMajNqVG9GUlpaaGxBbEEyQkk5Q1BudEFTS0dqcjFB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-06T01:48:10+00:00"
+    },
+    {
+      "title": "【09:47 即時新聞】新門(5432)股價走強，綠能環保題材成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RN2pPMlV6M19LXy1HanduVmY5MDZCTVNndlBfOHk0VE1LR0FYRDRndV9CN2hCWlVPd2JEREU2ZEN0bHpUejh4b25zWFVuSlJfQW9NaWJZaWo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-05T10:48:12+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-01T07:05:55.790952+08:00",
+  "updated_at": "2026-10-07T01:18:14.664420+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5344",
   "name": "立衛",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-半導體》立衛9月營收為0.34億元，年增28.91%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejBCMHJjQW1NY0k0bGlLOFcwRGZoc0VKanh5TWt1RlJqcFNJMWpmVHJuclJwXzBHMUNVcTJySkNtY25Jbi1Id2F3VzJhb1Jad1BCR3FZcWJMTm95bVJlZGtZV0RLV3g1TmhMc2hPM0kwZDlNX1BWbzUwYk9nTUdYdU8tSE5DUHZt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-06T06:22:00+00:00"
+    },
+    {
+      "title": "營收：立衛(5344)9月營收3404萬元，月增率12.20%，年增率28.91%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNU9falJ4MlNtV3hpRVVwU1FmRlVXeHhUWDBwSFJKMEF1VUlyQWdOZnpJdko1UVhDQUs1Sms0X0o1QWZBWWFUYXhSbTF0QmNMbUlOYVJ4VGkwdVFibmo1eWxmejNYdWZqYXhEMVFnbWg5c2VicGtGN3dwOFVzcE9xV3JKZDdHdGFi?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-06T06:18:00+00:00"
+    }
+  ]
 }
