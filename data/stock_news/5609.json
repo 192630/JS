@@ -1,39 +1,69 @@
 {
-  "updated_at": "2026-10-01T10:13:55.188614+08:00",
+  "updated_at": "2026-10-07T05:44:43.374258+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5609",
   "name": "中菲行",
-  "count": 5,
+  "count": 10,
   "news": [
     {
-      "title": "中菲行：半導體加持 Q3空運仍旺",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xQmd5MDd5R2lpM2FHQ0I5My1pV0h4UXIwSTFqNU1WUkVuWTJyVHZXQmNnaDExYVNJUHVKd2trMVpBc2Vyak5jX2Y1UHpPN0h4Yk5JQVgwWEk?oc=5",
+      "title": "中菲行9月營收年增47% 三業務熱轉",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5waElsaGdfaWxGWHRlQ1p6NU5IRldTVWFBNndYbzBLX3c3bDI0STRyRjk5R0pqUkdQNmRhaWg0cXl3NXNXMmhHOVgydUtJRmJCZ2lubEVHVFlrZ9IBX0FVX3lxTE5sQTZsM2I3S1Q4ck9rWG5id05zWlRPNmVwYmgydkJvVGlZRi1zXzY0VGRRd0hySDBvajVHQ0twcnlKVS1SUUFXUGRlME16TGtQZWVBOU9jT1kzd0NMdVh3?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-06T15:33:42+00:00"
+    },
+    {
+      "title": "Q4海空運運力都緊 中菲行：海運部分急貨轉空運",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5TXRnaGFMRXZWMFRMZEVGdlpRV3RDcDBfc05WVkNISW9rcXVuTjY1bUwwNnUzLWZoLWRNaWF6SnhnRUQ5Xzc1V3pZQnRlMjQ?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-06T11:43:34+00:00"
+    },
+    {
+      "title": "中菲行9月營收寫近年新高，Q4看空運運力仍偏緊",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOeUF3MEFEM0NZRlh3eDFmc1RQdGZqNGhSc29hbzkxRXk0M0VCSGhHTDVtTVQ0aWlRaTAzTm81cWd6bzdnZ0tlbXpISl9pZDBtYnVfZ1ppQUtPVC1XWjR6NFdPVnk1Y1FzM2NDLTlXM1c5QkZVNXZOaHV3RzlfMVU1VHRIR1BfdVNYRGYyZmliRG5FMWx2UzVab0cxUGlyZzQ4WWlFZ2JPSEJsTHloU2lZeUs3V1d6dFJmUFFudld4aEtNMlphalYyb3VTMU04Sm9sSTJsNzVDR0xEdndsWHpxc1BSc1FCUTdnTWVPakxOZ01Ec2NpeFY4WkMzWGw1cGVJM05DeURkblIxaWZNbnlkX3ZJTnlHczU5ZzR4N2trS2preGtrTkRsWnk5VjJVTjlKSU5XNlhyWS15VW80V2gzYVJ3MjE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-06T03:37:02+00:00"
+    },
+    {
+      "title": "中菲行：AI半導體物流續強 美線艙位緊、急單海轉空",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVzB0dV84VzAySGhOVFUtTFF1OEZEY1RvTThCa01vekhiX2ZzU0JKM29CV0M4Vjh0YTBlRV9VNXJiMmJWVWxXejNNOHlCWjBMRVBZZVoxdFRhd9IBX0FVX3lxTE1tbDVCRDZGZUlSel9pblpIbi1OUmhyQXl6cDRVWDgwY0w4RU1TbU11WTFMYWVZYVdqS1V4ZjdTTmc1Tm1jNWtkOU5KVUI2c1FJTGtsVkhSay1MQ1ZuYWZn?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-06T03:30:45+00:00"
+    },
+    {
+      "title": "中菲行9月營收大增47% 創4年新高",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YbDR1RElzNFpHeHdKUVFxYWNzeC1WN0E5Q2wtNEQyT0JJbVp4a05jSnp6ZTltcjZ6YWtfQVhTODB3TGpuRTd2ZTZudGRWcGR40gFWQVVfeXFMUDVnNktKX0VEVk5mZk9TTGNsUXROQW1adVM2alc0UVU5UF9RZ3FKZkJkeUlLS2tiVjVVS3FOUS1PSGszRnFOcWsteFVQN2tUQWYzSUxNblE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-06T02:46:51+00:00"
+    },
+    {
+      "title": "中菲行 115年9月營收36.55億、年增46.96%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rM0x3TE5ENWNYWUlBSE44enc2MW53WGlMaVRQSXpuMXJIam9iSm9EZmkzQkp0ckU2V202U0VXUGEwamRZVThrX2w3RXp3akxjRERHc0JoVnA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T01:53:55+00:00"
+    },
+    {
+      "title": "營收：中菲行(5609)9月營收36億5466萬元，月增率7.00%，年增率46.96%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXFKY0JNa0xxLTJ6a1pHSzBwNFFnZ3gyYzJxVGNpdkl6enVDa3BQRl96OTVGUk5MRUtkblltY1M1ZUYtamYwY1NsbnJwQ0FNSGllWkMyVk1HR3lqcUNXbjZBd0FkaHR6SkR5eFI2UmUzemVCQUN5LTFxQmFLaFVkMnlCWWNxTDRy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-06T01:31:00+00:00"
+    },
+    {
+      "title": "AI半導體需求旺 中菲行9月營收飆逾4年新高",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTNkRjdjRvRXJ5ODJiTS1qb1hqZ1hlWUFJVi01eGRsRGJ2VC1RYTd3NUNkQ3FJb29LWWtJNm1IZ19yZzFkbHdLaGJ1UEszcXl6RmlvajFVZnE?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-26T01:18:16+00:00"
+      "published_at": "2026-10-05T11:49:00+00:00"
     },
     {
       "title": "中菲行8月營收創疫後4年單月次高 Q4更樂觀",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PLUt4SmZiM0dkOEwzOGo4bXQ2UDJBTURYT3Y4TTQ0c0hVOVpLSTVFN19hR3p6VzRVVjRlQWcwTlhUSVBiaklOcWZqZ0l5MEE?oc=5",
-      "source": "news.cnyes.com",
+      "source": "鉅亨網",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "中菲行8月營收年增39%；後市高科技出貨需求續好",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSDM3UFdGdHlmSWdQbDFUc1MzQVU0X1l6WHBYZjVnOGtLQ3RjbFpxb1kzd1haVkRXZno0c1I5VU01SkwzYlJucTR4b0daNkhMQTFQSXExczBKd0hzWkpXbF9EbWU4MXZGVnIwbm9CdHI4SkQxOElKQk12Nlg5RVN5RFd0RVJMSHNCRVE5LUxsa3NDNWpGeTRFbG94dHZsdVlqbFF0OFBFc196UXBPQ0pLekN3S1IyUTZBdEZENVFveFRRcjh1YnUtaDgxMzUxZHBOZ0NoUkphLWltbzFoMlp0clhaRDVySWxMMW1NUXk5Tkp0WFRjeHNEV2RfLW40aEZXNVlJV3pFMU5PanJQSW0zN1IxbHlEZl9TQ1ZkRWFBX0RWX3F1X2g1TFd4X3dieWlqUjFYWi0zSEpfQ2prRWgzY3o3Ml8?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "中菲行榮獲2026外資精選台灣100強中堅潛力企業",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0a3ZrUDBsNktYX2ZoMXpXT2loQmRiUmE4ZmhPX2RseXNmSDBFMFZ0M3Y4UjN5cVhROWkxZGRXT01aaWpHVF9PeEE5Z3dITkU2WUE?oc=5",
-      "source": "中華新聞雲",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "2026外資精選台灣100強 中菲行獲選中堅潛力企業",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hOEFGQWZQbGRKbWNmTmozS0JqbHdMbUtHaEpzN1JXQTNNZkVfMkt6Z1F1bUpYb0pDSko4V2pJYUFkYjl0Z2ZNMzVfcjRZdUE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "中菲行營收／8月34.15億元報喜、年增39.1% 高科技供應鏈需求強",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jbFN0TXJxTDdybjdFV0U0QVIyZjRSRVppTFR3RlpIM1NoMnNNUGdyX3FvYkI5TUV1QW9kMGZrQlhiSXlESEFMSWlsR09tZF9PWDBJeTNGemZPVU3SAWBBVV95cUxPaDhRc3lVMWF1emw4a1JKLUxua2g0eEtiZWU1MG4yTmxjeWJyLUs1WHZ3VUNVbkRCMG1vc3pwcFlfWlRNZVZXVDYyZjBPU2F5VFZCNTQ3R2VMdjRqS05Rcmg?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

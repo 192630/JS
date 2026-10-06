@@ -1,51 +1,45 @@
 {
-  "updated_at": "2026-10-01T17:07:06.779808+08:00",
+  "updated_at": "2026-10-07T05:45:18.682172+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6164",
   "name": "華興",
-  "count": 7,
+  "count": 6,
   "news": [
     {
-      "title": "華興源創(688001.SH)擬推2026年員工持股計劃 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTQjY5eGthbWRjRjVkR3FMWUFEUnByWEVyeGl6T2l5eVduRmMtUEdkaW1LTldEQjFrYmtKZnVJTzZEdkZDam0tdkJORklRSm5pY2l3MzF3UkN1S3VqQm1Qblpyc0oyUkM5OTQxcWR6LUs?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-25T07:47:42+00:00"
-    },
-    {
-      "title": "大園華興池熱鬧迎中秋 藝文晚會結合水岸美景感受客庄人情味",
-      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNV0VKTjZ0RXJzWUFvTTZ6ZHVVSDFVaTJ1b0ZWSmlmSkUzRU90S0s2ZHFjWjRHallydTQ1OVFnM3hPNGNmcGlsOXh6REEzWjBfVTROZHNqeHVtNWw1R2FoeTdUTGdMZDVkbGRqNkxHY21pVmdBdFlyTGtfRUpzOXliR1p1QzZwSzdSZTNVSGt1WlFzaGpPbG1wYjlyZDdLZ3RGQVVkVDBKRktvODNoWExHa1BkbEdXY0k4azB1cnh1TkxsQUltTmoxa3BsdTZoSkpCMThna0F5S3Z2NXNIYTRLTl9ZTHRpTjA0RzJrTGxuelUtUGJ2VGk0Ynp5M3gza2M3ck9uWi1GOTJiWkNwMXQyRkZkZ0FMMU1ZSVVDMkRITEdyeDRMZExiRXBpSE9fM1VCckQxUDZPUnk5RXlEWEtlLW5PTEN4a0x1TWhMZGhyN1VKZWZMbUZpYVdXelNyN2hFYVFCNzNhcHZ0dk83UW83eFBJZmpGSFBzN0w0X3NUcTZIVFhqVmNGQ1ZMRTFzU1lqNU5BZlJDYzU?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-21T09:58:26+00:00"
-    },
-    {
-      "title": "華興資本控股(01911)附屬成功協助AI推理Token供應商硅基流動完成B+輪二期及C輪融資作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56SG1vc0hsZlpuanZheng2VDcyNl8yMUg5aWlDZWV0V2NYT25CV2pMNDA3eWJFMzFMSHFLc2ZkcmhlQ3NVTVpjLWRQdUxyYzE5ZHYzamVQV3VjQmVjMmxTVWw5a0hEQmRlb0ViUy02dEs?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T07:41:54+00:00"
-    },
-    {
-      "title": "華興資本(01911.HK)附屬協助硅基流動完成新一輪融資",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNM3FETWJvZWI0cklIeFlWYXRLaEZ2U19vWXZlT3FldXhwYTRwZk83Q013RFc1X21YMnJnT3Zyc2d5TTZiV0tJTEpqWWZydzNWZDROa3ZQa2ljZ3g0SkFIazlBYzhtYUJNRUVBbEYwUXc5Wi00dVg4dnk0VTVCWE01TjJSbmNRRms2eTlJa2ROLUZnNmhhVDJFLWtmMFBpYlk2ZE5QNkp5cWprMHFscWJEQmY3UExNM1dUSkpLUUZfTHpMYXVac0JwM1B0dGpJWk1LUTlkaUxWdGkzb3B4NWtiR2hXT3BVZ1RKaFB4UmkwV2pQaE43OGdETkF2dmFxVzBIRnVXcVhRcV9MUnJLY0RJOEw4MTdWVmthSmhITUN5V0drVW51RXltYzhzcWNsZXN0VFhUei1Md0xnbk1aWW93X3dHLXM?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-21T04:52:32+00:00"
-    },
-    {
-      "title": "華興資本旗下公司任AlphaPai交易的獨家財顧 (18:24) - 20260914 - 即時財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQS0YtRDMwb21hN1BscDBlVWtFMXY4cExnYzk4MHNneXRpOHlwY2t4c2t5Wm5UQUZiel91YjlIbW4zWWRwUllST3hUci11c2JNVnRyNG1VUWZmUnFwM0tpM0Y2SVk2Y04tSXczVmJrNjFSSjRtekFUS3Nkc2dYTk1tSjgyTE5ER2d3NXUyODR2Zzc4eVVXamxUYzJONEMza3ZHZGFUNWllTDdwNDFaX0VmWXA4Qko0a0tNMS1XU0RzVDJCTGtFRUNfNWFZVTFwaXJ6MWZYby1pdWxXNUJhZ0MyVlRhZklHMEFqQ28xOGZZaS1nSk04RXRsdVJpSXVMOGQxZV84M0ZEMVBFUnY4RURhMUdGamhXdnlBa0lJaWJ5VWZvejlobmtac1ZSR2xNSmFDNkVQb3BMZnZTbEJt?oc=5",
-      "source": "明報財經網",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "6164 華興 - 華興公告本公司115年08月份合併自結損益- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04TDFBeC1XZWpiWXp6VHpvY2drZE9kaXUtM2d5TVo3eFZqeEhXVUl2cWxUYzF1b2Y2aTJyRzcwR2hSaFBtaEZBMEs1NUY3NDNnTzlGUmhBcUU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "華興8月營收年月雙減，低溫照明Q4迎旺季",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxObHF2MFFuOFRFVEU0OXJmNVRuMUlOenQtWnd3SThUdGU3dEpiSUxVR0EtUFpoWll6TkZyS2N4UTBHUDUyd0RtTms4MGJkQUdIY2NnQVRTWWVsSXFqblNXajk3MWZXa3k3ZndfNHFqTmFubm01TDdKbGFNNUd6bDgtRW5CeVhfUXd5OEhCV3J4WDZuTzFNZDE1amlJV1JWOVpvVWd5eUdOcWhKYnN5S2xFM1pDUk8xMExBVEUyT0h6emVFT1Z2a29zUm9MWFBrS0QzYllTVkpXZXVNWFUxUEthRTc5UjN2ZXphZmdwOTU3VXNMcmJpTzJoeWZENy10T0Rha0JxbmVMQWgxUm5OTVdvQ0w5RWFrSGc5d2dmTjdLLWc?oc=5",
+      "title": "華興Q4展望正向，今盤中攻漲停",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMVRBOUl4OE5qb1RZWGJINVplTTUtVFI5emktZnBDdDVmMEN5NGN3SThyT3NRZmtGbHZidVRFbm1FeU9VWWVzZk5Bb1JkQmJ3eEYzWUxSbUEzeFhjODJORkhFYm44bjZaa2pyVFV3UUtUbDR3WGRDNTNqOHA3TlVVVjBFTEVUMXhsdkRuSTVEaGJobFpTVGdDcHg5UURwS2RJblBTY3E4aWZGSFZvVlBDLW0yMF93X3p0cXd6emtNTFNxeGtyTElDUmtEcEtoOERsQWowSWtQX2lGWFUzWVFxcTgtRzNJcVpfWGxkY01IYw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-06T07:00:00+00:00"
+      "published_at": "2026-10-05T04:29:54+00:00"
+    },
+    {
+      "title": "光電股漲跌互見！「這面板股」狂炸73.5萬張、早盤一度漲7%卻翻黑玉晶光、冠西電、鼎元、華興齊亮紅燈",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNcTRfZHhUUU1fMGVnZkZvclcyYWxnUEFWald1UUNlYjJSRGJnbzNTOHlObENBSmhoYjhtTFdTcDBVREJEeEJFVm5QSVJ6TW5zeTJmMmJYNUl4Wi1fVkE3U1d4MDBueXhKWW9wRTdsZExQRXlBMUFoSlVNRXNrTmdib2h0X3FId3QxWnIxYmt0dU9GamVVTm5HclF2TTdrUmJqZkd1MFY2YkNQUjE3U05aS1VrWFhNV2d3N05DTUpwQkRGU1Y2Skt4X3BWb0R2OGU1b3BsUl9zVHBiSDJHb0d4azJlcWdhOXVtMHVwTHZFQlgxclRBNDdQTzVNR1k3clZMYXJhY0ZYVXJTbHNWY2xfLUZwYXJBR2JWWFhJQ0dpN2UtVllaQzJORlVQazhhcjU3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-05T04:16:10+00:00"
+    },
+    {
+      "title": "華興中學學生食用油桐子不適 蔣萬安：6人先送醫、其餘預防性就醫",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOQ0swcXptVDl0Rk1WZnNtSHB0dHg1TllJZjZ5czdIUkN2RUNWZ3JVUlBqNHlnVlFWWlU5bXVVT1BuaXRNSjRUeWhreHc3cWFfMzNpZGFTRnZPNXRtNkJMUUw5WVRqSlJSVGtSdTRQdkJNaW5JYURSdG5ZR2g4cDZ1cm1Ja2RtTzFjbkpzMmU1anhjdWo1elRnNWVYbUkwUHNQNTJMMFJFZ3ZLOU1Ya3FiRWh4blNPdVdlV2JyUWVHM0pGRnFDcjdZcU00Znl6LU83X3lOZEpHR2d4aUoyQzM0bXhpa2FXUTVEX3QwVFBrdlA3LXpSalhwbkVZZFVreHdYWXFramVQcEw0MDRRbkpnakRhUy1vMkZKaEYyRy1sa2VoUXBLLU9DdlhKU3J4Q3FBV2lFU2ljN0p4aE5fcHVGTDdUU1ZvM0ZLb19uUVhnX1BJN19PQ1NBQ01XNUFneU1KMW9mNHlRTktSb0RyZ0tQSGZSOWpUcnl5WnB1dzFnUFBFdE5OUExlR09qVFZPRGdTblZtWnJINU81MVEz?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-01T12:33:29+00:00"
+    },
+    {
+      "title": "油桐果實形似杏仁！華興中學14國中生誤食集體送醫",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQjNvZWpmNTNBa2NIT2lRUWd0SEk5RzFvUEtBQzgxOVc3WWFaSmpLM2FYQ01Za2ZPWGlGSVlRUWxzVnRpbWJVZVhQSUVRMWxOY1E?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-10-01T09:20:00+00:00"
+    },
+    {
+      "title": "6人嚴重腹絞痛！14學生誤食油桐子中毒 華興高中：好奇心驅使",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPYkpQeTBPR3FWaG1acVhrb3pqdnVyRHQzZG9qaDRDei02SmxuMDhscXVyVWd0LTZERUlJeEZoc2VpYjRZb0dGeTNsMzZ4bFp2XzZ3U1M2UUE1SGZ4TEJOU3JSdTZqNHRETDFVRDFtTERLMEFwa0dxSWdfdVNGOElvdnpxZWdtWXdfVGxLRG5jTm8yT0ExTDlOdWJHUGlHLVBtOXJUMnBoU25BZkJ3X1V1cWdud2NOMkFDZFd6MHdTNWRyX2xULVRIOE5qd3VPQTVtOElxdEhPcGdLWENwOEM2b1JqSEdUdkVSRlluNnozbUo3RjBlUjl5em5VVFVnUjFCNjlOeGdqTmN3T1RJbURqeHEwR3VpOUVlS29YZ3NRTHA4X0FFaFNfMS1KU1dGY09EQ0I1OWZuMWdJcVNKZW9sZUM3enpsSlBSclJBMmp2bzk1Z0djVGZHUTdTZ1FZdmZCbXdWLWxaZjRndzBrMjhIejBtM2ljYmEwUmNj?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-01T07:56:00+00:00"
+    },
+    {
+      "title": "華興證券：重申地平線機器人-W(09660)“買入”評級 目標價5.80港元 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrYnBYZEJXam9wT3Q1RVdYUWxUUm1seGZzX1NMNl9QRFRyMWI3cGYtVGViQ3NnZDl6LUdzMlItV2h3dnNRNVk3YVZ4b3NsMmRMQmZ6dTFLRUJaMGRWYjYzVlhqVDdleG5BSFNpODhCSjQ?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-25T01:52:03+00:00"
     }
   ]
 }
