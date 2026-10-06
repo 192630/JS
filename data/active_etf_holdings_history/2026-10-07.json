@@ -6666,5 +6666,10 @@
     "description": "Taiwan active ETF daily holdings database",
     "history_enabled": true,
     "successful_fetches": 7
+  },
+  "_snapshot": {
+    "created_at": "2026-10-07T03:37:17.429882+08:00",
+    "snapshot_date": "2026-10-07",
+    "note": "Each ETF keeps its own official holdings_date"
   }
 }
