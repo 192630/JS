@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-02T05:52:48.167476+08:00",
+  "updated_at": "2026-10-08T00:41:08.001766+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6560",
   "name": "欣普羅",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "欣普羅 115年9月營收2310萬、年增122.43%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NYm5fMzV0QnlqX29vX2FWMEJMcDFmam5lN2pQdFJzVjk1cTdrSGhTbnk4RHlDUklMaDB6Q21JSjI2OEVEV2JZODU0R1BlYmhIMXNuMkJkano?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-05T09:58:16+00:00"
+    }
+  ]
 }

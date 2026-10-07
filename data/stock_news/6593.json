@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-02T05:52:56.831259+08:00",
+  "updated_at": "2026-10-08T00:41:17.630151+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6593",
   "name": "台灣銘板",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-資服》台灣銘板9月營收為0.51億元，年增47.27%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0xpcXRmdGV2YUVhSWt4Y0JScXVvWVZodERBbDJ3bUZrcDFmLWx5VkllMWx0WHVDYXlnQkVhWkFYWTRnNk1WNkhQbUwwbjBhbjRoQ3F4TUtSVTlWSTREdXZLTmRGNG1lendibjd4ckRYUTU0aW9Zd3BLWUk3MTE0ZlBJdkZPeTkw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-07T08:07:00+00:00"
+    }
+  ]
 }

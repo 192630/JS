@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-02T05:52:46.925587+08:00",
+  "updated_at": "2026-10-08T00:41:06.692363+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6552",
   "name": "易華電",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "易華電 公告本公司國內第一次有擔保轉換公司債到期還本暨終止上櫃買賣事宜",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PWk8wZ2x1WTYxU19xVnRiQnl0MWZsNGpkaGc2ajVVYk1XWmktbzZ3b3lramNkYVU2NW9OWnZjdjZsTVM2T0Y0YzhZN2FzNWhTdXhoUnYxNG8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T09:34:06+00:00"
+    },
+    {
+      "title": "《業績-半導體》易華電9月營收為0.65億元，年減35.26%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3c3c25nSlh1QmdvbzllU1BCdk40Q3JjTzhWRmV6Mkh6U2V1SGZzN1V6Z2dySThneGI1ZEdFOTBXTUpJX3FMdlA4YVFGY2V1LXlqcHFDTGFwRzF0dHZLeVZGb2JXdnZVcGR3ZC00eWlfSmRRcXVSVHRNQzJTOFd0LWVmUmFlNHdY?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-06T07:57:00+00:00"
+    }
+  ]
 }
