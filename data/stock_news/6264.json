@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-02T00:33:10.796783+08:00",
+  "updated_at": "2026-10-07T09:41:14.067067+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6264",
   "name": "富裔",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《外資買超26-4》臻鼎KY(6264)、安聯台(6072)、科技創(5486)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0NTMmZnUzhCd2Q4RjhlRXB2MzVzdHdtQjhIOGJrd3hQM0hPX0hwSzNKSWZCaXBvNTFiTXhoUU15U0drUjFtbVhvQkxGTXZBVjFtYk0yTWI2aTBFUlFkdHh2Qjk4N0FYQTVpOXo3OEMxbVFMVFl2cm5GUk9SMDZMM3lXWTJIUGdt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-05T23:38:00+00:00"
+    },
+    {
+      "title": "營收速報 - 富裔(6264)8月營收243萬元年增率高達36.9％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rb1ZDZVJFcmM1aklHRWd0V2VNMG5XNzBWUTc4UjQ5MTRNRzdHWUdMNlQtUmVFUnVMdVVNdmNteVg3RWxKdmd4QmtEVmRpb25yREE1VmJRdXV4aENzV1prZGM4ZHQ0WHBwdTR1dUc3bFdKVEtfbVE?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

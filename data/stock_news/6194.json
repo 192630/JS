@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-01T17:07:17.887872+08:00",
+  "updated_at": "2026-10-07T09:40:48.616567+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6194",
   "name": "育富",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電零組》育富9月營收為1.35億元，年增41.04%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWg4UnhmRDcyOVNFWU5lYXkzNXNKcGVkMjNORW03SkVwdENXanRycTdrS3MzUkJIY3p2bkxqVlZvQXo2LXFWaGxlYlBWT3JFblZ4YkRrbzBDQmxya3R1aUdDSnhQVzJlLXNCaUpxVVJfc2dyUHgweng2X2xWdlBoT1Q1eGNPeVox?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-05T07:22:00+00:00"
+    }
+  ]
 }

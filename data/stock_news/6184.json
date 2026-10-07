@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-01T17:07:14.044734+08:00",
+  "updated_at": "2026-10-07T09:40:44.238925+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6184",
   "name": "大豐電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "大豐電挺大大寬頻經營",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBraE5OR3F4a3lBVzg0d3ZFUmFWc1RTNmRydFkycDZZcjNRT0p3azVfUEE4TDg1a3o5ZkdkeEZ0RXdobXB4OWszYVdNUFdFTUFs0gFWQVVfeXFMUHd2M3hfTXNkbTRDSk5rWFMteGhWeTNLZUZsWkVpa3pIMWY5T0F0OVI5UXJjdkpodVRJaTdwdU53Zjd6TWxqa0tmWUN5NUpvZXcxNV9hS0E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-24T07:00:00+00:00"
+    }
+  ]
 }
