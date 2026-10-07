@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-02T09:43:44.225773+08:00",
+  "updated_at": "2026-10-08T06:05:50.790790+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6732",
   "name": "昇佳電子",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "昇佳電子 115年9月營收3.14億、年減9.92%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNjRHdnJmYm1vMkxKZzJ4a0R4SVQxc1MweWlja3lVS0JuaW9XbXF5NVZVaENNUHROREUwdl9NWm5mMmNWZ3B1clhRVWlEREszRWVmWVFQdkY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T10:26:29+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】昇佳電子(6732) 八月營收3.05億元，創近2個月以來新高，月增0.65%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc2htY3lZR1U5ME5KYnR4aVdpU1paczJaSTFZNHFYeFQ0aFBBaWtCVkh2ai1leTh5cFpvN3R2UUlHMmZsUHZBekpNQ1lnSlBiSDFwd2hMVTlOUjU3UHRnNVAxRHZFWmZTQUFHMDY0ZFdoRDVXeDJvRi0yd1ptMk1mTVI2ZWhwYXhCX1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }
