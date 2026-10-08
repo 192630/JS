@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-03T08:34:02.406635+08:00",
+  "updated_at": "2026-10-09T06:13:24.588231+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8432",
   "name": "東生華",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "東生華(8432)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3lmY1IxNUszbjNIdm14RG5oWERVbHBfd3o5ZGd4T0oybkFFT1VhMXFRTmp1TmhFUzh0YUhYanhTRkVTTlZWVDhSNFd2cm1HUC13WFpNdFpXTDlOTzMtazJIRkN2R3ZqMDYwSG03QnVleVp3SVZ0N1RISGFTZVJpSDkwTGJlZw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-06T03:08:21+00:00"
+    }
+  ]
 }

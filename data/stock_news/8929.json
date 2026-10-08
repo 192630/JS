@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-03T08:34:21.327483+08:00",
+  "updated_at": "2026-10-09T06:13:44.405345+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8929",
   "name": "富堡",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "8929 富堡- 【10/08 產業即時新聞】衛生保健即時股價變動：防禦買盤強勢點火，防疫概念股聯袂飆漲- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02TVVldlVIc002b01RRGRJS0VVOHAtODBOdko4UzFPSnRTLWh3ZFNIUjVyaWExRWUxeXZYY1VFMk5WaU1kVjBjZmhXVUQ3V3N2anJGV3VVMEw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T10:30:23+00:00"
+    },
+    {
+      "title": "8929 富堡- 〈房產〉928房市檔期效應+央行鬆綁9月北台灣新案供給面增強- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwZThhVHNhMEFFcEdYSlhrcGk5enhPZGc2YUFCOGRZenI0dk9BaDFES3NVRWVMUml6ejc4ZWE1bWpKRFBqZjhwMUQyWVV5RHczN21VNzNjNVU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T03:34:32+00:00"
+    }
+  ]
 }

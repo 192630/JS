@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-03T08:34:02.800498+08:00",
+  "updated_at": "2026-10-09T06:13:25.053171+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8433",
   "name": "弘帆",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "弘帆 115年9月營收2.93億、年增5.05%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPckZkLU52UXZiMHdKQlN0MUJkNnlkckZPX2IxVVdXdGZNNG9QN2ZtMk92OU1aM3c3RFVMekxYVlN1SWRwSU14OHZWODR6VldXWWMycUlLSXI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T10:10:27+00:00"
+    }
+  ]
 }

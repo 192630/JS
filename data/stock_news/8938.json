@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-03T08:34:24.989789+08:00",
+  "updated_at": "2026-10-09T06:13:48.255595+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8938",
   "name": "明安",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "明安(8938) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXdEtEVzJ1Tk95eDlWaWNYLUZnb09uNThaS0sxNmo2Ql92UnBjSTNLVUNvN2RCQkN1dHNWdndaVlIyYzZoVDNaS1RBQzhDbVRheF9z?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T07:27:14+00:00"
+    },
+    {
+      "title": "世代交替…明安董事長鄭錫潛退休 其子鄭豐耀將接棒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11ZXlTcnladjdBbVpXSFVjNDNhMVprSTU4MnJoV2xYd01iU2w0cWJaMHlzRzBIVTZkSjkwSmszTU53cWt1Q3l2Y0tHZ29TQUM40gFWQVVfeXFMTUNNX1MwbXZDeUZsWGxvOGRfUVVDUFNvaVlGcTRXYTIxVDBMeGdHbUFfUWh2UkR4LUhoNjMwVDRKcV9FSmJXNTdYaG9LY2tCZ3RoRklDTWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-02T09:47:59+00:00"
+    }
+  ]
 }

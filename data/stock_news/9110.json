@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-03T14:38:43.413711+08:00",
+  "updated_at": "2026-10-09T06:13:51.663327+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9110",
   "name": "越南控-DR",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《存託股》注意股：越南控-DR 近5日漲13.04%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjVVd0RYaTRlNWg2ekI1RWZjbmlSZHcxcVJXTlRzZVgxZ0xnZzdWM2JicVZIZlR3NVRac2Vaa2QzMjVTV2VMLVlGMWh3c0JISy02STBKUFdSMHhkbVlXcnJTNkZPaVRMblk0cXhjSmRiblhTNGNwWTBGMlczaDc1amtCaE5CVVNU?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-07T23:53:00+00:00"
+    },
+    {
+      "title": "《存託股》注意股：越南控-DR 近5日漲13.68%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFlKdFRRdEZwMDB6WUpFcWpxaENHS0FEVGRITDN2SUxYdnhMU3JzSTE4bFlqYzVFZE9tcjdOMzdkYUFSblVMdHdqaTN4RzVUOExFWks5UG5ZUklidVk3YVNXSHJ6dWthelNscFZrZEU2X3RBOWhMMjZLWjFUZVg4SjlJbzAzRENy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-06T23:56:00+00:00"
+    }
+  ]
 }
