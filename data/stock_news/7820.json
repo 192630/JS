@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-02T23:53:52.933707+08:00",
+  "updated_at": "2026-10-08T17:10:42.869080+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7820",
   "name": "立盈",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "7820 立盈- 立盈公告本公司買回庫藏股執行完畢- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBES2hjZ0Y3cTJPeGFyLWRNbTROeVlZeXM5SW1qdDR0TWExdXU1TUZtR1dWOGcxbE04TUpQYXpTS0hWMzhaV0tXM1ZjeEZSbjV6ZS1jeFV0dXk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-05T08:55:43+00:00"
+    },
+    {
+      "title": "7820 立盈- Muse狂飙，龙虾退潮- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DQnUtQW9nTzVBYjZLdk4zQm1XSUVmU0tRTTNDNVlsVVRvSmdoR1dDSFdBU3IxZ3BYWmZXRG44a3BTVHNtR1dpVlZsb0ZTRWJTSmRlTjdMcUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-03T04:23:42+00:00"
+    },
+    {
+      "title": "7820 立盈- 愛奇藝「請勿眨眼」警告瘋傳稱看廣告不准眨眼官方闢謠斥惡搞造謠- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VUjNsQkhlQzRRaGJZRmw5R2FwN1NqN0F5Nk1fU0J0UFE1ZnNrc1htMGE4bHlPVXJmUXRXY1JZbEl4R2xCOFpRaVJfcVdGalRXeFhnaFJaNWk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-28T07:00:00+00:00"
+    }
+  ]
 }

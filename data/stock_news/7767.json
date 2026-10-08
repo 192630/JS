@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-02T23:53:42.976441+08:00",
+  "updated_at": "2026-10-08T17:10:32.619825+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7767",
   "name": "仁大資訊",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】仁大資訊(7767) 八月營收2.86億元，年增48.3%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2hqMzQ3MmZ6T3FaTXhHa3NBNXVFTHJkYVZ2S1g4c2xkZFhfcENLZHNWazZodm1hQ0pGaEt5eXNxQTIzRDdBUG45eklDdU91WUkzdVRyWnI0TXpTUkx0SkhTYmhLOVVycWNMRG9BamVsSWxubG1URGhHTXZCVlpLNll4T0E2VzZsUUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
