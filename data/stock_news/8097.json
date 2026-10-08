@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-03T04:49:52.242137+08:00",
+  "updated_at": "2026-10-09T00:38:36.123638+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8097",
   "name": "常珵",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收速報 - 常珵(8097)9月營收2,819萬元年增率高達128.31％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BVzJxX2FiMG9jcUZmVUJZNTVzR3UwMFZmeDJhN1ctYmJTXzBjN3RnZzFKaWJUNGRJeGk4dm9abDRYdktHbGFtbndhWXYtVEJ0UW9WenFNSFV6SDdvYUNILVZoSFI3b0J3c3NiamJ5dmZOdTZDWGc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-10-07T22:20:00+00:00"
+    },
+    {
+      "title": "常珵 115年9月營收2819萬、年增128.31%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3NWdHNHZuOGNNV3RlYWx6MnRkLWJJWGJpN2dQcmV5MjZ6VllVZF9RLTFwMmtYei14RzJUNGR0XzdhVFVRQlM4SUpuQnNsZU1MZ19hT3Uyd0I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T20:35:19+00:00"
+    }
+  ]
 }

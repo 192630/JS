@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-03T04:49:55.250341+08:00",
+  "updated_at": "2026-10-09T00:38:39.289648+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8107",
   "name": "大億金茂",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "8107 大億金茂- 服輸出場- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RYUl1NG5QNUdaM2l1ajZqNFlOU3Y0RWh1aktaaWtOXzloNGRPdGMweUxEOXlHeThJSkNWYWJmeXoxT1I2bmdUa3M5cGt3MkVGN2JWbDdUYlM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-30T12:28:30+00:00"
+    },
+    {
+      "title": "8107 大億金茂- 倒退嚕- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15eWdvYjNIdGFXUW5BSDBibEI3RFIwUXVXb2Rkc0RweFl0ZFFkNEpDWjVrUzY3ZFNEWEVKT2pNTE85Y2RCWU9fT3Z6Y1hWeXhCZjVfZFR6Rko?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-29T06:43:07+00:00"
+    }
+  ]
 }

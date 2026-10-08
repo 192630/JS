@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-03T04:49:53.528082+08:00",
+  "updated_at": "2026-10-09T00:38:37.499483+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8102",
   "name": "傑霖科技",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-半導體》傑霖科技9月營收為0.42億元，年增34.82%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjh5elZpTFIyWFhKY2FwcWlhU041bDgxR3BvYTZwMmJ0aWMzN3R5NHhuVUFyZUd5MzNrTDAwcGxJNGdlcktZQlFOZ0dlSDRWb2pqTUpjd0lOZklCb21feFRxVi1LTW8zZDZGeFVPVWd4dXF0U04zNTloTHhyTzRUUXIza1dlb00x?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-07T09:22:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】傑霖科技(8102) 八月營收營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTVXT19LSkY3d2FIQU1hanBQSDdidVVmT0FKNjQzMDNnRHNXSnA0d3I4OVdGWmdMaTRvWVVBZFFWTWN6bFFOdko4QnplQThCWVFuQXVkS2MwYkhvSzNpSXZEV1k1WGxKUUZYd0lteXZveGx1eXlqcHpqcDZvV3cyWDFHQUl6ZEtmd1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
