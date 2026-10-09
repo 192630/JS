@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-04T01:26:57.165739+08:00",
+  "updated_at": "2026-10-09T17:19:35.678860+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1466",
   "name": "聚隆",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "TITAS 30周年新焦點 聚隆纖維T2T隱痕紗、冷淬紗展現機能與創新",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91SU5US2NIZmxITjgzZzJyUUM1UVhjcUxrVnlxWWg4blF1dHk5R3NMNU1VYUNlMDk1eDIxNFQyZXAyVUdPZXJPN0hSSTFwZUtSMjcxVA?oc=5",
+      "source": "新頭條",
+      "published_at": "2026-10-06T04:58:14+00:00"
+    },
+    {
+      "title": "聚隆纖維亮相 TITAS T2T 隱痕紗、冷淬紗展現機能創新",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwMVhZXzhTb1J1OHlfU2ZQSGdvNkRkYm5ZZnE4REtxZmNpRG91cE5Yck94VjRoZ3FuZHdVcmVpRm1PVFpSUFBxZ2ZCMjBYM2Rv0gFWQVVfeXFMT2VWNzVPSHJXWmpUQjBBaUdoaEVqek1pcFJCSWthR0Zzd0JLeHc5dUhMZkdGcXFPVmN3NWdTOUR4ZmdaN2JMRDJmZ2Jldm9sbm1aZDZJbnc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-06T02:47:54+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-03T20:38:44.216665+08:00",
+  "updated_at": "2026-10-09T17:19:21.699850+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1416",
   "name": "廣豐",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收速報 - 廣豐(1416)9月營收5,106萬元年增率高達70.45％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYbHBqY3hRd28wTUotQ0xHcmZOcmJIRlZidEViMlBRcGtteDdLVmlCV3ZHdEdhRzJDOEVpNFhpb2x5T1NCN2lPR0RSa2tuNmxKZkFqZm0xeUdpUW02QjlsVEsweEJoUTVyRUN3a1YwWl9FTENkZmc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-10-07T22:20:00+00:00"
+    }
+  ]
 }

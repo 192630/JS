@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-03T20:38:40.682618+08:00",
+  "updated_at": "2026-10-09T17:19:18.404281+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1340",
   "name": "勝悅-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《集中市場券商買超前30名 3-2》中信金(1529)、台泥(1340)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVo3UW5jdk1yTFFqYWQ5Yy1xc3BRa1Q0UGpCVllDanVxOXlMTE42cjIwbGt2R0tNOHJIUDNMNFJIOHVBOFlsZEtNUkVNMGhEU1A3REJ1d01yZFlfUFN0STRjUlBmUlh0UnJZWmw5WEc4a3RoWmQ4Vm5jRFplNHl3Wlo0ZUVJREdR?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-29T23:29:00+00:00"
+    }
+  ]
 }
