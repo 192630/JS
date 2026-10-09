@@ -3431,15 +3431,15 @@
           "weight": 0.52
         },
         {
-          "code": "7769",
-          "name": "鴻勁",
-          "shares": 4000,
-          "weight": 0.5
-        },
-        {
           "code": "3105",
           "name": "穩懋",
           "shares": 40000,
+          "weight": 0.5
+        },
+        {
+          "code": "7769",
+          "name": "鴻勁",
+          "shares": 4000,
           "weight": 0.5
         },
         {
@@ -3640,15 +3640,15 @@
           "weight": 1.51
         },
         {
-          "code": "6805",
-          "name": "富世達",
-          "shares": 9000,
-          "weight": 1.43
-        },
-        {
           "code": "2449",
           "name": "京元電子",
           "shares": 74000,
+          "weight": 1.43
+        },
+        {
+          "code": "6805",
+          "name": "富世達",
+          "shares": 9000,
           "weight": 1.43
         },
         {
@@ -3676,15 +3676,15 @@
           "weight": 1.2
         },
         {
-          "code": "6488",
-          "name": "環球晶",
-          "shares": 14000,
-          "weight": 1.1
-        },
-        {
           "code": "3491",
           "name": "昇達科",
           "shares": 10000,
+          "weight": 1.1
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "shares": 14000,
           "weight": 1.1
         },
         {
@@ -3974,7 +3974,7 @@
       "code": "00401A",
       "name": "主動摩根台灣鑫收",
       "issuer": "摩根投信",
-      "holdings_date": "2026-10-09",
+      "holdings_date": "2026-10-10",
       "source": "J.P. Morgan Asset Management Taiwan",
       "status": "success",
       "holding_count": 56,
@@ -6631,14 +6631,15 @@
     }
   },
   "_meta": {
-    "updated_at": "2026-10-10T03:35:46.928237+08:00",
-    "database_version": 5,
+    "updated_at": "2026-10-10T03:58:53.814905+08:00",
+    "database_version": 6,
     "description": "Taiwan active ETF daily holdings database",
     "history_enabled": true,
-    "successful_fetches": 7
+    "successful_fetches": 7,
+    "batch2_successful_fetches": 7
   },
   "_snapshot": {
-    "created_at": "2026-10-10T03:35:46.928237+08:00",
+    "created_at": "2026-10-10T03:58:53.814905+08:00",
     "snapshot_date": "2026-10-10",
     "note": "Each ETF keeps its own official holdings_date"
   }
