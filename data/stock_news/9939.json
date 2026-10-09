@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-03T14:38:59.092198+08:00",
+  "updated_at": "2026-10-09T10:19:04.678103+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9939",
   "name": "宏全",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "宏全新廠投產 樂觀後市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lMHV1UElRSVB1cExCcXJvdWY5d2pXRzR1dDNDZERoMzlRSTNqTElsZ1ZqWC1iSHJqQ1F1UlhzdnhoRlBad0h4a3dFOVhRREhN0gFWQVVfeXFMTnF1U3JwZUtSUnJLRXVzRW0tM0x5aVJ5QTl0UjVKNy1pVHJZR0RLMk02ejlsT25maEdQai10MHliUy11NlV3UFR0R21OcmFuZlMxTlgySmc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    }
+  ]
 }

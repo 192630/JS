@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-03T14:38:56.003002+08:00",
+  "updated_at": "2026-10-09T10:19:01.611705+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9931",
   "name": "欣高",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收速報 - 欣高(9931)9月營收1.54億元年增率高達33.1％",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TTTAzc2R4b3ExRGRiTVhfb3hRNlBJNDhNSUktdUNwVmg1NXZHZXJib256a3REd2RPX3o1MmExLWZMd1p2MmJVX1FWSGgyWGJFTmlhWWdpQkUyYXV6Y1BuX01JNzQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-10-08T10:21:53+00:00"
+    },
+    {
+      "title": "營收速報 - 欣高(9931)9月營收1.54億元年增率高達33.1％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lZmtDQVdQekpwb2daTmhXcmJUZzBSX0lBeks3TEIyQUxNd1dta0hSVVFwR1YxdDRVVlpJMHpHZjJsbEJoVnZ1b1cydTJRWVRjMjgtX3R1YXBLUkVScEhGa0NHNnhaX0ZtdUFIZVRsaUl1Wm9hYmc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-10-07T19:21:00+00:00"
+    }
+  ]
 }

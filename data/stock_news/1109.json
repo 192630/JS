@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-03T20:38:16.634286+08:00",
+  "updated_at": "2026-10-09T10:19:35.993885+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1109",
   "name": "信大",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】信大(1109) 八月營收2.69億元，營收雙減，年減26.47%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1djX3RYUjBCdmUwT01NM3c3VFlFQU53bF9oeTVKYWk0MEpkbEJSc0lMTjNGcUk2cWVTRW1fTWJzQm1RU1lkbWRhaVJSVWxDV3FnYmxGaUpaWjBPU2hJZm5DMzU3dDBEQ3IyeEJVc21oQzIxT0ZZaWdKbG8yb0hOOUZ5T0Z0VHhvWkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
