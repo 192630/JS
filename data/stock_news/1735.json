@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-04T05:29:19.749064+08:00",
+  "updated_at": "2026-10-10T05:04:39.807518+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1735",
   "name": "日勝化",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "日勝化 115年9月營收1.98億、年減0.21%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpUENxc2FnR19FRXNPRjNyakdKT2MwcDVqN21fTkJnS3BPYlEySW1VbDkzak1fM09CR2pZVXVYUnlKVlBmOEFMMHo2Y2ZSbzNYbEN4dlBMVE4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T03:00:35+00:00"
+    },
+    {
+      "title": "日勝化續推進產品高值化，積極投入PCB/半導體領域",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxObVYyM2ZKVTBZLU1SUlNydk9FWlU0YnBGYWFXT2EwREliYUtqUkJWTGlqcHliV1N6Z3dQVnJXMUphQV9GSHlNU2tfTkEtQ0ZoNW10bEVremYxdlBzU3d3ZUd6QjJyWGFERXFvZmZzMUtoNEVHdTd1dm5CMTBodV9WalFvUjNxUTE3ZWNzdFR3SUI1M2tnOUpPVk9OLVIzc2V2NFhTM0dsckszVjhibjFHVjdZRzJkbGdRakN3Vm9VZExiN1N1VTlKbGRQWl91bnA5VDhPUVNLQTZjRGh1TjR2QjVUckFyLU02WkRhdGtKRXY0LTNzc0tTb2ExUXlEQ2g1MWw5QlRrem1vX1p6U1lTZFdUby1OREFmT0FhMGRJYndLekd1RDUzSU9ybExHX0c0UVFMOXdrZlQyaC1faWhMbXNBVlZwSGI1UXMwMzBiTm5iUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-05T03:56:32+00:00"
+    }
+  ]
 }

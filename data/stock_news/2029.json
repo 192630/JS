@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-04T09:42:48.367722+08:00",
+  "updated_at": "2026-10-10T05:05:09.989347+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2029",
   "name": "盛餘",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "迎美AI基建潮燁輝、盛餘錢景亮- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CUFNZanZoV3ZDbk92LWU2amYwMVN4T3pwd0hTVXJsdGFGSlBHRFZESDZRUDVxOXBfcEpFTnp0SUxpUkFOU2pVNVdUZDFJVVBBVkdfLTFZTHpXck9qc1d3?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-19T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-04T05:29:21.977819+08:00",
+  "updated_at": "2026-10-10T05:04:42.198703+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1760",
   "name": "寶齡富錦",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "寶齡富錦(1760) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veWZsVVA1a1ktX0RrZHN2d1lDdld1U2NpUEg4UElYN2x5YlNTalVhd09paUtqSzRKZEx4SEh6c0FFNlNDb3VBamI2NFBXNFhZbE9F?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T11:56:20+00:00"
+    },
+    {
+      "title": "1760 寶齡富錦- COVID-26? - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJRFBENGJTYkN3c1psVEMzU1lkSzFkNXRmdFU3c01zNnU3WHFpaVRLXzFYc3NBTUJpLWpVRzYwZnlLU012bFVzcjJFMFNRZDBRZjZJWDUxNDY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-04T13:00:17+00:00"
+    }
+  ]
 }
