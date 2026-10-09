@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-04T05:29:05.802733+08:00",
+  "updated_at": "2026-10-10T00:22:57.421658+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1614",
   "name": "三洋電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "三洋電 115年9月營收4.16億、年減1.05%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDWkpGemlfd0t3VVR6NFhfQTNuWmdBQnAtNXN0ZWQ2d0xTM05hcHhRRzNiaUo5emlYWWppOWlVM1pzRjBuZU5SVVJxSVV6NmlmSjZ2NFpvQ1g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-05T09:29:09+00:00"
+    }
+  ]
 }

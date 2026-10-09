@@ -1,20 +1,38 @@
 {
-  "updated_at": "2026-10-04T01:27:27.669155+08:00",
+  "updated_at": "2026-10-10T00:22:54.569372+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1604",
   "name": "聲寶",
-  "count": 2,
+  "count": 5,
   "news": [
     {
-      "title": "聲寶Q4營運看審慎樂觀，家電醞釀漲價",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNc2ltLWFWUkZFLU1pRGVzY1ZsaWJmRVgybGsyWFE4eEUyWDlMN0g2anZZcVd0cWxqMXhSQ09xYTZSX18wU25nampfSVJiX2ExeTE2d0NVQlVGZzl6WHNfaVdFc1ItWEdRcmsyNHRfN04zVDFQZVJ1VU9UTUNwNVhGQ25hc2RqY0NFNy1oWmVnRzB5VmhNQWl1MnhSbHlCei1oNENuNnBNajExU2xYeEpfSjMwZ0ZUR2haR0c0akZtSVdRbXJSSFZ6ajB1cHFXYlNlMURtVFpwZGd3bDVpRHdIU2RsVG5uc3JSNTZ3a1ZuTTQtZk9pV242VnBzQVRVbTA2SnpPWG41MXRYSTRRdFd0V1Z4MA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T07:00:00+00:00"
+      "title": "《集中市場券商買超前30名 3-2》聯電(1620)、富邦金(1604)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmhtUTAzUHo3S01TM2xrQ19Ub05YMk9SZjJtNzVRWHdQRUg0dTNYUlR6SmhBTGx3aDM3SjJnRTE0bl9WbnRqVUFPOU8xaU5JQk1yX0JDOEVUbWViNE9tOTlMNGhkTEdxVDBtcW5LeTczdkU0bTU1VjlhMkVlamJZeFkyclRVM3V2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-06T23:30:00+00:00"
+    },
+    {
+      "title": "2301 光寶科- 下周希望能尊你一聲寶哥- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ucVMwcU1zOVUyNTdPQlB6cW5mdmxiNURzc1hJTWJweW9wS053aExaaWxGSVlmVHA0bGZNS3gwazdVSTJLSHdxb1FURVZmbm40QmIwZUJXR3k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-03T21:03:10+00:00"
+    },
+    {
+      "title": "聲寶轉型1》不只賣家電 90歲聲寶用老廠拚第二成長曲線",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPbVlTWTVGcFFHNDhpZFh5bDdrak5NaWdZNlRYWnl6VlFkZE5xbWFOaXgtSzZVRlpZaUk1T2MxTUFnN0RUMmhhWUI2R1FIT05RaHZJcVBlaVRTMGFBdnJ0UTdXbi00VW90UDB0MWQ0eExWbXAzQjVVVU96MUFZelBlOUlFc242UTJvU3Q1ZURYNFFzd0hQd1NxUFF6SHcwbmt5a0FyeklrbEVpSC1fcXhNNXU5ZkpKbVNHX2xlYTZ1b2gyRDdnc1dTMlJSV0RfT2stX3laUFd6MnRQMFY5X2E0Q2hXOGV3enkzVlVZVVRrVE9QZzJNWTd2X1A1RUladmZXVHpLbGo3RXNQT3FzWDJKLUFFUWt0Vm9kR0dEbjZlZE1XcnhJR3pkdmYyTkQwTjNGYjVvSTZwcDVHZFdnU1RzbkN6T3B6dzZVQWd5YU5aaDhSWV9QTmFYaHdGeUFVRTBDMHc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "家電業掀漲價潮 聲寶第四季審慎樂觀",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FaTN6c0dHX0pWWFZKeFdEU0lVdkdtSnhqMkhWazdUWXRIWFJfWFdqc1ZuLVp6TTFoU1FTSUpUZk84eEJEanVsMV82ZFZFOFE?oc=5",
-      "source": "news.cnyes.com",
+      "source": "鉅亨網",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "聲寶轉型2》差點消失的家電廠 陳盛沺把下一棒交給經理人",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNZGdyWC1oSkRoN083bDRpcGRHNEFhLUh2QVBKVi0tOVMzRFRXWXpyUDZVX0lkUjNNVi04cF93OHJGRGNjeURMdUUwOWd5VTNncTBzOWJvTVZqajN3MGRZcXY2b0QtdmVFcEtpRTBLNDlPQWxtb3JKSzkydWtMbVNydXpOZ1VMNWw5VF9ma25vU1pSV1dXUHY5Q1YzT2lNcGlxQUlvbXVKYy1YQjdDOUpvR3pZTVlWVmhlOFEwNFNLT0N1RXh2YndTbk5MS2ZhTDRVWTlaZjhnaEdlcWxld0hrNTdBOVh0VlFCd3ZJRElGZXQ0MUEySjNkMHlrMXJzN0hfRmtMdnNaWU5ZRGRlM2REaldjaGlqbzdGSmZDRkstLVNMajdzcUNDcG8tR1VGRXdmNDVxS2ZuWGR1UGFLaS13cDM3RElZLVZnbTFkMGNzT21iX2tPVDJBRUIzUjFOOGc1NnZ4U250RGxOWlpN?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]
