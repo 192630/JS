@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08T23:47:17.438674+08:00",
+  "updated_at": "2026-10-09T23:26:37.186124+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -11,7 +11,6 @@
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_fh",
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_ins",
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_mim",
-    "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ci",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_basi",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_bd",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_fh",
