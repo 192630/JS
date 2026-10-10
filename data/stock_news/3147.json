@@ -1,51 +1,81 @@
 {
-  "updated_at": "2026-10-05T06:23:39.666703+08:00",
+  "updated_at": "2026-10-11T06:43:06.668939+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3147",
   "name": "大綜",
-  "count": 7,
+  "count": 12,
   "news": [
+    {
+      "title": "3147 大綜- 【最新消息】三份多方名單交集，「系統整合廠」股價創71日新高！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GQXNNcTRLTUxEa3BscndtX3lOTi1GZ3Y1YmRMWVlnc2xTSTJ4NW01emd0UjBncTdtSEhmNnVFMjJTUEtiQ2tmUkJKbDFVX3M0dXJSSkstNWk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-09T22:26:11+00:00"
+    },
     {
       "title": "大綜(3147) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Q0VhRWV5T3dSOG4wNnNPeW1Xb1haUjE5RU1pYklNRDRndDJWc2JhS0R4RXNMMnFxXy12WG5yUXVEV1pXdW9SOFBkaFVpUzk4Y0JV?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-04T01:29:23+00:00"
+      "published_at": "2026-10-08T19:38:59+00:00"
+    },
+    {
+      "title": "【12:33 即時新聞】大綜(3147)股價走強，AI伺服器與資訊服務動能受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTJuOV8zR1Y1VV9HYzJ2TEdIejhfeDNTWkExOUl6ZXlFakpXZVdkU3RCX2M1bkg0TW5mejl2a3ZEc3dFLUdNWkYwc0c4SU5rbnVNMVl6UU93aFpFTm11eW1wempMY1o5TVZYaElvMnc2cDkxbHlZeXZRVHA3LVlwZVNFLVc4dll6Y19PLThB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-08T04:35:16+00:00"
+    },
+    {
+      "title": "大綜(3147)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDd3NTZrZlprWjFnTHVqMkR5dXlZLTg5OTlMZmtvQzFkQzI5alFXNXFrdzBfUTMyR09sSDQtR0RZVU1kWGxhdGFVZ241UnlITUtRLWQ4U3hnRS13UWliaUNSdU1TNy1zOU9DZmQtZl9IdDlUNXdvTDNzUEVISmhwdVkzRW50Zw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-08T03:31:36+00:00"
+    },
+    {
+      "title": "3147 大綜 - 要發債 主力融資先拉 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01WVgwN0NmbzNzMVVYNFk1NnNnQXkxT3hnSG9tNHhTMWU3aEhHRlB6WXBKNGVkdmZ4dmRIY0lHalJhZFVCRHFlMlRvRkJYTFFtVEkwM19odW4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T01:41:50+00:00"
+    },
+    {
+      "title": "大綜今年賺2個股本，股價挑戰前高352元",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wOWNhZE5EVWNvb0ljSEh6a0FEMVU4M1lsYnpJLWoyX1djR25CajZZSXE3QXV0dk9HNnIzVmJzcEwtcTBkbVpnVVA5NnYtd20tSGtaRU9vbFZVNm5CX2ZOdmVIZ2dtZ0VUR1NjRmlNWQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-10-06T07:22:23+00:00"
+    },
+    {
+      "title": "3147 大綜 - 不用賣，大綜上看300。 目前多頭趨勢 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zeURPWjI4Mm9OalU1UlgzbHQzTnFObjY3SFdCa0huUWRJdFhqN0Z1UXQ4QlhzQjVGYmVWSWRHSDQ2djYwa1FWZUYtaV9KM25ZbU9pZ0JzZV8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T04:33:39+00:00"
+    },
+    {
+      "title": "【10:34 即時新聞】大綜(3147)股價走強，AI伺服器與資訊服務成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3BFXy15SnYxZDRkZmdvc0lTQTQxUTNybUVtSGNBQ2NKbHRDSTlzT000RGc0R3pLQTMxcTA5VDM0SjM3cnhoZ0xQc0huRkhVSGpQT0xVRzh4MlZwMkdEaG9XYVJOTVNDYzNYTW9PSzhvMmEyNkJoSFBHUGxUajlndG8tVzRfTklzNF9reVJn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-06T02:34:44+00:00"
     },
     {
       "title": "【11:11 即時新聞】大綜(3147)盤中走強，AI伺服器與資訊服務買盤延續",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHRNSHdqVTQ4YVFhWW43ZEZ6cmpHdGpvSjVkY3h6dUNDcC1FYlhvSDNyNjExSENmc2dKSXRPck0tWTU1SGVMT2I3TFd6bE1qQzFNQXFXVzNjUnBLSlQxSUhVbldwLWdNNzdJTnpSUXNUSnN6VkJ2VnpzMjFFMGRxOHlBZTI5NlBQOGFfbENB?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-10-01T03:11:19+00:00"
+      "published_at": "2026-10-01T07:00:00+00:00"
     },
     {
-      "title": "3147 大綜 - 有大利多要發生 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYMVJ4bWhWVjhmMzN2OTlVWGg4bzRJRC1aZFpyd0hncXpKaFBCRzdTRXNOSklXYWNzQmVVWl9XVHZYcE83RVlrN0JWbXZTdVkydHItYjZEUl8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-01T03:07:31+00:00"
-    },
-    {
-      "title": "大綜(3147) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5U0UyU1Y4OTdLS0FRVnVPbmlaY1VFUGZhN1F0Y1FHQ2NZQkZ0ZkliVHI5SDJpTmZTZHFuVGRQeG91dkI0VkZvZHRVdFY0bkU?oc=5",
+      "title": "大綜(3147)EPS查詢｜歷年每股盈餘與最新季報預估 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3cEo5Z3JhRGlabFhSTHJjbFBoUXA5WmtCS3g1Q3F4aHE2d1NUYTk1dEFmaTU2MEhSOEZNRnAtN1c5V2JQcjNZYXdCVFhSZGo3Qy1pdC1KOA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-30T07:00:00+00:00"
     },
     {
-      "title": "3147 大綜- 這支真是好磨- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zWXZnWDZaLS00ZkktcEtObzRRc0JaemR6UFozSXNtR3lXZFZTWHdfOVZ1VmhFUXVmUjBuUWtuYXFBdW5LYk5RLXY1N1NWYlhySFF5M1BZbkk?oc=5",
+      "title": "大綜(3147)營收查詢｜月營收統計與YOY年增率圖表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IVm16QVJzZmthX18tU29tWjJHTllVLUkwSHYtMW80amRUekh5aC1yQ2FXUVIwOXRndU1RSEVlRnFlMGpPU01wQ3NfQlVoVmtJdjRHWkRLZTU3UjJo?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-30T05:41:55+00:00"
+      "published_at": "2026-09-30T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】大綜(3147) 八月營收15.35億元，年增233.48%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFBJaUVKekdRX2w2NWZaS0VwVU53OHZOX3ZnSXFHVTE2VWxpbUt2enQzb1cxVVgza1JXR1pYQXhDV2xERW85dGVkNTc3YXoyc0tvbVVPY0xyNG5jLVJscXdoelB2T3hOQ0xOR3RFTFFmQkZ4cHRPQ2lKZUVpNjlPVVAtWjFEZHJnd2c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "title": "3147 大綜- 115/8營收依舊強勁- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rbFNndmpOTllyZk9lbWJLeHFnRkZBOG9TVlVUT214N3dPY3NlMXlUUEFoZzhBVWd1cEhjZDAzNEVCZFB4VEk1ZkdDUTYxc3FXMDVfS2c0SmY?oc=5",
+      "title": "大綜(3147)千張大戶與散戶持股比例，持股籌碼集中度查詢 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ESFlCdGp1QWlndWdVZXRweGF1VXpISHdPS1BRTGJmTFk2andFdGlLWWxwZXdET3RoSHZZeXVIbTB2NGJpS192NTRGZUl4Z2VxVWJ6aURkWVcySzNIcTVQQW15bGM?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "published_at": "2026-09-30T07:00:00+00:00"
     }
   ]
 }

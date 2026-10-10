@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-05T06:23:36.976296+08:00",
+  "updated_at": "2026-10-11T06:43:03.488282+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3128",
   "name": "昇銳",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "昇銳(3128) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyYm8ySXNUczIwNEdHRkh4em1HUVlhRUh6a21QbXY3TzNfMm10SVBKSHlmaFU3ZW9QTlV0M01LVHZkcm5tUVcwTl9zQWxSamV4UWF3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-05T01:53:58+00:00"
+    }
+  ]
 }
