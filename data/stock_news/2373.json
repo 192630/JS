@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-04T16:34:25.066081+08:00",
+  "updated_at": "2026-10-10T09:02:22.746856+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2373",
   "name": "震旦行",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "震旦行衝數位治理商機",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZXpjSEg0RkFTd0t4dDctMWFDc2RxR2JndkNVMGo3NnhrMmNaRzczZ0N1eENuNzVtZXJOUFBOWmJiSlBYOEx2Q0k3LVVHMDhQX251V19Hdk5fUdIBX0FVX3lxTE0wNndmN2d1MENEMjJhYWJMOXNwbzNWZEhibUVBNmJhS2RJb2hSU2dvdVMxa0lvV2Z0UU9ZX2tzNkk4QVBTb0JaNGNNaVRmbm1TVFBvMFBnMmRoXzZIVkxN?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-04T09:43:02.653288+08:00",
+  "updated_at": "2026-10-10T09:01:53.995312+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2115",
   "name": "六暉-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【營收快訊】六暉-KY(2115)公告09月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iNUVySFF2eE5INlJmckxjeGxjRUhXNDMzUHN1TE80MHN6RUJoNmI4b3d0dVlXNVctaERCT1BMSU80OUtDYUVfLVlsM3JiZTRUWnRtUGp1b3U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T06:39:27+00:00"
+    }
+  ]
 }

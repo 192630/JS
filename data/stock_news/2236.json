@@ -1,21 +1,81 @@
 {
-  "updated_at": "2026-10-04T09:43:09.238561+08:00",
+  "updated_at": "2026-10-10T09:02:00.410932+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2236",
   "name": "百達-KY",
-  "count": 2,
+  "count": 12,
   "news": [
     {
+      "title": "【營收快訊】百達-KY(2236)公告09月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QOXY0OGcydjk0eE9WWFlPaTYyY29xZm5DekVILWhubkhtTTNtWmhiZnBueElueFYwTmhoTVhpWnkxQi1oTENISVg4SURiaFItMS1yVGpsOUQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T07:09:54+00:00"
+    },
+    {
+      "title": "2236 百達-KY - 上市股價跌幅一週以來排行- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuSkFsdHdRalYtekhOZmRtZk04OUZvSFZVWFdlU2MxaWd0ZnlYYWE2cUpTZVl2WXdNM19saXpTYzdMRXVrLWhYZDZHNzdLQlFiMHlobC1vWk8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T04:19:44+00:00"
+    },
+    {
+      "title": "2236 百達-KY - 上市股價跌幅近13個交易日以來排行- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VV2RWclZMVUd4UzQzVTFmOGxsclVrcmlxdm9rcG5iMmtRME5CUm41N0hfZm54bTJNT193Z1dQWjd2MFliZk5Ca2huSzVoeDdtdjM0T0xwblU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T09:24:31+00:00"
+    },
+    {
+      "title": "2236 百達-KY - 硬碟夾取臂全球市佔55%，希捷東芝趕快來競標吧 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PUmI2Zm1nN1ZUamphV3NxbzVyS2hLX3FiRUZQLUxjRGdPcm40b3E5Zm9rU0FNNmJ5VnBCMnZ1azdyeXduc0xvaTN4T3haU1Fxd1J3enZmWUo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T13:41:51+00:00"
+    },
+    {
+      "title": "AI硬碟需求續旺，百達-KY為何股價卻腰斬？財務進入修復期 92元成短線關鍵防線",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KV25sM2lPVFZiVDBfMlFTVHZYTnN4TDFDVlZrMWxDcG5tUGU0ZVUyUElsQnRkWnB0ZlZIT0hZdmVXTXlGbTRON0RueVpuanR2VnRnUktNTE1GUHZuSlZrZU02MUpzTEIzUVhOREpfZw?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-10-06T03:08:35+00:00"
+    },
+    {
+      "title": "百達-KY 115年第三季轉換普通股已上市386,097股",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45dFAydkdSRlk5eXJ5cWtTcU45UEF4NUZyYXVqLV9vTkZaajF0U3Y2REt6c0w1X3BMN1dGRnVtTXVOM0tQWUFDa19Bb2J2dFh6bVFxUzg4Q1k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T02:44:02+00:00"
+    },
+    {
+      "title": "AI資料量增加帶動儲存需求百達-KY布局HDD供應鏈受關注- 政府消息新聞",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1g4elFJTmJHWU1fSE1lT2VRclNUZWphcV9PaE1POW1aQWJHYTN6VXpiMGNQSklfU0VCYklMb29EbnVBTjBJYVhfVWtEWlQyNzdPTnNNRU85cWpCNUpwTFhDUW0wNmNvUnhyZmg0WVBvTDc2cjZudHhUYkNzWHNFdEstTkVOMGFjQTJJ?oc=5",
+      "source": "PChome Online 新聞",
+      "published_at": "2026-10-06T00:41:36+00:00"
+    },
+    {
+      "title": "AI算力之外的淘金潮 資料中心儲存需求升溫 百達-KY迎HDD新商機",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPSUVOaDVVX2F5RkNxNVV3dFV2MkxxUGJZVm5VbmltWjhMa1ZkazZaTnd6ZS11MDczN0VCS19ZZ1AwQXQ0eXJlQXE4b3NSQWNkbU8tZGszWVo3dGxUWGZnbFVwMU9pYXJuT3VDWExLY2VFOUV6NlJjaHNGZnVHUXVrUUlnVHo3eTRobG1uZW03ZzZtblBJSWo3ajhrN3YwQm96VzVnRjRHWDlMTEhqMElrZEhnQU9SVkNQdHJGYkp4Tjk4WUdnY2RMeFpfVG1TLXhkU09uYnJPM3FTQW5vYm1lTnNVRV9rV2JjQVVjemN6RVZDTFViUWhJM1UwUVNwZndsczJsdG1aMmF0MnRLdzNPWDJuMzN1dk1Lb2lZeUVYWTd0aHBnMjBSLW5wY1hZMEZiaHp3SFdYYkdIX0JKdDZmdkE5X1J4TGRLZGcyRml4bEVVUXBYQXFyMThmRjRiQ2dxcVhPUlkwRXh0Q29lY01Gc1BIN0pQWkQ1dno4b3lOZWE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-05T17:08:56+00:00"
+    },
+    {
+      "title": "AI不只需要HBM！HDD重新崛起 百達-KY併購BIGL卡位資料中心儲存潮",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxNVZXcEd2V1NGUl9XenFKRkxJMkFPcmNlODBDcDJ0Tlp3VUJFWEVVZHZCVlE1VWxIOUtiTUxvR0h5N2JodVY0dUEwRnh5UlZqVUFfcHYzYmtaRGNmOEJmLWhuMnZDVGpWUVN6N0xqMA?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-10-05T10:34:16+00:00"
+    },
+    {
       "title": "百達-KY法說釋放AI儲存新動能 前8月營收81.22億元年增近3成",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPVVhOSm03X0ZVbk9PY1pzMC12R1dRUVMtMmZ0OUFOMUlQOVQyWDV2cmd4WW12VkhJTmFsMWZKT0tBSG1acDVRR2pIdXJuU0lYb0JvODZ4bm85V3k1ZkdDVFJmZ3JxbEVuWEE1MC1uSVk5bDYycE94MWw5bmJjRjBXTXNKRk9yZ3RmNHNQbFJoSjV1UWhXNWZDUFZFT0I0N1Ntck5fV3hvaFFERVM1bF9mMFotMFkwVVl6ZnpfZ2dVZVJ3TkRmRlBuX25EX3VMMlpjbTVaMm42MzNrQUtjV2ZfdGYzcjVJX2oyeHpvLVhNLThVajYwUjBRQk9JYTlIWGVBM1JLMWhBQkJWWmMxb3gxb010UHFRZTFEN3hDaWljclNiM0hINHljTS1ZR3VOUTZ1TmVwOVNmempIUQ?oc=5",
-      "source": "Life 生活網",
-      "published_at": "2026-09-28T23:26:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNeFJETlZuS24wQkhkc2Rrc2Njb1hDdEt6UEwxVjFJUjVORGw4bGFrOXFSdHNleFhlUzZOSlRjNDBDSnU4MHY3SnpjSlQ2S2FhWmNhNDZIbVg5b0ladl9yOXM2SFVIR2hRZFhXTWQ2Ylg3aDZaYkx3SXQwdmNfR2Z4X1psMnA1MnltTTJHMlM3MUM5WW1MZ2UzRmxQQTFhTXZ2VE1sMkZOQ0lid0pjTFFBY1o1b25oQVkxaGhHR3ZFSUxhRlBhdUdBVkMwWTRJZmxxaFJSQThiR2FndFhZOXVJXy10T3RZbFQzWS1MTWhkc09Xa3JNOTZZX01aWjh5WUVwTVBDQVJzTTVBTGR3NUpaWEVCaDc1ODBIYjUwX3BzcHRhZENlM1ZDb2VNRFljMk45V0lkakV2cllmVjhpaGhmWDNNZHRqUGp0WkU1QzdVc09OTTBLemFkT3htU0Jpc1VQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-28T07:00:00+00:00"
     },
     {
       "title": "【12:31 即時新聞】百達-KY(2236)盤中走強，短線主力買盤回流成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWV84bEF2X0RCQWp3bDN4dnFXSnFGb1Z3cFNRaUc2YUx3OU1LUDRNLWRhdUFHY1dOR1dtd194Y0JrcW9jT2JrRlNyYWVFdVctdXREalpMOXBnRlA0d3lreTVHdmpWRmdBODJDbWhCYzNfN0RlVVExVzQwcmFWQ0dETUotZWdWbElyeGZodlBR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-22T04:35:10+00:00"
+      "published_at": "2026-09-22T07:00:00+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 百達-KY(2236)股價殺至跌停，跌停價115.0元，成交684張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tdmlyV28wYmduOTAyM2VNQXVES1E2akpxVFJYU3dkRXVJQld6cDhrdHM4TmdTcGo5NG1QUGF5bjZySW5BaHZNZDF0RmZiN3FPNmg0RUVSTGNpY0E5bThxajVWN1A?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-20T07:05:09+00:00"
     }
   ]
 }

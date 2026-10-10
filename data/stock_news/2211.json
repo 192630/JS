@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-04T09:43:05.637685+08:00",
+  "updated_at": "2026-10-10T09:01:56.840783+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2211",
   "name": "長榮鋼",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "長榮鋼 115年9月營收13.96億、年減17.07%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RQ0g5bWRxVmJINko0MnZ4Y1JsN1B4R1g4VWVVNXRsMjViNU9XOXBHRTlqMDVXTnF3ODdNaGp3X0VkbV9tNmFRYVNjYzRIaWRxQ29ZNWVFUUc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T09:25:39+00:00"
+    }
+  ]
 }
