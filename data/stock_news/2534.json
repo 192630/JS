@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-04T22:53:55.951245+08:00",
+  "updated_at": "2026-10-10T21:52:45.112676+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2534",
   "name": "宏盛",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "宏盛(2534) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYTDZubHJZNGFNN3YyQkFTbVJvS0pzVkN0UlV5TWZwOGc5T3B5Z0ItNHJFeEdlSmJLbV92RGdtMmYzRTRDY3RtZmI0UmVKTjd0U2M0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T08:09:30+00:00"
+    },
+    {
+      "title": "宏盛集团获1580万合约 - 财经 - 焦点财经",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11YTZYT3BySWdOOEZLNnBrX3BjWUVNVFJIUElrTndrTHltREVXWjZ2bG9oVmRoQVNNR1ZscTZKNUMtZEw0WGhfZmcwUDFxelRYVlFabXNKZFRteG1rcVBLdWFNZHRMQnRlRnh3bldwc21HOE9ramhvOUZIU2g?oc=5",
+      "source": "Sin Chew Daily",
+      "published_at": "2026-10-05T12:40:53+00:00"
+    },
+    {
+      "title": "宏盛股份：宏盛股份2026年半年度報告",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa053RWQyWjZJMWdnQ0loMzhVeElBOTJiNThKbGtaTmltblg2eXFyUlcyMzB0REdaT25LUDMwekRjODNIbklfS2UxT1J4aFVTc3NubnczMUVRSjZGSGJpbEVGTkNENEFadDJnOXo1bmUxSmtmTkwwaUh2dGNnNlp1blkwb01KTGNpMTNBVTlzZk1QRTBmcmEzdGFXVU1CYnNmWE56cnlOSzJSMHc?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-30T00:42:29+00:00"
+    }
+  ]
 }
