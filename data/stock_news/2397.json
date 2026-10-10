@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-04T16:34:31.806970+08:00",
+  "updated_at": "2026-10-10T15:18:21.295187+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2397",
   "name": "友通",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "其陽9月營收月增31% 友通月增4%",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPb0o1U2l5eVhuOGZzR2xGY1J6Q1ljUDBxZk56WHVIY2lsVmlVbXYzdURRQlAwMlloRHV0c0JDSGp5UkhyS0pFMVZwNjhDdkRfUEgyOUU4ZVJMUdIBX0FVX3lxTFBVdk9WTHljd2Z1S2w0T2Fqa1kxUVpLbGYxWkZ0RVNZeExsd0cwd2luSVp5TVM2c1RBZzFHMElRVzdMbW9UbXp6ZlF6bUdCYkZ1ai1fekstYV9rUzVRVlYw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-02T16:16:43+00:00"
+    },
+    {
+      "title": "營收速報 - 友通(2397)9月營收12.95億元年增率高達34.25％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sZnpFMTJyTl9MQm4weUZqRDdtc2YyUWxXYzJvZnVVbDZBZW1oNllmNGF6blAybGdBeVd3TG90V0pCR1MzUl9pY3ZnbFFKX1QzempJNnpEWVVWNnJybmhMZU11WTAwWDg1NVpCaEZPQloyZnVQZWc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-10-01T19:20:00+00:00"
+    }
+  ]
 }
