@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-05T09:05:15.149664+08:00",
+  "updated_at": "2026-10-11T10:00:09.993823+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3268",
   "name": "海德威",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【12:37 即時新聞】海德威(3268)盤中走強，IC設計族群題材延燒-CMoney 研究員",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnBoTlVzeHVCT21IcjU1RUM5OGZXS0M2Rkd1TFpQNXphUGtzMkFGY2lTZ3V4djdZal9RVl9neFd5XzAxdU5hYmxCMHdTOUx6bjVDRTZrWGN4SnNOM1NOVnFsRXZ1VUVOMHg4cTZFaGZtcGR2VTZ5T043eGdSaHFvMnJDNExkNzBXbVhTNzZB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-06T04:37:58+00:00"
+    }
+  ]
 }

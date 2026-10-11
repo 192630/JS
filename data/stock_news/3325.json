@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-05T09:05:27.323754+08:00",
+  "updated_at": "2026-10-11T10:00:23.581147+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3325",
   "name": "旭品",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電週邊》旭品9月營收為0.49億元，年減58.93%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1REQXdad1VzV09sRmF4dTBnV1hrMTZFOUZ1eldWQ2dWRENfWm9hT2NTT3ZfUFFuRW0wcm9xUHZYSUl0SGx1bmZDRGphME1xNDZrbFYzNGVTZFdZLW1yTHJOSW5JLU8zQzctZmVLa0kzZXg5cTBwbXNCVFFZZGlrTTdXTXFyNWl1?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-08T07:57:00+00:00"
+    }
+  ]
 }
