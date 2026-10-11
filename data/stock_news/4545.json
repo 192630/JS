@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-06T06:47:32.174714+08:00",
+  "updated_at": "2026-10-12T04:25:00.084648+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4545",
   "name": "銘鈺",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "銘鈺(4545) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lS2VXUU1qUGpVcVhPVDljbTdfU0xKbVplWXJFMHBwMDg0QWlCak5DdkV4dlA4ZTJMVENkaUJBVURuRTJaZC01UldzdEtmcmRDNDVn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-09T04:09:33+00:00"
+    },
+    {
+      "title": "2484 希華 - 先前選股追踪 今天換聯嘉↑, 我們操作手法跟前幾支銘鈺、... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1aF8tbTBLT3lTZjZPMWx5WVpFb2ZjejA0LVhMXzJ1YlNFUnQxSlZiN2pYYU5DVmhjcEk3QzlJYmMwdk5kbU5ab0xDUTh3WmJuc0FONkdvR2Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T02:08:28+00:00"
+    }
+  ]
 }

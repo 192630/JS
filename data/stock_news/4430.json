@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-06T06:47:19.515136+08:00",
+  "updated_at": "2026-10-12T04:24:45.997199+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4430",
   "name": "耀億",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "4430 耀億 - AI頭腦加人形機器人未來趨勢。 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqNWZ4QVRzU0tVMEhJc2pGb2wtbFRZX0I1LUVmc2R0cG4wZzliT1IxUDRQWVVoUGdIbjZncU0xdUh2MGZjcWNiTnlQRWFDbnlwOUFfVkw2YW4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-10T23:03:52+00:00"
+    },
+    {
+      "title": "《業績-其他》耀億9月營收為1.96億元，年增42.38%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjRIOHo3STZ6cUNrd0NGQm1nYUpCMXlEdHppVVNlVjAxeXNqZXI4Zkd5WGZrSnRSUHRLbko3eDNNRXdNN3ItQ1ZBMWF5RGo5aFdWdkc4MGZqaWI3eENHc3Boak9TQm1oSjI2dG1hazI2eFR0dlEtU0t6UW1JNUVxdTNzUDMwcUZh?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-08T07:25:00+00:00"
+    }
+  ]
 }

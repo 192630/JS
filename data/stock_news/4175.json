@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-06T06:47:08.798344+08:00",
+  "updated_at": "2026-10-12T04:24:34.318160+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4175",
   "name": "杏一",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "杏一(4175)接獲消費者反映委外平台疑似個資外洩事件",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZHhKY2piVEpDVzRjVkF1QTM2cTNnc1lQQ3lia214bFVacWVMQ3N5cjc2VjNrdGdPekNKVWx6S21hLVFJTXFRY1NXQnZyMWVZbFRZcFJMM0luSUkwV3pteGdScUt1emM?oc=5",
+      "source": "環球生技",
+      "published_at": "2026-10-07T17:18:14+00:00"
+    },
+    {
+      "title": "杏一委外平台疑遭駭 深夜急發重訊：已啟動資安調查",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Zb3FXbzIzX2Nhdkg1YXE1b1VvR3lDOVZ4al9LQ1loTWhicVo4M1VtaTB4TW9nTlFzcE9qQU5GYk5jQ19mOTN1M2RLNGJFV1ZnaGJkalRHaGZFN256REHSAUtBVV95cUxPbVRtZS1sajNTTVlpTklsSUUtcjBGVjZJbUNBOGx6MWhaemgzQVI5eGFzSnhZWm8ya3ZJZ3d0TW5xcGwyYTFLcFdXaWM?oc=5",
+      "source": "ETtoday新聞雲",
+      "published_at": "2026-10-07T16:08:00+00:00"
+    }
+  ]
 }
