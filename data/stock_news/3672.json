@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-06T00:12:45.554347+08:00",
+  "updated_at": "2026-10-11T23:49:34.728109+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3672",
   "name": "康聯訊",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-通網》康聯訊9月營收為0.18億元，年減42.73%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHl0TFdwLVJCZ1J1Um13MGZKV21ULXdZX3ZGTVhES1QwRmVjN0lHQjh6QmIzWmtNd0xxa0s4cUUzcXR2aU9OQVA3REZ6LThIVGJJSnNuZzR1YW1fSjhyZVcwMWkwM1lfZjJ4X2dTdEs4N003WTBQcEZncjNSV1Q2Z25kZjNUMVdx?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-08T08:25:00+00:00"
+    }
+  ]
 }

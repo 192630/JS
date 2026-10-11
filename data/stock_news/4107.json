@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-06T00:13:01.298592+08:00",
+  "updated_at": "2026-10-11T23:49:49.712041+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4107",
   "name": "邦特",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "《業績-生醫》邦特9月營收為1.96億元，年增10.40%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0lZTDY4RGliNERuZzhwVFJIM1Naal90Wkxta2h1M0xJazdBZ094TXRpUGZRUHhVaTUwaXN3UW1JMjNvekJXTHZqcFEtTkd2bGJ4a1JoWHRjYXBWWFVKRGhQMlh1UHcxYTMzRDFYVzJoVUdEQ2VjR0VpaEwxbW1aS25JbG1PSnFq?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-08T07:25:00+00:00"
+    },
+    {
+      "title": "邦特(4107) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EdUhLZnFyZ01KaDZkUDF2YXpibHk5VHNnd3JOSW5lTUJ2MXh3QVdhZ2U1SXlZSTNCaEZKVHFuN2o1bnRrSFRMa1pVNnpUSXV5V2VV?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T06:05:23+00:00"
+    },
+    {
+      "title": "索馬利亞邦特蘭部隊反劫船 成功營救遭海盜扣押油輪 | 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05WDdoZkZoWXFKNjI0U2FqR2xSd2RCNmw0dGJnalAtZFdDdXJFQkxNSmlsaTdrNzVaUE1QVC1zQllmUkMxZk93V1pWTWpxZE1aMG9ZYVF2ZTZDdzV0YmwyVlB2YkhZaGJySkpNdjY5Tlk?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-29T18:35:19+00:00"
+    }
+  ]
 }
