@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-06T00:12:35.041840+08:00",
+  "updated_at": "2026-10-11T17:05:18.558671+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3607",
   "name": "谷崧",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電零組》谷崧9月營收為2.91億元，年增18.50%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2llcEV2WEdXeDA4N2lyeFJORFUxZ0FlUEJPNm9zOE5KdVVLUHVxN0xiQkdLNEk4Q2ljc3kybFRwRzctT1BiTG5peW5YUmtZZWdjdmxWc2Fxc3Q2dHE4SmRlYUphbmNUWEc4clV6SzBRUFlYb0UwWnBrRGZFd3I0SExlR3B2TnZT?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T02:42:00+00:00"
+    }
+  ]
 }

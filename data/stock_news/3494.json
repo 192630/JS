@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-05T15:13:10.921835+08:00",
+  "updated_at": "2026-10-11T17:04:54.410452+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3494",
   "name": "誠研",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "誠研子公司董事長異動 延遲重訊遭證交所開罰",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xa05pLUdIeGpMUWc4TnpDNG0xU1NKVTM5SlQxU2poZlZRekdhdEg2X2M4bEVHYUNfTC02NTVrVkRneFAzRUxxaWRldmZLSGVn0gFWQVVfeXFMUExXc2RIMkcwR1I1MzM3NDUxWFRkWnNqR3FsemlzMUtzVHJDdmRUZm5wWjJpWV81RVFaTEdkaHJobWhlb0FLcVl5N3FtR1c0cmJWTS15aXc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-08T12:31:08+00:00"
+    },
+    {
+      "title": "《業績-電週邊》誠研9月營收為0.88億元，年增9.05%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelRqak9yRnBOQkJqOTRrSERRdnA1ckFiR1dwaE9PUUpfZ0REUW1aaEx1cmVpVDYtb2FMVjkzUkJzcU9yRE1CY0Qxd09vaDBDY3JGYk0xTURNcVktdUo5TVNINEdqR3hoNlp0STIxZGhzcXZ6bWNSRlh6c2tkZHRQVjZ0djFwYVdY?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-07T23:57:00+00:00"
+    },
+    {
+      "title": "營收：誠研(3494)9月營收8767萬元，月增率-13.66%，年增率9.05%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTA0ZFZGMHlVZHh1eWRXOW1fek9McXB3ZlJ2ZF9Yd2pNcTk3enRFSWxLOW84SG1PWTQzUFNXbVE3bkJPc2xwQkRnNURWQ3B3LTV3dXBsSC1FQ3VMMFlRYlZYVGY3cXFkX3c0a2tLRk5KRkpzTEpBR2NYZzBzdmIwemtoZUxvMDQy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-07T23:01:00+00:00"
+    }
+  ]
 }

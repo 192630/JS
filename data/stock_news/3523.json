@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-05T15:13:16.402772+08:00",
+  "updated_at": "2026-10-11T17:05:00.271595+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3523",
   "name": "迎輝",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "迎輝達 蔣許願創造台北AI黃金世紀",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVnhBdlVxNUpCNkp4alBta1duQ2g5M05vbnQzS3VnWWdWTFR5UG5FNW1qLWdEUFh0ZkZLUk9xX0dpYzJnTXhfbXpNNEdVUTJteGxMT0ROamZsWGV1NURQUjV1MGFfVEpfaldHb0htajJVanJlUUR4V1pPRjRaMkpRSU9Ld1ZNbDZpR19GNWZTaTFScjU0R0ludENZdzNUTlBUcnliUnliaVVLS0xZX1FOcXQ3aWl4cEdFeFBmVGZCeElSel9RUnFPNUZRZzNJOVF2UmlRd3p5RHVCWmc0eXg4YnhqdGJzeGJ0ekRGOXpZQ1B2UThqYzBheGh5c0hRZTA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-10T20:10:00+00:00"
+    }
+  ]
 }
