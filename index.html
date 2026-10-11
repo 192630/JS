@@ -9767,7 +9767,6 @@ setupGlobalAlertControls();
 Promise.all([
   loadStocks(),
   loadInstitutional(),
-  loadMarketHistory(),
   loadHistoryProgress(),
   loadMarketNews(),
   loadActiveEtfHoldings(),
@@ -9797,6 +9796,26 @@ Promise.all([
   renderGlobalMarket();
   renderAllStocks();
   handleRoute();
+
+  const finishHistoryLoad = () => {
+    loadMarketHistory().then(() => {
+      renderTriangleScan();
+      renderBreakoutScan();
+      renderShortTradeScan();
+      renderActiveEtfRanking();
+      renderEtfDailySummary();
+      if(currentStockCode){
+        showHistory(currentStockCode);
+      }
+    });
+  };
+
+  if("requestIdleCallback" in window){
+    window.requestIdleCallback(finishHistoryLoad,{timeout:1200});
+  }
+  else{
+    window.setTimeout(finishHistoryLoad,0);
+  }
 
 });
 
