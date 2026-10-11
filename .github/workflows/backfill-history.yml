@@ -930,6 +930,9 @@ jobs:
 
           PY
 
+      - name: Validate historical data before commit
+        run: python scripts/validate_market_history.py
+
 
       - name: Commit historical data
         run: |
