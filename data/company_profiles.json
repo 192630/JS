@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-05T06:45:57.322897+08:00",
+  "updated_at": "2026-10-12T09:42:17.081396+08:00",
   "source": "TWSE OpenAPI / TPEx OpenAPI",
-  "count": 1987,
+  "count": 1988,
   "sources": [
     {
       "market": "上市",
@@ -11,7 +11,7 @@
     {
       "market": "上櫃",
       "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "count": 892
+      "count": 893
     }
   ],
   "profiles": {
@@ -22520,6 +22520,19 @@
     },
     "6603": {
       "code": "6603",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
+    "6604": {
+      "code": "6604",
       "market": "上櫃",
       "company_name": "",
       "short_name": "",
