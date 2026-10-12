@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-07T05:44:50.345531+08:00",
+  "updated_at": "2026-10-12T23:47:21.916199+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5906",
   "name": "台南-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：台南-KY(5906)9月營收1億0230萬元，月增率-17.14%，年增率8.15%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVdCTTlMX1hYQW5IUGhlSkQ5UGxhLVpVU2NlU2VHN1NyWEd0VUdpRHRfVkdHczdFT3o4ZlR2SXhMNkhZdnhVMUF1ZzlhLUJqOFpmT2dBanVjNFpzN0xraDZ6VzlaT3dueXVTYTJCbFlPMElHTEpDV09WY1gybTI0Y1g4ZnFOQUZM?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:03:00+00:00"
+    }
+  ]
 }

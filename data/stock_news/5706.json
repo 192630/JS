@@ -1,69 +1,81 @@
 {
-  "updated_at": "2026-10-07T05:44:45.481423+08:00",
+  "updated_at": "2026-10-12T23:47:16.369984+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5706",
   "name": "鳳凰",
-  "count": 10,
+  "count": 12,
   "news": [
     {
-      "title": "鳳凰城大學公布 AI 整合教育框架 助學生掌握未來技能",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNclJKZGZPakM4QU13N3h0X2l5UGFWdGo2Zmo0RWVGQUU4RFB4clFxeWt2YXlfSnhrcExuRURqazVISnFWT0FsTTFYSmhXSkJGVTlhNExUNnBNV09Xa2JHUFpRNmtiZE9IQy1fV0o3bGNoRWlaMGJDZC03NGVZaGtxY0lwN3NFQ0lRRnIxNDkybkZyYTBvb2RIZWF3Zl92ZWFWb2RFMGRpOUV5UmozZWxDVFliQzg3bHlPcVh1aTlKRjhHN3NJYlFBOXVpNzMzYTJQT3FQNktYdE1EX1h4ckxDWDNsUDVpb0VnZDN6MjJsNVQ2U08zQmFzalFqeEJ4VW1xekVvczBzb01zalc4RWtacnhTMFdMd2EwU1hqUlhvY19wajZHbGV3RmtjdE9XRnB0c0FQUHFhQnhkZFpiVlZESjQ5SzlWN0ltTVcyMXZiRGp5VTcyWEN0TWlCQ3ZXc2VkX0xPRkNlUTU1UQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-03T10:03:00+00:00"
-    },
-    {
-      "title": "強化與美經濟連結 彭博：林佳龍週末抵鳳凰城台積電廠參訪",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxObkEtRnpBcm9hblVDa0NFSjBRdzdSWDFsR05aalFiWXlRdXE1Wm41RE1uRnRnejlMa0hPbXhiS3g4cE1tcGM4VjVkc2ZmbDdIXzYtUDNsZFJwMEg1M3ZKdk1rQjhodWpKUzNHQlcwS2ZEYkRlUkthQ1gxekhHdXZLV250d3BhZGxMQ3FNY1hIZkk2RFd1R0F0VHYyY05nOFVtcVB2U0xFQjhtZXBISEEtQUxkMHh4alV0eTZvYm9nRFc4b2Q1dUIwVjRnZkx6MVFka25BS2JuamUzTlc5NllmY21id3JKNGdrczlwdk5QTTBfQ25zRGlNVHM3Y0VxOXFxdmlDNVI4R0RvS3kyQXBKa1VqMTlvaWx2NmNaMGpobkk2enJUa1hkZVBNakt2LWJNdG8zWnJmQmNqVjdWS1Bpdld5bktqMHdFby1xeF83ZHZuTXhaRmZhclpkaC1nSmFEOHd2T0tpLWEzQ0F4ODFOZnVuQXczTmp4bFJrREZzRlNLQQ?oc=5",
+      "title": "TSIA攜手仙人掌布局北美 鳳凰城串起台美創業支持網絡",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQdmpzMUpzNS1LbVd3NGtGRlZuZVJncFo4dW5zYlN5WTBNSU56TVRFaTVZMnZBLVpwTlRmQUlwZElXcXNJNWt5TUc4Nmt1VFNMZlh6bW0tUy1sa2RnV203WUdmTnBpX2NMTTlvQi1oamd1d0FxYWI1VkY5SjV0NlI5Y2t3d3BFTW1RTnM5SXpZTi1KRWUxdWJJZXMyTXR0QWpqdXdhSkg2aEtfSWJOMlVPZlMyZ3ZGeEpHdnlwZHNidm9oUlg1blpxYWNTVkJBV2dEZlNwSHVLNG4tUFBhVldVRkgweGJnXzl5LVRjMnotQkN3ZTM0eVhRbVd4Q2tlMFY2aEhvNW9WcDBiSjhzRVFGMDMzam10Mm41X2xDMC1nV1NWSFNrRUdGY3FGTjZ3WlhiejRJSUMzYzBGRnZISFRLemwySW5VcFFOUG9fYnlSa1p0Y0VNTFl2ZDMzOHZxN1ZGdmc?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-10-03T05:20:02+00:00"
+      "published_at": "2026-10-12T10:12:00+00:00"
     },
     {
-      "title": "不只科技廠跟台積電 建商5.9億買鳳凰城商辦",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPMWh4QU5NaVVRblZNVEp3MFZDeUNWOHhrbGxZb1NSZFU3N0xwenhPNnhqT0tsTjlhQW03RTNXSk5WT25WVTFIZTZxRFVKQlhIMUpGblpYUHJKSHUtV19wOHNtZmp4Ulc5aUhBbF9ncG5CTGMyLW9HZEk4WG1wTmNVSTVrYjhHODFSUXRjcnJIM1FIMXJMTjBTZnhhY1FvZDkxakd4VGpacVZ3ZXhiWjkzTVNLa2Q0bG9MRmpyaHNVMmNwOXB0c0Q5V0o5ZjZ2VWo5dEJOSW5NVWpiazExUUV3U2YzTTRnbm9SdXpPSncwR0dqUjc5b3lDYVJYNWhCVFdhM21oMFJQRWplLV9PZWJNYXIyM3dqU0k5TENYUHppRmlJcGRkNTNENVJ3OXZEUWJIbjNFdjF1aHo?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-02T09:51:07+00:00"
+      "title": "台灣組團參加「美國鳳凰城螺絲暨機械設備展」",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQVl5X3ZHZnRLWjJGY1pGSnZZbHdCUVF6QlFNR0VJX000UktrQ2V2UmwydG1TWUowTEI2Q0tmMmVNc3N5V0ZZVmVKRGNXZW5IVG5Jc2xSYkRubkljbnFYcDRnWFdHUWtaODl0blZxZHdBYXhLTkdOTi1ldWhBVEtCbExUakUyNmRuS2ttMjRUd243VGxPWGlGYS00eUdibllNb3NwcW1Pb0drNXlmS2hDSlM2cDluRVNZUTRyU2JIVkYtQzdkWWY3Um9FWEc0N3J0N0F3VGpyZ0M3cDAxS0JpRGg0MUJtQlowcS1qWmZ5dVlxSTd6UUhpSUdxWmsxNzdlVnV3aHVNMVFtVE1qZGFsRTFXNjMtX040VkVrUkZvUzJLMmNwUFJrdktMSWJzdDlVNGVlTk04R2I?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-12T09:06:00+00:00"
     },
     {
-      "title": "不只科技廠跟台積電建商5.9億買鳳凰城商辦| 房產",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jUjYxa2JpSmRqUVdmYnVFU3RKUXBLa0hjZDhnSWdoVUlFQUFwRUpXZ3pMLU9iS0xoaDNkeTJnX0VpTC1Qb3lLNFR1dGVDdFppSEpzb0FubzlDV0gzbmNrQW9yS09EN3h1RXJNcS03WUQtLWVvQ000YWUyYw?oc=5",
-      "source": "非凡新聞台",
-      "published_at": "2026-10-02T09:51:00+00:00"
+      "title": "鄭欽文，鳳凰涅槃",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hMXRLaGl0ZGh4Yjk3TkRTSWU1Ql9KWHhTNW1Ubm5fOUgzTDNvbnlHcWZvVXJhU2syVmVhM1gzbXZoM0NYc0hBSg?oc=5",
+      "source": "鉅亨號",
+      "published_at": "2026-10-12T07:40:00+00:00"
     },
     {
-      "title": "不只在台灣蓋住宅！達麗斥資5.9億插旗美國鳳凰城 買下台積電周邊商辦",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPNTVtRmtfdXJGSG9CQVRhS3I5aVV5cHlqVnZzZ2NYNlpYTUQtRkpPNWVSZFE1Zi15VzQwZnJiV2QwSFBWMFpPUmtLYWxwOTltdDA3WkxxTE9yOWxicEo1NFhNUGU3TGxtN19hZGVVVWdFQXN2NjMxdzBkYkF4aXJXdWh1RHVwbXROMGUzd1hHOFVRQzM1UzhnY1c3M3VvT2FJR0FxTHctSlA3YXdQVVBheU93d3BZVkoxMWFOVFZVbFFaQWJVX1JUS2J0dTV1TFRGLW1RbEdUdndBN1otbnF4dnpOa3p5SE9mZEdrQ0Z4NkNnRmNEVTM3SzM0ZFJrcmJrc012Q0lqLXZkQ0xXR2g5TFZDdFNKUWZVb3RQZEJ4QkZvLTNkQkFvbGJRd1oxSDZsLXhScnlLM2VwQ2U1N1JRd2otaVVrdEFkcC1UUW81bzE4TnpHN0wzYXIxMmV0S2lLLW4zbllCUlp5amZGcmtFcmp5ZzNUQXJ4azlXY1hSN2g0M01ua2ZzRXNfSFBRYmVrTE05NXp2dERUa1pwaFctOU83bHQ5cVF2WGk3RXpwbkFRdTBTUjd2ZVhiSjJaNUNGRXpaUjNSaw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-30T06:56:54+00:00"
+      "title": "台灣飛鏢玩家新主場！鳳凰飛鏢全新官網上線 TNPR 全國總排名獨家登場",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNcUp0VnVnRHlfWjBLdWFad3huaHg3dDBPTWNycjQ5QXB0bmJmQVlJRFNkWWU3dndVcTZBS2xWb2R4MVhPSlpKaWZHb21RN2VNWGZtUWpGNDk4NS1UMjdLX1g4UXdkT0JhazhZYVJMU0pnTVR5Rk9rVTd5aENNekc1bkpuVGZXcWhZbFNYcE5kN29IU2FzZWRmUlFmTG0tcWNhVFBOcDg0M2ppWGk5YkV1VzlsaTQ3OXp6WlpjWThlS1IxSm5vTndRcm9ORjllbGhGczhZX3BYTWlUdjRTanBFTHRvQ25BMzNTd3RNZHBVRDNsOVdicURicHFHdm81bklOeUkzSWZSRzdiTjVMQjRLWUZlOEhJTDg3WmNneGFpVkJSSjhLMGdKYWVNOW5KTHh0Wk5XSWNTRDA3RnFwM3FjUGZYODhNRnVUUUJpVjI2VDNMTTZmY1RXR0xDQVNPWE9kc0stUUM5NG9lYzkxbFAwMzJWWU1qU252Z1NpSHdZNlBtOHFOaWNVNDMzaU9DMjZPZ0s2U1NzZVVLdnVyR3M2TmRESHNRSFVEZ2xvUQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-11T14:00:28+00:00"
     },
     {
-      "title": "TWA00 加權指數- 達麗斥五億入主鳳凰城商辦，插旗台積電廊道- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aSWRoWGktbjN4cmxXLWlTaXNvZEpNS0tuUDRhR0Y4bjFXWlZLNEhkZTR4WVFjc2QzZHFNR0NhQjh4RVhrQ1ZhZjRnU0E0bFhDS25pODFWVGw?oc=5",
+      "title": "不識天后下場慘！女星上演《麻雀變鳳凰》 遭店員看輕怒嗆大錯",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOanFKc0x2LVlGajE4QUo2WXlScW1WcHhRdjZRTklGMm5QVW8wanZDd3lPaTJIR3FYYThhdzJRMndES2dnYUdQcmdKZUpxMDRiLTllczlyWWlHa1M1X1JyTHFUUHFhSkNsNHJhWEJrT21xbW83TzNyVHZhTFJPZW9Fc2ItaDFyVFd6aG1hSkVxWm1odGJEQXdjcVB2dmtkRWVUSGF2Xzg4OFQ5QVZIdVlWY28yTFN0YW5BVnNIbG1nMGZNTFVxUk1tcUVtUS1qaUZWWGlTQmEtQlRiQnF4SE1COG1GdGkxN0V1M0xnbmtxYjNSdDlLcWxUZkk3WDFiNlA1MmJCVzNWZlpLX2MwS2xSOUp1bFlpaGlFbjJwdGUtcUJobWNoRXZMYUlsc1ZTS3Fnd202QkRYaGw5Ql9xMlliQWpBVUNCaE1sWnhudllqZ0pocGpfMEd0TldWdFFWOWV4UndnOEZ2T2pzalVDQnJVWmE4azZfUUdPX1M4RkcySmdvb2s?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-11T10:08:07+00:00"
+    },
+    {
+      "title": "「台灣扣件隊」參展美國鳳凰城螺絲展 台美簽署MOU深化產業合作",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNOWpLSXJpTUtQSnhsbTBpUXFfSXRiMG42MnJlNkhYcGhNSmJRYUpCM2g4LWxLUDNHOGFocHhXelptUTREaFZQbGdPdHQtX21XNlRXMlR0UGFvdURyZExKSC1LTDhUUkJzaU9WRzlWUVZTbEFLb3JXaHUzLVppNmlWZ0VpUG5XYXgtZElmOThpVHY1RHlJajZVa3ZNcXp3cVhmNnd0TFg3aC1XaElILVE3U3doV3RFT3IyWVk3cElibnlHdWdfN01vQ1FGLV9XMUNFSjBkSlJvMVB1Z0FMWld3N2gxNnV2SUJJaWVMSVBsdmJFWnZ4c0VqV0VCZzFCNVNja0hicU8tVklTR2otRnBvcl80bVA2dlJ2Wm1ZNmZIdXFSWmw4SWluZG1qTVpJd2c0RS1fOFQ1ZzFFVmNRVWVSSnU3R2lUV0JXNnVGUG43S09Eal9mRjFxdW1mM3RhbHJQZXA4LXFQd1doeXZTOENRSktMVURWOV9RbWFxd3Zjb1Vjb2o3enc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-11T08:32:24+00:00"
+    },
+    {
+      "title": "日職》無緣季後賽名單！林安可新動向曝光 投入鳳凰聯盟調整手感",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOSERGOVE1dEhYTVFxRjRHSWhDQ1Q5aWtpYkVkTnRGZmNwZWRkZEFwNnlTOU5FNzRtTmEzbXdBT29VNXA2NURJSjVJd09LOHFodnY1QXUxdGlxYk00RFRqdWYwbndBdndmUFVIbDYyVmctYVRWTXI4d1dKYzVhMmFCUXQyMmk3eUZfUExHaUt6RUZVaHlhcm1pdUY1RHNsZmxMRlc0V2thXzR6VW5XYUliQ01JbTl1MnJNeTBOU2VvNmswS3hITmxEdVBxeWFHZW8tcklmcFpzYVB1dmg3UnhqOFRSb3RldkJUblN5Y1lMci1BWl9kRHBzLVA3dnI3dlYtUlh6Z2F0VTFhSW1FT2FIY3UtZXVhOVh5enZTdC0tb2tKMHo0RlpXMXhVSll4enc4aHZEQWpNdkxwaTN4RGJUTnlnZHBNeU5jRWJQMjVacFpVTlFLc1llNlM0azEyaTBkQzNhRDgtZTlWS3dLZnllODhfYVZVQmxweU1nZHFtM3RHaU82SXBBeVdsMjNXVm40aFhISGgxR19fR1NJX1I1c0c5a09HMlYzUW9YUXFfNUc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-11T05:50:30+00:00"
+    },
+    {
+      "title": "水裡來、火裡去！金門打火弟兄「雙俊」獲全國防救災最高榮譽鳳凰獎- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CT0I4amMtNktpazhIeE1xYlZHYld2MW56VnNIeXVnVGtFN2lxY29oY2lLcldmREt0dnQ3NGZmNHU4Y2o5TUZ1cHdIekRDa3ZaVjV4M0REakw?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-30T06:02:26+00:00"
+      "published_at": "2026-10-11T03:49:49+00:00"
     },
     {
-      "title": "達麗在美布局 挺進亞利桑那鳳凰城科技走廊在台積電特區奪指標商辦",
-      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQbjQ3MFpyZjlZTG9laV9BU2lUS1ViY201LVhKVVVmcjZMdHBSSjJjNmdRai1SR1JPRF9ZeHFNVFZRSDJRbW1FcEhfeXhHdUVzS0RKZ1VsdXFpTG5yUHpCakF0M3d0NkFZVUcxMjYxQWhYNmdEakxKaUZkR3hVWkI0bUtWaWZvZUlYWGk0eDdfYXZqSzZWMFcwcHIwRFhGY2hoLXBPSUxqQTJ3bW9BTjE1YlFzWFZnRmRqTDlZR2E1VWhJREdfdEdFUGlMSDR3WXRRX045OTJNZmJ5V0ZMTTVQVDBjWGFIeDlhRFBCLXMwWHZYNU9oRGpqOHFpWTJaRTVNM3ljVk5CeG9nOXhQSThRQXhuWU5ORVFzYmNZalFDSlotb2lfS1Jpa05GTV80d05UNG14NmV1di1OLWdsSjBsQTM2XzRZWTBXSVQ2NzI0MmdwaTNOWFNOSUdLR1RoSHVLN0VaOElRZFk5clhtdWtJRGFBSFU3VWtYdHlicWF3bHZxLU9KdXJEd1dfU1lQdk1CQWJBQTNwQ3E0b01uUWJCa2I4ektzS01Ud2Q4OGtRSUUwV0l3bHpmU25rVUdiRjVJRXl5Mg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-30T04:08:14+00:00"
+      "title": "亞利桑那觀察20／鳳凰城持續擴大：下一個黃金成長走廊在哪裡？",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51Q3hfWmJHU19CSUowT043aEZuUm1QYkczeXU0T2hXd2N2cXpjdVRKQlRtUVVrcVhfVkdNOVotQUdBTXowbXd3c1N5Wm9kVnc?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-10-07T09:56:00+00:00"
     },
     {
-      "title": "玩歐洲新趨勢 鳳凰攜手逾10家旅遊業者推精品河輪遊",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxORkFzZEFNQU1wNUpfR1h6VG5tOXhoaDBodktRb2xHbFdvcXNzLXp1NmM3M1Q5Zk11WXdDMVdIbDRPcjQ4bElaWVZPSjBaajFfOGsyaWowbWI5T2ZzQ3lGY3FYd09TODNvWldLODdNVTJhTFl6ckhZQUg1YlpFSXAxZFR1Z1dQZ1d6Wi1yeXFnR25JU25NdEtDRXVpSElabnROMkR5czJsc1YxNEZSbXFxd0F0UnpjdlJyTnppWlJnWFIyTlBHYkhRQUNFNGZ4UlBXU2tjQllJMDlDREFScVltSHB3aTRjSlBvekV1ZGx5MDA2ZlNLZm8wT2hjX0hWeDFVcDRkZUd6eGNURnlwMWZ4OUF2VmpVT0VuRHQ2Zjk1UGF2Nk5XM3MteHRlMjJ4Z181eGtkcGk1OE9iMlZmYkVZekh0N19nVXRTcTR4aHVWV2ZfNUdvTm44aVhuOHJqZTNhWWZNN3k0dw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-30T02:38:34+00:00"
+      "title": "不甩中國施壓! 林佳龍揭牌\"鳳凰城辦事處\" 州長出席挺台",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNnZxVU54V0JZQ1I0MU5tV1lnQTlSNkhsLUFrdGwxeDR6UWVqeDg0QXlMTjNEOWs3TGJqcFBFRWZqOVhxTVJUbmMyU0xfdnVfS2FONnFXRlRBYjN6d29fRGtmVjhLZlM2dXVnZzlSVDYtRXlnU0tud2p6ZlNGcXBXZ1hKTHphVHVBcGNMZGFmYzNWYTB1Qzcta2FTX1NGeXdFdUhvZ2V2Unl4ZmlfbXY1RVpJX3FUR1JNelFqWGwycTVGUWV6aWdjZ3NsVzczLThuZnVIS004dVB1cE9rWC10bTNJTmJ4UnYtYUJ5Qk53SWdxTmJ1SEdUMVVzWVdBTVAydVk2aF9xLW4tRXZzOEh1UkJuMHIyUlVJY0Z3cnJHWEczZzhXekpVdjdWWnF5NmZVSFpjSmh6NHh5dFc2dFRwYjNpbEJDUWZhb1J2YUIxaEpLeVIwUkEtTTVxV1l3MmZhaUppVS1XbkJPLUU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-07T05:52:50+00:00"
     },
     {
-      "title": "雄獅、鳳凰布局明年商機",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vU212M1ZfZUdsQ2JrdE55Yk9xMVZqckxoaFI4bm83OGZKNVpYcjhkWF95cnhRYVR6OWo1Smh2SUthUWs3NFlnWkQzZzF1N0k40gFWQVVfeXFMTWs1ZWJMTHV5cVdsTk15clE3NUgzWDU2cHp4XzZNRFVLX0VNby1CUk1OTk90MjZRSy1qTEM2ZEl5ZWt6LWRwUFpCTDVjMUY1c2hlV3ZpSHc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-29T15:55:29+00:00"
+      "title": "台灣在美第14個館處揭牌！林佳龍親赴鳳凰城",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQT0JoT2tURkhZb1NnaFdqcnUwTFF1YzhqZ2pwb0FaMk1vNUYxRkp6U08tcm5nZVk1OWt4akVjbTdIT293MEszQTFieV9GYXVJZ0Y3enc3cGRnblhwd29tVWcyeHk1RDZ0dXp6cWlMOHVlOGZ6TDVpTzJ5cldNZUNZblQyeWx3aXFxd0FRNlpGZTBMazB0d2h2ZTVSanl6VnVRNDVnUnhBc3V3eEhPRnBZTXQ3RHR2cXdOd2xvUVhDTkxSdlBINVh2VzhPTXJ6NU5pb3hWR3JSZGZOT0Z6cVpoMC0zTGxmZTA1LWtrTlFRVUY1MFdESDJpeC03blBnQnVrY3d5M0txVlpNWVdZanc3QmpGNHB3REVDWnpSbjJwd1FEMkJWOHFzbWM4TmNPVmM?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-07T04:06:05+00:00"
     },
     {
-      "title": "聖暉集團整合美國布局，達拉斯、鳳凰城分進合擊",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaDhVal9razctLUxWUTZZclJBMkpEWDNFZk5xQ1A1dmtqX3J5eVZ6c0FheS1FSEl4X1E1WWdTQlV1VkZyZUpnNTBHUkVER0NTSHRqYjhqYk9ldEgyWkpmN3hSdkFqWkhlMXNDNjkwNzlMampoal9MX0xpdldlTk1yV1ppak5JUEl3VHpoYTdqcU1peVpleW1YWmFwWUk0WHZsNUV0SGpYMHJ0dzVzeG9sY21rU2lqWlhFMndEcFNJT3BmeG9YZngzbHJicGZBT0tLalctaDk3ZHZpQk83RHd6aVhfZGJDbkFPSUo0LVhFRUN4TFpoQ05GbVBxQWlzbEdXOEVnRkE4S2JGVXZaOW90RzFNTlhXS3lKSk5rdmtFZG1QUUltNWJ3Y1RlOE9yWVVNUENVTVl0QjNneVY5UE04YnZYUlMzZUxCaGFkaERn?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T07:00:00+00:00"
+      "title": "中國2度施壓無效！我駐鳳凰城辦事處揭牌 林佳龍親到場：感謝美國務院支持",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQeTQ3R2VsOGZyNEN2a19POW54SXNYaS10TlRTel93SGRBUDItNW1XbU1aN2lFZlpSVkZkaFJOQ3RoSWtmemxXZG8wQ0JkXzV4QU5ZMGd3TTctZmQyZENHTlhfWElQUnJ3STB0Z2JpVWlHeGJqcktwSjZQc3N3QUExRHpieGpXa095aEpBcTJlT1NPQVJ3R0h2M296WFFCS19SVnc0YzhDdWdUV3JoYUZEY2FTTU9pZFhaRVdqTmRWNURmcnhjSHlyTjFBUFlEWjdTc2JKU3VSdGNiVmdiRjJQdmNySDB5V082bTJxY1FGaXBYQ3JuWldGR1QtXzVpVGxESFZJd2pSMWdYc0RRczZZa3AtRUNiV1VvYXZxTWtPcWw1WFc5cXJKS3ZUcWoxV0puaVMtYVhYRHpLWFJ2XzgzVTB5TGxPOVBLMTgwMi1kQzY3YXVHYnBJMGFCZUNGZ2MwV3I2X2VQSTRFNzdDWktRbC1YNFh2cVFVeUhybng2SmFWU3huOHdoTjZURTJCZllqMHhkNl9uMjljVHRva0x4NE1UME9QYWxlVXdzRUdvajA4UXhpY1NGWDlrSVNITWVadzJ1RFZqYVBMdUN0?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-06T16:02:56+00:00"
     }
   ]
 }
