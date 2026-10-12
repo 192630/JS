@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-07T05:44:59.761010+08:00",
+  "updated_at": "2026-10-13T07:05:20.304238+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6115",
   "name": "鎰勝",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：鎰勝(6115)9月營收7億4097萬元，月增率1.13%，年增率14.53%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN1pZQUdSTWRoN1lfZ3VEdnFlN2dJcnpLR1JKN1owWlhVSFd1NGZMbENrYVJBZWtvOXpFOS15UG9fU012ZnlUWDROLVlYVnhLZVRDaE9naUJnMXBtVnhqMUZnTVdhRnVnU2J6c29mUUJWWjBRYVRSX19Gbk1WUDd4ZHVGR0YtYXRC?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:55:00+00:00"
+    }
+  ]
 }

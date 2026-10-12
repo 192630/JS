@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-10-07T05:45:13.479673+08:00",
+  "updated_at": "2026-10-13T07:05:33.052909+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6150",
   "name": "撼訊",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "營收：撼訊(6150)9月營收6億4795萬元，月增率12.74%，年增率-11.75%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDFsaG5uTjdHZWluVVZXdkcwVnRQeHZHTkV2NGt1R0NVY1gtOGdITUdQZmdoeGY2NDZ3eTlHMEFDSTV1dlRCaDAwMXE4Uk4zTjV1OExqeGw0NXJmdXdyMzd2dTNIbDhwX1lMZDctWmJYNWtMMXJ1akk5WTF2dEM3T3VNQVFsOU9Y?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:43:00+00:00"
+    },
+    {
+      "title": "撼訊9月營收月增12.7%",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IcjZVUktua3I3N3RsOW0wcmt6ZzdqTTljdExFcnRwTHNLYjZGUW11WnJ5Y0pmTmZ4QnNzOTRIMFNJaHM5XzlRVzJvV2Y?oc=5",
+      "source": "聚財網",
+      "published_at": "2026-10-11T09:51:06+00:00"
+    },
+    {
+      "title": "6150 撼訊- 放好久解套了- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JUVVYRF9neXhjS0hrNW5kMFo4S29PbmctNnh3bGFBMl9URzZ4c05PWFRiNTlLWUxYWmJCNVVzMU04aWlXUU5JZm1tX0Rkc3JNdXdDS2NGQnU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-30T07:00:00+00:00"
+    },
     {
       "title": "6150 撼訊- 輝達缺貨，撼訊商機狂增- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWQ2FPZXdjUncyR1FaZ2hjOVZ2X2ZMeTc3NS1vSDFHdmpVRHNKbjJodkFSLXBoVkZ4OEdSakFrb3lEelJEZ3hjZlhBTGFjbG9qcG1uR09SN3U?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-27T07:00:00+00:00"
-    },
-    {
-      "title": "【09/11 產業即時新聞】電子中游-PC介面卡盤中走強，AI PC與遊戲顯卡雙題材發酵，撼訊領軍勁揚",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXdMcHVJMG9laUIwNl9KcGMxYkpabkQ1S2sxVng2bVJJMk9CX2FjRFJLLXh0M3RJR1JWYllwLXdXYzgyM3MtSFB2SFVqXzBLV0VSUEk0NXoxLVY0bllXMW5mNjlCUjBCc1ktb2pmUTZ6UElVR0V4NW9OMFFkTGlMdFNYTUJLYlBxOW5NR2xR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】撼訊(6150) 八月營收5.75億元，創近6個月以來新高，月增19.88％",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XSlBsWWVnbnEtaE8yUTZ3S211YmNHR292MGpOWnZLc3JXNGhTZENsUDVrN0gyOU9LV2FnVTlwOHpiWnZBYWF1WFRGcHlzMUVTTVhRNEFCdHZJb3RVc2dXb1laZnExQQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

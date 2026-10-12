@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-07T09:40:39.107216+08:00",
+  "updated_at": "2026-10-13T07:05:40.888470+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6171",
   "name": "大城地產",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "大城地產 115年9月營收8.18億、年增850.11%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wbElXaEVCSHg0NVFEbENRUnctMy1OekhXRURndm90OXF5ZFFDRzVSTjdveVdueTBLVGtfM2tyS21oUHNuNkMweTlpSnVneHFLY0VVODV6WWM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T02:30:37+00:00"
+    },
     {
       "title": "6171 大城地產 - 大城 大城雲詠，已完銷，總共售出48戶 到9月24日，地政機... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56dHp5a0xlajNmMU95bC0xcFpUc2x2dFpFRDdkTVg2NkhrampNV2VoVHhmbmo4alJsSUlrTGI2eGhFZEtiTmJGUkV0NEFfdjZNZHlZZHNadU4?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-24T14:46:41+00:00"
+      "published_at": "2026-09-24T07:00:00+00:00"
     }
   ]
 }

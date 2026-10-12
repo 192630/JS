@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-07T05:44:59.208514+08:00",
+  "updated_at": "2026-10-13T07:05:19.833775+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6114",
   "name": "久威",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：久威(6114)9月營收9054萬元，月增率72.13%，年增率50.25%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGJMZ1BscVBkTFZzaTJ2S3hBUkpRSHptYVBMTUdqYUF0SEdkSGZHMDRaUWJKNVlsYnlSUF93MEJDSXlrc2FWWGZFQklZUVpETUJyNE5PLVlmeURFSFdqeE1vS29yQ1dROHZQelBDaWlJOUkybTBaWXgzQ2p0bVNoN21YQzE4WEt3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:27:00+00:00"
+    }
+  ]
 }

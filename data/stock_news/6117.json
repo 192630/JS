@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-07T05:45:00.935819+08:00",
+  "updated_at": "2026-10-13T07:05:21.250150+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6117",
   "name": "迎廣",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-電週邊》迎廣9月營收為3.83億元，年增36.02%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWppdmNWR3ltZy1rLXJTV3NVaXRoaWVmc092LTZiRzJPRG5BeUpnVzdwR0lKbGlNRjBpWkRXNmpfVlJHM2tjZWh5Qy00NDBqOXRoc19DMXlVSy04eWJTMUJIX0dvN0luNmVEdGdLT0gxMVlBdjBhRTE3SzJMQWZaSkxIR1lrbGht?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T05:53:00+00:00"
+    },
+    {
+      "title": "營收：迎廣(6117)9月營收3億8274萬元，月增率35.78%，年增率36.02%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQW9DQzdnU2Jkc3pwS2RFb3FxZkQ5ZzRxUXo2RXAzMFU2NzlycXZaOEdGQ09rczdVaEU4SjlkZ0ZNMllVWFBhaEZKWFlDYnBNZ213REwzajNlUGI1M0VFSnVWU2RwLVBFWFU2cW9NUUN4N0ctLWlkVGhTS2hfUTB6dlc1MGRUVTB4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T05:47:00+00:00"
+    }
+  ]
 }
