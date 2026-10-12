@@ -1,51 +1,81 @@
 {
-  "updated_at": "2026-10-06T18:33:55.821078+08:00",
+  "updated_at": "2026-10-12T14:12:24.267816+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5263",
   "name": "智崴",
-  "count": 7,
+  "count": 12,
   "news": [
+    {
+      "title": "營收：智崴(5263)9月營收2億9287萬元，月增率-16.19%，年增率124.19%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmpTeW0zSzh2S0luUFRtR25oNFFIMHRyTE4xRDJKeVNnRkllRldEQ3haUVNPdGtpUGZKeGRJcHRxSE11QWRBZTlaajJ6clJ5RUJXZkhOV2lYd01NeHpkT19Ia1NxNGo0alpFcUt5Z3dzUVV6c1c5aGFQVTJHMUdFeldNMzl1bVg3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:43:00+00:00"
+    },
+    {
+      "title": "Flyover併購效益發酵 智崴9月營收2.9億、年增125％",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtb3N4TWF3Q0xrMUxSTWU1dlpaTk9ZMV9McTQ1YWF0TGU3UWVWelBLZ192Tk9jY0lBS2NMclBfRjZRckg2bFhOcUNkcUYxSTB6MnlfZWdodUw?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-11T20:23:11+00:00"
+    },
     {
       "title": "智崴(5263) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14eWVSTmMyRE42TTVydnpaSjJrQS02bTN5Yy1iRDZZdjhEdFlXV3I1WWhYOVFCTEw0cGJlMkVST0hsaWp0YWdpQzFqT2Z6UDF1S0hV?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-10-04T15:52:48+00:00"
+      "source": "CMoney",
+      "published_at": "2026-10-11T09:14:27+00:00"
     },
     {
-      "title": "5263 智崴 - https://www.instagram.com/p/Dd... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ucnZScmxJTFA1cjFPR20zbVR0UGVTSXlyM1VMNWo3OWpZRjJRdWpuZ2Vsc0pGNzJ6cVhDdVZWTTdrMHlTYUxVQk1jVmVSbjFDc1VjdTZMd2k?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-30T02:49:28+00:00"
+      "title": "智崴9月營收年增125%！Flyover併購效益發酵 前三季營收增85%",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNVFZ6a0tya2gwU2VXUFZ0N3diQVE4UGJJWlM3dUIteGhWeUlTSk5Rd2c5TFo3Nk5NdXFqUVRQcV8tY2dUX2NsWUtycTg2cGhtVUZtYjhUZkhyVUkyelBkcFJRYzhHTkNGckZoeE82T0dHcWI0VjlaUDJlNzlaVE9CSEVndVpXYnVNZ015TkY5UzJRMktfd0czMnVvcDAxSmU2b2Ryb3JpRFJodG9HWF9kcy1GaTdiandrUVZ3UG44a3phZWpiUzdZcXZ5OWdyZFZpaUZscU83SHp6ZnhfQVlDZUpLN0tMTHJoNENzdTVFNmMzc1RlWEhYdnZjdVEtV09NV0QwZzJTVE52cGxXd0JoeWxTT3FURklLaGl3bFdTMG9NUlV3cEhWd2hmX1RXd3Q4ZEpSNEV4eVZWdDhtM25qZlJyVl9iRUdWY2ln?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-11T07:39:00+00:00"
     },
     {
       "title": "哥吉拉飛進台灣! 智崴i-Ride首月票房破千萬",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VVWl5b2JTWVp4RFlWZmJKek9tNmQwaXVIRXJPS09WVlF5U0NkeDlFd0laVHhOV3FMemx0MFA5Z1c4WWEtelVSd2xHdzgzREdYNnIwaXhoNzE?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-17T09:31:28+00:00"
+      "published_at": "2026-10-10T20:08:52+00:00"
     },
     {
-      "title": "智崴引進哥吉拉IP搶商機 上映首月票房破千萬",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdm5nZWh4a09YR202dXpudjFveGVVLXJTcXJLLTBfMWFJS1l3dDZsUE5qSTdRc0I5cTh5SERwU3BXRjZULWw4NU1uMFh4cl9EeTdURDhQY2RWckk4a2FVZVR6Vm5RcmVWV3o2LV81NlgtSnVHZXJheTVQRWxISzJaX3puVkVBWkFTQUFvV09DVElpek9ibmpGeXNYWndiLWR0QmlkODlzSE5pdGZhSndzUnI1Zy1wTmFlT2dPM0hOVHJnMXhmNE1jdl9hLTZjbnd0VmFDMzA0bUtGRnVGU2xfajNodTZmdzQyMm1Oa0VGUU9OaDhqYzkyNmo2TllqVlBJdGpFS3A1QmMtclFZMGRLelJDRHhVcnQ0eG5yUmQwclpQYnVTMjFfRmJTNmlQZ2dFZG1tVm8zbUlrd3hmZ0cyXzlEVQ?oc=5",
+      "title": "5263 智崴- 智崴9月營收2.9億元年增125% 合併綜效顯現- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SVlE0YWZMZHQ1eEU3a093YzlfWmVBMm1DZFhYY3d4eWg4dmd5Um16N3BnWGhTMVFyNWJ5NGJ2QmJYXy1QUkZxX2ZCQlZhUjdFWGFUTFEyNk0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-10T08:43:38+00:00"
+    },
+    {
+      "title": "5263 智崴- 訂單滿手擠爆產線！智崴砸24 億併Flyover 通吃沉浸式娛樂產業鏈- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XVExTcDBYZ3pyc05XbFdIYWV0UEs4dlR4b2VObjgybEppNmllYWs5NTY2b3pSbWd0ckdtZERsd1lrajVxQ3NiNmdfWk95bTJXMHRFOC1WcUo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-10T05:31:46+00:00"
+    },
+    {
+      "title": "全球頂級飛行劇院台灣造！ 智崴再砸24億買下「尖叫吸鈔機」Q3營收飆141%",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPOEgwQ1NqMEh2Sml1azZNcVZsd1M4emxnT3dkLThkbEVZeHBJZmdzNEVkWkY4WEFNTnh3SmFLbEUzS1NQN2FfbFRUNk00dHlPZkdwU0ZLOGU0NXZHZ09NRDZ4alFlN2N0bW9pd1VfOU83TGRTcHcxWFZXd0g5MHNkNDdrcTFLdDVkZ2laV2VOQlB5dThhM0tSMVRtaDhBWng4cTFLai0wTFBaVTZhbTdpZmM0Yk9YeXdweXZjTlZyQW1qRlRrSlJJVVFHOGZvU2NXazNQYmZWNzFMdHBuOFJYY0VyTU5obWdSYmx0RWZTVk5tLUtGajJhTWEwTmJXUnd6X2JlYlk4cklOZ2dfeXNJOTJGQUlUX3EyZFNUUnZHcWwzU0NKU2Vnd01XUkF0aHlxX2hMMF9rR2lXRzMyUEdNbGhiVUJrSTdobGQ2eWZ5MGNwNFdVekNsQ0JreVhHTzNNcVZiRWx1Zmc3cTR5MERWeDZrYkx6MXptYWhOZkY4MkJMMl9WbnRNV3pMampSc0tkN3VCTnVleDI?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-08T11:21:00+00:00"
+    },
+    {
+      "title": "智崴併購Flyover布局內容/營運 綜效逐步顯現",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYVc1OE4tb2tyc3NpUzVFOVpXdGhwaW9zVjJQeWs5M0Q5b0FfZ0xFemNtVlpubHZsbElyT1Y2VTFhSHdGa2tIMFdEVDl1UUxlUmVjWE9kdXM3ZW9LQW5jN3dxeVU1UEtfbFBNbjFmamVvZ2JYQ0VEU25yc3g4eVp6NXNCYk1pVlNpSGpCeVQySG9oRHpJaFlsTmlkelU5azJheGhoY0U1dXNvQzlaV2dPU0lFdFktNjg3TXhfU1N3OUY4OWVmbkN0Qkpua2JrRFp3V2pHVkw4QmR4clB4VXFSdENPbnY0ZVpyc2hOVVJUeWtOUnVYbmxzYVlCUGY1LW83WVVTUkpxUVduNE14Q0hwUDdoQnRJMkhVOVZSQ3RSMEZhV1pHTkxv?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-17T07:00:00+00:00"
+      "published_at": "2026-10-08T09:50:00+00:00"
     },
     {
-      "title": "Flyover併購效益發酵 智崴8月營收創新高、年增逾216％",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HTmhFOEhVNTRQOHJDYzBsUks1OVNPZTNSZU1kdWRlTFJ1MmpwWUl4dkxXM1FWb05BczVxMzNIekdCN0M3ZGUxTU1lZHg5ZkE0UjdDRW1ORXU?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-10T10:13:35+00:00"
+      "title": "合併綜效顯現！智崴9月營收飆125% Flyover相助大開外掛",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOVi1pVzBqN3VVRUhGYm5lcFRWMENpU1dIUFNIZkgzNkZBQWJfV2x5UzZzLUh2Rjh1UGZVTTdPZnBWbkx4VWxsNWhGWm41ZGRhbXRBejVtUGRIdldSYXZlSXlISG0zcUQ5TFVPOGRFTi1PeERRRGZ3X2hDc2JucnFIUGpvSk5mM0tsSUV0dENldWNuZHl2ZXJ0a0pWc2VpWDhBcmJHbzF0V0lzUm81OEhESUVaYVpObDJKeTUweHVQSFd4ZHNPc3dqanBsbGJUcWgtaU1VakNYeUZaWE9vZ0pwQmhjcDh5QWZuQkt1UFg3QVRid2N4d2xYRHQyMU1vTGxLbVg3N1Nfd2tOcUFvbEM2UlRmb0VDLVlhb2VQc28tXzhFcUtvYk9wNFRDWngtcXdSYmJtWDZxY2cxQUY5?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-08T09:50:00+00:00"
     },
     {
-      "title": "智崴併購Flyover推動營收創高 經常性收入添長期動能",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQblBxME4xRFluODh2SUl6QjdVZDVWem8xZXRCbXIzdWRJTHU4Q1ZySFpmWjlPenZuVkVMbllnYktqMmVUQ3cySUNuWVNSSm55UllDRDRtVlppRWZjTWtxZjNabkUyeXFHcEVsODRiTWVCbnNXbjY5cG5hLXlwSmNDYW9oOGk2WFJxSDVMVDBxTjQ0Wk1lSzRyVWtRaXBadTF5RHU4ZWpaV3Q1RHJNcXhSZl9jWDYwcF93cjRJcVRSWWlib05nN2doeFNjYTlNVUpiU0xXNm9hamRkQnY2WDRJWk9UZ0FIOUEwc2ZtQ1E3QkgyWm92Y2VjaGQ1X3Z5bEhPMk54NlE4eERFWHFjY0w3SGZPcU5tTEFzSTlLNEEtckpMZUoySVBTcjVQVXZlclMwcDVEelk1TjI5Z29QNTFXRjBtN1loTEhCTmJPQzVINU9Vam40SEE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "title": "併購飛行劇院Flyover縱效顯現 智崴9月營收年增125%",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QMXBVMG4talRYX3JEYVdLR0I2WjFveWVlbzF6WC1lNzJZYk5sVGpEX09fb1l2T3lTckxjaW0taVRxTWlMR0hMemRLbG5xdw?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-10-08T09:39:00+00:00"
     },
     {
-      "title": "營收速報 - 智崴(5263)8月營收3.49億元年增率高達216.56％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqVkt0SWxVX0tkaTJKV19TNTBGN1FiZm5RcmI1dGcyRXVqOXRpT1cwOVhaaTBjZ3FzZ2ljZ0t6dWEydXZMb3JrWkM1R2pBOWJOeTFpX0xiQ1FxSnF4OEQzUnRQNnRuMDVMWkk1YlA4a3RCem1IaUE?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "title": "智崴9月營收2.9億元、年增125% 合併綜效顯現",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yaFVxZ003X0hUZXNTSWhhX0VvVnN1N0tVZUJVRkJuS1lZcE9USmQ3SDE5ejNHZVB6TnEtWTNPejVIb0RVRUMtY2Q2bF91Q1lY0gFWQVVfeXFMUElycmk3anNzSXlWQldBUjZNMU8tbU40dVh3ajd6VzNLWmRibDJhQU5naEtiTndZdWdic1ZES2NjTUNrTjk2cVRySmo1ak9iOXdJVkdiR3c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-08T08:36:09+00:00"
     }
   ]
 }
