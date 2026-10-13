@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-08T00:41:41.799621+08:00",
+  "updated_at": "2026-10-14T03:23:07.510158+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6697",
   "name": "東捷資訊",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "東捷資訊助攻鼎基SAP私有雲導入 強化生產製造流程",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1leVQzbVZJa3RSLXFCUzR1Sk9aX0lCXzJXUWxGUjRkRTZpOXRSb2NTN09uLUdhLWZ6M1RiOU1GLVpDYjlQQnZBREJQR29kZ2hs0gFWQVVfeXFMT09HU0hmOHFSZC1oSW8zc0VrRmNHR3FCcmROUUlldTdjUXBFUTUwZ3dSZFUwSXZLcTFSLVRBb0o1a2MxRVhPU1VkTk1lbzBRMVJtZENzcEE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-13T07:12:57+00:00"
+    },
+    {
+      "title": "【營收快訊】東捷資訊(6697)公告09月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pSkRVZ1pReUJOT1JoN1ZkYmNqb1VLejd0aTNjckpJZVJMN1pyNktUNGNvUC1ZclFCaEdUbU9rRy1WV1c1b0FuNlpBWkRocTZPMG9EVHNxYnU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T03:39:56+00:00"
+    }
+  ]
 }
