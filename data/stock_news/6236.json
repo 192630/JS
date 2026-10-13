@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-07T09:41:06.979708+08:00",
+  "updated_at": "2026-10-13T11:40:02.804725+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6236",
   "name": "中湛",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收：中湛(6236)9月營收274萬元，月增率3.08%，年增率11.01%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTJ5S3ROUWJiMG1IV1J0dTBsZ3EyblB0UUNKMVNrcXN5WU1xM0lMWHNRT3FWQkFER2hlT3pBenBjTUFkU3lzRk1WaEtQckxxbE5GdEp0YUU2eGwzek92NllYeFRCc3d2c0k5ZkRnUXR1UXNpTmIwVUkzMmJsb0dGTW1QQU9jQUZE?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:39:00+00:00"
+    },
+    {
+      "title": "【營收快訊】中湛(6236)公告09月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6RjZuSG44VW4yUTJ6NzAwOHdGRExiZjBUMmliN0RnVXRGQzlzLVhtRXhIMWZ3M3I2bEI4cm1jZGc3b0RkY3Fhck9YbDhmeXJOQVJoZFdPdE4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T07:30:58+00:00"
+    }
+  ]
 }
