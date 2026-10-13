@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T02:05:52.935167+08:00",
+  "updated_at": "2026-10-14T00:13:36.386110+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -13,13 +13,12 @@
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_mim",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ci",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_basi",
-    "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_bd",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_fh",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ins",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_mim"
   ],
   "latest_revenue_period": "11509",
-  "company_count": 1333,
+  "company_count": 1326,
   "unit": "新臺幣仟元；EPS為元",
   "companies": {
     "000104": {
@@ -17697,18 +17696,6 @@
       "cumulative_yoy_percent": 7.654850397464934,
       "revenue_note": "-"
     },
-    "5864": {
-      "code": "5864",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第2季",
-      "quarter_revenue": 5225386.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 4942435.0,
-      "parent_net_profit": null,
-      "eps": 9.8
-    },
     "5866": {
       "code": "5866",
       "name": "統一期",
@@ -17883,66 +17870,6 @@
       "cumulative_yoy_percent": 96.86237402316672,
       "revenue_note": "-"
     },
-    "6015": {
-      "code": "6015",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第2季",
-      "quarter_revenue": 2396012.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 1314455.0,
-      "parent_net_profit": null,
-      "eps": 3.33
-    },
-    "6016": {
-      "code": "6016",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第2季",
-      "quarter_revenue": 6663094.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 3579983.0,
-      "parent_net_profit": null,
-      "eps": 4.63
-    },
-    "6020": {
-      "code": "6020",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第2季",
-      "quarter_revenue": 982809.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 793659.0,
-      "parent_net_profit": null,
-      "eps": 3.15
-    },
-    "6021": {
-      "code": "6021",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第2季",
-      "quarter_revenue": 2965216.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 2177336.0,
-      "parent_net_profit": null,
-      "eps": 7.05
-    },
-    "6023": {
-      "code": "6023",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第2季",
-      "quarter_revenue": 2478953.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 1543614.0,
-      "parent_net_profit": null,
-      "eps": 4.19
-    },
     "6024": {
       "code": "6024",
       "name": "群益期",
@@ -17965,18 +17892,6 @@
       "net_profit": 1085440.0,
       "parent_net_profit": null,
       "eps": 4.09
-    },
-    "6026": {
-      "code": "6026",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第2季",
-      "quarter_revenue": 954050.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 427236.0,
-      "parent_net_profit": null,
-      "eps": 1.08
     },
     "6029": {
       "code": "6029",
@@ -22268,6 +22183,17 @@
       "code": "6957",
       "name": "裕慶-KY",
       "market": "上市",
+      "industry": "其他",
+      "revenue_period": "11509",
+      "monthly_revenue": 429342.0,
+      "previous_month_revenue": 244936.0,
+      "last_year_month_revenue": 298199.0,
+      "monthly_mom_percent": 75.28742202044616,
+      "monthly_yoy_percent": 43.97835002800144,
+      "cumulative_revenue": 3006681.0,
+      "last_year_cumulative_revenue": 2673591.0,
+      "cumulative_yoy_percent": 12.458524882826131,
+      "revenue_note": "-",
       "profit_period": "115年第2季",
       "quarter_revenue": 2111082.0,
       "gross_profit": 673592.0,
