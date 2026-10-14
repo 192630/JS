@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-09T06:13:26.430075+08:00",
+  "updated_at": "2026-10-14T21:52:08.709035+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8437",
   "name": "大地-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收：大地-KY(8437)9月營收3660萬元，月增率134.04%，年增率47.48%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2RabThYT3p1c2wwN3BRMjFldEhXUUp1Y0Z4eVgwT3l6Z0Vha1hqc05tQVFRUlBadWh5djRhNk5hNmxzZkNhN2VKNFFhbGVzN2ZsYmxPLUswQkY1ak9oRjlSWm1vaUtXNXVjVVg4ZklIcjJQREVETUg4MWtzUmFJUFctN3JpYUMz?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T23:01:00+00:00"
+    },
+    {
+      "title": "8437 大地-KY - 【10/12 產業即時新聞】遠距教學族群逆勢揚帆，網通雙雄帶頭突圍展現韌性- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhYUdMdUw5N3JhRXk1dHZveDJ3OUpuSFFUbGFtXzZzNnhqVG1wS1I0bGJabElYcmRKMHhobV9IY3VIVDEyU25JcmF0ZW9SNlFmeUxrck9XMnc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T05:21:03+00:00"
+    }
+  ]
 }

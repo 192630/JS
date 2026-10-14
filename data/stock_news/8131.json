@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-10-09T00:38:42.577904+08:00",
+  "updated_at": "2026-10-14T21:51:43.819242+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8131",
   "name": "福懋科",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "十強Q4打先鋒 法人中意 鉅祥、福懋科等吸引買盤布局 | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kb0hTUjFjcmFHQ3hZYjZTbC02a1RVU1VNRmpwM2MxOUU4Vks4cmZ2M254NzE4UG55ZjZHak13V1BsMzFmQjYyZGc3UGNxSkpzcHI5d05NYlQ1UQ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-11T17:11:05+00:00"
+    },
+    {
+      "title": "福懋科(8131) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZT3o3bm9zTTUxaFB5aExJZUs3VnN6RG9ISkdPeUJnUzBHNk1IUl82Z0RIMi0yWHk5dTkxeEkzMXhQTnd6UFliZWJ2anY1Y18yVXpZ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-09T09:05:01+00:00"
+    },
     {
       "title": "【11:53 即時新聞】福懋科(8131) 走強站上67元，主力與法人買盤成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLVMzckk4RlhsUG9QSThrbHpsMjU1WUVCQmc2ckkyWU83SGVkTTN0X25CNlE4czJwOWVpdFZkYlZfMDlGU2hyNlJfYXI3Njh0WWtTZlI2SEVBMHdXVExmZlpPVERKNkNxdmxGT2dEZDlaMTJfS1FxSENXaWxOSXpENWV3Smc2X0ZzNDgyWVlB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-10-07T03:53:15+00:00"
-    },
-    {
-      "title": "【09/21券商評等報告彙整】福懋科(8131) 今日僅1家券商發布績效評等報告，評價為看多，目標價為89元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaU0tT1kyb095Yi1MUGpzM0c0YXV3Y2ZNYmVja05pWkZUZHpFSG5PY21tM3BoYUV3ZlM3UWt5QVkwdUFnNHRpSTAzcDhxdGVfN2F4MVFGY2ZGZUR5TTV1Qk9Gby1DeDdJeWJTdkVNeTd6STluU29PcHB6Q1BYTVliaWZfczhmRVVqUXc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-21T07:00:00+00:00"
     }
   ]
 }
