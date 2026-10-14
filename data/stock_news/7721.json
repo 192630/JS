@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-08T10:05:51.986272+08:00",
+  "updated_at": "2026-10-14T10:00:59.496389+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7721",
   "name": "微程式",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "《集中市場券商賣超比前30名 3-3》微程式(-16.66)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTNDc056TlR4Qy1TTEpoc285bHZLX2FpMkJpX0k4V3l6cmstSDRfUzRvV25FdXE0MThBQVdtS1JITXphLVRBNTA2bnBfSEFlODFmSmJGdEZtcDBLa3VPOU1hY1RrLWx5dWQ5a1pHRmdhMFo2Tk5iVUxSQng3UDBuNWxPMU0tS09x?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T23:29:00+00:00"
+    },
     {
       "title": "企業生日快樂／微程式打造創新生存法則 以自有技術跨入半導體鏈",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SWjRZQmxWeWxfdlNpODNPNE8xdXFtUkVJdHBUemE5ZWQ3N0w3MGxKUk9ueFBKWk9fR3NjNnUyMjRKVmJTOUVSZ1FmWlFwRXhHWlYwWEdwa2J3d9IBX0FVX3lxTE5MYlVVMHBmaFlfYk5FYllrWE1qTHdabktMSzg0VVc5eE12Vm9sTGpHWHl4OW10Q0FBNHZlaHB4YXlzUklFNDNZTV9FeFRKaVFjRnNuTi1TTjVYenZndVlN?oc=5",
@@ -12,8 +18,8 @@
       "published_at": "2026-09-26T07:00:00+00:00"
     },
     {
-      "title": "半導體智慧製造商機發酵！ICT廠跨足感測應用，微程式拚相關營收達3成-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORG9TLURxUW03bllSdVRtWWRDbUV4aDhLOUJBYzVnaDFpV0IwX0ZhWUZ0UnYwYkdRU2o5Wlh4Z2VhVkRPT0ttZzl0bG1lQkQwUW1odXNOSUluYkFacWp3REM2RHFYTlVmS2JuUld2QnlaNEM2ODZTLUpwakJ2S2t5MW9B?oc=5",
+      "title": "微程式(7721)拚半導體營收一成，設備合作能放大到三成嗎？-子敏左側交易",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNndJUjE5aUozcTNGM1gtX01WQ0dJQWdJVlNlTUM1Q2Z4ZG81QjFTYkowTEc2VzJjZU5MYjNUSWlnb2I1LXpYWnZOMmhzeFkyc25HOGcwZTZSOTZHZEh5ajFuSHNHYWVWeE1zQnJkUVU1U2FkcU5TVDJOQzNDQmFZVTZyNA?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-26T07:00:00+00:00"
     },
@@ -24,16 +30,22 @@
       "published_at": "2026-09-26T07:00:00+00:00"
     },
     {
-      "title": "微程式(7721)拚半導體營收一成，設備合作能放大到三成嗎？-子敏左側交易",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNndJUjE5aUozcTNGM1gtX01WQ0dJQWdJVlNlTUM1Q2Z4ZG81QjFTYkowTEc2VzJjZU5MYjNUSWlnb2I1LXpYWnZOMmhzeFkyc25HOGcwZTZSOTZHZEh5ajFuSHNHYWVWeE1zQnJkUVU1U2FkcU5TVDJOQzNDQmFZVTZyNA?oc=5",
+      "title": "半導體智慧製造商機發酵！ICT廠跨足感測應用，微程式拚相關營收達3成-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORG9TLURxUW03bllSdVRtWWRDbUV4aDhLOUJBYzVnaDFpV0IwX0ZhWUZ0UnYwYkdRU2o5Wlh4Z2VhVkRPT0ttZzl0bG1lQkQwUW1odXNOSUluYkFacWp3REM2RHFYTlVmS2JuUld2QnlaNEM2ODZTLUpwakJ2S2t5MW9B?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-26T03:27:22+00:00"
+      "published_at": "2026-09-26T07:00:00+00:00"
     },
     {
       "title": "企業生日快樂／微程式 甲方思維模式 建穩定現金流",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WSVRudFlLN2FaR2tBZzNxcWtYM1l4Z3ItVmc2dlBrcDdLc29NdjJMdHl5azd1RGhCdmZOLWxvSFBvT2RCcUg5eWhYd3A3M19B0gFWQVVfeXFMTmdTUHNha0V2U1gwSUJuSkRxZmY5NnRBS3ZmQ19JVG1TSzIzSWxCWVZtaTBrdGtWM19qLUJKUkRrd3RHdTdQQXZaUDJ0XzB2LXNrSFJPNHc?oc=5",
       "source": "UDN",
-      "published_at": "2026-09-25T16:29:54+00:00"
+      "published_at": "2026-09-26T07:00:00+00:00"
+    },
+    {
+      "title": "微程式(7721)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qTFR0Wm1EdWpqcjZsWmU0NzBEQjV4QnFxZlUxUGVlOV91UEtaQlA1R2tiUFdMc2lqN3UwVHJPUklfOTVtU3hsZjBrTUJGMWhGeXNCWUpnVEItOXhtTVBPMnN3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T06:00:00+00:00"
     }
   ]
 }
