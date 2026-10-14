@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-09T10:19:40.209473+08:00",
+  "updated_at": "2026-10-15T06:24:40.748282+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1217",
   "name": "愛之味",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1217 愛之味 - 愛之味麥仔茶YT https://youtu.be/jeR... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1meHJTYnRPaHpoWVhUNzRDd3J2REVxSjJabE55LU96U0hrbHNmOGNmb21RcjNZd1pkVzZDUHNhYndYa2NwSTUxNjNWcEV2NmpPSENvZmdJTTM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-09T12:33:49+00:00"
+    }
+  ]
 }
