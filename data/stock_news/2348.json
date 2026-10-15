@@ -1,57 +1,33 @@
 {
-  "updated_at": "2026-10-10T09:02:14.458198+08:00",
+  "updated_at": "2026-10-16T01:12:09.894550+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2348",
   "name": "海悅",
-  "count": 10,
+  "count": 6,
   "news": [
     {
-      "title": "海悅接手「陶朱隱園」代銷 專家：賣一戶佣金上看2000萬",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOckxubUFramlUN2hLbnZKODZyV1M4cWV0VVRMeEt4eVRXcDQxdm11Rk9fa2tWUTFtQlFSck9KeFhOVGYxMkFwZUtBT1loUlJqdkctV2VBMWNPemlQTjBDTi01RzhJcGpKb2pIV19YT2JaeU1aMHMtZ2NsNWNzR3F3YndqRVZIUWc5cF9OT2hMRHlnRkRiOGNfX01XV2lvaUVSZGxpeVZENXNYejl1dnV3Y2VWQXlLM1dORlZmYkxmVFJMZkh3bkxlYUZ5NmRJdE5LQ0k4YlF2SG1CLWpWOGUyODA3ZGxaX1JvUzNqYkxaMlRNOGFKZkxzMnJuVGw2aUNzWkxNWnFGV0QyQ21xaDkyTDBSbFFrRHVzcDFJTVotNXRqSHZ3ZUZKTFJPTDR5OFhkQUdHUDVSMDJXZGlDS2NkUGxReEhuXzYxd25NbHU3T2FnTTE0bGhJRzZseU52S3N1LURGX2RRcmdreUU?oc=5",
-      "source": "台灣好新聞",
-      "published_at": "2026-10-08T10:27:40+00:00"
+      "title": "海悅花園三房24年獲利409萬",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNFhRVGRseEV6eGtQSWg4MmxPdWxGN3FZTEdEN082WVZnTVlUR1A2U3FfdWNTMjFnNm5mVTJLTHRGODc0R2FNWU9TYnNfZ2F3TjJWZEtuYXFNYWU3MFhwVHRPQjZJdXJ4WHRsR2cwOGhTZXhaQm8wX3ppUkptbk1QclNrMjJvdXlZVmN1M0hCNTJ1eS10cHpaSUJkWlhZSV9ERENJWG93ckpUUzlrb1p1NkNLVlVuczlCQU5reXZUV3dEUEstUmdPanFzMXVPdHVGTjVOS1BZNW9zdHVC?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-10-12T07:19:39+00:00"
     },
     {
-      "title": "海悅(2348) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52c3JFS2taUm81Mk80UUNNX1JickQzRVFBdkZranpTdl96YWFqcmpSUHVVVmhvWnJvTmdZclFKZHhEcU1vVElEeTZjcHVUVUxmc2dj?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-07T15:44:40+00:00"
+      "title": "海悅接手「陶朱隱園」代銷 專家：賣一戶佣金上看2000萬",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lVmtxcGVvUXhWNGNFVmxmRmpNa1JtQWdlWUk2RmVPWUdaZ244aGh2VWx6dDNsaTlPWm1reXVyck12Umg1YWQ3TGsxdXd3Qlp0c2ltVFRBZHZkeUo1clZLWTJTVG1Lb3M5Q1BV0gFwQVVfeXFMTkxYbTBVa2ZVNV9ERVBwOHl2WHE2Z0tWTVoySEJKbll1ZkdUTDVDWG9xYkk2eVlBUUxkNlZRZ0xkQ1pseUNQZUlBQzJqcm5yQTRjU0F6V3AycjhmTkZGRElBMTBGS0xDWHFCb0xEaWx4Tw?oc=5",
+      "source": "好房網News",
+      "published_at": "2026-10-07T02:04:00+00:00"
     },
     {
       "title": "9月營收狂飆96%！海悅接手「陶朱隱園」銷售 專家曝：賣一戶佣金上看2000萬",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1saGg3aFI5WWN6blFUeW1scEZJOUc0V2c2T1hEWE5EVUNJaVBMZUpvS3F5V1phZmJqR1hTeU9yNVk2cXhpUlRsM1huRHJmSmtM?oc=5",
-      "source": "地產天下",
+      "source": "自由時報",
       "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "《其他股》海悅Q4啟動陶朱隱園代銷案",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1p1cGVLeHMyaG8wVDA1Z0xKUTNhcHZZdVJUN3JEWV85MW9CVFIwRE93dnBJbGtvOG96bWdCNmltQnY4QTVGUTdEbTAycmRBUDFkUTlTeWQ1Sk45b1FGVDQxX3FFWHlWY1VxeTdaVk80NmEtZTdZSzBTWmVrMTFLNmNobUJXUVZt?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-06T00:36:00+00:00"
-    },
-    {
-      "title": "海悅前九月合併營收年增83% 代銷收入可期",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iS0tvYV9wd0M2aE9DRGFxbmotU3FOVXNFUGF1UV9iQUVMNkV2bUpjRXB5UHJwcjlURC1CbFNiR3RZajlUZGNOSGVrQUtkb1NEeUZoQWdPdGJ3QdIBX0FVX3lxTE5mamJHTVZGRUxia2JUTl9VeHQ4aFBxd0NsZHh1YjVka2xSLVkxdzdpVHZVQVhnRTdnZnc2U2thR0VTRFhrMHpsamtLUnpHTFFWcDVDTnhVN2ZKczhQc2lZ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-05T16:52:53+00:00"
-    },
-    {
-      "title": "中工「陶朱隱園」代銷案將啟動！房地產「代銷天王」海悅Q4代銷收入看旺- 房市",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93WVN2SnhocmdUUV84ZjlheXhjTlRtOFE0T2Z0elJWVGFzcVFYNi03dW5MbjFRaTdWOTR0NmtUUi10T2N2cjJoMGVsbEZON1Z6ZU1teVZmRmtlWVBMTUtB?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-10-05T10:14:00+00:00"
-    },
-    {
-      "title": "海悅營收／9月14.81億元、暴增近一倍 第4季代銷收入可期 | 集中市場 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQlotVGRuQkVXbXJaWHhNRVVObmF2el85UkxFby1hY3pvUTlraVFhMnhZTUxNTnFoMTBQQlNSODlkRURpQUg0OEE2MjlVemVqMnVmTnYyQXlndw?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-05T09:30:57+00:00"
     },
     {
       "title": "海悅9月營收14.81億元年增近1倍！陶朱隱園加入代銷案源 第四季拚回穩",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOb1NmUGdIRjFpemdPbE5GY1RtenM2MDYxM3lJRmVaMzVBQks3RTJJYkl5WXZOZVl1WmpwUEdCU3FnUElhdGlid3N1LWlXNXMwNll5ay1VR0Fsb0JrUjhBMGdoSzVmVUxwZldXSzRfV0w1UjM2VjRXd2YzX3dXbTNoY3hfYTJYMDV2VWNjN3VEWEMtal9jRzJqRmF1WERUMnFVRGhRZHBNTFUxTi1PWTNITFdfdTRNSWFwSEhHZTN2eWRRMkdRZ1VGeE42YlQ0VFNXelpTaEZWa0Fhel84MUx0UUd0QlhGeGJrR011NUoxbV9WbERpRUJMUlc5cXlWdmNKeVItZzN1R1J0NTRVVjBQVndXSUd6M0VndDF5U0tzbHBDdDJqNjFPaVdlV2dSZU4yUnlaN3ZYdHZma3lzTk9XZlZ0WDdNWGZ5WExsTG5fYmFjeFRKSGlydWhQUU1sV01XMktLSkt6RnU5WFUybUlRLTFtMVJHNUZMa3pRV3hwcDFvRm1NTjJfcHJqV05JbDFVR0xfeUtnZTRZWWRHTUd3MmFrYzFKZVZJZGVMdUVnU2o0Q3hf?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-05T09:12:19+00:00"
+      "published_at": "2026-10-05T07:00:00+00:00"
     },
     {
       "title": "營收速報 - 海悅(2348)9月營收14.81億元年增率高達96.3％｜新聞快訊｜豐雲學堂",
