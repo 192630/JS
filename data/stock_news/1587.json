@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-10T00:22:50.597499+08:00",
+  "updated_at": "2026-10-15T13:58:25.460465+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1587",
   "name": "吉茂",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《集中市場券商買超比前30名 3-3》吉茂(14.68)、達麗(14.54)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObExJUEszWTZubmZiWWJ3SDlQRlhhVFl0RGE5aVRWdmx2WlRRZFF1QVhXY091UGwtSkFEclJFRnZVRmM2NC1vQ1hfdmZoUHBuYjFjZHNaZGV2SnA5MDc2NFNLcnRKa2hQMkpSM05qbC1oaDRTUjJMRW8xeWctSEpfT2pHOHhwX09F?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T23:29:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-10T00:22:50.175122+08:00",
+  "updated_at": "2026-10-15T13:58:25.076113+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1586",
   "name": "和勤",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "和勤(1586) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNG05WENJclZ0c1B5MTlSVHZVanJad0xnMXhSQ3lGX1E0d0JMQWFwQVZUcGk3UWxOdmsxMkNOZHR0UzVXay1VdGZwNXpualA2R3Z3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T09:05:28+00:00"
+    },
+    {
+      "title": "1586 和勤- 又有股票要下市維格餅家將於10／20終止買賣- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13Qm1jQU5Mdm84YUlyTW55TTd0ZVYxV0lVSXZwYkZLdGctcjlFOVNLTUtsbzUtSkM4Rnd4T3Z6MFRMQjV1MUtPWEJCbFNrNE5xX0ZBcHRiRnE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T02:57:59+00:00"
+    }
+  ]
 }

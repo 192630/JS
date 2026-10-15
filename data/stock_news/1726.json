@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-10T05:04:36.362500+08:00",
+  "updated_at": "2026-10-15T13:58:42.340775+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1726",
   "name": "永記",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "永記 2026年9月合併營收8.31億元 年增9.23%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tVk1KRDdCZDdSYmdxYWl4ZDNWcC1OdjNoMU5XQWpoS0o2SEVSV0J1MVl5UEYzZHdkc3Zkdnl4WWFmZmJBQzd3WlgxYjkwcF9BU0thUV9zb0c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T10:37:28+00:00"
+    },
+    {
+      "title": "【營收快訊】永記(1726)公告09月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWY2RsY1hvUmwwNU9udWM3Uy0wa1Rrd3QzZ1I5ZF9QcUtWdmlwYm9UcEw0MlZoeTBYazJpOF9XaEdpVDFEX0cwcE84aFhFSFI0Ynk1a1VkMWY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T07:59:29+00:00"
+    }
+  ]
 }
