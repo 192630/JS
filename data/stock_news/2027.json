@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-10T05:05:08.530444+08:00",
+  "updated_at": "2026-10-15T19:45:38.748375+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2027",
   "name": "大成鋼",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "大成鋼(2027) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZHdkNU9wQVRSMmZYZmpicjZoaTh6QlhKT1BQX056Y1dKbUxlNnBVLThYTF84UEF6Z0huQlhNZUdxTnFFd2phTG50Tk1BSXpwa1ZF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-15T10:02:11+00:00"
+    }
+  ]
 }

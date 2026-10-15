@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-10T05:04:54.949612+08:00",
+  "updated_at": "2026-10-15T19:45:26.434509+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1903",
   "name": "士紙",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：士紙(1903)9月營收1150萬元，月增率-16.56%，年增率-3.89%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3VCc0NkZHlYbWQ4dHVyemJPNW5TUElIUVhpd0UxUzRqbUNXLWxkX0ExVmRVcngwMGlrTnFRVDAtZnBFMmFzRldwVDdZeTlvT0xnbS1ZYkxOMjZnQWx0Sl9UcHU1ODhvYUQwTmNKVExXNTJGQnh3OHlkaGFYRzBYUF9ERzdVMXM0?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T05:37:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-10T05:05:00.678912+08:00",
+  "updated_at": "2026-10-15T19:45:31.697282+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2009",
   "name": "第一銅",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "2009 第一銅- 今年第8度漲價通知來了！中國銅箔基板龍頭建滔宣布漲價15％ ... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uamRST1lySWItem9QcjBORHBDRHlKUTBWVDFIak8xbGdDbGxBSnRfOVpoVlhrSlR1MVJ6aTE1eUk4c3FxTm16TGVnRjRUazVtUnRWVl85QnQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T06:23:25+00:00"
+    }
+  ]
 }
