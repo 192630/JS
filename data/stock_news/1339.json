@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-09T17:19:17.972591+08:00",
+  "updated_at": "2026-10-15T08:42:53.179733+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1339",
   "name": "昭輝",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1339 昭輝 - 成大團隊開發多光譜血氧成像傷口分析系統獲國研金獎特優- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56UFZYWHMyZXItRktzU1dNOUFJdXhPRG0wRnVjaTE2aWlCOThRbVU0TTllUWpvQloweFNUZlRiemY0MzljTDJIbHFjQU55eXlORkFIMDMydnY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T07:53:14+00:00"
+    }
+  ]
 }
