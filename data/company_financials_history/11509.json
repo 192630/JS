@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T21:55:22.600604+08:00",
+  "updated_at": "2026-10-15T21:37:03.530516+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -19,7 +19,7 @@
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_mim"
   ],
   "latest_revenue_period": "11509",
-  "company_count": 1385,
+  "company_count": 1386,
   "unit": "新臺幣仟元；EPS為元",
   "companies": {
     "000104": {
@@ -12089,6 +12089,17 @@
       "code": "2832",
       "name": "台產",
       "market": "上市",
+      "industry": "金融保險業",
+      "revenue_period": "11509",
+      "monthly_revenue": 868102.0,
+      "previous_month_revenue": 927048.0,
+      "last_year_month_revenue": 863855.0,
+      "monthly_mom_percent": -6.358462560730405,
+      "monthly_yoy_percent": 0.49163343385174596,
+      "cumulative_revenue": 8082937.0,
+      "last_year_cumulative_revenue": 7640188.0,
+      "cumulative_yoy_percent": 5.795001379547205,
+      "revenue_note": "-",
       "profit_period": "115年第2季",
       "quarter_revenue": 1115116.0,
       "gross_profit": null,
@@ -20098,6 +20109,22 @@
       "net_profit": 1085440.0,
       "parent_net_profit": null,
       "eps": 4.09
+    },
+    "6025": {
+      "code": "6025",
+      "name": "臺銀人壽",
+      "market": "上櫃",
+      "industry": "金融保險業",
+      "revenue_period": "11509",
+      "monthly_revenue": 1117633.0,
+      "previous_month_revenue": 1566811.0,
+      "last_year_month_revenue": 2517579.0,
+      "monthly_mom_percent": -28.66829502728791,
+      "monthly_yoy_percent": -55.60683497916053,
+      "cumulative_revenue": 14898406.0,
+      "last_year_cumulative_revenue": 3571676.0,
+      "cumulative_yoy_percent": 317.12646947819456,
+      "revenue_note": "-"
     },
     "6026": {
       "code": "6026",
