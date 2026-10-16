@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-10-11T02:43:49.510228+08:00",
+  "updated_at": "2026-10-16T12:44:45.874972+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3014",
   "name": "聯陽",
-  "count": 4,
+  "count": 7,
   "news": [
+    {
+      "title": "《投信買超9-5》台達電(582)、聯陽(534)、嘉晶(475)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0FnYi02Zm05TFNaQmNnLXdTX3o2OXZMYXZ0aTBqZmdaZzBLVV9EUlB4OFNSR0QzSjRMSlVhSXdoWUZpVFJnYm5XdDR1RTlIa0FieWhrVEctbEJRTFotWXRvcHplRVJMQmEydTJNXzF6RHJOZzYzMzItMmhtZl9HQ25aenRfQk9G?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-15T23:37:00+00:00"
+    },
+    {
+      "title": "3014 聯陽 - 這支感覺不錯🤩 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hTHQ1eXFoeHh1T2tfbGVnYWR5YXN6ZEVwVG9La3puZnNvcjVRbExpS2xoNm1GVEw0WUtLNlhFUWM4amF1UjB1T3dpYkowOTZDbW9Ha0VvQUk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-13T15:11:18+00:00"
+    },
+    {
+      "title": "【13:15 即時新聞】聯陽(3014)股價走強，市場聚焦中長期技術與籌碼支撐",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3FlNXpvQjNsT2R3VGRLUVdEU1Z5eHc3VVROQnBaNXdGT3Q4YkhLYXF5OEFvdjZIV29iMHRrZ2UxY3FNMGVhZFJybHA1YmlPQWlkVGhDVy1SNGpLUWRTTmtpc1VXTHRDOXRXQ1lSWWVPb2tKN28zcDJacUsydjYwNUN4NElkaGdNTU8yaDdR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-13T05:15:29+00:00"
+    },
+    {
+      "title": "美債5％搶錢、台股怎麼選？台積電、嘉澤、聯陽等10檔好股出列靠高息與成長力突圍- 證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX0w2eFpSUG1GNVZnaUpVcVFzeDd2Tkd5a3ZPZVB1bF9HVm1pMUsxX01fRWQ5bWgyUnZ0dkJxeTRqeUliZWhsTFZyOEVNRFA4THJTbFY2UmQ2cVhPYXQw?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-10-10T23:32:00+00:00"
+    },
     {
       "title": "聯陽9月營收6.08 億元",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rSF9YRHhvbjBhTDdTQTBfUHh5YWo5Mms2ZmxDT1B3ZTZzTmR0bWVVQXhOb0tYbVpvUC0zU2pkZ3JDTktxMWZlTTdNQ2FBWGNsR2QxQkU2REFUeWZpNnR3aUtXWmctSkZzMkdqUHJBZ1kyTXJCU2tONjZOODI?oc=5",
       "source": "TechNews 科技新報",
       "published_at": "2026-10-08T08:33:18+00:00"
-    },
-    {
-      "title": "美債殖利率衝破5%，兩大族群不受衝擊更吸金！台積電、聯陽、嘉澤…10檔好股出列「建構資產護城河」",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanpVRDd4SnVSWVRpekpNYkhIb2xmYmczUW51UW1kd3ozXzJFS1hjbDhMcVFzRnJfV2JfeHZJazdwWnhmZW8tVFBRMGh0aHZLcjN6dE9sTGotaVk3QU1QRVJpNktlV0M0N3ZfU3FwdkhEUlN2dzc2Z1RZeVI0eUhNcg?oc=5",
-      "source": "今周刊",
-      "published_at": "2026-10-07T01:23:00+00:00"
     },
     {
       "title": "聯陽車用SoC拚倍增，印度機車市場添動能",
@@ -24,10 +42,10 @@
       "published_at": "2026-09-28T07:00:00+00:00"
     },
     {
-      "title": "聯陽EC/USB PD市占增，高階AI平台再下一城",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1JEUFliaEhUR2lUR3ZUN3RyYmFhT1VYRXhDU29XVXdzcXBIb2ZyRnNySFZmQld4czJSOVZNTndZQVo5Qnducmd3bG5tZEoxUk5uX1pQVUhibVRSUHlvc0RNWEQtblFibXBuYklKRWtNa3EwbzJVNWNSdHU2OGN0dTRZUmtPRmtpUk0yV1JPb3dNQTBkLVFYNFF1dnZ5M0pyQ193ZmtWTzFOYmVGTi15MnMzNjlUWkJ4NGRqd01KSWVzMld3V2c1cm9ucFExb0hOblkwM2x4ZHFtbGJKOVREMHp1dnhYN2UwZUE4cTlrS3VtUWZzNndnOTN1Wlo?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "title": "3014 聯陽- 【09/18 產業即時新聞】記憶體IC設計族群飆漲6.33%，群聯、鈺創帶量強攻點燃AI題材 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IYzhPSG0wM1I2aHR4TlhDVWZWUlhDaVJWWUphMzhWTURkME1IdnEwUGt4LW9DN1F5Z0kyb0xTNmg4MC1HTGNvUTN5a2Z5VG4yejJ6VTFhVEg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
     }
   ]
 }

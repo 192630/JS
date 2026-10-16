@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-11T02:43:39.089508+08:00",
+  "updated_at": "2026-10-16T12:44:35.540530+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2923",
   "name": "鼎固-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "鼎固-KY 115年9月營收5.74億、年增131.26%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14NU12Z1NKVGxPTjlkdDNDTmw4X2UzOF80VnlWMjd0ZEdQVVFiRVpha0R4SXdranZ0MmJmeWtITXlBUGdjWnN4SFBpQmlXSGJ6RzRLQ21SWkE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T09:05:06+00:00"
+    },
+    {
+      "title": "營收：鼎固-KY(2923)9月營收5億7445萬元，月增率-25.68%，年增率131.26%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXpMYUJUampYNzNIRWdsQlFvWTN5ZFQxSVREdTY2dzZHaVo3aUh2UUhpODl5czNQMjkxSWUxYmMxZlJkR0p6dEt0b1ptTXZPS1VuMEVraG5DdGJ2NmpQMFZIUU9NRE1yNDZ5SjNQNmdYcks0MC1JTEpoU1I5VFJnNlBsMmZvcUQ5?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T08:46:00+00:00"
+    }
+  ]
 }
