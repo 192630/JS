@@ -1,63 +1,33 @@
 {
-  "updated_at": "2026-10-11T23:49:35.239987+08:00",
+  "updated_at": "2026-10-17T02:51:58.548056+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3673",
   "name": "TPK-KY",
   "count": 12,
   "news": [
     {
+      "title": "TPK-KY(3673) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IR28tcjQ2dE1vWFE5eVhZRm81dWhpelVfdlIwaExjQml2MnlicnptOGNBMTVYOFpLNU0tTjRNNVNfdHJsUjZYMWFB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-15T14:08:49+00:00"
+    },
+    {
+      "title": "TPK-KY TGV試產線啟動，TPCA秀最新進展",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS0hUeGNQUFNPTjdwQVp0cW1Vd0d0UTFFdFZTUVpRbm9Ldi16bzZndGs0ZWRDTlpFR1dtZWo1WVZFSl9WS1B6ajJ1bDdUaWs5Q1M1MU9vSlZXNW91Y2w3WWV4cGpVdVN5Y2paU1pzQWpSbGNhRmRuU3MwdFNPVmo5VnA1a1pmZURyUFlDT19lX2I0Nlo1bF9yNGZXekJLNDdyRFppU01WRXJUbWZLLWZpb2ZnN3JBeWZLc2tpR0Y4QnJiZkZnLUpPS0JPaWdXTXZOYW01Y3JScEdnWDA3LS0wWUNwbkwwM2c?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-15T02:19:14+00:00"
+    },
+    {
+      "title": "3673 TPK-KY - 振作啊，PK - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92MGNzMGtGYTM5ZDAtRlhQYW1sV0t3VUFxUVpPc1dIVU5LYjdUWnRnUzdxTWVCLUlEdDdXQWF4OWdTUmkxRGFiZDBnb2JNc05PVFFBM1lhTzg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-13T02:34:54+00:00"
+    },
+    {
       "title": "3673 TPK-KY - 股市還能漲多久？Ray Dalio 認為，我們正走到多頭的中- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1maUJDbmF1NFBfVDJzRzlFY0U4NVlQbkYtVDNkRjNnazM2Z2ROVDJMRzhyb2tUeFRPeVhDMFpRN3N2c1l1eURPQ0pyamJ5WUc1MHZvR25JSkU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-10T20:14:57+00:00"
-    },
-    {
-      "title": "3673 TPK-KY - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15TjlWRFNQSHpVSnpneUV0MmxmZjFlRnFoRmQ4OUNJM2NZaHZfLXlTZGZrXzM2ekIyOFBTdnZZOWpBUUdHRTZoU1RlWXVIUWFBUW5wSWhQMk8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-08T14:22:51+00:00"
-    },
-    {
-      "title": "3673 TPK-KY - 玻璃基板技術大突破！半天工序縮至幾分鐘拚明年量產- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wQ2dqOXhhUFRRMjVHMXFzaUFqdGNBajZQalJCNTFmRkZzY0N3am56YlRwV1B1X0Jvc3hxX3ZrUnRXVXh3Nzd5bUZ6Wi1YR1RkMU41cGhSNGc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-08T00:17:11+00:00"
-    },
-    {
-      "title": "3673 TPK-KY - 2026 TPCA show - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMmhZNF9sZGV4YjZ0dGIwMGZoNjl1Z0x5SG1zZTNOYkRqQWlHOTJzWFZCWnR1ejV3cExacWt1UjRZanVleWVGa2lwNUw0bXZfclp4dFlMd2I?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-07T23:32:15+00:00"
-    },
-    {
-      "title": "《外資買超33-14》嘉晶(700)、正隆(698)、TPK-KY(691)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUJmSUFscENHR1VvdUtpanVaOW5ZNmpCbzAyYXltbnNFMnhSM1d1OFEwOEowaExwbHlGd0l6Z0FkX2JKMUpseEFsSWJJd0p5aXZrTXRYUXE3MGpzVVRCdUJHcWtmdFBPYXd4REk5RExoZWNGeVB2ZzRUaEh4S0dkMmxobktkRlVZ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-07T23:32:00+00:00"
-    },
-    {
-      "title": "3673 TPK-KY - TPK-KY 和封測龍頭日月光...合作玻璃基板- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yUVU5ZlhuMnlWSGIybjVNb2NXWVBncHVNRlpLTDZlV3B2YU5MejRpaTBwMHRfdWp3bTdOMWEzQW9kV1U1aUl3ZDVxNGptaE9xWXhlcVlUWnU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T23:38:59+00:00"
-    },
-    {
-      "title": "3673 TPK-KY - 勤凱解決傳統電鍍銅痛點?TPK-KY從觸控跨入TGV!｜ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYy1ZSmQ5TjZULUZsZWJscTNpZ1ZSMjd5NzRISVdIQWhWQjJTbFpiR0tsU1ROempZU1I5ZFd4MTJtZHEzZVdkZ0NPdlFRVEhOTE9Ia0l5Mms?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T23:08:20+00:00"
-    },
-    {
-      "title": "3673 TPK-KY - 今年下半年開始，台股類股輪動越來越快， 投資人也開始從「選哪... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUZlVDZDJKd2FSd3NoQTF1SjJTSlBSQ2gxaFVlNDZ5TmdHdDJYeF9DMkJMMWNVc2FCMHpoVEppd1lld3lHbUQyamdSWXJtRUw2djFmM1I5REk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T12:31:26+00:00"
-    },
-    {
-      "title": "TPK-KY(3673)- - 券商分點進出買賣統計 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJNWhmX25vWC1vWnlGcHoyOGVadjNkWU9yZndrT1BpS01PeFVLQ3VsejViQVUtUnNteTdDUXNHQ0ZqOHpJdzRfUmNLR3FQUGVEcE9paE1QRmN6RVRIekE0SzRpRmtibTZza3c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T07:00:00+00:00"
+      "published_at": "2026-10-11T11:14:57+00:00"
     },
     {
       "title": "3673 TPK-KY - Where are you阿姨？ - 股市爆料同學會",
@@ -66,16 +36,46 @@
       "published_at": "2026-10-05T22:20:24+00:00"
     },
     {
-      "title": "【10/05 產業即時新聞】電子中游-LCD-STN面板族群拉回修正，權值觸控廠GIS-KY與TPK-KY遭空方調節壓力沈重",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWQzWHNpbW1oTUUtME4wZGtIOUVvOS1GM2pRX1Y2RXFOcHNDM3VOYnQzZU96akpwQ0F4ZE9LZUQ5RTF1LUpGZmR3Z1FGcmdfLTZTMm1uanJ0V1R0b19QYU5DeHZGVkZ5ZThTajNqTHhyeFNOYjQxdGw2OVBvXzlEMGQyMERMcTRkTHg4bzd3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-05T02:10:35+00:00"
-    },
-    {
       "title": "玻璃基板題材升溫！TPK-KY(3673)股價攻上漲停！-CMoney官方",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YXZiSTdiV054ZW93b0h2QnJ2TmNoMEhBekJGY19HV3ZINkNWOXlWQ0o5ajE0ekZYNnhMYjIzMzlscFU1bU1FUTgyV1Znc01JcTBST3F2dXBlSjZjdm9vZjdCTjlhMy1xeHBBMTRsY1UweDNlbGt0eEhGQnJNQQ?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-10-04T23:50:25+00:00"
+      "published_at": "2026-10-05T07:00:00+00:00"
+    },
+    {
+      "title": "友達(2409)開盤爆量7.8萬張！面板股漲停行情退燒，群創、TPK-KY開始分化| 優分析",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McnpiSnAzbmJvMmw5NUk4dWY5empYODd0NmFIeHdaUEh6bHFqOE1JdlRGV05xZGtuRXNNMkVIN0pjR1JnaTRTOXBaZXlvS2ItQVhGQWNB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-02T07:00:00+00:00"
+    },
+    {
+      "title": "【11:04 即時新聞】TPK-KY(3673) 走強，上攻玻璃基板與觸控族群題材",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVVRYVmxmTWRrcnFsTUp5YVNxbkJnVlY2M0kyYy1ISFJBWE9WSW5SVlc1dTExaTU0U29waHlDUjQ1NXNJYjRlVkZOU2ZVYVpUTERzS0FZZER4b28tcVFLSHlBU3VlVGZ1a3dwdHFVd1Nwbk5tRl9rVlRESXVucUhHVXVrM0h3YXZaSldhQ1N3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-02T07:00:00+00:00"
+    },
+    {
+      "title": "【10/02 產業即時新聞】面板觸控族群強勢大漲，TPK-KY亮燈點火、資金回流中游零組件",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRHh6THRfVUpfNEF2M3pkVldNUGZtSkVOT1diZUdobmxRYVlXdC1WelFycjdfbDRUY3pIMDZHQ3ROZW5qSFZmTGdoYnJkRmhMQ2ZNMnZJRzRvNGV2Ul9HM3RfeFdQUXI1QTFLdFVla0VaRlMycWlXRm0tTnJaUkxTSlFqX25EVW0yY2tFdmtB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-02T07:00:00+00:00"
+    },
+    {
+      "title": "3673 TPK-KY - 這支是假的，輝達的一毛錢生意完全沒有 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2cFlsSlFRRXdORWtTSXRGQ2w0aFI4N0V0X0NmUlNGeDYtbC04TXJZS1pFdzJwTzVKZ1ZsUDdxb1NkTTUxZXZMLWJub25kRThQbkNKM3hGSFI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-02T03:05:12+00:00"
+    },
+    {
+      "title": "3673 TPK-KY - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYeHpjQXpMM3phMVIyOVNkYTNXckxTWjF6QXFhNDBWcWVodEU4WWpPQ3hIUXVnN2xDV281SWx1RmVTbG84dm5hR1pnRUp4ZTNlX0tQTVU3b0I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-01T02:09:59+00:00"
+    },
+    {
+      "title": "〈焦點股〉輝達傳攜手台鏈衝刺玻璃基板 TPK-KY攻漲停",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3Qkx6bGUtbEtyeW1hT0xQRUZlM0xIa2YyT0Y3TnV0SFF5Wm01SlpjelhzakNZeXlpY2ZGbWhsZGtyZ1RIRHplT2FVWVdjMGc?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-09-30T07:00:00+00:00"
     }
   ]
 }
