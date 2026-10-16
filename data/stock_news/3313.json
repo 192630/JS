@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-11T10:00:20.430138+08:00",
+  "updated_at": "2026-10-16T22:56:14.130446+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3313",
   "name": "斐成",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "斐成開發科技股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjFsSmp2MkFlOW1rTkwtZko4bi15Q2ktTzZTcUVQOEV1ZHBKR3ZoaGlLa0ZhSTlnbUhiU3ZqaHNhc3FQMERnQUs0RmJyd3JnWjg2bk5zcDJKbm1xZGtGTEZGLXplUnk4YWFHem1QME53Nk5oNnVCdHRMckVOVnpoZ0swZlBNQWRsWEtlWk1lSFhMUlFXUVg4?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-10-13T07:00:00+00:00"
+    },
+    {
+      "title": "《業績-營建》斐成9月營收為0.01億元，年增6.46%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVI3QldLTjNaZ0JtbW9neE0yUXpIakZmSVM3c3dvWXpDb1lFOXdySDhIUWoyOXpKQUxMQ1d1cW5mTTF1U1lQZVdZN2lEVTVycW9QbGpzUk1NMnlsS2g5QUd5dnJUSlB1WjViWDZRcC00ZGZON09sY1dFV3B3LUpIUW5jYWdUMHhS?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T06:16:00+00:00"
+    }
+  ]
 }

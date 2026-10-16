@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-11T10:00:36.957489+08:00",
+  "updated_at": "2026-10-16T22:56:30.047020+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3432",
   "name": "台端",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "台端 115年9月營收2976萬、年增103.43%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmT1l5YkNvUVJhOFBHeDQybmtoWVBUYk12b2ZacFYwaGUxTG96MENQV3VfVE52clZjZUhRdXMwTGgtSXUySTVqdHl1a3d1dHBPWHAzQzM5Zlg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T05:55:36+00:00"
+    }
+  ]
 }

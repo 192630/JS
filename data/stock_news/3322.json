@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-11T10:00:21.985182+08:00",
+  "updated_at": "2026-10-16T22:56:15.480376+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3322",
   "name": "建舜電",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收：建舜電(3322)9月營收2億4178萬元，月增率14.67%，年增率-9.84%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzZzT1MxcFpyUng0Y3EtNGZCbHY0aklfUVQtcjlva0xQV2dUZ0NaUVhVRnhWSFE2N3pTUG1TQzVFSFFWaGhPU0VPUFMwY0swTllvdUVNMTdNcFJGNjBWeWxmblhkRWg2TTZUZFRYc3FCYjRiamMxeXhhcmQ5Y2ktX28wSGZLd2lo?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T07:23:00+00:00"
+    },
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-2》建舜電(-17.06)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmplRnhJYmFjbzJmMEkyWjdHX3o5R0FFQnBRS2dTOFFkeUxDMEtEY2dSZ3JUMWJuUU5HdEx2TDFucHpadWpMNEhQQ2JwTnZzSC10ZUdVRTFtU3NGcEs5M0gyaWJ6VnpWZ1h0cjZMVXdnandDWEpMZHh3R0pwNUJ2YWVxc21BRW5G?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:33:00+00:00"
+    }
+  ]
 }

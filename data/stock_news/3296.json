@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-11T10:00:15.598269+08:00",
+  "updated_at": "2026-10-16T22:56:09.824174+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3296",
   "name": "勝德",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《集中市場券商買超比前30名 3-1》勝德(51.65)、遠見(35.73)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0xDRnJxYUtuU2FrWHdhaWtzeGh4VC15UGMxQURMeGUtdnFZUmd5YmpMSV9HTWdTd09oWm1EN1dINlk0WXktRW82YzN1RjA2MVh1eUFUalF6R2F4cFhENE5MaWV2S1Ffc0hnOGhoVks0ODkzeHJEZWUyY3ZsenR1RzdMbUgxLWty?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-14T23:29:00+00:00"
+    },
+    {
+      "title": "《集中市場券商買超比前30名 3-1》勝德(64.26)、國揚(38.95)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVndfNVZsOXVpVmlXZENXMEFCcjBlVlJjbVYzbFdVNGhTR2FkUmpXb29DWkNqQVZCeVZVZnZGNS12NzdwdkVLcVYzdXVUZ05kenZ3TGxzb3Y1SEphbjFEUTZUdHBMcU5ZVHYtYUdCTHlHM1h5MVdUMEFLdmQ3Yl81dGMwNVhoY3lq?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-13T23:30:00+00:00"
+    }
+  ]
 }
