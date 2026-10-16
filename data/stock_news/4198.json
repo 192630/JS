@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-12T04:24:37.801689+08:00",
+  "updated_at": "2026-10-17T06:09:16.963067+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4198",
   "name": "欣大健康",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "4198 欣大健康- 欣大健康115年9月營收2122萬、年增13.49% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ETG9UR3VfaFpPZjZlZzVHLWs5bDBuYXhTZXJQeElaTnRVWVBtOVp5ZWNvNWlLQ25MTU1pekplOHdCM2prX1g0aUdXTURHQzVmVmttaWU5Rzk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T07:56:36+00:00"
+    },
+    {
+      "title": "《業績-生醫》欣大健康9月營收為0.21億元，年增13.49%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjNqM2VRRUt0c19iZjl4UnEzaXhMOVdGc2xtblZtQ1hicVFIRHJpOE5UQ2NTNlY3TzIxZHoyckFIN1dKbEJwcVpHUF9Nd0ZsbXRHTzhnT0RBMGY1bWplVGo1LXg3YldKbk9mcTZDVUQzSXc1MWVyTjVtZmJCNHdrVFhfNkVSZkNE?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T07:34:00+00:00"
+    }
+  ]
 }
