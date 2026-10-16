@@ -1,45 +1,63 @@
 {
-  "updated_at": "2026-10-11T06:43:02.512684+08:00",
+  "updated_at": "2026-10-16T17:57:28.343100+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3118",
   "name": "進階",
-  "count": 6,
+  "count": 9,
   "news": [
     {
-      "title": "沃爾瑪、山姆雙業態進階：選品換帥、擴張分軌與自營共振",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CalNvdTZjMVM2YnBLRjFueTBKSWJReFBCVldIY0ttQ2NuWjBEX2xOY2pzdzBWTmpaLUo0YmRzd3pkRU5XUmxIWnY1Z2MwU1JaVW43Z21xd1FlWkVK?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-10-09T08:34:13+00:00"
+      "title": "Google AI Plus 訂閱福利縮水 用戶將失進階 AI 模型存取權",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSXhXMnN0dEVUdjJkdzNsNnUxa0tlVm8yRWN6d3JKdVBiUnBLOGhiTWtxSEN3TnF5cTlrRzZzME1XcWczN3h1REk2ZWdiajdEMm5GMGFMbGF5clNPNngtbU1VZVRjbUtVVUVYMFFoMjFGOGw5c0c3ZUVXUm5iSkVpS2t5OUdsRUFocDJSRXBxbXZkRjJXU3YxMWc3X1pHeDltYTJoNjcyQkVpbzhvbVhaWkFvMXdxUXdGa2VrSlRPUzdjcEJhc25xSzN5Xy1xUVNoVGlTVXpQS2tjdjRBdUJKRV9xdnNPVnMxSU0xcGpsUmFkaHJhdUZOT01zbGgzOGR2?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-16T05:16:33+00:00"
+    },
+    {
+      "title": "AI 加劇行動裝置資安風險 iVerify、NCFTA 將合辦進階高峰會",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLUZuNnJiS0thNF9qaGZsakR6aDhCYVdzQ3RMRHVUVTVJVUMwY25CMW9IZG53RXg1cGZSQ1pOcjJTMDlmM0ZLZV90dUJoRUl6TG9ZUWtxRk04clRHSUl3Y1lWRENiOHJVeUlXUHVXVQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-10-15T13:18:48+00:00"
+    },
+    {
+      "title": "活用路由器12項進階功能：強化家中網路安全、效率，更能替代手機App",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxONmFMbkg1UE5HWjVFQ0FmbHFtS2VVVlJLTHNRVXQ0MWJ3TkVPWmMzeW43bEpUdlYyYks3aUZIZFdoak1WcElNMjJESWI2SVViSGNOZ2NJRnl1Y3BhOExYNzI0bVVPOWhranFqV1NleWpoT1p3akd1cXk3NENSWEt4Z0hIRXZONVlsVWRvYmE1SUFMSGtHVnV0Z2NYejdSUFNBRllsamZNSVQ5bmJrdEZMcmxYNnRudGV0Y09pdTczV1B3aC1sdm5aeVV5NERXRU1ubmR6eXFmNXJkRzRaWjhMeEFlaFpWa2tiaS1WVXdfNVBfcG9PdW04WWFPZEJCUzlLV2pRd1k5ZVZRN3M4Wjc1eHVRT0NsRGw3cm1RT3RHQXI5dDlzWDdVQUtKUXJsLVl1bU1taDZEWGYxR1ZpV1I3UzMzMklaQVVWZS1IYVNULXR4bV9zVkJ6cWxBOTUxRkVMNG1IV1RFT19fTG5EVTdIcC1rUDQ2bHQwSW44N2ZyMFE4dE5KSEU3ZHZnY25vRVlMZ2hRX3VrdGZCUTg1VXc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-14T15:54:55+00:00"
+    },
+    {
+      "title": "LINE再推6大進階功能 升級亮點一次看：通話視訊可以錄後留存",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iclZtOHUtRmlrMnQ2UTVDakhvSGRVanJoa25TQU4wSzhiU3dib2pXN0w1WldhSk4yRHVnMzNubHRuQUEwbkdiTzVsdw?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-10-13T10:35:58+00:00"
+    },
+    {
+      "title": "LINE Premium 再推6大會員進階功能從訊息傳送到通話紀錄全面升級- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xdVM5dGY5c05NWWxKTUFxYmQ1WEJTdTdrNUlieUQ2OUVmRFVIX0dfa2NRZVVtNTVKZjUySXV6a3hSOFBDMnd4NnRDanZwOVU2aGNlcG9BX1c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-13T08:54:18+00:00"
+    },
+    {
+      "title": "所羅門布局再進階 聚焦全晶圓翹曲、TGV瑕疵檢測",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YY3Z6b29wN29YM0FEWW9HVXhRMXd3Nk13Rzk0MHY1TjlqcVZnNGZfVko4VEtpMjktYmVSaEtoMW1QZkFNcDRYcG55ZWV6a1dhenJlZEJSOW8?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-10T16:11:05+00:00"
     },
     {
       "title": "台水獲國際水協會進階認證 年減碳逾10萬噸、AI抓漏降漏水率",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43eDEzbzAtQ25vUENpSmlXaTJCTDd1OHByWUhPRlhETkJBblUySFJPXzNGQTBad2UzcEVqT0thVWw0WUZUR3FGX2puTmhYa2tQekV5T3BiUks?oc=5",
       "source": "自由時報",
-      "published_at": "2026-10-08T17:46:00+00:00"
+      "published_at": "2026-10-09T08:47:27+00:00"
     },
     {
       "title": "美國逾八成投資人欠缺進階素養 高報酬誘惑下風險意識低",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQRkdkV3drSzhPYXZ1bnIxVWx6cExiVGJuV3ppZHZHdjVDYnNubW9yeUhQanQ2VUdSRzBadDVlUFh0UENuV3FxcmcxTzBLYnVBcVJQME0tbGk1Ukt2cVN4TWNuckpLMXdNVm9XZVVnZG80Z0xtSXFNRFpENzhYcno4Y2EtamVHZHpVel9RUkxDbmFNdV9hT1RyOFg4MmVhRXlNYmVOVXJrTEFYVVlyX0pMdjlFZUVtLU45eTVUNnhzcEtPbU1YQ2FENURmR1VCb2I1TjF4b3ZMbHFBQVBTY0t2TVNLWTl5Zm5fS0hpNXRlc1RQY1R4NGREdG9sOHlXOTUwQW1ydWprVnNfaDM4WmtUOWp3RjNMOGloZXUyR3U5dlJpV1hmcGdRaC1SY3hVdmFIUFBpajRiQTkxWmxVX05jcFpMcThVU08wMlk1dWVscUV2M3BMV3o4ZG9PZ0FHZnpEQU1DS29NNjJKc1hIbDBlRWxWdjFjYll6X0tMOFlJd2FpandwN3pnSVByRGJ1aDA?oc=5",
       "source": "商傳媒",
-      "published_at": "2026-10-06T05:35:24+00:00"
+      "published_at": "2026-10-05T07:00:00+00:00"
     },
     {
       "title": "Android 17 剛進行了一次安全升級，擴展進階保護功能- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43ZTRXWGFxRy1rOFMyaXUweWduUDlQaWUtTXVHS0pzeWZpbi1KM0N0bnhTVEppTEoxZzRXT2pxcmloRnRZQnRwTFltOFgzVWZIUmJJNlU4MnM?oc=5",
       "source": "CMoney",
       "published_at": "2026-10-02T01:19:40+00:00"
-    },
-    {
-      "title": "客語學習再進階！《共下來講客》繪本、音檔、教具帶孩子玩中學",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbDFkRmlzZEppSmY3QmF1NGQyZERwdVJ5SU1yV0QwUm80eWltVnpjRTE5REUyVnR4c1RxUDZOajFOWHRvWGplRklQX0ZiLWpFTmdkVktzY3NvaVpnak1MS2JQZWxVa3hUam1zWTNxeThEMUVRV0NLZjZjT2VNY3BOMmZmWXViUS1KZGZ0TXlvOGRBU29LSm9mbGR4NG4ySEs4cnZsajNZN1VpNDlFUHZDVHVONUFGamVPUTFEUWRCSnhONEtRM0hfd1piTHlUUnVnZF94MDk1QXpCdzN5dnF2aGQ3ejg2aXlBa3RxZnpTT2xScVM1cS0ya2RveTVLNTBRdzM3X1hweEpLQXJxWE1tTTlzb2FKcS1YM0FQdVAwWllxQzl4c1VfTGFPSXJMTHplMFlIamZZV2k3UVlZTHVBazQxM0phRldrS3pXLU1PTERYbU8yODBkTFhuNHljbjV4b29HS1pQN0dQbmpqc0RwZy04TGNDYjFFdU9vUWFqcUg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "Meta One台灣上線、最低月付49元！IG、臉書解鎖更多進階功能",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XN0QxOERuWDdTT1QzSXA2VV9QM1hId3BtamFIQmIwSmtLUURCcGpULWd3QnJ0LWt1VGJjVjJxVVg4ZF9mZzBfUWkxdU5tYndOZlFnRkg4ckI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
 }
