@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-12T07:49:30.394703+08:00",
+  "updated_at": "2026-10-17T13:42:43.031616+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4745",
   "name": "合富-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "合富-KY 公告本公司115年9月份自結應收帳款餘額及回收情形",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqRjFOQm9jMmhvYlNnWUYzR0lVWUVKd1dUeW90OTNnQXlxRjJxYnU4NWVUcmE4Z3k3b09XMENIaXI4UGNKWWZlNE9tRUZzbmtqd0I2THlsUDM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-16T07:29:34+00:00"
+    },
+    {
+      "title": "合富-KY 115年9月營收3.46億、年增27.39%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xeWpBWVVrNW5UUjBGdXpnaldVS2drbVlBVWdLN1hXX0dhTF8xZ0lCa184Q2E5aWMxdTF1WktOR1JPYVdSTU95UnhfT1FvVVh0SFhlRjR4c2M?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-12T11:09:10+00:00"
+    }
+  ]
 }

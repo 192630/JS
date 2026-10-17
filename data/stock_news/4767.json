@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-12T07:49:35.012274+08:00",
+  "updated_at": "2026-10-17T13:42:47.695541+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4767",
   "name": "誠泰科技",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "誠泰科技 115年9月營收7829萬、年減6.58%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1weDZkOUg1enVhNGJucDNtS0hZdGFVbXJES18ya3EzamhsWDdFRUJtdlNsMDQxNTVzbE96XzlkWi1aVk9TMS1jZjR3b3hHNWVSTzhyOUhmQjc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-12T07:49:47.171886+08:00",
+  "updated_at": "2026-10-17T13:42:59.908222+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4935",
   "name": "茂林-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "4935 茂林-KY - 茂林-KY9月營收5.45 億元- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CcXlWSUJ3cVNnQlpuaFkwQWdsWTZLcHR2RzRxWlBoQVJLLVpVeTlPU2JJa0t0bGYtSkF6Wk5PeV91QVkyMWUwM2tMbEVzd2c1S1UxeFdvNXY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T04:23:10+00:00"
+    }
+  ]
 }
