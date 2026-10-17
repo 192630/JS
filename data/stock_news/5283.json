@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-12T14:12:26.941541+08:00",
+  "updated_at": "2026-10-17T18:59:11.338025+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5283",
   "name": "禾聯碩",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電纜》禾聯碩9月營收為6.06億元，年增29.46%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1h1MmtMLXFwRUVBQ3phaEdnNzZEbURKa0xRby1IV1RNcDhnR09MQUFuR2Fhb25pMnUwYnlIT1hVRW50S215WVBEQ0dYREZQUUliMVNGWEJkVV9CVlVQVFJWVno5dVpRZnRYd042RTVvYndKaXRib2hVcjlVOTZlc0ttUU1kZWc2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T07:12:00+00:00"
+    }
+  ]
 }
