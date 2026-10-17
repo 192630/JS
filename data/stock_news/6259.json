@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-13T11:40:08.444117+08:00",
+  "updated_at": "2026-10-18T03:33:16.382551+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6259",
   "name": "百徽",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《外資買超36-4》中石化(6305)、富邦金(6259)、遠東銀(6062)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkJUb3RwQzhhN0liU3h2b3JSR2VwckFFYS0tMC1sZWtzZXNGUWNTM1N0MzZWYU1NSDR0aTFfeFpFZ3U2blpIZkJ6Z2hfVnNDekx0cmVKRUdNVFF6ZnBPaUpDUC1yWjJBU21XVVJxRUxDM1B1cnJRMzZFMGlybGk0Ql96Z1paY0dS?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-17T01:17:00+00:00"
+    },
+    {
+      "title": "百徽9月營收0.66億元年增119.41% 1—9月達5.74億元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NSHZ0bFlvc09FY0NEVzRLUjhtcWRxUHpqZHFnS1JXXzBibUJTUE9OalY2VEM2YW95ZVZMeWZIa1hSMlNjSUcycGptQWRMNjg?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }
