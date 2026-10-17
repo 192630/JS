@@ -2060,5 +2060,18 @@ jobs:
             echo "No ETF holding changes"
           else
             git commit -m "Add final Taiwan active ETF holdings batch"
-            git push
+
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+
+              echo "Push conflict on attempt ${attempt}; retrying..."
+              sleep $((attempt * 5))
+            done
+
+            echo "Unable to push ETF holdings after 3 attempts"
+            exit 1
           fi
