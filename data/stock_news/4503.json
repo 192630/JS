@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-12T04:24:50.534423+08:00",
+  "updated_at": "2026-10-17T08:36:26.628659+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4503",
   "name": "金雨",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電機》金雨9月營收為0.40億元，年減47.95%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3hJMXVyazRnbGxjTktES0dKSUN0UWFwSUlkVTlvM0Njb3RTODRnVHZTTlZCTm0wS3lPbm14YkxiTlo5eTRPZkhwZC1IYndiLVVqLWE0OER2SVJSVS1kRWJxeDBLeG5iNDA3dlR5VUVObDhKc0RVbTBPQmw3MEw4d292UENaRzFm?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T06:42:00+00:00"
+    }
+  ]
 }
