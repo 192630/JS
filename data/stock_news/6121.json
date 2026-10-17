@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-13T07:05:22.605024+08:00",
+  "updated_at": "2026-10-18T01:20:54.970947+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6121",
   "name": "新普",
-  "count": 4,
+  "count": 3,
   "news": [
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-1》新普(-25.54)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVVtYnVwZDFacmhvQ2tIR19iZm41S1ZQQVhwMTFOTVlQTUlRUzdkbG5uQmd2OWJRQVNxaVJnSHVKMXhDTUdMTVlCOUkteVI3c3I1THVFczNQdVRuNVNXX1hMODNDcDNVQ0ZkTWVUa2dNN3F3UW5YdXhvY2wwQmxNUVhXN1RwRGpN?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-13T23:30:00+00:00"
+    },
     {
       "title": "獲利速報》群創首季EPS0.2元 全年獲利可期 新普首季EPS6.83元 估Q2優於Q1",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpWlRXRFVqeXF4dlJXbURUV3MzVUEyS0V4am96aVRUODViT2U0ckhteUQ3UUJERnllbUZoUm02elZHN3YtWGdFZF9FYnppNE83MnhMYWtLYTc?oc=5",
@@ -12,22 +18,10 @@
       "published_at": "2026-10-07T00:29:31+00:00"
     },
     {
-      "title": "AES上月業績月增0.5% 新普-10%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqSDRpcVM5eGstZHQ3UTNjRGJDZDdCWS1DWWoxa0o5Ul8tdWE1em1WNENfNWJ3cjJGd3RTb2JLZlROeF93M2tidm9Ga3FqNGEz0gFWQVVfeXFMUG5zMWkwcGFON2RJazlkbGpaZU9mQlRMNDFXcFpEOWwtVGlTb09IcUlsZVdmeWppdHNUcUVaeUtpWDNwX1hNNjFmYjNqS0pGdUE5RUE1TFE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-10-05T16:55:55+00:00"
-    },
-    {
       "title": "電池模組廠9月營收出爐 新普、順達雙減 AES-KY雙增",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tSFJYLTZMV25aeUpOTFJsQ0gyaFkxanlkVE9DNjM5bzQ3aFh3XzNfY2lpZ3FCZGI0ZEs2TFNMUjc4YTJLV3FhcmpLaFFJLVFIdXpfWUVraWM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-05T08:50:34+00:00"
-    },
-    {
-      "title": "新普科技股份有限公司",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXEzRl8tRE93UnBpaE5xcVNma2tJSnVKOUtQaWZxMXd3czJEdTBKV1dxcXg5clBGQ0t0M0xubVJRaTB0eXk1MUdONUFXWFhjSEtLVzJyOTZ1U203Mlp5RTVLclI3Y3RDOWg0NmRNeU9JMTNrZlA3SEJwYUR5MmJ5TVdKaEJlekszcWpuTDcteWoxVzR4RE0w?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-09-15T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BNlNpd1E0SFAwczQxcmRZbFBTb3I3TU5oX3dzbVJIV1owM3VWQ0dFaEx0VGtOMS1udHFWUDRJZnk0cmVZRC1xemhqNE9yQ2ZaVm5Nd0hSdW4?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-05T07:50:44+00:00"
     }
   ]
 }
