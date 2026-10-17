@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-14T03:22:47.977022+08:00",
+  "updated_at": "2026-10-18T06:28:09.540130+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6609",
   "name": "瀧澤科",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "瀧澤科中國廠接單佳；走心式攻液冷報捷",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQWx0SFcwQmdXRHAxdXNSY3l0S3BCMzhkdFY4M3NUY0FTNjZFVGQ3RmRvcFNVMjcyVjBydnBXZWNqRFJwZ2VsU1N3LUpZNm1XOHpUcFB3WmpnMUNVemF2NXp1NUsxeUJ2UGNqZTFtYTN5VzFMcUh6TkM1aW9EZ2FIZ1NjZmJCclBUcGtKdnZNc1lwNnlqLTQ0MkkyR1F6Vnp5RGdYU3ZQcXZOQ0sxRUZFdE5VTTB1NXlnZGoxMGYzR05laDVMbzhrTE1wcE9yYzZWM0t4Z2RKV21Eb0UxZ2x2TXlFdWlaTU5LVk9mVlVmWFhxcmJnZlhDRnVLdmhqcU1oVHJOVFE1MW9tZ1gyWXY2eFhaemZmUkNaOVRWcFdqZ25nenNZX3ctUA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-15T04:12:40+00:00"
+    },
+    {
+      "title": "瀧澤科攜日廠 搶AI商機",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wYXFsN2owYl9GQVYwbmNqbkZwN2g2azVqN19XMnlYc2R5VkNmNlVpdkpTdWJkVENuOEwwc0FlXy1uNGNxT3BxaDBQRmF6QkpKekx6RmVPR2drYnPSAWBBVV95cUxNV1RJb092TTlMbUtyckZRdS1VM3pSOTl0c2ctSlBXUFFBdTZSSi1pelZqbC1PU29sbjh2dHpxUFhOLU9ERHROVmNTREtsVXVEeTcxZUpiVnhHd0tpSFdGUVE?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-13T15:25:48+00:00"
+    }
+  ]
 }
