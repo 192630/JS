@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-15T06:24:13.654293+08:00",
+  "updated_at": "2026-10-19T04:55:05.096945+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9950",
   "name": "萬國通",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "9950 萬國通- 台南地鐵新站10/17通車提供餐飲購物、置物、停車多元服務- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04T25aWTdJekkxMmdRb1F3Z01uSms3cXZtZ2lTWm1Kd2ZabzZ5aEMtVFFfOV9FNkdUM2UtZl9HVy1JakdBeTNJLXBDRDNVWUllTS11QkpZcm8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-16T04:38:28+00:00"
+    },
+    {
+      "title": "9950 萬國通- 台南車站今晚最後1夜！鳴笛送別百年地面鐵道明迎鐵路地下化- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQWpsNWQ0aHVCUkd4Q2VEdGxSMlExLUV3R1dmZzJVM3IyWU5sc0pDMmo3a29Oa25GbTZzX2pMY2RpZ0hBMm1neFpjREJGd2lUSHlEUHJ0V2o?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-15T23:51:42+00:00"
+    }
+  ]
 }

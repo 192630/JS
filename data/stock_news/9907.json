@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-15T02:44:42.435645+08:00",
+  "updated_at": "2026-10-19T04:54:49.919362+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9907",
   "name": "統一實",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "統一實9月營收38.66億元年減4.6% 1—9月達322.77億元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ybEJfUm5fQ0N5b29FSlFucHVFdktZMWtaUE9JVjNJMklEaVFGUC16NHdGVlNDLUlOY3JnaXVsWlJBbkNqMnFnbkVaWElCTDA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }
