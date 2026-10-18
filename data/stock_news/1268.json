@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-15T06:24:49.279718+08:00",
+  "updated_at": "2026-10-19T07:23:42.371053+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1268",
   "name": "漢來美食",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "漢來美食營收／9月破6億元 尾牙旺季加持第4季展望樂觀",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02U1k1ekpiNkgzZHpTczFVczI1WFY2ZUNxSDlTWEpxT1JjU1c5NlR5eVJlWlFMRDNqNjFfRjhnRE51dm9YNElFN3lOdnhxa2x50gFWQVVfeXFMT2ZuYXRJZDlqX05pM2pBeWlvTHJrVGU5emo4ajlLRVpvcTdVeldTNjN2bDRzQ1JPZGFfc0NFQVdya0JfRWlEcVV4alBjTE9jOWhxUWZMNVE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }
