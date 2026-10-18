@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-08T06:06:04.355048+08:00",
+  "updated_at": "2026-10-18T14:05:22.070534+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6792",
   "name": "詠業",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：詠業(6792)9月營收1億2555萬元，月增率-4.08%，年增率13.69%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFU3N2NZTk81dlNjSHlROXZGMkxORmtrQThoS2h0al9IeGJJbzFPNTc4N0pyWWltWkFpNVUtLVBoUm1IWjk5bEVwa21jajNMMHVkaGRwa1FoYVNHWnVycFJMMUJrV19NMUtkcUp1elVDNEtNN0xuTkdveTFQR05FbmZ4VXFQY21C?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-11T23:18:00+00:00"
+    }
+  ]
 }

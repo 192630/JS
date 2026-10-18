@@ -1,21 +1,69 @@
 {
-  "updated_at": "2026-10-08T10:05:15.726827+08:00",
+  "updated_at": "2026-10-18T14:05:41.150069+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6885",
   "name": "全福生技",
   "count": 12,
   "news": [
     {
+      "title": "10/12-10/16生技股週報快訊：全福生技漲16.26%奪冠、慧康生技*-KY漲幅12.51%",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lOU9pVDEyZElHTVhLMzRKeXJGb01tUGJ5NjFpTFh5UHQ4cUk4MURoeVFRd3l0amM5V00yM0Q2MUo2eEFlc1BmOUM2N1hjRVVxV2ROVmFBNE1pbFZyZzM2NE1hdHQwY21tYjNhOWdqejNpdW1DU2c?oc=5",
+      "source": "環球生技月刊",
+      "published_at": "2026-10-16T10:24:36+00:00"
+    },
+    {
+      "title": "10月16日 Genet新聞: 【華安法說】、《10/15日法人買超》外資買超前三名：健喬(1332張)、晟德(987張)、藥華藥(683張)【10/15日股價漲幅】全福生技(+5.02%)、視航生醫(+4.82%)、鴻林堂(+4.38%)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sYWRwN21ITkN6WGU3RGh3S3RWQjN5ZnBDVWhSenRESGZfbERPX3hGUkJWck5iYkp5OFZDcmpMNnNQV2oyRU50eUxXY0FFWWc2VXEyS252VXAzWWFoQXlCYUkycW5pV0cwWGlGRWln?oc=5",
+      "source": "生技投資第一站-Genet觀點",
+      "published_at": "2026-10-15T23:47:26+00:00"
+    },
+    {
+      "title": "【09:56 即時新聞】全福生技(6885)盤中續揚逾3% 聚焦BRM424授權進度",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUUwR3FNTFpoV21QRjFKT0JVaExTaUlzQ1E4SFVMOXB5SXFrYkV6NENQUEJwNC1zbTVta1hrcWFHRUY1TTZoRm5JVnI2RzBvUnhHTmJMNWJVeUxDdUZDcDBHQk9CVi01VUcyMjdsZEpqMWVvRWFSRk84TUhUUWRYc1JWVUdXN0g0cTh3U0x3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-15T01:57:16+00:00"
+    },
+    {
+      "title": "《10/14日法人買超》外資買超前三名：沛爾生醫*-創(5116張)、全福生技(1358張)、台肥(850張)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wLWpTR3hmTlNjelJvSnNRaW5FN2tyTXE1b19oV2xIRVpnOWx3bU5lWFdUdzFYaUZ0ZjVHVnVXVXFHUGQ2NjkwbE50TkVKSjd1SjVyN1BhVW9hMWxZeHNFeU1OR3FpT3dZdGxJeHVB?oc=5",
+      "source": "生技投資第一站-Genet觀點",
+      "published_at": "2026-10-14T18:14:46+00:00"
+    },
+    {
+      "title": "【10/14日股價漲幅】全福生技(+10.00%)、漢達(+9.64%)、宇越生醫*(+8.89%)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMdFh6Ym5kLTNsLUFNS0JuZGo4eGJRRTFjTTRpdll2bXMzd1VpSUlQZ1VBWHBJZnk4aVVBRzhrLTJybzE2ZEZKNWZJaGRaaklfSzNRRU16WUFleXkzdmVtMEJVaVRjVk5Cdk9GOU1n?oc=5",
+      "source": "生技投資第一站-Genet觀點",
+      "published_at": "2026-10-14T14:13:56+00:00"
+    },
+    {
+      "title": "盤中速報 - 全福生技(6885)股價拉至漲停，漲停價31.9元，成交2,431張",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14THVhQ0JWb0hyeENBVDhkd1AwZWpINW45bmtqclZhV1AzaHBkR2VRTW9GSFEwNXpzY1pmVHNzc2RhcXZyVWV1eUFLY1VxSHQxYV9zRWt6bHdVLW1Zbl9FZTJXbGdYUQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-10-14T04:02:00+00:00"
+    },
+    {
+      "title": "【11:07 即時新聞】全福生技(6885) 股價走強，市場聚焦眼科新藥臨床成果",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdy1sNTVuTW42ajF3X2Y4b05nc2F2R1hUNmxGNTJta09SaXhjOXR1aDB3amdZQ3ViMHBsSC1vRFh2aEo2UE1FMGRJRFd6SFVaMC1xVGNoeE9CbFhENjhnUl9VRmx5cHJWRzd2YVNPTXhydlJXb0tPQlFodWNqak56end3TDBYXzdXRGMtRE5R?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-14T03:08:03+00:00"
+    },
+    {
+      "title": "《10/8日法人賣超》外資賣超前三名：天良(-1546張)、康霈*(-952張)、全福生技(-283張)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zaWlNWHNDaXhuNjN3MDRNWF9SNXJNS0lGM2c1UXRyak1yaFlOM1R5elBVT09TUHlDTk9Ycl9DVExVcjMzNUFFRE9xdXM5cmNRandDTmxDVjluMGlScXlON2QwT1d3M25SNUJUSGRn?oc=5",
+      "source": "生技投資第一站-Genet觀點",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    },
+    {
+      "title": "全福生技 115年9月營收123萬、年增209.55%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SWHhSTEVCVUFMNlVhai1kQ0xzWTRvVGZIU0hyZmM5R1c5T1ZnZXFtUUlJa1piM0xuTkQ2bmVsS2M3ckh4SU1QcnRHOWs3Q25CbzFGU2VVMEU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T06:40:11+00:00"
+    },
+    {
       "title": "【13:06 即時新聞】全福生技(6885) 股價走強，市場聚焦眼科新藥進度",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1VJa1FHQUxNR3FKZnFzNDdSSkFmdmdqb3g5VGRId2lWemZKeXlKVGdNNEkxcmswTVRLWEVOaGNYTUFLMDlzb28yOGI1ZVFJOFRDZ0I2cDBUeGJrMS1FeTlJVG1sSWE2ZTVBam5FcnRvb1U2S2VwbzdscjBoNEN4SW1aTzZycU5UZVRIeXJn?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-10-07T05:07:33+00:00"
-    },
-    {
-      "title": "《9/24日法人買超》外資買超前三名：全福生技(249張)、國光生(155張)、喬山(144張)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BUG9JRG5tc2EyNjJtTURXN2t4dVRyRUo2OVFZQ2tMZDJEaS1BUVpHaUR6b2RyUXptRnc5VGx2NzVEc2dBQzNVQ3dzZlBtbnZhUEdqWVUzZTBtcTBja2V2UHFTNHgyYU9qTzJmZU9n?oc=5",
-      "source": "生技投資第一站-Genet觀點",
-      "published_at": "2026-09-24T07:00:00+00:00"
+      "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
       "title": "【12:05 即時新聞】全福生技(6885)盤中走強，市場聚焦眼科新藥BRM424進度",
@@ -24,58 +72,10 @@
       "published_at": "2026-09-24T07:00:00+00:00"
     },
     {
-      "title": "焦點股：全福生技(6885)法說釋利多，眼科新藥全球授權推進",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbUFPMGtuLVJvMTZLNkR3bFFsUnpWaFdpUWZHcGJBN2swTmJURjRVZkZJM3k0azRmV1lmTUVfVU9kQmJmM0o4dTRJRzhnZEhaU1dOWW9ZdWVBMjhtcEo4LTgtTy1mX19MODZhX0dvNmxBQk1tQ1E4b0lSbzdNOC0zT0V2Q1BwM1Bu?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "title": "《生醫股》全福生技新藥授權加速",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSld3NGFzT0xFb29GbXA5LWp4SUlYTEd1eHpnYmtGbTVZMlNRLXZ1ejZjS3Zjb3ZlWmROREdpc1VtZ0lZS1g5eXZhdS0wZ3Z3NnpGUkx6dzFNQ0lQN2xteGR3NXNmRGdPNTQ4cEluY2s4Ty1WWFlBQUxOT0JwS1FsNnllR0RPaldN?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-22T23:53:00+00:00"
-    },
-    {
-      "title": "全福生技新藥授權再推進 2家國際藥廠進入投資條件協商階段",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSRDVVSnFsdnVRV3I0UlIzdFJCcm5FeEc4ZDBzbm4zVGw4NXBlNEQwMDdVYjMzMDQ5M0kyVFBRQVlFOEs4cFVVZElycTR6X0tBSDZRdncyRnJyWHFYV0lB0gFkQVVfeXFMT1Fjc1M1UkYzbkNYTXcwWTlMMUVMaE82N193aGhtTnNoNy1JZEpOdGxvcl9Qang1bE5MZnlsRC01N25wX24ycVpsSFJzcFE5QzJHWGwxRkhWY3dlSTE3Tmx3Y2xBNQ?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-22T07:00:00+00:00"
-    },
-    {
-      "title": "【13:30 即時新聞】全福生技(6885) 盤中勁揚逾7% 生技族群人氣續溫",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGpBSVVoYU1qUm02bUVYbFd1dkd0MUpBa2paRGc5TmcxaXNRcmcyWHNJTzd2aS0zOXNaTVRLVUNOR3N2N1M4YTR1Z1g5M0s2dE1Pc2dHSDhMVjVIZDRndXoyekw4LWlFZmp1bjdhR1pNdExTMEZSUUhZXzBfNUpCMDI5M2t3aU91TnhKSTdB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-18T07:00:00+00:00"
-    },
-    {
-      "title": "全福生技(6885)盤中走強，眼科新藥進度能否延續熱度？-許明哲的產業筆記本",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdy1JNE16ZWhld1dJb1NYZ0xPMlA3RlpaZVk0YU1KN3RadGN1UlljOVg0LU13aEVZaFFmcTBhZlhjSVZGbnVEd2tyOEM3Skpaa2UtdVVJMmdaMndZcFJBYmJQaFBQZVZ1RUVfN0Z0OHJsbTByM0FaMlNLcFpFWE5wb1Z3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-18T07:00:00+00:00"
-    },
-    {
-      "title": "【11:13 即時新聞】全福生技(6885)盤中走強，市場關注眼科新藥題材",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXp2SlY0UjZxdkcxNG1zVnZCcXU4bUxtZEZDR1RuTzh2dVp6bm1GdGRyclhBM2Rmc0VJN080OHppbllVT3lpMFMwWUV5T1I5QXZlZC1TRzBBMDdDM3JiQnM4bDBjcGRXc0VTR1AyWU50U0IyN1pWSDFOd01Zb3RkLW9sTTVrYVRZWGJEYmJB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "【26Q2財報公告】全福生技(6885) Q2 營收3.967百萬元，創歷史新高，季增40.52%、年成長151.71%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckxpTFJaVzZ4YkFLNXRNR1RXQU1fbmVrTmRfOEJQeWdqeGd6bTY3M1FxREFhVnVPWjBuOEJ6V0Q1Z1V4dFcxcEdMV2djSzlxV3J5Qzl2S0dMMDloTk00dE5aWGU2ckM4bjMwd2lFWFU1cEFGbDBKcnRtb0VhYWJzQlZnZ19Lc1VMbWc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "【10:45 即時新聞】全福生技(6885)股價上漲約3%，生醫授權與臨床題材加溫＋均線多頭與主力回補支撐",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmdVNFBoR3ZqNGMxakg2bXdtRWlOYjdrb0wzN2NyVFNNZVJZZDM2TGk1WTkySUE5dmtYYjdZZFB6YzJnUEJBekpFZGFvUTdPZmdEbDlxQXFSRWtGSG9PTVF4a2ZrSENHVEE5M0dwcFVsRkhuNGhXbHgtSVRVQTVnaGhxei1vOW9kQ1p1NWd3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "全福生技(6885)盤中走強，年底前授權能否延續漲勢？-許明哲的產業筆記本",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzVJZ1NhLUF2d3BRZjdFci1HUHEyY2dUMVoxNGU0WG5wUV9lSW0ydUw4eTVpMmRyZlV3R3htaHJPV2lKOFlMR1FtR0JkWUZGSFdkS3F5MmplUnJlWEZXZ2d1MGtpdXJMbWxLdTJTd1JYXy1LMzl1Vzh5M00ycmlsV3Rn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "title": "《9/24日法人買超》外資買超前三名：全福生技(249張)、國光生(155張)、喬山(144張)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BUG9JRG5tc2EyNjJtTURXN2t4dVRyRUo2OVFZQ2tMZDJEaS1BUVpHaUR6b2RyUXptRnc5VGx2NzVEc2dBQzNVQ3dzZlBtbnZhUEdqWVUzZTBtcTBja2V2UHFTNHgyYU9qTzJmZU9n?oc=5",
+      "source": "生技投資第一站-Genet觀點",
+      "published_at": "2026-09-24T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-08T10:05:23.164687+08:00",
+  "updated_at": "2026-10-18T14:05:48.487163+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6914",
   "name": "阜爾運通",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "阜爾運通 代子公司竑穗興業(股)公司公告向台灣高速鐵路(股)公司取得停車場使用權資產",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fNGFOV0FXcjYtMmRnQzBkaEI1TUQtM2twMkQzSW5UZTdveE1QamRUZmZjb3VkSVdhdy10WEZMV0x6MlItaGtMTnpMNHkzUU05eUp4blctbjQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-16T07:29:21+00:00"
+    },
+    {
+      "title": "阜爾運通 115年9月營收5.43億、年減3.73%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwVnVIa0pkOUoweTRqeHZ3OFplOTk0YVdYRDE5QjVGNWFnQTZuSE8tXy14U0hhamdnVGJ1a3JwcUdwM3BCQlFaYk1TSzl4LWhzQmV5cWthZjk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T10:10:58+00:00"
+    }
+  ]
 }
