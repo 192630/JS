@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-14T21:51:54.566430+08:00",
+  "updated_at": "2026-10-19T02:12:36.925472+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8279",
   "name": "生展",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "嘉市舊城創新生展成果 黃敏惠揭曉城市IP「木吉」",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcllMMG5XRmZqMHZoaGZReE5xalpTdWpKSVNucENtOVpvR1FkdTliQVZjRzNuX1p6dXVwQklCcW5HX0FoQ21nQk9LT2xHUHZ6NmVqM25BaVBORXVXV0FDSl9VUnJ1bmxENUJSU1pxZW9nMDJtRDJ1YVdLdllKeFNLYzhwLWs?oc=5",
+      "source": "PChome Online 新聞",
+      "published_at": "2026-10-08T15:23:20+00:00"
+    }
+  ]
 }
