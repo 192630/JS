@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-14T15:48:50.735980+08:00",
+  "updated_at": "2026-10-18T22:44:18.718284+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8044",
   "name": "網家",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【11:45 即時新聞】網家(8044)盤中續揚，法人與主力買盤成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVjYWtCSXp0aUJxNTM3ZnppTWg5dU40R3JTOWYtdnVZT1FsbWpkR2swTFhqLTg5cDFvN0NmaGd5OTdlSlZvRUxmRk1vekFRY2s5V0lKSEVlMUx5VHVNTUh2WVZvb2dqWlZkOFN4OWFYTXU0c1cwbmJBSWdwbTNtOWVvRF9MM3Izb1N4T0R3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-15T03:45:28+00:00"
+    },
+    {
+      "title": "8044 網家- 網家代子公司喬睿科技股份有限公司公告董事會決議辦理現金增資發行新股- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oeXowN0Q0d1B4RE9JaFRObmI3S0x4WWt2TC13Y1VNbF9ob0RPUjBwYXJxaTlObldfMVdiRjEyWmF2dVQ5bjNRZUhWWTMzMHoyVDFjSXJseUI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-14T00:35:25+00:00"
+    }
+  ]
 }

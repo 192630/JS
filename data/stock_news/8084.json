@@ -1,22 +1,10 @@
 {
-  "updated_at": "2026-10-14T15:49:01.965218+08:00",
+  "updated_at": "2026-10-18T22:44:29.266772+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8084",
   "name": "巨虹",
   "count": 12,
   "news": [
-    {
-      "title": "討論牆 | 3檔股票「抓去關」！巨虹25分鐘撮合一次 恐陷下櫃危機",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuRFVRMVVtTWJsNUxlVk5PYkk2NHJ3UmFQTTVpdDFsMUZUZUFzaGcwdjM5NTRLc3VjMi1XTG55Y2IyX2lucUtVRlQtZUMzNlJOU19mX3lxRkZ2SnprZjFWX0ttb18?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-10-13T03:01:24+00:00"
-    },
-    {
-      "title": "台股3檔遭「關禁閉」 華新科漲逾25%入列 巨虹慘跌近4成、每25分鐘撮合 | 財經",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qQlJRT0I3VlZZVUNYRjVIYS1GUzNST3ExN1VFNUIyV3Z5UHZNdTdleU92OE9HR3N6cTd5Ulk4eEp3T1F1YUVZdEZ1Wm1vNk5qWkFDQk1Lc2NNMlU?oc=5",
-      "source": "Newtalk新聞",
-      "published_at": "2026-10-13T01:18:15+00:00"
-    },
     {
       "title": "《台北股市》注意股：13日30檔華新科、今國光、巨虹、光頡、鼎元等- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVzVEQ1dRblFvbk5VUVVZYUQ4bXMzZG54QWFHZmVVZjlYWlRWN1dpR2JBNTRfTnNLd1NyTW0yeGN2UzQxVzNtdFFwcTlBekZYSXV4ZlE0LWlXT190Tkxtd3VMLWYwSzRlVlE?oc=5",
@@ -37,9 +25,9 @@
     },
     {
       "title": "巨虹連10跌「慘崩64.71%」散戶還在接！專家示警了",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBidmloOEk5R3lELUZsY2lneExyUnNhWjFSZzRvdlB3QVV2S2Q5d2x5SDhNdG5ZUGNrRGtteFp4eFJfRzIxTm5XdXVuZG1XTWhNcElTNUNZaw?oc=5",
-      "source": "東森新聞",
-      "published_at": "2026-10-10T03:26:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNaEhKNUVwcF9aaThkdWRFOW9SdXRsWjdiLWg4SVQ3TktuUEFhQk1PN3lPWDh5RGlwRXpuRnZpemM0b0RNdHRobGZPVlF1dzB5VVhOUUFzcVNpWlgyVUJjZ2F3LS0yTndvVC1BNjJNYVpwSTdGRVdqOHNVQjkyc1pSeDE4Y1VQQ3pWa2NxUVZHZG5RZE1mc3JIMUpDanl0WDNjRDVFc1p4TEtKemY0Z2kydDdPY29zWGRVQjFWY2JZYjNodmtudERVZ25mSnRYSmxRUlZsVXpBTmRkQmhkam0tUWVMTGFxQXhtLTRYMUpJQnNWOEtEM2o5eVRMcUVtWjBtblh6VnJzLVJUM2JwZzBudXRWSllRUXdISzliZm1GTHQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-09T07:00:00+00:00"
     },
     {
       "title": "盤中速報 - 巨虹(8084)股價殺至跌停，跌停價14.4元，成交211張",
@@ -48,34 +36,46 @@
       "published_at": "2026-10-08T01:50:00+00:00"
     },
     {
-      "title": "高掛4千張賣單搶出場逃命！巨虹再吞第9根跌停「股東卻不減反增」 專家看傻：這什麼概念？",
-      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQUU5XMnVsb1E4dU5qMllpR1h4SzVndlVsUWkwSXllc2ZVbExpTTdQbzNVeHVnaktXdEZfVDZmS2xXcXRQTE5XeGJkWmJuRGtJUU5wWnh5LW1FeGEzMmxoYlpnaHJ3OUxIRGtRSl9BaUFHZGNpbkZGWWxsRkpTY3dBLXg3OHl6bEM5SkU5WFlpUWpmelo0bG1qYU1lLUNUSGZ6a2FhOHFrOFFMc2I3NHVXY0RTLV9wa2Q5Sk44NXctbXdTUUgza1NaX0hZLXQ1VTViNjNiTUdFNEgyVm9NWFpsYVJPTmhRcG9YQVdZM1hNQ3huaHdWRkJoS2o4b08zczFSS1hBaDVLaGlwNHZZVWc3Y0FDRnBmMk5BTmRHVkNTa1FobDNQVXJLLXB5X0RIMVQyNUlURXVoZk02eTZNdWlxekx4OUpuNnNLZVdyYWJGUzdKR05uMUZ2R1VVNmJqTkx6a2VSQS1lOVdZMkRVX2RJYTRJa3hLSWZIQ0ktazd3SE1WT1NjSDU3dXF6VEZPbWdDUE8yTlBGZjQwZjlkWUJCY1d5VTI4YjVyOWhqRVFMVkJjZDNjV3gxbjZPWWwyQjlFb0x2NGF4NGtHNWtqMnVEUFljXzZFUGhuVWdMWEZJNXpPUFJMQVMtTUFQeDNoaEVETE5NXzVKSVd5aUxkaldhemFJYVhSZG8?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-07T05:33:40+00:00"
-    },
-    {
-      "title": "收購破局吞9.7億元損失！巨虹連拉9根跌停 股價2個月崩盤7成",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rU3dTRmdodGY5QWdQb2w5Z0hZSkcyZnJQU1B2TjBoMFUtY2NrS1pqVlJRT2hYamdvYXoxVG1TSTB2dUZsMEJRQ2RoblVWbFU?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-10-07T01:51:00+00:00"
-    },
-    {
       "title": "巨虹9根跌停還有人接！股東暴增近60％ 搶反彈代價多大？專家示警了- 證券",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwZ25EMjFoYUI0ajU4U2hDaXc2R2ZUeWltMTJmc0FvSExMY1NlZHlkbUpyblVUaGtmTHZMOEl5V08tSXA3MFV3VGZEek94Q0pJY3hmbWV3aXJvU0lZTHVz?oc=5",
       "source": "工商時報",
-      "published_at": "2026-10-07T01:48:00+00:00"
+      "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
       "title": "巨虹連8天跌停恐下櫃！達人驚「股東反增近6成」：這什麼概念？",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kNmNtWkJ1LXpFZm5VUGhWQWFPd3JBZzg5NkhrNS1TQTE4N1RLT2J5SzZCYzBPYmstRjNSVFZHRjNFNG84cE5MYVRHOWhYMWM?oc=5",
       "source": "TVBS新聞網",
-      "published_at": "2026-10-07T00:25:00+00:00"
+      "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
-      "title": "巨虹連吞8根跌停「股東人數逆勢暴增近6成」 投資達人驚：這什麼概念？",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNQnh1eFdwazFwdm5nVWdHVGt5V2FFYzRJY2s4OEVUNmlZZ3B5TWZ1cFhaUnFkbm51X3FlWENIUm84RkhaRmZaZFA5eEJIMHZTTjlXejZ4dEFBWDRHSld1SVZxcE1STzZZWjc0dnhXT2RXNVRjZ0RqU0JsMzF0bFFDLXdEWHhJWmZWSG1OYWh6ZHJQMzNqNjE5S3RBUldHREE1M2NTLXZ4RVpyQ182TndZWFRrbUpsaFktM3ptNklpR1MzZVQyelBESmNrWkFqd2dGTWlPS2hBVXltek5XeG90Um1DV1MxRVBUWE1sdndkQS1tbzdnYlNOdjBCZnU0WmhMSVBYMUhGS2h3Unp6WnBnUGFBcUEtaUZHRDZXRXU1VnEyUlRqOTVmT01zcXNoZDEwQURhUUFpMzlNVUdUcnFxelZZYkdnQk4ySFdhMjFRUEd2MlBEbEZzNkpaOExGVmw1SUVSSkpCWGMwcDNwejdQMlRDd2dzN1c0S3E4YTBTbXh4RVVyLU1rTU1mVXNPX3VLenQzdWc0OUVGMUZUSHc?oc=5",
-      "source": "Yahoo新聞",
+      "title": "收購破局吞9.7億元損失！巨虹連拉9根跌停 股價2個月崩盤7成",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rU3dTRmdodGY5QWdQb2w5Z0hZSkcyZnJQU1B2TjBoMFUtY2NrS1pqVlJRT2hYamdvYXoxVG1TSTB2dUZsMEJRQ2RoblVWbFU?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-10-07T07:00:00+00:00"
+    },
+    {
+      "title": "巨虹連吞8根跌停「股東人數逆勢暴增近6成」 投資達人驚：這什麼概念？ | 財經 | CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMZzlrcER3YjZJNXRzbFZDWnc4YlM4ZHBzU3BXOU5UVUlGR3M0eWhPWU9EZ1FkTWRueFpzQmpBUVRNakhwblNWOWsyWlhOTnfSAVRBVV95cUxQdkJNYzBHLWN3U05FYWpTZy1VN2FGSDRGRnN5NXVrMlQxWnJxYy1IRXBBM3F0V2o4UFpITC1GYXQ5akhaMmlEN0cwZHdNS2RNcVBSNEw?oc=5",
+      "source": "CTWANT",
       "published_at": "2026-10-06T21:10:33+00:00"
+    },
+    {
+      "title": "高掛4千張賣單搶出場逃命！巨虹再吞第9根跌停「股東卻不減反增」 專家看傻：這什麼概念？",
+      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQUU5XMnVsb1E4dU5qMllpR1h4SzVndlVsUWkwSXllc2ZVbExpTTdQbzNVeHVnaktXdEZfVDZmS2xXcXRQTE5XeGJkWmJuRGtJUU5wWnh5LW1FeGEzMmxoYlpnaHJ3OUxIRGtRSl9BaUFHZGNpbkZGWWxsRkpTY3dBLXg3OHl6bEM5SkU5WFlpUWpmelo0bG1qYU1lLUNUSGZ6a2FhOHFrOFFMc2I3NHVXY0RTLV9wa2Q5Sk44NXctbXdTUUgza1NaX0hZLXQ1VTViNjNiTUdFNEgyVm9NWFpsYVJPTmhRcG9YQVdZM1hNQ3huaHdWRkJoS2o4b08zczFSS1hBaDVLaGlwNHZZVWc3Y0FDRnBmMk5BTmRHVkNTa1FobDNQVXJLLXB5X0RIMVQyNUlURXVoZk02eTZNdWlxekx4OUpuNnNLZVdyYWJGUzdKR05uMUZ2R1VVNmJqTkx6a2VSQS1lOVdZMkRVX2RJYTRJa3hLSWZIQ0ktazd3SE1WT1NjSDU3dXF6VEZPbWdDUE8yTlBGZjQwZjlkWUJCY1d5VTI4YjVyOWhqRVFMVkJjZDNjV3gxbjZPWWwyQjlFb0x2NGF4NGtHNWtqMnVEUFljXzZFUGhuVWdMWEZJNXpPUFJMQVMtTUFQeDNoaEVETE5NXzVKSVd5aUxkaldhemFJYVhSZG8?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "title": "5檔處置股明起「關到14日」！巨虹25分鐘撮合 聯傑、柏騰也入列 | 蕭宥宸 | 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lS0RyUXdCZzB6b091WTAwakE0WTBVTnp4cEZfN0xLZG1ON3otX0tQNmJQVWhCdm1ZN0wtNDUwRUZNSllUYU5jbEYyTUIwUQ?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "title": "台股狂噴上4萬9僅「這檔」跌停！巨虹連7根跌停、淪全額交割 8月虧損擴大",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBod1QxbUFQcmhaaHVjVXVNaE04MnFSOTljbEF5bFcwS082ZkJtVUpKY0xJWF81YTdWdi1jajFHb3hEU1VURkhiN2YyOA?oc=5",
+      "source": "FTNN 新聞網",
+      "published_at": "2026-10-05T07:00:00+00:00"
     }
   ]
 }

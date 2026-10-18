@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-14T15:48:41.498458+08:00",
+  "updated_at": "2026-10-18T22:44:10.002260+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7839",
   "name": "達人網",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《櫃買市場券商買超比前30名 3-1》達人網(44.64)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkN1S1JpOURRekU3dGlyTG1IdllXaHd2bFVQRVRRWFZpLXhDcFhfeE1lMFRPdllzVkdGMTVuVVVyRUJUTVJzM0tOcXpzc2NWNEk3WC1QV0hUYnhuelZkWXdiNXVKdjRoUk90R3U4aW1FR3BtUUQtYjY4VFlCSXRULTJzdGFqWTY2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-15T23:30:00+00:00"
+    }
+  ]
 }
