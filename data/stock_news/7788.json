@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-14T15:48:31.153404+08:00",
+  "updated_at": "2026-10-18T19:25:30.181483+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7788",
   "name": "松川精密",
-  "count": 5,
+  "count": 8,
   "news": [
+    {
+      "title": "營收成長44%！松川精密打入美國資料中心",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fSkY4SE1QQXNQbUk5VE1CdVNrOGpSdmpaMERfV2lXS1JsYklOSnNNV1hRTG9GcnYtYi04SF8wN1pwenIxNDUtN2hLSDM2MGNUb1M1bDl2X0E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-14T03:01:52+00:00"
+    },
     {
       "title": "【12:10 即時新聞】松川精密(7788)股價偏強，市場聚焦高成長繼電器需求",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcm15S0RaTkFGQ3FrN0k5b2ZDVVV6OWdTVXJTaEtLRVg3R0pvLXM0aDZocWp4eEFUdG03YmhxMzFMWUEtNFpuSHB3bnY4S1FWS1VveUViZGR3NXZNeEhyd3hYbVR1RHdJVlpSQ050aFhzbVl6YW13UzkyWlNoMDM0alJWQmVYZGN0QlMzOEln?oc=5",
@@ -12,22 +18,34 @@
       "published_at": "2026-10-12T04:10:28+00:00"
     },
     {
-      "title": "松川精密Q3營收季增21%/續創高；H2/明年看正向",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNm5JRFlWaS1IR3pMT3BIbmRDbnQwd0tzU3pxY0g5UG1nWWlIc0ZvRk9xUnRFeGRWdVdFYnQ2MXdrNTZ0c2FTeWFNOEpWczBZLUlYVHF3RU0ta2dvU2tyczZnV1F3YlBLTzdtdnJOX3kxWnMwaEg0ai1SM2t2MEhWYWR2dFp6NTZsS3NCa3JELTlxdGFTazBWbjgxZzVyVWlFNUdCVEhMc1BET196c1RnYXJmMi15emNIemtzMTRqWFlqQVJ3TVNRTFNSeFQ1NUYyN09DV0ppaVhVaHpHaEoySHc3Wm4xUWtrQXc0RnJZZ003LWdNOGRlbnVyUVlCb01VcFFTNHNSRnNzTEZTMlBvQ2owYTdWMGloX0N0cUI5LXM0S0RrVXFj?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-07T03:43:09+00:00"
+      "title": "松川精密(7788)子公司與轉投資主要持股明細 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02VkJEYzZQbWRIa0NpTEpGTmJVRTdMTWVTUVozaDZwV3p2M0I5Wm1GVzhqVnlQellhd2d4TEFRM29pRjl5aDhIeTZzbld4LXJYRHpMZktGNElkM1h1aFZmQk1FNA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
       "title": "【09:44 即時新聞】松川精密(7788)股價走強，市場聚焦高壓繼電器成長動能",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5URmVVaEk2SjhYV1JiVEZIQVJQLWhzQ2M0dkY1NEJEMV83ZEtfZUpjYWsybkFCUTVNQld5UkhqMl9UQTZ5dkEwOUZEd1RTakdfQWgtNXNKQzM2WlViX3Z2TmU2TzVTRkE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T01:44:52+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFN1TVFSZ3dDSXpUVzVWbTZ3X25scEhIVE9NcVlmcXV6MUhLRlpLS3lqODdidjZjTEFHcUxrX21kY2swRWpSczVRYXNybHBRNU82SlB1MnhnZ0loY043VTlEOVdoZVlXMmJVTFVSbjhYSkxmSTJhMW84OFJyZ1BOVWR1dnMxdTN2cVJlNTlB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
       "title": "【11:50 即時新聞】松川精密(7788)股價走強，市場聚焦高成長營收動能",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMHlIcWxSRUlJZU1tRl9HWjdlWGJWTEFldklXVUtOLTZ5MEtvYmlsTy1Nczg1b0RPLXgwaU1tQkgzUFl6MTFMZC1fMG1hUzM0cDdHVU5oWmdCeHRRNFhReWVkWVN0UzFUX1p2N0pBeTk0dzV6cE1ucUxtRzJNMjRvNllPa2pnLUJTYnk2YzZR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-10-05T07:00:00+00:00"
+    },
+    {
+      "title": "松川精密(7788)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMLUxOendYSWdBMzNqdkx3dlJ1VWlGODBZQ0lGT2NCYmR6bVRRZnRjQ3RWeUVOMzZfWmMtTXZmTVEtSWxDMXVFbF83RVQ0eHpwMEh1MGtpYVRCWFRNMXc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-01T07:00:00+00:00"
+    },
+    {
+      "title": "松川精密(7788)千張大戶與散戶持股比例，持股籌碼集中度查詢 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWnNEREJCeXduc3E0LVczdGpGekVxTklhV1ZiZW9JVFNCRzQ4ZDFjQnJvTnczNGFYNTJRV1AxT280WVI5RDAzaTEzNlotSlp0c1FvVFFDdlotTVM1M09hc25Hbm8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-01T07:00:00+00:00"
     },
     {
       "title": "【12:44 即時新聞】松川精密(7788) 盤中走強，AI電源與儲能成盤中焦點",
