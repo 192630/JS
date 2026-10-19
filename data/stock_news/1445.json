@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-15T08:43:06.948524+08:00",
+  "updated_at": "2026-10-19T09:28:26.232071+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1445",
   "name": "大宇",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "大宇未來資產 | 006805.KS 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wZzJnYVhLRHFURWlIYUhNRHhwbktDQTFVNlhSR1phejVDdk9walh5YkJnZFY1OEl2N2NadFJNaWhqM2tJTWtYZEFydk5Ia2ZVdjYzVllWYw?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-10-16T07:00:00+00:00"
+    },
+    {
+      "title": "大宇建設拿下1.437萬億韓元住房重建合同",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVdkXzV4cU9oejEzRnJvWEJBemxsR3U2VVlqTkVULVR3Q2poR0ttUHp3X20yMDZmbEFWTjhpNFZGMHo0c1QxY0tFUW1Bb3FzSFZnVDI5NHRJM2VRRmcyc09LOVRTYkoxb0pidDh2TTAzSmhES0QxYXhzU0cyZXBmM0V6ZWhkUkhFQkRhZF9hc2t3REx6a1FoNWFSYkNraFdaT3lWSi1PNUpYTlNTYjJmVVV5N0dOWDRJTmpXYVFjS0RURnBrbUZjeWl5M2JKR2s?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-10-16T06:33:02+00:00"
+    }
+  ]
 }
