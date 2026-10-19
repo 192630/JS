@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-15T19:45:52.333182+08:00",
+  "updated_at": "2026-10-19T23:44:49.721229+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2106",
   "name": "建大",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "毅嘉第三季營收創高卻逢獲利逆風！砸重本建大馬廠待「光通訊」爆發",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNWUxnZVlUMVVFWU1GQm1aNVRpMjBfeG0zTFM2alVRMkx4M2RUNW03NDMwM25VbGpRQlZtb0lCbURpTzFKd29MalRJMnl4VHUwQU5WWFlwQ3U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-14T21:19:59+00:00"
+    },
+    {
+      "title": "建大 115年9月營收30.03億、年增1.38%",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOWE1YVB0OVAwU3NnR0hJcEgtVHpET3B1VTFJLTZRSHdwNlpiRExxeDRMMmtyUVFVdVVmUThuRmZwQzdTNHRnSjVQYzFoakRkaXhudm9xbEw1WncwaENFSlpaa0RHb2Q0YzdlV1VnbUtTVndlejQ1aE02TVppbG4zNGo4NUZ0YzJ2UjhWNXNDNDRUd0NpcU1BTV9CNlY2YzVrRjItOEJSOGxkZW9iS0x0Qm1yZVRyc0hBVnI1bFhack1PUW5JMnhVal9oWDh0N2FWZFZ2em9XcDVlVjQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-12T07:49:00+00:00"
+    }
+  ]
 }
