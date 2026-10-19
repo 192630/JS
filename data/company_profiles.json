@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-12T09:42:17.081396+08:00",
+  "updated_at": "2026-10-19T08:25:43.441697+08:00",
   "source": "TWSE OpenAPI / TPEx OpenAPI",
-  "count": 1988,
+  "count": 1989,
   "sources": [
     {
       "market": "上市",
       "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
-      "count": 1095
+      "count": 1096
     },
     {
       "market": "上櫃",
@@ -13587,6 +13587,19 @@
       "phone": "0222265102",
       "website": ""
     },
+    "8908": {
+      "code": "8908",
+      "market": "上市",
+      "company_name": "欣雄天然氣股份有限公司",
+      "short_name": "欣雄",
+      "industry_code": "23",
+      "industry": "油電燃氣",
+      "founded_date": "1986-04-16",
+      "listed_date": "2026-10-16",
+      "address": "高雄市鳳山區國泰路一段99號",
+      "phone": "(07)7416101",
+      "website": ""
+    },
     "8926": {
       "code": "8926",
       "market": "上市",
@@ -24234,6 +24247,19 @@
       "phone": "",
       "website": ""
     },
+    "7806": {
+      "code": "7806",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
     "7810": {
       "code": "7810",
       "market": "上櫃",
@@ -25536,19 +25562,6 @@
     },
     "8906": {
       "code": "8906",
-      "market": "上櫃",
-      "company_name": "",
-      "short_name": "",
-      "industry_code": "",
-      "industry": "",
-      "founded_date": "",
-      "listed_date": "",
-      "address": "",
-      "phone": "",
-      "website": ""
-    },
-    "8908": {
-      "code": "8908",
       "market": "上櫃",
       "company_name": "",
       "short_name": "",
