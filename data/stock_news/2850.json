@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-10-16T12:44:23.426934+08:00",
+  "updated_at": "2026-10-20T14:09:32.677340+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2850",
   "name": "新產",
-  "count": 8,
+  "count": 7,
   "news": [
+    {
+      "title": "新產 115年9月營收21.95億、年減5.27%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRXpZY2pacV8wN1FkT2NJUlQ5blRsZUVERW1Sd2dnTlVrWFNBdTdTLTZzMUZCYlZIMnlzYzlBbEtjQVllS0JodHMzUnl1dURRdmdGWGpSaFA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-15T05:59:43+00:00"
+    },
     {
       "title": "訂單加溫+旺季提前拉貨！亞弘電9月營收4.35億改寫68個月新高出貨動能旺到第4季、新產線設備擴充已完成",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWWlTU3Q3ZTNkMWpmaU1Pc09SNUtwOVplNF9aMHpnQkhCTnREbjhlel9CdUswejJYZ0drbGtyVzJNWVAyd3IyT216Yw?oc=5",
-      "source": "FTNN 新聞網",
+      "source": "FTNN新聞",
       "published_at": "2026-10-10T04:37:00+00:00"
     },
     {
       "title": "亞弘電前9月營收轉爲正成長 下半年轉強並在台增設新產線",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNWnpuYzFJZWxhWm51c3hwTlpOb2NtXzlMazZvZzBoNXBLVTlMcHljWUpXa09lRFVQTFJuVHdRSURsQjRJaEdLelhrUHh2UDJ5bGU1Z29lb3hqU2NYdDJTX2pWc2h5eEFsX3JuZmVKbFlvOVdWcVdkbmdpcW5qWk1ycE5IWUhJYWZINjc0Nk1CWW5MbHdfd1FDcFJYRHFfR3RxMFE4SlJfUVIxOGdPRmJIbXJ1NWtoN1hIWWY1dUNzUHowd2xxTXBkS3B2clhRcmZTQ0pKQVFmeDdLemwwdkpmU2JXUV9uMWV5bUpKUVJsYWZyczhTSHljY24zMy1sUHluZjdBQUxuelFBNnI4T2dYV1E5VDIwYjVFb0Z6cjFaMnRNa2FfajE5RTBKOWxSZlZDejJYV0RBb3pyd2J0MEotNUlxc3VZOXpZbHhHQ2t6bVNIUkZvQTNkSVFxUWtYSkpfclJmV3RnTDI0T0VfZXhoOG9rb2RrbUx3UXBsWmlEZ0lOeUkyRkVwbHdR?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-09T09:30:02+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMG1DZGh6VVExYVhqZnNSTDVIRFR5ZDhWQWZnZ29mTllKWXZ0a3M5ZEsxVXR1Q1p3UU94WGlOQVoxODdTRHVBd0VxMjI3STg?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-09T07:00:00+00:00"
     },
     {
       "title": "新產線量產爬坡順利，松瑞藥Q4營收動能轉強",
@@ -24,15 +30,15 @@
       "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
-      "title": "新產線加持，泰南僑年營業額拚50億泰銖 | MoneyDJ理財網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLN3JqZTBtRWFPOVlIWEVjVFVTODR5NkFsSkxFb29qczR2ZGt5UXBNTGlCSkNmOU5hNlNkZ2hnVnZrOTNaMnNyNTFLNTV4ZmcwQ2RhLWtR?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-10-07T04:07:26+00:00"
-    },
-    {
       "title": "〈台北紡織展〉新纖NEOLAST新產線正式量產 首階段年產能600噸",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93ck03YkhmUHB3V1JMbk0wZGg5SDctY1l2V3ZTSGFJTXNUY19hNldrbXdJWm9fekhkLV9OVUxxbEdNcGt0TmlhLWVlTlR5c28?oc=5",
       "source": "鉅亨網",
+      "published_at": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "title": "新產線加持，泰南僑年營業額拚50億泰銖",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWWNFLXRxQnNjbHpsUTRaX2RPem43RnVBa0NGWFJ0ZmZvUzRnYmFrbVQ4RkZ4Q29BblJRYlFNdUFyQmFPTUFOVHhNeGJMYVRUaVpEU21seVNIbTlVYmFGdHVNZWtDbVIwdmM3bUtRcnhlbm1jZEJWR2dKRXowZENyLXFhUVQ4enJqbmtjQTVEc0ZxQUU1TGZQby1mZzRuemdMYk1GQ2F2MlRkd0pMam9nN2s4dUlRcEJqV0Y4bHBOOXBKR3QzdkJ2N3Y5b2dvdDdxSW1yc3pISEd2d1RXZjN1WVVkY2ZPOUZ2azdMVFdBRnNtZzJZY2VtQVFDT19GT3dLZDctRWFEd0RCTHBtVzM1T05sVU92ZDM5SHo3TnBZNA?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
@@ -40,18 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kUEJkSmRSd3hGem1hMk12T0NfaUtTOWxyT3RfTHZGSUw1OXRkbHZod0lTOTZERW5WaklpNkVzV000a0ZiU0J2MEZFQXEwM1BxSVVLcEx4Yjc?oc=5",
       "source": "自由時報",
       "published_at": "2026-10-03T14:05:56+00:00"
-    },
-    {
-      "title": "【10/01 產業即時新聞】金融-保險類股弱勢走跌，新產與中再保領跌拖累整體表現",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15ZG5iNHVXWXdUb1ByR3UweVNrdC14RkZIRXE5M09pQzcyN1lqOXJ0MGJhSVg3eDY0eEtNa0tldXU5UnhfUmYwMWxJSDBOaXJvQmRLR3NZR3ZGbDMxRDBhZTgyNkYyWWM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-01T05:00:43+00:00"
-    },
-    {
-      "title": "東洋Lipo-AB海外需求旺 Q4新產線啟動產能提升2倍",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPLWt4QzZTcndOaGpwU2JRaUVGMWVxcURMVnFjQ0k2c0xaOU1rWFNqSDgzQTdVckQtamhTQ3lWaGZjX2ZiTnRwZS11ZldjNnlHdmNIeFhTcXNlZ08xSFAtZ1RWcVdyOTdnU0l0Mm1nanJ5RWxQX3Q3TmtmUVFFaEgtc1lFNFVGSHo5dTY5S1pSUlQxVE1RN01lN1NWaFRTbmlhT3dYS1pGZjUxcmI0OUFmSk81TE5PRFNPdUxLMzkwTnZGQUdqQjNrd2FiWmlkWUxqMlpWZExKd29yTTBSVV91QmNUbXREVldIeXdkaGZRVVNHZnA2dlh2REdpbFdacEJmM1JXTEtzbm1mNkZnX0lSY3FZQ0ItZ2VuWVFpalowN0NkbWV4dnJZMmFzTnRsNWVKLV9RXzJ3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]
 }

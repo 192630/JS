@@ -1,21 +1,57 @@
 {
-  "updated_at": "2026-10-16T12:44:26.028715+08:00",
+  "updated_at": "2026-10-20T14:09:35.366055+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2883",
   "name": "凱基金",
   "count": 12,
   "news": [
     {
+      "title": "《集中市場券商賣超前30名 3-1》凱基金(-6503)、鴻海(-4780)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1Jlc2xQQUpuM0tDcUEyTkU5T0dxelRITm1yM1BNTkdENGM0MjQwMExUWnVZaEJWdUhqVUVmVHhIdXVmMVpKbG9nVXg5bUp6dW9HNDdkRWtLX0NCQmZ5U2xoWWRBR3lWSG0ycy1QNThkdWt0b3hVNi04YzE1RWVOb3pWaUlDbGdU?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-19T23:33:00+00:00"
+    },
+    {
+      "title": "前9月獲利PK》國泰金、凱基金、兆豐金、第一金、彰銀…5檔金融股金控法人只喊買1檔 - 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1td29FSll4NTY5SHJQM3NmaEdiSUdVTFIyYXRQUXB0Ul9Yak40cEdrZWNkQUJtdXR3UzZSOWZKcW5FVWFlUjlmTVd5Rk1PVW01dTV5ZEl1THFWczhrc054QjBhRFFTRmlDLUE?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-10-19T22:07:00+00:00"
+    },
+    {
+      "title": "凱基金(2883)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15UVAtVm5EVnJ4WDZCdC1OSlJ5Qm9tTU1IMlREMWN2QXgwMDR5UmNHd2k4M2FBeHZYQ1djQy1wN01RaWM5XzU0cmFxTE8tZGtVMUk4Y3UtTXoyTjdOZVRoZFlR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-18T07:00:00+00:00"
+    },
+    {
+      "title": "〈財經週報-財經焦點〉凱基金控高層前進臺大 展現延攬新世代跨域人才決心",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56QzlXeDByUGwtbXJqSjIxQ0t4Y3FlUlZLRFhnU2kwWndLVXhXcHZna1Jnd3hCZGFwY2FWMGtZUUFHbFMyaFJENjZfU3hVeEcySEdqZ3A1SjI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-18T02:34:15+00:00"
+    },
+    {
+      "title": "熱門股》配息銀彈增 凱基金飆24年新高",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVdGo3OVJvNElUbEFXeWRZbEZBSkM4WE83YnpjWFlNUkJIWEFHNlpoeFNnUDg1MFB2UTR4LUR2VWtpTXJGVXlhaXpxVTVScDZYTVVTeDJ1TzE?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-16T07:18:49+00:00"
+    },
+    {
+      "title": "《金融股》凱基金前三季EPS2.26元 已超越歷年全年獲利",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzhuQmlGY3piYUlyb2FoWjBNMlU5T3VEblM4cE5PVFF1dHZDZGtJU1lpc0VZWDd1MVQxQTgxdU9tbExIU1IxYUFDdTYwbXl4cUNpRjJNU251MF9UNC1hVk9KSWpvQlpCalBZaXhtQkFKNEgzY3drcXhEOXJraFhPLTJ1X0laSno2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-14T23:30:00+00:00"
+    },
+    {
+      "title": "創新高！凱基金前9月賺389億、EPS 2.26元 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DSUd0LW5HcEJmd2RYLUJQSjhsXzczVUZibE5UOUxsZk9QdzdwcFRwY25heW5aZ2RDX1pjWEVHY2M0bGxMSEpmRFRwTm40RUQ5azRpWlFn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-14T11:49:45+00:00"
+    },
+    {
       "title": "凱基金前3季獲利389億元 加計FVOCI利益達936億 續創同期新高",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pTkdXWnZPNG9vQ3ZLRlJNTHo5Y3lRc1I2MEFMb3VMeUg4eXZCZVBPMlcwUDAxVmlJN0w0alotWk5tNmxNNGtFN1lLb2lRcGlhRUZqc0QxZnpFbXdPdC1B0gFkQVVfeXFMTUZUOUFfcEx4dUR1YmpHdUVUa01vZ2ZRT3NFVmZVWVpRZDRqMkF2aVhTQmpfeGx0VGFmZEc3SlZXcWdBNmk3TnUycHFRX1F2cXFHQ2FKenU0aDhWNk9DOXVJcHVvLQ?oc=5",
       "source": "自由財經",
       "published_at": "2026-10-14T11:29:03+00:00"
-    },
-    {
-      "title": "創新高！凱基金前9月賺389億、EPS 2.26元",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEt3TG45elFScV9TVnZ6a0JjYUFUSHJfRDVGT09uTHp1cWhXVUFsTWVJMEdMVk9VTjc4aXVBVzlDOUx4YnYtTkoyRUNPQm5nWm9TbV9OdV8xWnJrUW1XRXR5SnJiQUdRTlYxUWZvYTdxY0pCRFVFb05lVzdQcmJDTkxjdkpmRjE0UThEbTAtem94QXo1YW90UWxyRHRnSnZISXRON3hDZVJ1Umh6Z3NNcF95TFczWjE3M3hJYjNHYkdMMmhZOThEY3V5QVlFUC1KdWFjMEwwSTdkamRVQzJBX2hyZ1FoOVF3dUE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-10-14T11:09:35+00:00"
     },
     {
       "title": "72萬股東哭哭！凱基金9月獲利月減54% 前三季EPS2.26元仍賺贏去年全年",
@@ -39,43 +75,7 @@
       "title": "2027年金融股怎麼挑？上海商銀、富邦金、國泰金、台新新光金...明年股息預估出爐！老手急賣凱基金「改押這1檔」",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHM0U283c1JsVkVDV2RCNEp1OG8tOTg0R2pCT2E1eVlNZi1DdWhwS0hPcUlfOF9ydlg0UVM1aXdDS1pqQ0Yta29uQUd2UnhUTGZ1bmVzazkxTXJtbEhpem5md25UWW9XU0V6UllsTENwclVNeU5uY0tkZG84dW45dg?oc=5",
       "source": "今周刊",
-      "published_at": "2026-10-08T03:04:46+00:00"
-    },
-    {
-      "title": "《外資》買超股：凱基金、華邦電、台塑",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXdkV2xENW9TVThGUWd1ek02TGJ3cDA3ZFU2M09tR05xbTdJdGJ2R0Jad3BETzhnZjlQRmpQbWpjZzBVbmdUY2JGSDJTempWYmhrb2Z5RGRyNHdSZjQzLUtwczF1Q3V4QjUzX2l1c1ltMEk4LUZNc0dtOW4tZ3BiaDZZd25YMzBj?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-07T23:52:00+00:00"
-    },
-    {
-      "title": "凱基金現增200億拚證券業務，高資產版圖同步擴張",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXFrbnlpYWtnb3JZcFNCQ3FiTG9FcTdIaTA2RmU2eGlyS0F1UEFqbmtRLUd1cVZsa3FjRG1qcUpTcGZfTmg1V3FhazI2T1pMSlpJcGlvWjVjS3hKVzlwcWZfVzRsblN0VXd2MWdncjhKVjdHQjlGYU9oLUZuMlcxcDE3ZnF5NVpIZS0tbmdHS2RpQQ?oc=5",
-      "source": "台視全球資訊網",
-      "published_at": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "title": "不只拚冠軍! 凱基金控\"高球之星\"替新秀撐起後盾",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVjQtaHRSSlNrNHZQbFN2aWdlQ0Q1TWhyeXVoQjcxTzNiX1ZTMHpIQVpWaHhrT3FYc1NuaXY0c3RNUzhzcjNydTBHby1GM2lzNk9leGRxSWhCUlhCQzl6YnZKREdfZXJ5anNyeFNhQjZsdDN4YTlZdEZoQnJjelZzSnlPeTFFRjlEX3hTZmNUNDNHOVd2WjFkNjFwWUhvRkFCNUp5VmtsZms0Y0g1V3NwYlVFNW5ZTXp4aFpzYmFPaDMxVmVUMEpQeWJ3ZzZwQVkzaEp6X25Cb1NsamRoQ0VoU1FwT1Fua1JWMV90SnZhLWpwR3ZJdi1kRDBNWlZOcGR6N1dOQlpaVzN5dVdtMUp0TzFjbTZiNE51VFRVZmU5TWlKLWpVdlF2MGlTZjlEY2RkMjZKWTFha01jTXpzWG5KS21NMU0tSkhZcnU2YmxGaw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "熱門股》配息銀彈增 凱基金飆24年新高",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVdGo3OVJvNElUbEFXeWRZbEZBSkM4WE83YnpjWFlNUkJIWEFHNlpoeFNnUDg1MFB2UTR4LUR2VWtpTXJGVXlhaXpxVTVScDZYTVVTeDJ1TzE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-04T07:05:09+00:00"
-    },
-    {
-      "title": "凱基金投資收益進補- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41STJraEU4QlA0MG1zWXRrZWxWWDJQbXpCVF9ZNnJzN3F4NlhOSV9MMU84SU9pd24zUllWS0tiM183YU5oSkNJel8xeXRWaDVpdnBHWkd1OGRiNUJMMmZZ?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-10-04T07:00:00+00:00"
-    },
-    {
-      "title": "凱基金控擬募資最高250億元 逾7成投入凱基證券",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNbnNuUS1MS2o4QTU3VzB6UmVJa2szZHQ5U2o1c3NHbEkyRTVMdnBoZkhOeUZVZUxpOU5EYmZMbGluWkVkcmotNFp1a0J1b3NTYzY2NEljMzB3aDBaZFVFMm1TZ0VsdjM5ang0ZlhlWWJPV0xReGR0UFRKUk9PYVRMcHhCaml3LUI1dGwtZGN5MzRWRFBnNEY0UTB2RHZLQkdGS1o5OUdma3o0bW1PbzVHcTNybmRVcFV4aTIyZW92SzYzdUFieE45X2tRVEdSbVZpeWFyVXd4VkxHRVk3VmkxM1NDc1cxOExNVnRfZVRhX3VVZkpBNm4zeDVDS1FRZ2JMVUVUQm9DR3NsUWZLQlRvNDktZF9BZlA4Z0Nnckk1WC1RYkUtX2RXaHZzSFNjVDZ3bHFOMm1yQjU2QjVpdFE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-10-01T07:00:00+00:00"
+      "published_at": "2026-10-08T07:00:00+00:00"
     }
   ]
 }

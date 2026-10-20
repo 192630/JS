@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-16T07:43:35.848307+08:00",
+  "updated_at": "2026-10-20T14:09:13.846954+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2705",
   "name": "六福",
-  "count": 6,
+  "count": 4,
   "news": [
+    {
+      "title": "花17元買1股就能領！六福股東會紀品送千元樂園門票",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44ZjdTeWJRT09HS1g3dTQ2U2hFTVlhQTNzV2NsbHhOMmJ6X1duYUw4aVlob2E3cDdoS3Q5NDZETHViNFNWdG45R3lyaEhKeEktaXB5azYwT2c?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-16T21:33:04+00:00"
+    },
+    {
+      "title": "王府井集團重陽節多個新品牌入駐 六福珠寶巡展亮相",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55QWZHc1o2SmJSSF9oMm12dUFBUmUwaFJ6aUptOUdZdTQtZmRJWG9DUUJsbkx2WjF3aUkyUEhmb1RfNmY4ZF9jNkRPSllGQWs1aXhjUkYyU3cyUzRYMHJneThJa0s?oc=5",
+      "source": "觀點網",
+      "published_at": "2026-10-16T05:35:11+00:00"
+    },
     {
       "title": "2705 六福 - 拜託六福高層好好看看這個影片吧？遊樂園怎麼經營好好學好嗎... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rTkRWNU94Ulh3ZHp4dUFjQ2hhVTdYY2hyQU5jTm9lTHBsM0dQVTlaSGQ0SVlna3l6RjZ6WjVYTktDSDJEUkx5SnhzYm9IRV9nNTBLYzhuTGw?oc=5",
@@ -12,34 +24,10 @@
       "published_at": "2026-10-15T14:45:29+00:00"
     },
     {
-      "title": "連假帶動！六福9月營收2.19億元 再創今年新高",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BQjNDZ2NWMGI3QWxVY3pEa1A4c2F3QkVRSktXMXJpaDY0RUtHYXBGdEUyMzhra0U1WXpSLXk3WDJvSjhsR3JlQXJWTQ?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-10-12T09:43:42+00:00"
-    },
-    {
-      "title": "花17元買1股就能領！六福股東會紀品送千元樂園門票",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44ZjdTeWJRT09HS1g3dTQ2U2hFTVlhQTNzV2NsbHhOMmJ6X1duYUw4aVlob2E3cDdoS3Q5NDZETHViNFNWdG45R3lyaEhKeEktaXB5azYwT2c?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-02T19:53:17+00:00"
-    },
-    {
-      "title": "六福攜手台大獸醫系學生 培育下一代動物醫療人才",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPckJrZUFpdDlRQXFFak83a2xxZFdmRlBFUWpQbnlXZ0dsV1A2UDV6dlVDS3h0T2JpRE02TXpCR0ZhUzVSbkRabEZTcmw3WHB2c3QwZjUySjN4djBURHZqeVFCclg5TElYVG8ybHhHbE1BaXlPeG5xMzE1VDZVQ29NRWtsS2IxQTNUVVpHSzBoVTZfVWhXLUM3Q2szS3dkTk9xb1J5elZQZlNob2ZJdzBVVExnRU15LUtXOWJLWkk2TFdIMlVMZl9Ed0NEd3R3TXc1V2N5SjhXQXgzVDZfQ01jYzBaUWVrU2lBaXBscC1oRENkUzJiNXdLZGpXX3duZVBKel9fMlB0dUxzZ1ZQTDc3VF9pVVJJdEI2WlNsUXZYX2lkWnRaWjZ4VXZHQzFrc3VUOWlqLXMydnE1c2JEVWEwcDZzOWNVUVlhY1dhcjVVVm10UQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-10-02T07:00:00+00:00"
-    },
-    {
-      "title": "六福接待史瓦帝尼代表團 深化台史觀光文創交流",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxORkRDcVU5QURHUzVzemY5QmhQNWhhckpyQ0ZyWC01Rnppd2t1a2taMkRoWi1ZcV94d3pldXNHZE1jcEgwb1lORGs5NTlQc0xfUktGSEt0Si13eUQ2UjZQZ3Q1TExsTUdzTVpxdDVOMDRZeHBfN01YUjNuczdHSXR3ekVlWDNTT0JaT21OcjZvYlc4RE1VRjVnQ2tmWEVRTW4tUHVDYW1MXzZ1T3pfREdkWnVOYklzaU5abVVGczhsRl8xbkdTbDY1dWI4aUtQaXJWTUVMOEJjd2JKR0l6cWxHeC05b1NBUVdHUmszMVNnQkRpajVyZVRyOE9NbXMyTGMybFVhQ1psczVVcE1lTmxMZE1meGZ6VDhQZXpwdTRCS1VES3hFakVRQzlBbGxRMkJNVktDYzNIcnVnMjBwVDljaVQtYzVJM0o2Ujl2MEhNdjlzWGRnOXREaA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "title": "六福總裁賴振融續任TAZA理事長 續推進動物福利標準",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQQzhoUkx1cWctb1IzcnBhbS1JNFA5YWd0MFNtQk9XNlNkdk5aTDl0c2Q3cWthdnRrenVER2RGZ0NlRExmU29wZVJNdTRyYzVISTJDSEVMMExHaGVURXlrTUFOdmhCSkNJajd5VVVrQXI4MVVjbVM4VDloSXZEMUhFNElGMzJ3MmpHOTlpMGNFc19MUXV0UzdCZ2hXZGxqTWhTQjNsak0tSHpSQzZybTF6V0duUDdLbkZIVGxsVzZrb0NvSkNjX3l3NDNNNm5jUk45Mk05VVpZWlVyZDhwTlVPaE5wS1ZsU0lXQ0Q3X21TeFpnSWUyS2JRSmVTdUpjaDVRNDU5LWdHcGJZY3kyX192Z2xndS14N3huV0Z5bnhTdWlWUG9tWU16blU2MWx0QXkwVVBrZlRsaEw2RFVOM2F0SS1zUWlZMzFiZEFtVHhsSVlkTmxPNlpjNmd6QU5wdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T07:00:00+00:00"
+      "title": "ET個股推介｜同店銷售改善 六福（00590）挑戰下降軌|香港經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNc3N3MFFSbzVwSjI0aDdwb2tBNGtfZXBDcWpNY0RoOVd0SHd3MUx2d3NsQ1ZWWC1YamVxMU9TV2FNS3pERkZkTVZyT0VoRTRRR2htU0VsREdoQzdGcGl3TklYQWQyTVY2bEpaVzNWRVItUUFiRXlLT00zWWNZX2pFeGZ3Uk9EdXBwVEhKUzNUckRUdEpGOUdjTlA5WWVmT3lmb3BGeE5WcWxrMnlKMnZOdFY4dEo1Y0VBZGxQM05ic0xHVmN3Tmd6QU9Gc1NRYWdad2VLczdXOXpnZElRdWxqRVFuRS1IdkttX251em5QdjBlNXVlTkNxTFlNcHBzakxTOFpja1lUQTRmNk45TDEyNjJrR1VJd0FzbnBEc0pYdW91OHp3SFJyWTd0eHRjWm1PWUNSZl9nUUZGUW5kQXV5bkNpLVBwVUdpLVJuTjI0OUJWdEk?oc=5",
+      "source": "香港經濟日報HKET",
+      "published_at": "2026-10-07T22:00:00+00:00"
     }
   ]
 }
