@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-16T04:25:37.530179+08:00",
+  "updated_at": "2026-10-20T08:27:32.844581+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2459",
   "name": "敦吉",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "敦吉 115年9月營收4.99億、年增16.68%",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWE5UWHk0Y1V1THNXQ2hEMWdRdnM4LTZIQTZxazlGV2YyNEdNRUp6WGFhQVoxX3dUMjdIMHBLWXU0NHZBTkxNblk2WDRCQjEzOHkyU2M0d1FnV2toR1BSejZodGNfYXV4djRwQ2hncG1Cci1ZX0E3d2w4UUgzM1JwTEkzWVlJSkFDaTJMZlhJQUpULXA2c3AxTWFjR2R3QlFFbXBXMlZpRlNodkp3S3hYaE9SeGxiel9wZGVjQlYzZ2dHbktlSm1GeWVYLUZBbmR2Slk5T2hqTVFUcFE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }
