@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-10-16T22:56:35.731923+08:00",
+  "updated_at": "2026-10-21T04:44:52.801268+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3479",
   "name": "安勤",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "安勤攜手Exein，強化產品資安生命週期管理",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTDRNV3NqSkZtRFA1VnhzeF9qSGVSakNNRHpPWXBIRU9QTzZzMkZGODNuUktjd25xNFJpRW5vR2dZWWhndjRrdXl4UnhURjBGWlIwM0FMOGtibXpiX3ExWGNhSnV3M3Y4eS1LTUxDQXdWUHE2TDE0c182dDVlZzE0TkxQZ0ZrODltd1RiWjZsa0puU0RQcDBfUEpsZDREMl9wVEk4SGtRZ3MzYkgxMXdDZXlPajNSMEE1cUthTlliYXBhNm9zRFpsMzlYWFFKdm5rSndDWVl2YUZZamV4b2puSlMxQXRRTUx6cjhhanR5YXdyN2Eyamk3WHVyWnhPcDRLNnIxZzBkeklNR0RYMGdzTzlQNTFFMUExakxjUkhieDVScnc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-20T04:35:01+00:00"
+    },
+    {
+      "title": "安勤攜手Exein導入韌體漏洞分析 強化嵌入式資安與CRA合規準備",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYmplVTFUNE9DaENzZ19yTzlvSUxDNmtnZ2hZN3ctR3pZcXFLUmtIamRxYmVJYW93VUxBRFpKZkp2WXl1TWJaXzRMZjU0TXM?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-20T03:42:58+00:00"
+    },
     {
       "title": "安勤(3479) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ibjdOT21uT3QzN1dLSHhobURDNlpYUlp1MmtUYVZzVWxMamllbExhZE9xVXIxSS1XSTQ4QUw0OU56bGdLaHgwVVFjM285UGhuUURN?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-13T01:16:03+00:00"
+      "published_at": "2026-10-16T04:02:52+00:00"
     }
   ]
 }

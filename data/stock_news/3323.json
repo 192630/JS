@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-16T22:56:15.955860+08:00",
+  "updated_at": "2026-10-21T04:44:33.150646+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3323",
   "name": "加百裕",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "加百裕(3323) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xM0VsVjgtby14d0FMMGNLWlRWT3I0SXFWZW5ITzQ2WFhybVhxbG5vTFpWNnRrT2owVTFIaS1kWE5mb1d3Nlo5NzB4c1N6S1ZGVDdv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-15T18:07:50+00:00"
+    }
+  ]
 }
