@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-16T17:57:33.796270+08:00",
+  "updated_at": "2026-10-21T01:22:00.989833+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3158",
   "name": "嘉實",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "嘉實科技５０(03169) 交易所買賣基金的交易資料",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZnNBd1hoSUNiTE4wV2s2NUdnNXFyWUYtazRJanM4VkNQSWdGMHl4NG5nblJkdU5TSkdsclJrRW9xSlNYWVlOdGdiYmxLUF9IR2NWV2o0RHUzb2huY25XcnRGdU50dw?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-10-02T07:00:00+00:00"
+    }
+  ]
 }
