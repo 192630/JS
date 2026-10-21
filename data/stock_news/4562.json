@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-17T08:36:40.728798+08:00",
+  "updated_at": "2026-10-21T18:20:09.205125+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4562",
   "name": "穎漢",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "4562 穎漢- 自動化設備廠穎漢科技擬辦現增籌資3.1億元- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZRnFNMllucUpQbWJ4bHV3V0dQUkM1UEJrNXQxYTkzZ2JMUFZ0Y3lKWi1HelJoQzl6cGdMT1ByNl8xeEVQbVpPZTJ3aTFDWm42b0JHbUxBWGg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-19T02:26:02+00:00"
+    },
+    {
+      "title": "自動化設備廠穎漢科技擬辦現增 籌資3.1億元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90N1FuUF95dlRPSEVhN2F0NHNUU1JETlhkTDZ3a09IOWtGdDRZazZZLVN2WWI3cWMxcWRONEFZYklncjBvMFgzUVd2eTJKclE?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-19T02:20:05+00:00"
+    }
+  ]
 }
