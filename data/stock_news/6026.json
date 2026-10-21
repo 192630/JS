@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-17T22:17:58.820287+08:00",
+  "updated_at": "2026-10-22T07:28:20.520829+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6026",
   "name": "福邦證",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "6026 福邦證- 六俊電機10月22日登錄興櫃無人機與機器人市場成新成長引擎- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwOW1LTzItQWZNZkV6TGFXXzJ6VnFNWU1waEd1Wm05WFlvY1JBdTNxYnlzcE5kRWhicHpjbzQ4T0R2QW9BaFpDZGdQd3ByTmlRVFVSNnRMVTk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T00:49:30+00:00"
+    },
+    {
+      "title": "亞昕科技10/21參加福邦證舉辦之興櫃前法說會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tT2FqWVg2Y1lndG1jR3NyUnpfRHNDcDNQRWtLV1lRdXZPb0RBNG1Lc3dSbHhpQlkwWW5lbHdGcFBFOXYwNWRZMVBJUkdybmN3XzhJTTcxMng?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-20T06:51:46+00:00"
+    },
+    {
+      "title": "6026 福邦證- 六俊10/22起開始興櫃買賣- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FOVgyeFEtSGo3RGwzcFZUX0VkeTVQbHRsVWtzeGN5QklRN3lmckFKY0VSdFB1c2drcHNRRlNXNkxpZGx5U0lsNXFGYzZhTG9lb3JGOEpvRzk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-15T00:22:15+00:00"
+    }
+  ]
 }
