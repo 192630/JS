@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-17T08:36:24.948325+08:00",
+  "updated_at": "2026-10-21T13:02:52.915936+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4440",
   "name": "宜新實業",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "宜新實業 115年9月營收8718萬、年減18.36%",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcEEyUU9VbkpUa05lZ1RtVEd4aThBRGdXalJ1LXBWWEhXQUVfRHctdnZhVDlVcFllQVVzbWkzbDduSDEyUVlVWjBuRjJONUh4TTNTMHVZZ0M4eC1RQXZJS1pBNFdWUkN0QmkyX0FIc2w3VVVlakpQeWlNYllFX3diWVNMLWpRY1hoSkZFNTZfY0Z6OEM1TFdGbmFFVV80SEY3YzVuOFktTmNHUnltMzZIdjhxcHFTV0FnQ3RacDRTX0hNT2VMa1h6U3BSc1N4a1BPa053RUs5WXhuRmczRTkxTmp3M1Bmb0MtdjQ1RlN4SGlNUHc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-07T07:00:00+00:00"
+    }
+  ]
 }

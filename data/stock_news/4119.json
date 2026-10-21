@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-17T06:08:59.124309+08:00",
+  "updated_at": "2026-10-21T13:02:25.983079+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4119",
   "name": "旭富",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "旭富(4119) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hcUVBOE1lQkpoZTFKMFFWRDJDejlkb1RlMmhsWFNOZC1nLWdMRnM4MjNvWjJsN0F0NGdmVGc0MExyN3BBbjBScUJ4dTJMUG1MWGxR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-18T06:16:58+00:00"
+    },
+    {
+      "title": "旭富 115年9月營收1.63億、年增33.05%",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVM5OE5JOEFxaE5EcUd5V1lqZUhWN3F3RjVtbFo4UkQwQ0QyemRBOG1EWUlRWVQwbmRuSWZRaFRTX3B0UTJvRlhBWGhOQV9CVEpOM0RtOXdOZEEya3VXTTlSa1dRVFBYMG12a3NYeDFqOVF1Qmlvemt2MmJ2cVRwVWg1cUJoanF0d3JXT2NVRUQ4dHRVdTNSdVBjZWZmVmwtVFNlOERIeEFxWlpHVXVodm1iQnFfWDQxRUpzQXpELXQ3ZWRGSl9Mek1KN1VQcDlWYjhkMzZxaDFzbTQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }
