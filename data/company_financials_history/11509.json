@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T21:44:23.274017+08:00",
+  "updated_at": "2026-10-21T22:01:32.673092+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -19,7 +19,7 @@
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_mim"
   ],
   "latest_revenue_period": "11509",
-  "company_count": 1397,
+  "company_count": 1398,
   "unit": "新臺幣仟元；EPS為元",
   "companies": {
     "000104": {
@@ -22269,6 +22269,18 @@
       "net_profit": 398354.0,
       "parent_net_profit": null,
       "eps": 2.91
+    },
+    "6467": {
+      "code": "6467",
+      "name": "泰合",
+      "market": "上市",
+      "profit_period": "115年第2季",
+      "quarter_revenue": 1350.0,
+      "gross_profit": 1221.0,
+      "operating_profit": -97901.0,
+      "net_profit": -95841.0,
+      "parent_net_profit": null,
+      "eps": -1.83
     },
     "6472": {
       "code": "6472",
