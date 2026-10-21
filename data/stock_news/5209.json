@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-17T18:58:58.911267+08:00",
+  "updated_at": "2026-10-21T23:23:51.566575+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5209",
   "name": "新鼎",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【公告】新鼎 2026年9月合併營收8.44億元 年增84.05%",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWnllSjExOHl6ZUtRcGVzYnRDUjMwWmhyNEQ3SHBEamxEQVFkWTVWeWp5QXhJLXMySXJObzh5V2tqdWxXN0w4ZnlGVC04elIyWXZicXhvcTRLQzE4cUJLZ0dVM3RNNnV0ZFB1TFJsbFF2eF9NMG9XTnRYTk5GRndFUUR6SHk3c2dkUTg2U1Z0ZkRPcS13aDNtdjMzdHRpUExiZ3VpR2FKM3RnQnZVR0pJcVJleHlLc0F6OUFxQXhyTkJMN251ODA0ZXk2MmZTVWhQaTVfd2U5emMxSkh5ZmEzWWUxQUk4Z1hNNmRNOWJnOXE2WkRqWldpaFlwenVSYVNDM1FiSVJabFVrSFU4cmRlUVJIbUhXUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-07T07:00:00+00:00"
+    }
+  ]
 }

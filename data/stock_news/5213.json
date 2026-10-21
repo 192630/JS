@@ -1,51 +1,81 @@
 {
-  "updated_at": "2026-10-17T18:59:00.765387+08:00",
+  "updated_at": "2026-10-21T23:23:53.382819+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5213",
   "name": "亞昕",
-  "count": 7,
+  "count": 12,
   "news": [
     {
-      "title": "六隻小豬驚喜現身 亞昕親子劇圓滿落幕吸爆滿人潮",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPc050TlJ5bEJnZ0g3cHlPYkJ6WkZUTUtLUU80N0p4R2dNNmVoandfTWVsVUM1RjI0bUV3dTlHNnltQ2pnSGpXa21qTDRBdnMwUEFQZVZnRTFOVEprcTFEaU9JTmJwTGZNUHlvdGR5QWJFdTFwbFV4UGhncXl4MnhGREpCT1R6Mjd0ZTJ6TG9WTXZMOHMtbFNIY0ZISHh4OEk1S3RDNHBIYkx5QnlZMkUzZlN6TGVvMV8tQndnTEl4NzVoYl9qQ3k1NlkxOU1ib3JuZGlIUlA3WlNEUTNDODg1T21nTGxiZE9MLWo0aXZmbzRKNWNPRHVMSzZqNXY4VUFzVUF1VG8wQloteGhBeDFENm1yU0hGdmh0aEw1SWlCLTJvV0szalBBMFhCU1VvX1ktREVHbjI3MFN2dF9QbWdiWkxjVmZQSDNrNEJaelgyUnlXVUw4Mm5EVzRIM1RBbTJ1emtxNQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "賀！中華隊一箭射進亞運銅牌 亞昕集團以「隱形力量」實踐企業 ESG｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85dGZtY3FwNTFqSXgzQ2lCT2R1Ym0tZDVuLUVWam1udGU3em8yUS1UelF3WGdTNll6MjVodFNtaGh5Si14YTdyVFU3UFZvQXUwOThiUXpyNVBWWm9CTUVlVk5nTXFFck5aUVdyRXdBRnY3akFDbmc?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-10-04T22:59:00+00:00"
-    },
-    {
-      "title": "亞昕雙案齊發 總銷180億",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZGprdmxHWWVRYXdYcldLXzd6T19td0pLVHFGNGFRRzVUN2pMX2xVTmZ0Vkl0ZktyY09IVFlRYmlKMzBTOFJtY0VGbkNTUnBxdGFKQW9wZFo4TVnSAWBBVV95cUxOTWpack50SGpJbWo2MGpPRkJnZi1hOTVHM2todmxvUnZWTVRrNmtxNUJ6Z3ZobXJ6dk53eFZlLWluSVllcVFiNlFmMXdIOTk2bWZIeDBES3ctaHZnbGV0TDQ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-24T07:00:00+00:00"
-    },
-    {
-      "title": "亞昕重押台中Q4推雙案- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CNV8wUVQtR19KZDA4Nzg4Y1FKOGtUZnBWQVYxckVtYUF2bUVONE9zblZpbHlsd1ZpQ3VBUFNGLVNQcU5DaFlPaXl3M01CVkVpamtnUHhWMDNZbnhtNy1N?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-24T07:00:00+00:00"
-    },
-    {
-      "title": "七年八案版圖成形！亞昕第4季「拉尾盤」水湳、大里雙案齊發總銷180億",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaUpQTDBuZlNmWXd1dEhVdEVNMFdBWFZGMnVSY3RwcXVWU0xQajNEbnI4Z2wxdVU1aHB2anZUa1k1TEtzc2xtaFloeS1yNWJDMXhlREhXcjBuUdIBX0FVX3lxTE16c2p3TEU3SWNSSjZLX2Q3V3NTN1l6Yl9BMDQ0WndnTmdUYlMxbkpNdWpvNC1sd0RCZFdzWHJKdWJXU1VxblMxWkdMSnhOUHRqSUFWdlpwUGYzNzYwVzlr?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "title": "房市信心逐步回溫！菜寮站250米「亞昕昕富琚」正式動土",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCLXdYS1hCN3JaM2hBZmFSVFcyTDVWSUx5OEZPZ1RITmVHZ19zYWhJN2hZa1FUVUlrRXBwd3hRd0VjLWlVWHNNQ3hlMHZWUnRoVnQ5MFFRQWVQc0NXcnVzS1RYd2xaY2RkU3hXZTFnUQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-21T07:00:00+00:00"
-    },
-    {
-      "title": "千億股息熱錢流向哪？「亞昕織御」熱賣166戶成存股族新歡",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yWElrY3JsVnZZcmg3bjFHMmstdVRFcGFRcjNGY1BBUEtadkxUdmwtLThzLXpUM3FpME9vWE9GSC1fWXBoNDRtRnNDcVJXZTA?oc=5",
+      "title": "德微旗下亞昕科技10/23登錄興櫃 參考價120元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGNXk1WUhfSnEyelBTcGRwTzU4cWE5Ti1JQTNGb0h2TW9LQjZsU3J1a1d3anU1dU1BcWNFbS0teDhzSHhaenpmZWhJZHdvRlU?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-09-18T07:00:00+00:00"
+      "published_at": "2026-10-21T13:06:24+00:00"
+    },
+    {
+      "title": "邊緣AI驅動半導體擴產潮！亞昕120元登興櫃，力積電拼雙位數成長-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3BGS29YbWZhREVTd0k2MzFTRHJpMUhlc1BPR0JEZkZHQXFTU3pOUDBSWVNWcG9wNjB3SF9sZHNjNlI2dnhvMWVNMWJlMG0zdzhiMng1aExSM0dMb2hjel9fVW1iR0xDak9wM1ZnUENFVUVxZW45Wk02WnEySzVLejVn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-21T11:40:32+00:00"
+    },
+    {
+      "title": "亞昕科技23日每股120元登興櫃 攻邊緣AI商機",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xUVFPNnRiamhVamJRN0RaZjFFU3BxY0REbG9fY2pxNDJReVZUZFNBVVZpckZsc0daTmlYZ2sxZzJPRUU5TG5OVXNhcnh5WXJISkZUT05RMFNTNU5ZUFE?oc=5",
+      "source": "中央社 CNA",
+      "published_at": "2026-10-21T09:29:00+00:00"
+    },
+    {
+      "title": "亞昕科技23日登錄興櫃 攻邊緣AI商機 (圖)",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOOTVoQW5wQXdVdGJrVTZ2YXduVTRxWmJ1WmRSNk5DU2NFMDJtSmxZak5Hb042d2lsSlJmaFZTZjBZZThtZkEwQjdDLVh5VmM2cl9zNEZ6Vzdld0M1c1MxTS15OXB2SkhIelZodEhpdmdNTnctVHl0MVJYWVRwd1dTaWFJdWszU1J1OGZGRUlDNjU5cWg0TUs4Zjk1YlBUU0diQkhOQWctNERRcjRQc1NLS09RVmxfbHhfOUdWMllGVU1KVl9oVTF3TmxUalgzTkwzR0FQeUFSVF9SQm5nSXduaFRxVUZwSktfdGpRMU83YmlpUUlCSlhKRVRVNFZWdWF5TVZGWHhOOVBOdGdkZElN?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-21T09:28:48+00:00"
+    },
+    {
+      "title": "德微子公司功率半導體廠亞昕科技前8月EPS 3.46元 10/23以每股120元登錄興櫃",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lV01NOVVWSlg4WUI2VmVzZ2pFTVlxWlNkdWdvMmxMS1VFS3ZTNHRzUWNLQzItaVpzM2JpUl9tUERBd3lpQm0xQ0NuYWhVSW9PeE1lVzN4ekE4SGtBWmMwZHA0M090aUpoN0xQZmNpVQ?oc=5",
+      "source": "知新聞",
+      "published_at": "2026-10-21T09:20:00+00:00"
+    },
+    {
+      "title": "德微旗下亞昕23日登興櫃 董座：下半年優於上半年、明年更旺",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ga3dodFdJTXFwdTl5RXZ4eWNaWXl2QUMzZFJlV3g5enpTWXVYMEtYUHBRN0hoSlNqbzh3TVVPR2kzOVIxRTZuZmYwZTAwTnFw0gFWQVVfeXFMTURGMGNIUGZ3c3pVaEJlZVNRS01POWNvODRGaEItb25KTC1YS25HT2ljd2Y3MDZ1VmthSHNpYVFneHVHZ3l6YnFKbU5RVnIzTGEwZnQ4ZGc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-21T08:55:55+00:00"
+    },
+    {
+      "title": "德微旗下亞昕科技10/23登興櫃；看好功率半導體新商機- 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmdWWWJSWk5uNnFGZXY4R3ZwQmFoVkVSVUVsZEJzR2paRUFBemdmeUhUTFVIRG5RN3VvN0dOQWZYTlhpT0QtUHU1ZEhNaDJ2UGZsSjMzMjhCTmJvbEhYR3o0VWVCMXk5NlVVTklYcXF3dVM0SlVWVHlCVXduZ3NPN3RxNTEtUDNkRHNiZFJhRC1sQQ?oc=5",
+      "source": "MoneyDJ理財網",
+      "published_at": "2026-10-21T08:16:00+00:00"
+    },
+    {
+      "title": "德微當年1 元接手虧損24 億晶圓廠！亞昕科技10/23 以 120 元登錄興櫃- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Rkoza3VHR2p0WnloVzVFbko2Nll6RTRqRldraW4ySmI5ZG1NOVZhWndIUlFWbGI4a0RCblByS3h2bl9ITlpSZDkwWlNFUURpTkdTZU9DTUo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T08:13:28+00:00"
+    },
+    {
+      "title": "1元接手虧損24億晶圓廠 亞昕科技23日以120元登興櫃",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNWTFOSWtHSlFzVUt0emJ5ZHpuSFNuX1dLcWlZUm5WOEhZLVV4Z2F0c2E5LUZqNklZTU5CQnNPSUhaSENQbHFib0o5SUNhalRiLS1tWThGVng0dU5TcDA4blRJQTAzZUlveWdWUk1WYmlOVDJaZnRQVlZKMTJjc1BXYldMaTNoUUhsNElzb2w4dUxmQmt3R2NrTG9ZVVRBeVlZdVRMUHBnZFpyVUUzSTJRejI3VUd4ZjhQZFhPbHUxQ2Q3TUZNSkd4Sk1kYXQ4dkNDUWxRMEk4Q0xNVTB6RzV4U1I3UmpXc2txYTI5Y0ZhV1NnMy1nT0hvaEpOMmloOVpqVE8yUGdPVzhWWjhUc3RfcldtM0FWa3U5LUdOLVViT1JGV2R2ZEVPci1tcXdQVFkzdlF6Y1ZPc1lEcldwMlpmMzh5MA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-21T07:24:09+00:00"
+    },
+    {
+      "title": "6706 惠特- 1元接手虧損24億晶圓廠亞昕科技23日以120元登興櫃- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwYzFqMExRREVzdWxHekZiRjk2MGFOV3RCRGdVQkVSd3FlbGw1LWpmWTVkMUd2d1BjcTN1WWo3Y0lpc0lMUXczZzdXdVp2RGUtbC1lOHRrb3E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T06:49:18+00:00"
+    },
+    {
+      "title": "TWA00 加權指數- 半導體廠搶攻人工智慧，力積電與亞昕擴產能- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUSGFMakVJRU1OaXEtSE9LdUxpREZtUHdSVk54WUp2LTlaX0RhV3ZPcGhrWG1Jd3RlbFgzVm5DMlFOUlY5UzhmYmhjRGFEY1FjTEVJT0ZvY3Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-20T20:34:17+00:00"
+    },
+    {
+      "title": "亞昕科技週五登錄興櫃 明年深化高耐壓產品布局",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoZjBkdXpPaThBOXNzTGhwZ1owZFRGVHI1cXh5UkxxMF9qR2szaGhFbVRwSFpJUmVZQkdibTlNdDNnY1REdm5HM2p2cDdwVkQtaVhtVVVVVlg?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-20T17:27:00+00:00"
     }
   ]
 }
