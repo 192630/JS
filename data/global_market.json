@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T06:22:28.911878+08:00",
-  "taiwan_market_phase": "盤後",
+  "generated_at": "2026-10-21T09:40:40.740374+08:00",
+  "taiwan_market_phase": "盤中",
   "update_status": "更新完成（延遲行情）",
   "risk": {
     "score": 53,
     "status": "風險偏好降溫",
     "color": "orange"
   },
-  "summary": "盤後整理：全球風險溫度 53／100（風險偏好降溫）。主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。",
+  "summary": "盤中追蹤：全球風險溫度 53／100（風險偏好降溫）。主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。",
   "taiwan_impact": "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
   "indicators": [
     {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 82996.0,
-      "change_percent": 1.0498563441761704,
-      "data_time": "2026-10-21T06:21:27+08:00",
+      "price": 82834.0,
+      "change_percent": 1.5578875907552323,
+      "data_time": "2026-10-21T09:39:46+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 2459.88,
-      "change_percent": 2.0086482340751584,
-      "data_time": "2026-10-21T06:21:27+08:00",
+      "price": 2448.03,
+      "change_percent": 2.2519690129170256,
+      "data_time": "2026-10-21T09:39:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -43,9 +43,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "NQ=F",
-      "price": 29940.0,
-      "change_percent": -0.6759278457391665,
-      "data_time": "2026-10-21T06:12:28+08:00",
+      "price": 29928.0,
+      "change_percent": -0.7157370930955836,
+      "data_time": "2026-10-21T09:26:55+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -56,9 +56,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "ES=F",
-      "price": 7783.25,
-      "change_percent": -0.09947375176485689,
-      "data_time": "2026-10-21T06:12:27+08:00",
+      "price": 7776.25,
+      "change_percent": -0.1893210114234373,
+      "data_time": "2026-10-21T09:26:51+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -95,9 +95,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "CL=F",
-      "price": 98.16,
-      "change_percent": 0.19393691946514008,
-      "data_time": "2026-10-21T06:11:59+08:00",
+      "price": 98.91,
+      "change_percent": 0.9594773910380706,
+      "data_time": "2026-10-21T09:26:49+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -108,9 +108,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "GC=F",
-      "price": 4144.5,
-      "change_percent": -0.6138941512194039,
-      "data_time": "2026-10-21T06:12:23+08:00",
+      "price": 4135.5,
+      "change_percent": -0.8297163137574726,
+      "data_time": "2026-10-21T09:26:53+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -121,9 +121,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "DX-Y.NYB",
-      "price": 101.73,
-      "change_percent": -0.26470588235293724,
-      "data_time": "2026-10-21T06:04:59+08:00",
+      "price": 101.786,
+      "change_percent": -0.20980392156862612,
+      "data_time": "2026-10-21T09:30:39+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,15 +143,15 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 82,996.00，漲跌幅 +1.05%",
-    "以太幣 2,459.88，漲跌幅 +2.01%",
-    "納斯達克100期貨 29,940.00，漲跌幅 -0.68%",
-    "標普500期貨 7,783.25，漲跌幅 -0.10%",
+    "比特幣 82,834.00，漲跌幅 +1.56%",
+    "以太幣 2,448.03，漲跌幅 +2.25%",
+    "納斯達克100期貨 29,928.00，漲跌幅 -0.72%",
+    "標普500期貨 7,776.25，漲跌幅 -0.19%",
     "費城半導體指數 11,283.81，漲跌幅 -7.58%",
     "VIX恐慌指數 17.31，漲跌幅 +2.61%",
-    "WTI原油 98.16，漲跌幅 +0.19%",
-    "黃金 4,144.50，漲跌幅 -0.61%",
-    "美元指數 101.73，漲跌幅 -0.26%",
+    "WTI原油 98.91，漲跌幅 +0.96%",
+    "黃金 4,135.50，漲跌幅 -0.83%",
+    "美元指數 101.79，漲跌幅 -0.21%",
     "美國10年期公債殖利率 5.12，漲跌幅 -1.41%"
   ],
   "rule_signals": [
@@ -352,8 +352,13 @@
       "generated_at": "2026-10-21T06:22:28.911878+08:00",
       "score": 53,
       "status": "風險偏好降溫"
+    },
+    {
+      "generated_at": "2026-10-21T09:40:40.740374+08:00",
+      "score": 53,
+      "status": "風險偏好降溫"
     }
   ],
   "risk_change": 0,
-  "risk_history_sample_count": 35
+  "risk_history_sample_count": 36
 }
