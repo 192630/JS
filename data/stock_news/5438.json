@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-17T18:59:31.842137+08:00",
+  "updated_at": "2026-10-22T03:26:52.848585+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5438",
   "name": "東友",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "東友科技股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmVHSFQ1eG9yTzI4MmxfWDBDaHNFaGRnTHlLR3lZZF9jYmJOVXQxM1h2NFBQQ25XVEg5YUV6UzlKUHhuOWQ3RF9ONkcyQ3BCb19ocDFTclRpRENManhQUjNJZXFfR2R6ZUV2SGRCRzZoRWV1el9jZ2hYVEV1dnd0cUJLNTFUeXN6eHk2UTE1bkdQRXlfRksw?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-10-14T06:17:00+00:00"
+    }
+  ]
 }
