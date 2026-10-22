@@ -1,27 +1,63 @@
 {
-  "updated_at": "2026-10-18T09:13:49.199284+08:00",
+  "updated_at": "2026-10-23T03:20:27.528765+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6664",
   "name": "群翊",
-  "count": 3,
+  "count": 9,
   "news": [
     {
+      "title": "群翊手中訂單爆增 新廠規劃明年1月動工、2028年投產",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Iamx6RHdDc0xnM0NfRndmNUg4TTl4Zm0xeXlHaTVJbjV0aG90dGw1cFotV1c0VkdkQUJZRjlQZjZFazVpQ1k3S2V4MA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-21T03:31:54+00:00"
+    },
+    {
+      "title": "《電零組》群翊吃下AI大補丸60億訂單在手董座看好連2年成長- 證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12cEFwVFBLLUV1MkxGV2wxOGNCUzRVUkRhMng0dWs5bzNpb1p0MXpObm5KUUxNNnV1OERPTGhnWVpHekM4SFN5dEdfUUZqNU5yVGxLQXYteXZ5V0NudVJB?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-10-21T02:41:00+00:00"
+    },
+    {
+      "title": "群翊(6664)訂單能見度直達2027年底！毛利率從68%降至49%，楊梅二廠成獲利關鍵",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xeFZVWGVhdnpmYmROWVJPcFZ5aXBGcUhUZnBOeGNQbTJ0U19HNXo2eU1nZDQtTFNIRjFXSmdLNFBWWXVLc3M4ZzJRYU1XOUpoa1hRdGN3?oc=5",
+      "source": "優分析UAnalyze",
+      "published_at": "2026-10-20T16:00:00+00:00"
+    },
+    {
+      "title": "法說釋出成長動能！群翊(6664)逆勢強攻漲停！",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wY1BsaXZ6MV8wX3dYQ1o4N1l2UWdtQlFtNUxPODhUUkxtWWtfQTVxekczQjVyUmtDaTZIUnl5VGhLOUtwbkFXenNQYWFiSk5lLThzbXh0WUQ4UQ?oc=5",
+      "source": "口袋證券",
+      "published_at": "2026-10-20T10:00:03+00:00"
+    },
+    {
+      "title": "工研院攜手熱製程設備大廠群翊 搶攻低軌衛星與HPC高階載板商機",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tWF9BWlFRbzNkeW9Yc2w5OW1DelRISkp4ak5kUWJrVEw3TGdQRXlwQV8yY0Z0Ujg4dUVoc0dwWHR6LTBVMmZJcFVHMDZZZWFrMG5DWXVScktzVGpHNVZR?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-10-20T07:35:24+00:00"
+    },
+    {
+      "title": "工研院攜群翊 搶進低軌衛星與HPC供應鏈",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3cEljbGN0YWlrTUE3YnYzb1NCUy05blQxSkFOalpuWFppMmdLZ2k3cTgzUmVTUkIwemxLR2t0OHhwZ2kwQy12MVd6a3k?oc=5",
+      "source": "聚財網",
+      "published_at": "2026-10-20T04:35:29+00:00"
+    },
+    {
+      "title": "群翊Q3獲利估回升；Q4營運看增",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX29xQjY4UWV1XzJOQUdxZHZiU0hNaGlpZVVMbHVUMnBqRDRlRXhnNnFwUENydGptSnVBOTlNaGZxYTBnZGJaTUxLMEw2WEZiZklneGZ2UFFNdEo4N3BXakdFanZQQXZCd19XaklTTjM5YnhjRndueTB5R2RxS28yU3pzc0ZoeEswd1FNVGROejlvcEs3SU9qNlJYQTZJNW5keF80YXo2blVYUDRwcTZMR1NXYU10V2lvMkg4TjhCMDNyZzJJZWFfZVJNaGl6SkxzT3RPZldCd3BWd29JQ1ZnaFh5a0VJUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-19T05:41:28+00:00"
+    },
+    {
       "title": "AI先進封裝設備爆發 群翊訂單排至2027",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTm9VdVlybW9BN014WWljb3hnR1liREtmcy1IU09nczlldlJSUlcxV2t4c1dmRUMyakpydzNVZHVhTDVEeDRraERFTG5qQzBnUFhBT2VoVmp6ZURONW42YVpoNWFPc0t3aVhzQVhJOUFjdVhXX09LaW1RX0RySk45X2FYVUpWeU9JYlUxUUNYZnNiQklpNV9sVmpQQ20wTl80c1pTWC1iTTZCVzRTX1dGeEJfNlNrZURaejBMY1l6V1BQSXRxbzlPS2ZmTlI3RXlaZW94RGRBV01XeXhIY3NpdzJhRFkycTNtek9rNlFyOHJrR3NHeXRhcXRCV01SMy1xVkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPTXR3TTQ5NmQ0dVB6RUZjekR4MXdPeHE5d1hJeTdPcXV2X2ltM3UtOTNWN2NnaDdnUzZvbWNoUGgwUnZfYWpMUFluOWZoRHhDNHRsMWFZbS1yQ2tsdkJCclRnSjBqOE1IZ3JRb1JIRm1lVFRSZGRHRVRaYXRqVzZjdDB1MjMzaml3WlRQOFpnYTU0WHdWUzNBODRPcnktT2tiZWF1SlNCU0pzMHQwS0Q0YnAxSzJmY0F2N1I5ZE96WVZsX1dqUmZvVFAzdC1zMXpsZEVaR1lrZk9BVFBEOG9wR3BPdXZ6d3htcXJIbVNNX0ZLZEVQbnozX1hCXzQ5NVlvMzMzTXlRR1hzbTJvZnhsVmFnTUw4RjYzY1RaQTZNU0hqZGNJWlNuN0lLT2NDTVdaWXFmYThHQ1dfelRHZUhz?oc=5",
       "source": "台灣好新聞",
-      "published_at": "2026-10-07T07:47:42+00:00"
+      "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
       "title": "群翊(6664)在手訂單突破三年能見度！解析先進封裝與玻璃基板佈局進度",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pTmFHdzRjZFJySEJVWnRrXzJPWmZSMENKSllsNjdQRDAwWVc1SDZRZU53UVNHYWdjYzRRQl9EckVTbUZjTmpPSkxPNmhCZm8?oc=5",
       "source": "鉅亨網",
       "published_at": "2026-10-01T07:00:00+00:00"
-    },
-    {
-      "title": "訂單滿到2027 群翊Q3營收拚新高、下半年看旺",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPRkVPLWVjNFQ4b184T0VhMWFVcWlwbnk5bEpxY2pMZnpVQkJpMkZGMGVoZ2FsUXdndmNxY0ViZHg4VFdsZ2dobWYtd0dyRWllNjZrV3dydUlWWDRza0RZOUNUU2ZJM0Naa3JIT3g4bUdObE5Ia0o5aElzUTlGUHpGYjdKU21rZXBHbXhWN0FVVVhzSTBwM05BTUo1T09DcW9vanpoZ1BNQkdzcmx0N2tqZG1QTjVrUXgyamNyT0NRdmdoQm5tdDJxeHh4NEN3bWNNN0g2ZFF3WlYyQlhIdmc3Skp5UHRNY3Rhc1lwYjNVZ29NeV8yQ1lxZi1wUEFuVGQ1NFV0T3dKZTZkakVqV3IydlVWdmRfOGtYSGhzcUdjd3BOT1E2eGc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-22T07:00:00+00:00"
     }
   ]
 }
