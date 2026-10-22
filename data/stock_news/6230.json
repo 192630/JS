@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-18T03:33:07.802451+08:00",
+  "updated_at": "2026-10-22T13:05:12.392537+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6230",
   "name": "尼得科超眾",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【公告】尼得科超眾 2026年9月合併營收7.86億元 年增3.43%",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNNmJnYzIzMlRzQTNvaFRpMlFWWmVtSUlsRUMzdlQ2QTBpeUlNaTg3X0RMS2wyejhucVVUbUg1eElyNl9XOXlFdWs0dnRWQ1JmYVVtUlRwQ2t6SF9CamZKR1Q1dFlmV1RQRmVZTFhDbFdSOTIxcndoaXJnUU8xejhyMDF0OE03QkN1cllGcHVpb1pCUXoybzFUOEFZTEE3VDVTYzNTTC03azZvNDNObEpXVkJvWk9ueThRVnVWTjlLWV9Jc211bkdoN3luODZ4RHRCaER3eWlrTlh5YjFWT000b3A0UWFGdm8zSVJUU2RZZnkxSExWSTdZWDJTUEdpeElCN3pYelhFU2puOENGYkpubm8wWGg5QUxnOFh0eWFRclhpOFRXaU9oYUpWdERXT3JZUW1ERFI5NHY?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }
