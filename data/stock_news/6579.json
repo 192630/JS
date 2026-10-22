@@ -1,33 +1,39 @@
 {
-  "updated_at": "2026-10-18T06:28:02.210115+08:00",
+  "updated_at": "2026-10-22T23:24:29.444039+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6579",
   "name": "研揚",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "《電週邊》研揚攜手芬蘭Zenniz 導入邊緣AI打造智慧網球場",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkl3NFNMLXF1X19lZ19pQU41SEM2MTJSUXA5bWtsbkh1Q1BPM1VrOFJUOWNfYURTTi02SEc5blJyRmk5ZGx4TEN4d2MtQzJNNC1hMTlsMlRiSWF1QVZjcm9lYVZaNHVkMEthY1UwRE5IVnRSV0txbUtPbWMwUVA0dFJiUUR4WndM?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-22T09:17:00+00:00"
+    },
+    {
+      "title": "研揚攜手芬蘭商Zenniz 將AI科技帶入運動界",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNV01NTVlDRFZWbWd6Zk9ZbTJZY1NaYnE1SzFzbkpIWmJvLVRrYjNvYnZzbTlVUlh3R2Zja0hYQjVhSU4zcDhrMzlTVEt1YUtaZXplZXlGcjM5MFlxcWVtSXlVVE1KeVAxTDdydThaVlA5MnJwTlhtWUk1ZVlwRkc0Skh1VE5mcDBOVXV0b0FwSEM4ZmktSGZGSVFxMDRibE5qM2YwQUZ2eDFHS2stU0lGRmc5LUdzaG9QcFRRaFhmYUN5ZlJ4UWZNSXQ4TDM5aFRWUEVfbW1pbGNwUkFQQ3c1ckstc2g3UjFlaG5oUjlseHpyZTg0alVtaTgtZUtfOFoydkFSYi1FaVhFbEJweW5LRmt3dlBXYUt6MzhV?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-22T09:06:00+00:00"
+    },
+    {
+      "title": "研揚攜手芬蘭Zenniz攻智慧網球場 AI應用布局25國",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SdzdYVGRlMFY0LVk4NXJuWTQ3Qk5VYk9PSkwzWkZWcHQ3dGc4T1JuTzJPRTFQUWRDa1oxQVRuUGo1djhZSDE4SUtJNUo5X0hHTkxkdkdvZEs?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-21T18:35:00+00:00"
+    },
     {
       "title": "焦點股》研揚：基本面助攻 漲停攻高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95VlVlYkFzQUVIa0JTNG5tb1V2Y05NQmlpSGNyRnFDNGp4b2UwVmxoaS16MGNnM3otbE1uWWxkYmNPOWF1bm1tdk5SZTM4M2JScWZ3bkxzTlU?oc=5",
       "source": "自由時報",
-      "published_at": "2026-10-16T22:55:34+00:00"
-    },
-    {
-      "title": "6579 研揚- 研揚文教「AI夢想家」啟動開拓嘉義縣學童科技視野- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tNEpfSWQwa0FrSEVlMjd5ZHBxUTNmX21QM2ROQlprLS1nVVZlcWI0VXcycXQwUE1kN0lMRW9QVmhrZ29kSTlYbllGWjN1YkYxV0Z4ZVlFWUI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T09:27:27+00:00"
+      "published_at": "2026-10-21T16:44:55+00:00"
     },
     {
       "title": "研揚搶攻工業級AI市場 推搭載Intel Core Ultra系列3的Mini-ITX主機板",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3FXeWFXRmRxeTR3WDlkamtzMl9hdU1VWUFra0I3NHc2VXVaYXJTR1AxbmU2dHlzcVRvc21vX1AxTXl5T1Qxd3NfQjdHcXNwem1Ebm1oOHBoRWpkcW5pUktJSUJEOFBCX01iUkNoVXVDU1I5NVNNenE4d0dhQU5wRGZyWXMtb09JOTNJa2t3?oc=5",
       "source": "DIGITIMES",
-      "published_at": "2026-10-04T19:34:00+00:00"
-    },
-    {
-      "title": "研揚年營收拚新高",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zVjdBNnJvV2VySkdWY05MdGYtcFRiUUljbzV1ZkVZakVXeXptdF9DaU1GYXUzS0dlekFVS3NRbDI0ZkZ4M1o4NVdVQllZMC1Rb1pUQjRnbHltZ9IBX0FVX3lxTE1wRk9FTmlrT3BnM09ZTllVdmNkYzFmc2paR1Y3eHFZY3JxMS1LN3ZoVXkzSW9fN2laSHM0Z01Nc3NhcEw3SHZqd2RvTEZSc0ZEX1Fvd01Kbnphanc5bkpV?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-30T07:00:00+00:00"
+      "published_at": "2026-10-05T07:00:00+00:00"
     },
     {
       "title": "個股：研揚調整金融資產分類至FVOCI，擬處分牧德持股後，再取得相同股數股票",
