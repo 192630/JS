@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-10-19T04:54:50.451999+08:00",
+  "updated_at": "2026-10-24T02:30:35.448037+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9908",
   "name": "大台北",
-  "count": 0,
-  "news": []
+  "count": 4,
+  "news": [
+    {
+      "title": "預言大台北放颱風假！分析師郭哲榮賭「5000杯珍奶」：台股明天不開盤 | 蔣季容 | 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15Mms3eXlfVUR6VHRkLU9FMkpRbkZvQ2Q2c3d4QmxkVW9RQWdvYlhKZzdkcTRWel9iQ0VweHR4SnpUTFZKTnlVYTBHZ2psdw?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-10-22T10:13:00+00:00"
+    },
+    {
+      "title": "明天台股不開盤？郭哲榮預測大台北放颱風假 祭品文豪送5000杯珍奶",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuWjl2UU0yNTBRc3JqQnQxNUdpaFJkTVBsZl9McjRiWmlFR0o0bGVUcGF1SDFUb2dvUzdtOVJEWU9mVG1lZTQ4aGdyUFNNNG9UUlHSAVdBVV95cUxQUEpvbHYyZTlwcVdQMHhiUWtUVjJCUnp3UFlaUkk0N2x0NHh4NnlZRDJoc2lNQy1oUFRud190Ynczd01CUGpfbng1Qk5PaDlZU3hsZFpWRHc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-22T03:55:57+00:00"
+    },
+    {
+      "title": "深耕大台北室內裝修近30年 從新店出發分享老屋翻修實例",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11cmtMckVXbTZCVVVvNS1CMU1Ga2V6TElHd2JiekVQSW1aZDRGVGRZb2hRQnVRb3ktYjdEZUdaNWI4eGotR0ZER0JMOFJnemdla0JsY1lGeXdyVHdJOWFqaVJMeW8xMEN1dEo3eEdNNA?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-10-20T07:22:59+00:00"
+    },
+    {
+      "title": "ZOA與GD爸爸聯名「10大台北快閃店商品價格」公開！滿額送PEACEMINUSONE雛菊吊飾- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMM0hlX2xqX1kyTGZpNm9kU3I2aGw2VHRRcjdpM2tISkxYb1cwZWxfXzZVV1JTQWRMWEJFVmt6Um9rOUliai01emRfc0JmckJpcW01bjhWUUc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-20T06:50:24+00:00"
+    }
+  ]
 }
