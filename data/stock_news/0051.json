@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-10-19T07:23:24.079716+08:00",
+  "updated_at": "2026-10-24T06:23:45.990573+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0051",
   "name": "元大中型100",
-  "count": 1,
+  "count": 3,
   "news": [
     {
-      "title": "元大中型100(0051)成分股、持股明細總覽",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmWHgxWjk1MXZpUGx0ZkRraEhPZXJfVnBkRTNzWGF0YWowYXJjYTZLRnFvVzFYdHJ0N1hOUGxONnkwZGdYaUxVRlV3?oc=5",
+      "title": "元大中型100(0051)持股明細總覽",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oN3RsUzlNdUU4bkJjMElHbTh3a1VmNEctekYzOTFEbnZMckNnQmxyRjZ2S3hzNEZWbTFnSlF1aS1MeUo5RlN6SlVUS0ozazZJTVRwLTNvb1ladw?oc=5",
       "source": "口袋證券",
-      "published_at": "2026-10-16T07:00:00+00:00"
+      "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
+      "title": "元大中型100(0051)ETF股票型基金的基本資料",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwUXdaRWxaUGJIWVNGRXVwNEpPT0FmTWVQRFNNRld4cnI2bnE5Sm9YdW82ZEszeUtnYXg4bkpMNEJMRWVpTnc1UGRpMkp1eVBoWUE?oc=5",
+      "source": "口袋證券",
+      "published_at": "2026-10-19T07:00:00+00:00"
+    },
+    {
+      "title": "元大中型100 逢低布局",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVjVXR3FUSmZFUWR1MFl5eWE5WF9LRWVwQ0Y4eTdyMmd6SDJob3E3eHBRcElJMVV0NmdsRGVfNnctbUlJYWtoMGpDcXZRNnNlNmdXa3BBYXozUdIBX0FVX3lxTE0tdzhaSlU0VlRfcEVSN3BoRlF1cWNuR1pBS1VtdUlaSzFFRG5wV2xIY1U4ZzN5Qnhpa2dHTk5WLUhEVERoUFkwSVNPaU1odk53bnRQZDdqQVEtN0xaOHMw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-17T15:23:22+00:00"
     }
   ]
 }

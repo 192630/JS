@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-10-19T07:23:36.242203+08:00",
+  "updated_at": "2026-10-24T06:23:58.701637+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1225",
   "name": "福懋油",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "福懋油 公告本公司董事會決議召開一一五年股東常會事宜(修正召集事由二)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wTklkdkJUZXFUcVU2NXpENXBDSXByeVF3ZE9tNHZYQU5lQmgxQ2dDVUdBQkRBZkUyNVpmSENzRW1YNG40Nkg3WlBHdlJEMW1zRGhiU2doZm0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-19T09:42:43+00:00"
+    },
     {
       "title": "不忍了！台糖要提告福懋油商譽、產品損失 求償至少2.43億元",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zMWIyX1YwUnNkdWJVVUJLb2hiZE1RREg2ZWV4MUtqXzFGOEs3Zl9ZSXJuaHl3SGY1cEwzTnltQ0NkSXNNbF8ya3Z0Rm5mNkQwRHVOVVZvenA?oc=5",
       "source": "自由時報",
       "published_at": "2026-10-12T23:48:17+00:00"
+    },
+    {
+      "title": "《停資停券一覽表》 方土霖、寶得利、福懋油",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdW52WjFmSExxSkd6ODhQSUtlbFhuT1lzc3dMWFdvb1VMR0lEblFVUmhRclAwblpkOXBTVllfMU4wX29SLWpyVVJPSWdJYTNINDNhVmdyY1ZuSWZtWE5lY1NHbnl1RHVKRHVhdllJNWRMdTJ3RzVqQ0w4MnNHb2hjMUtSNUpUODFy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-29T07:00:00+00:00"
     }
   ]
 }
