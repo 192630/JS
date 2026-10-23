@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#a7b8aa">
+<meta name="theme-color" content="#fffefa">
 <title>台股 AI 研究站</title>
 
 <script src="https://cdn.jsdelivr.net/npm/lightweight-charts@4.2.3/dist/lightweight-charts.standalone.production.js"></script>
@@ -2057,29 +2057,29 @@ html{scroll-behavior:smooth}
 body{
   color:var(--mori-ink);
   overflow-x:hidden;
-  background:
-    radial-gradient(circle at 8% 8%,rgba(215,180,176,.30),transparent 25%),
-    radial-gradient(circle at 92% 18%,rgba(169,187,197,.34),transparent 27%),
-    radial-gradient(circle at 72% 92%,rgba(167,184,170,.28),transparent 30%),
-    var(--mori-paper);
+  background-color:var(--notebook-paper);
+  background-image:repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent 31px,
+    var(--notebook-rule) 32px,
+    var(--notebook-rule) 33px
+  );
 }
 
-body::before,
-body::after{
+body::before{
   content:"";
   position:fixed;
-  z-index:-1;
-  width:180px;
-  height:180px;
-  border-radius:48% 52% 58% 42%;
-  filter:blur(1px);
-  opacity:.34;
+  z-index:0;
+  top:0;
+  bottom:0;
+  left:max(28px,calc((100% - 760px) / 2 + 28px));
+  width:1px;
+  background:rgba(215,95,78,.26);
   pointer-events:none;
-  animation:mori-float 9s ease-in-out infinite;
 }
 
-body::before{left:-70px;top:28%;background:var(--mori-pink)}
-body::after{right:-76px;bottom:10%;background:var(--mori-blue);animation-delay:-4s}
+body::after{content:none}
 
 header{
   background:linear-gradient(135deg,#71877a 0%,#8fa399 54%,#a9bbc5 100%);
