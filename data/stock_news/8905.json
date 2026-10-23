@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-19T02:13:03.319297+08:00",
+  "updated_at": "2026-10-23T21:37:50.966873+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8905",
   "name": "裕國",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "裕國 (8905.TWO) 的分析師見解、目標價與建議",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00WTR4c0ZaSkgzRU5zR1E4Umxrak9qSFdmRU05cmpaa2VtODNDNWFja21aYXVlMWR6SHFNcDdPbFVna3ZQVmk0NWR5WHNoNkpIb18zR2Q2WUxqSkFQWGFoRkVFV3d5cEkwTUVaMWt3?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-10-21T22:27:39+00:00"
+    },
+    {
+      "title": "裕國股東會／公司派拿下3席董事、2席獨董「險勝」 保住經營權",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjEyS0h6OTI5aVV0UGZWZlpLWldoQ2MzVHpCQl8tM1E0QzdZU3J6OXZkbk1aMEVELWZPbmF2Y25NZ3NZbXVCa0V5MWo3T09rdlN1YjE5TDNSYmFDQXVzVFpxbElPeUM1VG9Mbk5tb3lVOWN5TXRxTDRCbkJKOHlVYl9n0gFfQVVfeXFMUEt6VGpzdXpyeEFCZnBiRlhIMU02U2JKeWNQSFJyc2xldmstRUpLWXpPVE1EYTktNDAzZXQ4b3R3U18ydHAwb0JMUUFwUTNHT1dxeU5NaFVDcS0teF82MlE?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-18T09:00:00+00:00"
+    }
+  ]
 }

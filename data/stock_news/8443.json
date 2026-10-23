@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-19T02:12:53.905136+08:00",
+  "updated_at": "2026-10-23T21:37:40.143244+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8443",
   "name": "阿瘦",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "8443 阿瘦- 阿瘦115年9月營收7028萬、年減10.18% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lNm9xR2V1QXBhbVM1NTR4WldRZWFXRFEwX1pqRm9zdzVnYkxaTk83ZG9kMzNURFVvVGRfcTh0S2ZUQWdBNWZQZUViNWhwTktoQk53Uzg2ZUw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T07:00:00+00:00"
+    }
+  ]
 }

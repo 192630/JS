@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-19T02:13:03.715518+08:00",
+  "updated_at": "2026-10-23T21:37:51.428898+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8906",
   "name": "花王",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "買股票也會撞名？這家印刷廠被誤認成日本花王，竟爆拉 3 根漲停！| 從零開始存股 EP5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPdTBtVmt1Y2MzZGVXdXZxNVNHclZVT2E0SWtWTVlHMFZENlZZelAyUGllR3k0eU11MDFPUTZlaDBvcEZhWTB0RUtzVDAxZHB5SlVz?oc=5",
+      "source": "口袋證券",
+      "published_at": "2026-10-17T23:44:47+00:00"
+    }
+  ]
 }
