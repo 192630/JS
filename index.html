@@ -2037,6 +2037,13 @@ footer{
 .financial-outlook.positive{color:#a65f5a}
 .financial-outlook.neutral{color:#6e746f}
 .financial-outlook.cautious{color:#587864}
+.financial-signal-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:10px 0}
+.financial-signal{padding:9px 10px;border:1px solid var(--mori-border);border-radius:11px;background:rgba(255,253,248,.78)}
+.financial-signal small{display:block;margin-bottom:3px;color:var(--mori-muted);font-size:11px;font-weight:700}
+.financial-signal b{font-size:13px}
+.financial-signal.positive b{color:#9d5752}
+.financial-signal.neutral b{color:#606762}
+.financial-signal.cautious b{color:#4f735d}
 @media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
 
 /* 莫蘭迪可愛動畫主題 */
@@ -8131,6 +8138,23 @@ function evaluateFinancialOutlook(item){
   return {label:"中性觀察",className:"neutral",reasons};
 }
 
+function createFinancialSignal(label,value,positiveText,negativeText){
+  const number = Number(value);
+  if(!Number.isFinite(number)) return {label,value:"資料不足",className:"neutral"};
+  if(number > 0) return {label,value:positiveText,className:"positive"};
+  if(number < 0) return {label,value:negativeText,className:"cautious"};
+  return {label,value:"接近持平",className:"neutral"};
+}
+
+function buildFinancialSignals(item){
+  return [
+    createFinancialSignal("短期營收動能",item.monthly_mom_percent,"較上月成長","較上月轉弱"),
+    createFinancialSignal("年度營收趨勢",item.monthly_yoy_percent,"較去年成長","較去年轉弱"),
+    createFinancialSignal("累計營收趨勢",item.cumulative_yoy_percent,"累計成長","累計衰退"),
+    createFinancialSignal("最近獲利狀態",item.net_profit,"維持獲利","出現虧損")
+  ];
+}
+
 function renderCompanyFinancials(code){
   const box = document.getElementById("companyFinancialsBox");
   const revenueGrid = document.getElementById("companyRevenueGrid");
@@ -8210,11 +8234,23 @@ function renderCompanyFinancials(code){
   const outlookTitle = document.createElement("strong");
   outlookTitle.className = "financial-outlook " + outlook.className;
   outlookTitle.textContent = "目前基本面訊號：" + outlook.label;
+  const signalGrid = document.createElement("div");
+  signalGrid.className = "financial-signal-grid";
+  buildFinancialSignals(item).forEach(signal => {
+    const signalBox = document.createElement("div");
+    signalBox.className = "financial-signal " + signal.className;
+    const signalLabel = document.createElement("small");
+    signalLabel.textContent = signal.label;
+    const signalValue = document.createElement("b");
+    signalValue.textContent = signal.value;
+    signalBox.append(signalLabel,signalValue);
+    signalGrid.appendChild(signalBox);
+  });
   const outlookDetail = document.createElement("span");
   outlookDetail.textContent = outlook.reasons.join("；") + "。";
   const outlookNote = document.createElement("span");
   outlookNote.textContent = "這是依現有營收與獲利資料歸納的基本面觀察，不代表市場共識、股價一定上漲或投資建議。";
-  summary.append(outlookTitle,outlookDetail,document.createElement("br"),outlookNote);
+  summary.append(outlookTitle,signalGrid,outlookDetail,document.createElement("br"),outlookNote);
   source.textContent =
     "資料來源：" + (companyFinancialsMeta.source || "臺灣證券交易所／公開資訊觀測站") +
     "｜更新：" + (companyFinancialsMeta.updated_at || "-") +
