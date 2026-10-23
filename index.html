@@ -2033,6 +2033,10 @@ footer{
 .financial-value.positive{color:#c55047}
 .financial-value.negative{color:#159947}
 .financial-source{font-size:12px;color:#718096;line-height:1.6;margin-top:12px}
+.financial-outlook{display:block;margin-bottom:6px;font-size:15px}
+.financial-outlook.positive{color:#a65f5a}
+.financial-outlook.neutral{color:#6e746f}
+.financial-outlook.cautious{color:#587864}
 @media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
 
 /* 莫蘭迪可愛動畫主題 */
@@ -8094,6 +8098,34 @@ function formatFinancialPeriod(value){
     : text;
 }
 
+function evaluateFinancialOutlook(item){
+  const signals = [
+    {value:Number(item.monthly_mom_percent),positive:"月營收較上月成長",negative:"月營收較上月減少"},
+    {value:Number(item.monthly_yoy_percent),positive:"月營收較去年同期成長",negative:"月營收較去年同期減少"},
+    {value:Number(item.cumulative_yoy_percent),positive:"累計營收較去年同期成長",negative:"累計營收較去年同期減少"},
+    {value:Number(item.net_profit),positive:"最近一期財報維持獲利",negative:"最近一期財報出現虧損"}
+  ].filter(signal => Number.isFinite(signal.value));
+
+  let score = 0;
+  const reasons = [];
+  signals.forEach(signal => {
+    if(signal.value > 0){
+      score += 1;
+      reasons.push(signal.positive);
+    }else if(signal.value < 0){
+      score -= 1;
+      reasons.push(signal.negative);
+    }
+  });
+
+  if(signals.length < 2){
+    return {label:"資料不足",className:"neutral",reasons:["目前可用的營收與獲利資料不足，暫時無法形成可靠判斷"]};
+  }
+  if(score >= 2) return {label:"偏正向",className:"positive",reasons};
+  if(score <= -2) return {label:"偏保守",className:"cautious",reasons};
+  return {label:"中性觀察",className:"neutral",reasons};
+}
+
 function renderCompanyFinancials(code){
   const box = document.getElementById("companyFinancialsBox");
   const revenueGrid = document.getElementById("companyRevenueGrid");
@@ -8168,26 +8200,16 @@ function renderCompanyFinancials(code){
     financialChangeClass(item.eps)
   );
 
-  const yoy = Number(item.monthly_yoy_percent);
-  const profit = Number(item.net_profit);
-  const revenueText = Number.isFinite(yoy)
-    ? yoy > 0
-      ? "最新月營收較去年同月成長"
-      : yoy < 0
-        ? "最新月營收較去年同月減少"
-        : "最新月營收與去年同月接近"
-    : "月營收年增資料不足";
-  const profitText = Number.isFinite(profit)
-    ? profit > 0
-      ? "最近一期財報為獲利"
-      : profit < 0
-        ? "最近一期財報為虧損"
-        : "最近一期財報接近損益兩平"
-    : "獲利資料不足";
-
-  summary.textContent =
-    revenueText + "；" + profitText +
-    "。營收代表公司賣出商品或服務取得的收入，不等於真正賺到的淨利。";
+  const outlook = evaluateFinancialOutlook(item);
+  summary.innerHTML = "";
+  const outlookTitle = document.createElement("strong");
+  outlookTitle.className = "financial-outlook " + outlook.className;
+  outlookTitle.textContent = "目前基本面訊號：" + outlook.label;
+  const outlookDetail = document.createElement("span");
+  outlookDetail.textContent = outlook.reasons.join("；") + "。";
+  const outlookNote = document.createElement("span");
+  outlookNote.textContent = "這是依現有營收與獲利資料歸納的基本面觀察，不代表市場共識、股價一定上漲或投資建議。";
+  summary.append(outlookTitle,outlookDetail,document.createElement("br"),outlookNote);
   source.textContent =
     "資料來源：" + (companyFinancialsMeta.source || "臺灣證券交易所／公開資訊觀測站") +
     "｜更新：" + (companyFinancialsMeta.updated_at || "-") +
