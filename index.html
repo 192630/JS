@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#fffefa">
+<meta name="theme-color" content="#a7b8aa">
 <title>台股 AI 研究站</title>
 
 <script src="https://cdn.jsdelivr.net/npm/lightweight-charts@4.2.3/dist/lightweight-charts.standalone.production.js"></script>
@@ -2034,6 +2034,207 @@ footer{
 .financial-value.negative{color:#159947}
 .financial-source{font-size:12px;color:#718096;line-height:1.6;margin-top:12px}
 @media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
+
+/* 莫蘭迪可愛動畫主題 */
+:root{
+  --mori-ink:#4f5552;
+  --mori-muted:#7c817e;
+  --mori-paper:#f7f3ed;
+  --mori-cream:#fffaf3;
+  --mori-sage:#a7b8aa;
+  --mori-sage-deep:#758b7d;
+  --mori-pink:#d7b4b0;
+  --mori-pink-deep:#ad7772;
+  --mori-blue:#a9bbc5;
+  --mori-lavender:#b9b2c8;
+  --mori-yellow:#d8c99f;
+  --mori-border:rgba(91,102,96,.22);
+  --mori-shadow:0 10px 28px rgba(83,92,87,.11);
+}
+
+html{scroll-behavior:smooth}
+
+body{
+  color:var(--mori-ink);
+  overflow-x:hidden;
+  background:
+    radial-gradient(circle at 8% 8%,rgba(215,180,176,.30),transparent 25%),
+    radial-gradient(circle at 92% 18%,rgba(169,187,197,.34),transparent 27%),
+    radial-gradient(circle at 72% 92%,rgba(167,184,170,.28),transparent 30%),
+    var(--mori-paper);
+}
+
+body::before,
+body::after{
+  content:"";
+  position:fixed;
+  z-index:-1;
+  width:180px;
+  height:180px;
+  border-radius:48% 52% 58% 42%;
+  filter:blur(1px);
+  opacity:.34;
+  pointer-events:none;
+  animation:mori-float 9s ease-in-out infinite;
+}
+
+body::before{left:-70px;top:28%;background:var(--mori-pink)}
+body::after{right:-76px;bottom:10%;background:var(--mori-blue);animation-delay:-4s}
+
+header{
+  background:linear-gradient(135deg,#71877a 0%,#8fa399 54%,#a9bbc5 100%);
+  color:#fffdf8;
+  border-bottom:1px solid rgba(255,255,255,.45);
+  box-shadow:0 8px 24px rgba(75,91,81,.16);
+}
+
+header h1{letter-spacing:.04em;text-shadow:0 2px 8px rgba(65,77,69,.18)}
+header p{color:rgba(255,253,248,.86)}
+
+.page-nav{
+  background:rgba(247,243,237,.92);
+  border-color:var(--mori-border);
+  box-shadow:0 5px 18px rgba(83,92,87,.08);
+  backdrop-filter:blur(14px);
+}
+
+.nav-button,
+.etf-subnav-button,
+.chart-range-button{
+  background:rgba(255,250,243,.88);
+  color:#68716c;
+  border:1px solid var(--mori-border);
+  box-shadow:0 3px 9px rgba(83,92,87,.06);
+  transition:transform .2s ease,box-shadow .2s ease,background .2s ease,color .2s ease;
+}
+
+.nav-button:hover,
+.etf-subnav-button:hover,
+.chart-range-button:hover{transform:translateY(-2px) rotate(-.4deg);box-shadow:0 7px 14px rgba(83,92,87,.12)}
+
+.nav-button.active,
+.etf-subnav-button.active,
+.chart-range-button.active{
+  background:var(--mori-sage-deep);
+  border-color:var(--mori-sage-deep);
+  color:#fffdf8;
+}
+
+main{width:100%;max-width:800px;min-width:0}
+
+.card,
+.global-risk-card,
+.member-status-card,
+.member-plan{
+  background:rgba(255,250,243,.91);
+  border-color:var(--mori-border);
+  border-radius:24px 20px 26px 19px;
+  box-shadow:var(--mori-shadow);
+  backdrop-filter:blur(8px);
+  animation:mori-rise .45s ease both;
+}
+
+.page-section,.card>*{min-width:0;max-width:100%}
+
+.card:nth-of-type(3n+2){border-radius:20px 27px 21px 25px}
+.card:nth-of-type(3n){border-radius:27px 21px 25px 20px}
+
+h1,h2,h3,.heat-title,.stock-name{color:#4d5b54}
+h2::after{
+  content:"";
+  display:block;
+  width:42px;
+  height:5px;
+  margin-top:8px;
+  border-radius:999px;
+  background:linear-gradient(90deg,var(--mori-pink),var(--mori-yellow));
+}
+
+input,
+.search-suggestions,
+.suggestion-item,
+.item,
+.inst,
+.research-item,
+.plain-note,
+.global-indicator,
+.global-history-card,
+.global-alert-control{
+  background:rgba(255,253,248,.88);
+  border-color:var(--mori-border);
+  color:var(--mori-ink);
+}
+
+input:focus{
+  border-color:var(--mori-sage-deep);
+  box-shadow:0 0 0 4px rgba(167,184,170,.22);
+}
+
+button{
+  background:var(--mori-sage-deep);
+  color:#fffdf8;
+  box-shadow:0 5px 12px rgba(117,139,125,.18);
+  transition:transform .18s ease,box-shadow .18s ease,filter .18s ease;
+}
+
+button:hover{filter:saturate(.92) brightness(1.04);transform:translateY(-2px)}
+button:active{transform:translateY(1px) scale(.98)}
+
+.buy,.financial-value.positive{color:#b56f69}
+.sell,.financial-value.negative{color:#668b73}
+
+.total-box,
+.chart-layer-toggle.active{
+  background:linear-gradient(135deg,#6f8177,#879b90);
+  color:#fffdf8;
+}
+
+.research-summary,
+.global-alert-result{
+  background:#e8eee8;
+  color:#52645a;
+  border-left-color:var(--mori-sage-deep);
+}
+
+.rank-movement.up{color:#98615c;background:#f2e2df}
+.rank-movement.down{color:#557762;background:#e4eee7}
+.rank-movement.flat{color:#6f7472;background:#e9e7e2}
+
+.etf-rank-item,
+.etf-profile-item,
+.chart-layer-toggle,
+.heat-date,
+.section-toggle,
+.section-toggle.secondary{
+  border-color:var(--mori-border);
+  background:rgba(255,250,243,.9);
+  color:var(--mori-ink);
+}
+
+.status,.heat-subtitle,.trade-date,.stock-code,.global-indicator-meta,.financial-source{color:var(--mori-muted)}
+
+@keyframes mori-rise{
+  from{opacity:0;transform:translateY(10px) scale(.992)}
+  to{opacity:1;transform:translateY(0) scale(1)}
+}
+
+@keyframes mori-float{
+  0%,100%{transform:translate3d(0,0,0) rotate(0deg)}
+  50%{transform:translate3d(0,-18px,0) rotate(7deg)}
+}
+
+@media(max-width:599px){
+  main{padding:14px}
+  .card{padding:17px;border-radius:21px 18px 23px 17px}
+  header{padding:17px 14px}
+  header h1{font-size:23px}
+  .page-nav{padding-top:8px;padding-bottom:8px}
+}
+
+@media(prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation:none!important;transition:none!important}
+}
 
 </style>
 </head>
