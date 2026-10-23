@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-18T22:44:07.155984+08:00",
+  "updated_at": "2026-10-23T09:40:08.943571+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7822",
   "name": "倍利科",
-  "count": 7,
+  "count": 6,
   "news": [
+    {
+      "title": "倍利科(7822) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96X3ZSQ1ZMQnRuQjdWbTdrcl82UUZSZ0dDZXBUeWl5NklJSEFKQkRvaGczYVBFTDNwVVlMdHRTRnF1c1doTU1tWUtaVFZOVW9lTEVr?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-18T13:23:39+00:00"
+    },
+    {
+      "title": "個股：倍利科(7822)上市股票自10月7日起得為融資融券交易",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkY1SzRyMFVvNjRsZ1daNlVkNEdsRGQ4V01KQUNENFE3UmJ6cS1VXzlsRWhzZW5ONWs3THJJMWpxbjZJSUJOeE5jeU9EaEsxenJkQVhXR2JWRTQ2OFFlMnhVblNkV1JpQzJ6VGRmTnJRUzhENmk0UGV0RzdYd3B0aHpIMExqbTdM?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-07T07:00:00+00:00"
+    },
     {
       "title": "倍利科技自10月7日起 得為融資融券交易",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XLXBnR21OUi1Vc3U3LVp2WlpsUkxKWTBSSXZycEZ4V3JfSW5Xb2FhSFh4ajh3dFQxbHF2N21La05kamE5cHpibVJBTnYxbURC0gFWQVVfeXFMT210NDFyMTktTWt4dHFQU2F6SnBlWEVSYVFwU01HVlA4dnJZWG5MZVgwZ0J6WXBLNmtTYWZxcWdrd0Y2dDZPMUN2VWIxc00wSC1FbFhvaVE?oc=5",
@@ -12,22 +24,10 @@
       "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
-      "title": "個股：倍利科(7822)上市股票自10月7日起得為融資融券交易",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkY1SzRyMFVvNjRsZ1daNlVkNEdsRGQ4V01KQUNENFE3UmJ6cS1VXzlsRWhzZW5ONWs3THJJMWpxbjZJSUJOeE5jeU9EaEsxenJkQVhXR2JWRTQ2OFFlMnhVblNkV1JpQzJ6VGRmTnJRUzhENmk0UGV0RzdYd3B0aHpIMExqbTdM?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-07T00:00:00+00:00"
-    },
-    {
       "title": "倍利科上市滿半年 10月7日起得為融資券交易",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KRkJscGVTYUVYbXFZT1JBMjhEekdvM3ZiM2tiSlN2YmhraVdySEEzZnpvSUdkX0l2WUl5X2pCSlF1OXlaRFVnX2h5VW1FT0llNGFjcjEwVWV0UdIBX0FVX3lxTFB5N0dyTUxHUW9vVl9FTk84NkdoYnE1aXZHZjFwU2pic3JhM2RXdVVTb2QyTVRCaG4zRzc5RnI1eDQ3dkI1d2I3YkdyUkxFQnV2SVdSbTZoX1hGOWNXaDhR?oc=5",
       "source": "經濟日報",
       "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "7822 倍利科- 大盤漲千點以上。敬佩你可以如此這般與眾不同？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43Z3ZCZ043bzc1Z284d1ljNVUzeHF0YnlyamtHVzVEcTB2ZEtJY2xCOVZ6RkRneVMwUllBbUlvVGprS1Zxc1VtVWVLS09YZWpualI0cGdxRDU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-05T02:12:09+00:00"
     },
     {
       "title": "7822 倍利科 - W - 股市爆料同學會",
@@ -39,12 +39,6 @@
       "title": "AI智慧檢測搶攻半導體！倍利科推新一代AOI方案 毫秒級檢測、過殺率降至5%以下",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNZW0yRjNGWmstU0YzbFFMREtYY2Z6SGNJNlYyb1kyUGlHTm1BX01KWTdSSjI0ZEJBNXpoMnV2cTFDendMTmJhMUY2R2VJZTNnWWprNlJ6MnZMcjJxbUdTTzhvWGxvZURKSHp0c0FNZ1hUYkhsb0pnT1g2Wi10Ukw4bEd0YjhuUXY3Tnc3aXlmN0tDc2lBWXFSbkgzeFBYQXJWWlZBTDEyakNmWjUwUS12VEVSWUlSWG9CNUEwSmRUeVVaMl9mbHUwOGNFcGp3MzBWbV81bFVNMnBIOFlZVDFENTN4OThsdlBoU0p1RFN6UWd3NVc5bzViSFVMb1VWZ3lYVHo4emxFNTdUUks3TEJVZ2IzN0hzdmZVdFlvQXlob184TzBVQTZoRnRZUmg2NTZkbURnMFdBcUpRN19JaHh6VDRibFJCSWYzNXB5bVVFZDBrZG5LdG9UdzloZDlVSmhBWWFZN1NWUXVOUENNbFp5QmhoaUhEWmNSTWFxVldlNk1la1lWTElhWlJUV252TDRwdzdreWNEd0tGNmlGWGpVUVRqU25mVll2dnVRVw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-28T07:00:00+00:00"
-    },
-    {
-      "title": "倍利科新一代 AI 智慧光學檢測方案 帶動周線連二紅",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbGtQMTcxYTJlVVlNaHJfa21mYmE4NktyYWdYUXl3UG94NTFNNXVETkZwOGRDeGVhakFYMHBRbjNxb01BRU15S2w3R0hLZ25BTkdjTEh2bVJFd9IBX0FVX3lxTE5pbEZBV2dFVHowV25HTnBLRktzTUVZZF9DYzhYS2lKRVM1bVZ3TVpDWEpEZm5Lc3NnZ3Z5d2h6WU9xTVVmUnNoa1hGdDllS19lY1FuRGZDekp5QjdCWmNv?oc=5",
-      "source": "經濟日報",
       "published_at": "2026-09-28T07:00:00+00:00"
     }
   ]

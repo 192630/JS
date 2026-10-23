@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-18T19:25:30.573308+08:00",
+  "updated_at": "2026-10-23T09:40:02.320302+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7791",
   "name": "皇家可口",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "興櫃：證交所訂10/6召開上市審議會，將審議大大寬頻(7791)申請股票上市案",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1NybjhHbW1PTHpxSnhqdVRuMEhqdWpnV0pXS2pQdDF6YVdRNUpKaTBuMUEyX1g1MDZBOFRNNEVTMmVPeEpYcGNaUXAwQW9sUnhHZWFFV2Znc19rRHNvYmtrWWV6VHl4T3UzWWJqdmVjT1RQbU5zQ0diQTQ0b1ZvVk1zandPbmM2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-02T07:00:00+00:00"
+    }
+  ]
 }
