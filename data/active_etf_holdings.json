@@ -327,7 +327,9 @@
           "shares": 200000,
           "weight": 0.07
         }
-      ]
+      ],
+      "last_fetch_status": "failed",
+      "last_fetch_error": "00400A 最近 10 天找不到持股"
     },
     "00980A": {
       "code": "00980A",
@@ -6691,12 +6693,10 @@
     }
   },
   "_meta": {
-    "updated_at": "2026-10-23T03:18:39.750081+08:00",
-    "database_version": 7,
+    "updated_at": "2026-10-24T02:31:48.463651+08:00",
+    "database_version": 5,
     "description": "Taiwan active ETF daily holdings database",
     "history_enabled": true,
-    "successful_fetches": 7,
-    "batch2_successful_fetches": 7,
-    "batch3_successful_fetches": 6
+    "successful_fetches": 6
   }
 }
