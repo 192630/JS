@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-19T15:56:15.397111+08:00",
+  "updated_at": "2026-10-24T14:01:40.506072+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1623",
   "name": "大東電",
-  "count": 6,
+  "count": 4,
   "news": [
     {
       "title": "大東電攻進半導體海外供應鏈 明年海外營收占比拚10％",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mbEN4QV9iZV9ERDdiR09yd3NuVTdRS0hwZUVPRHhQNVItdVNrZjIwczhXRTFpZ3ZXVW9uV1dUOHhmWExNdTI1d0otcWlxZDlPcFFxcWVFa3o?oc=5",
       "source": "自由時報",
-      "published_at": "2026-10-18T05:28:16+00:00"
+      "published_at": "2026-10-19T20:04:25+00:00"
+    },
+    {
+      "title": "EPS一次看》AI缺電不只看重電！安葆、華城、大東電各搶商機法人揭訂單能見度看到2030 - 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XanFoUTZDVWhGRHpQaHdKSGNxaEpsNU9PQUJUUnRzV0lnSFdUMWpMVVVxbkVMWVJyUDBaT2t5aVJOVmJCbEZxaWVlQVNhRHIwVWU2MWx4VXUzaFdlcTFvS0hvR1JJaklOd2c?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-10-18T22:40:57+00:00"
     },
     {
       "title": "1623 大東電- 能源能成台灣新國力？AI重塑電力版圖，業者籲：用電戶應轉型為產消者- 股市爆料同學會",
@@ -21,25 +27,7 @@
       "title": "《能源週》大東電秀電力整合方案；光儲應用續擴展",
       "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPZlFyTUJmMFJVSkMySmhNbllmZE5CZ1RieExxdG5mUmdqX09uQlBnY1RmMWlPdUo5OENMQ0dUT2ZCeDRZM0p0Tk1vcmMtVnhCZmJTMXRfdklXdF9jODZrVFJUbTZSODVqRW9CcDF1ckl1S3F6YUVFVFNDSVU5ZXRFTmpiNGt1akg5Q1lfTTdIWWZGOFB1TG9XOGp2Wi1SbnNMaXhyeTFHbC02aHdQVkRfYVpIS3Q4OUxNR0h5TldmT2FGRDRvYk9jZHAzVnMtM0RiVHZCSG4wRnBYRDRfcG9MV2RyOHlBUWczdDgyZUNBVkdFV01aM0UwaG51eHpwQ1JhTWlzWFhhdEdZLXpwZlNIb1E5dDF5alNtZWpNTFo0YW0waW1ENDRpSk5jbDZjbHVIUUg1YUFESmZKQjZUUzNWZnZrLVJYSmJCU0NaanlR?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-14T05:31:07+00:00"
-    },
-    {
-      "title": "AI 資料中心帶旺電力需求 大東電秀電纜、儲能整合實力",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56SDhST2d3S3pnWFFPU0N2T09zNC1fTG1NTncwOWtzYlF3SjFuc2JuVmlpVWhjdnZEbi1pVVl1d0dxT3VIMDhJVHgxYU5BVmRQ0gFWQVVfeXFMTzNGbmxSQTdZRDVFVVE4ZF9UZ01QY3dCRlZtTEY1MzE5bWNMZlJIWVY0bGxOSG92YlllWWZDanQ4VEwtNEZMQ1Y4RXM2VDZueVZsSHBRMkE?oc=5",
-      "source": "udn",
-      "published_at": "2026-10-14T03:52:52+00:00"
-    },
-    {
-      "title": "《電纜股》大東電參展智慧能源週秀創能、電纜工程實力- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtMkt5TDlBZnc0cDV5bkJSb1lqV1pSQW41eGNtbmVNX2U2aHFlYWE0MVRzc1kwdUN3WXlWN2Z6N1B3TjhlTnp6LVNhVFlYb1hlaDhDclFocTQ5M2FzMDJueWI2Rl96bTdJbHc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-10-14T03:33:27+00:00"
-    },
-    {
-      "title": "大東電揪伴 攻儲能市場",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZlF5cnNqcVpZaTZkbjNHcUFpMGdvazdHU2lDRV9lZ1B2VzQzSmFHS0tFSXN1Mlc5YkhfRlp5ekZaNlhHdWhRSXhfeXJjcHIx0gFWQVVfeXFMTXRYWHM3NVh0SXp5aFBNWTVVQVdmVkdiYy12QjFnMGQxY0VqRW11T0xoOG1MdkZJNXJtSkdVM21ocG9iZzZMWGRpcXU2ODVWeDZ4SHVncnc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-10-12T16:46:12+00:00"
+      "published_at": "2026-10-13T07:00:00+00:00"
     }
   ]
 }

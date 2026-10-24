@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-19T15:56:27.194622+08:00",
+  "updated_at": "2026-10-24T14:01:52.419441+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1735",
   "name": "日勝化",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《強勢台股特報》恩德,日勝化,東台,麗臺等20檔",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0X3IxOVpIbXlsd0ZjVE1ucWMweGp6YTA2ai1nMTNKVXdJbzhIZTIxaXY3LUxDVm5KUFJXbjdxblpKYm5TcU0tcG9BdjRNTnJQWmZMTnBRcmE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T02:18:24+00:00"
+    }
+  ]
 }
