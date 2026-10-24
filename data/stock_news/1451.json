@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-19T09:28:28.227606+08:00",
+  "updated_at": "2026-10-24T08:54:14.623325+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1451",
   "name": "年興",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "年興(1451) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yNEI0MXpPbnRJRnd2M2pYSTVNRGR5RDNMOEJ5TVBvbWN5WkotRGIyd25ack80dlhZV1NoLWszTmdZZjlWdFhDbkRWNjZ5eXZSUTdv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-08T05:06:30+00:00"
+    }
+  ]
 }

@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-10-19T09:28:40.171123+08:00",
+  "updated_at": "2026-10-24T08:54:25.095346+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1503",
   "name": "士電",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "士電在手訂單逾600億",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Vck5VZFExR3B4ODFlQkJRcXBmUkY3eW9aWktFeG14TVNIemdHVHRZbUV0bWE2VnNjOWNDU1BzZGZMYTMtTF9VWWNsNjRNN0xN0gFWQVVfeXFMTlZKT3RCb1E0NVlXSUxjSzVNWEhTVUh1RWZhek52dGVOcXowaFBtUVRnYTVrZjBPMXFJOFlLTVI5YzlNXzBoRF95Q19CWS1lVUsyRzR4RFE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-21T15:47:39+00:00"
+    },
+    {
+      "title": "1503 士電 - 新產能或許有望提早開出？ https://money.ud... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJa1VoeVRmLTd5UkJPTU5VdHpZMTZCcDhXZnl3MDJaSUxiejdsY01fQTRFWlQ1MWt2NHNwSjdlci1aX3RsMG5kRTgyOWpTT25zRERzT3FEY1A?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T06:34:44+00:00"
+    },
+    {
+      "title": "1503 士電- 北美 AIDC 需求爆！士電急趕新廠產能明年海外營收看增三成- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmcmxvTm94UzZUcFZpa1lXZ01QQnIxRTJXYlBpS0dGT1FKWWpIOUtlT3B0UnZFTDFqTHRDczhONEdkTVczNFh2Q0ZiTDlzcTJ0UUR1RmltWVk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T06:20:45+00:00"
+    },
+    {
+      "title": "影／北美AIDC需求爆！士電急趕新廠產能 明年海外營收看增三成",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91eG9WUVg1VXEtbDNSRUU4ZWhjSzRMWVk3TkpaSUIzNWFURkVZMHZwRHFkLUtPcFpvN2ZodmNaQTd2YjYwSEYtX2FiVi02V0430gFWQVVfeXFMUEUtOVIzWEJDU05ZZF9Wa185dE9ORjZfV3JOZkJ6R2hBRGx3RWlnRDNOazVRbEVLclpYWk83dDJnQW93dnRjLTFQR1BGVVpLeG9xNjR5YUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-21T05:50:15+00:00"
+    },
+    {
+      "title": "士電統一64購02 (071401.TW) 的分析師見解、目標價與建議",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44c3lrbXdEVWMwRFNHY29oelNlU2h3aVJwNkxYeG0xalMyYU1tdUx3RmxEcWhIMWdZc2hrdTRURWoySFcybXJ4ZXc5ZGNIWDRVUmU0Z0cyQTc0TEFHWURWVWFZV2NrOVVhdnMydmhyQQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-10-20T07:00:00+00:00"
+    },
     {
       "title": "1519 華城- AI資料中心缺電持續！華城、中興電、士電，重電誰較有成長空間- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OVl9ETzRiSzF3NEZVM0kwdDZZRnFRcnhyT2lYMEgtZlJudC1YYml3Z3hJNFZUMVlFYzJGM1JkNGRURklrdXVrVUgyQ0RPcU5xMjN3LVpMQmY?oc=5",
       "source": "CMoney",
       "published_at": "2026-10-19T00:42:23+00:00"
-    },
-    {
-      "title": "士電(1503) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CX1BnaFdmN0tXVjVERHRiNnFwWENlUjJSd05oSnhFUGhzSkNrZDhXWnAtWEU3UlJBNFF0dmEtZHhDc2RMZlJ1UV9sanJ6V29mbjVB?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-18T00:01:06+00:00"
     },
     {
       "title": "重電4雄訂單炸裂！士電手握600億喊330元、「這1檔」明年賺逾1股本 華城產能拚翻倍",
@@ -24,10 +48,16 @@
       "published_at": "2026-10-17T05:05:00+00:00"
     },
     {
-      "title": "電力需求缺瘋了？「重電4雄」訂單排到2031年 士電手握600億、中興電400億搶大單",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQOTVmVU5MUVd5ckJ3d1NtNjZpak5xQnZ5ZWpITU84by1XWXZ4cHZyNFBRbE0xOG5mOXo5WFU3R3RhdS0wdzNfd0lQMjlwbk5SY2VFNlF2eVNZZHhRcWZheDZPc2NQWmY3VFZkNUJfekEza21yRFNXTXpEZWdPMkV5MHNoV0NFX3UxZE1WR0ZvLWswYlg4dmFjOVV0WVFqbXFWV1dkRFJ2a1NSejVOVXBIMmpCSlgtSl9SVTJhWW1veHVRSkY4S1kyUkMxRmNFTG5TcnJaMGxyWk9PSW9jR25oY2FJazlVNEFIbGlxei1ES2FvUzhZWTIxRTNMUGRWbHJJcC1NZDN5ejJGU1FhZDJCMGdqMGpmbGNncGJiYXBXTWdLelA1clo4ZVdoVTFJZkhhdF9BMlZlRHlpQ3BINHVqczlBenYtTWRldmV3Z3JGN3NaVGtHdUxwVl9jV3ZaR2x1WG4wR2I2MFJJSUsxU3I0Y01zcmdUendWLV9vVFZkTV9vRG5uSUY1TVR6TWw5ckJhdzltVllwQnRzRnFYMVRxY3BUWUxtdllweUtoTDRidFRrRGM?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-13T02:43:18+00:00"
+      "title": "重電4雄1表比》士電、華城、中興電、亞力...4大投顧給看法：這檔「 目標價砍到136元」原因曝- 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFYURoWW1tN2hvOGw0UUI4ck5DU0VseEZsVWd4aThSZlVvZUZBbjlPZWUzWHFBbU9BVkZsSGtHRXNiZXpXQlMwTEtwbnMtLWdUV0dVaDNwOXZMSDlkQVdwTnh4Qkp1bWgxU1E?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-10-16T21:32:20+00:00"
+    },
+    {
+      "title": "華城9月營收年增7.1% 士電+8.2%",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycEJhUHozaGo2S1htN1hxWGJIREhfTkJ0NWtJTHJ6cG9QNXQxSEtwVjIyRVZxQmRYLVkwRl9pbFdzNDBWaTI3RTNwN2VaeVk10gFWQVVfeXFMTVYxeE8teGtUdXVBWVk5YkJoTEwzclZ5d3ZER1FMdG5Ib1FTN09aejhaU3VFMmVERXVfS2Jqc3E2ODVneFh5ZzQ3TERBcXZBQjdsVW44RlE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-13T07:00:00+00:00"
     },
     {
       "title": "士電看好AIDC 5年內需求熱度不減",
@@ -36,40 +66,16 @@
       "published_at": "2026-10-13T00:08:17+00:00"
     },
     {
-      "title": "士電訂單強勁，市場前景佳",
+      "title": "1503 士電- 士電訂單強勁，市場前景佳- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVDBWbzJVQTBTZFFzN29BbUg2cFpmZjZlWUR2b0s5bXRqLUxEU1lMZVIxVkE0bE1JNGxDbUVXM3dVdlo0bnBDMzJGYlZFcmdZUnVUODY0Njg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-12T23:47:12+00:00"
-    },
-    {
-      "title": "士電核心-分散電網工程",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05ZUp2YV9XY01HVGttS1RfUTVKUzc2X1EtaUh2VmwweHBaLUpMbUFGQ2JBdjZ3bUZYT0xlOGNUdFd1VFZoSmdjcEtfWVI1eHZvWEpZRFhGUnI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-12T08:50:33+00:00"
-    },
-    {
-      "title": "士電 115年9月營收31.39億、年增8.24%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLOEdtY09zSmgyTnlZekNzTDdiall5VnZEQk1WbXk3cEhTQXFrWTFxNE5LcXJZM2RzcjJhT0pKdXN2RDRTVE5hNC1wYVRrajZrUC1DeHA4YVM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-12T07:56:33+00:00"
-    },
-    {
-      "title": "士電統一64購02 (071401.TW) 的分析師見解、目標價與建議",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44c3lrbXdEVWMwRFNHY29oelNlU2h3aVJwNkxYeG0xalMyYU1tdUx3RmxEcWhIMWdZc2hrdTRURWoySFcybXJ4ZXc5ZGNIWDRVUmU0Z0cyQTc0TEFHWURWVWFZV2NrOVVhdnMydmhyQQ?oc=5",
-      "source": "Yahoo 財經",
       "published_at": "2026-10-12T07:00:00+00:00"
     },
     {
-      "title": "士電、技嘉、群聯都來站台！阿波羅電力採購特斯拉能源1GWh儲能設備",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxORTB2Wk1PUUpaU2g5Um55akM3V0UyT09kenZZVVppX0VIOGVEMmJDNnJjNjlKQVNiOEVVSG9BbEI1WUhTTlJxbnRZUm12bWZtRkRtR2pGd1I2My1LN1hCSEVBZ1BidGRBMFdZNExIMmFaVnB1TDNmU3ZlVm5Dbl8zRVQzNXNaMmU0VEdQV3plUXY1b1I5Vll2aWMxejlxWUhmNEo0cjI0SGI1b1BJdzVvSUZxV2ltREphVWhuMU92N1gxb2NHQ0I0c05CbzI1Z0JOU1RTRkQ1eTJ2WF9QTktQYXdYclFJTHNUQTJOSnlQb3pZdXZNVW42Vk1yNVN0YzFWWWsxLUFlWkZINFFZSWtMN0hhNVRadjJBRzVVblV0Tjc1ZnVHeVFkOHBvUWxXXzlfOEhOWmUtVVk5X1VGbVVTX1FEcTk3S2VOWl9qSFF0RkhkenpHb2Y2aGwwd1F3cjFIQVNoeVNUN25hbEViSDhwNkVoMmhXYXN5Z1NRaGN0ekFtUm43am5uVGthOFRlZ1EtXzBkOWo5Nms4TjE4eGl1RGhvaU8tWGdqYmpyWEtNRTFsSklDQ2xJSzF3ank?oc=5",
+      "title": "電力需求缺瘋了？「重電4雄」訂單排到2031年 士電手握600億、中興電400億搶大單",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQOTVmVU5MUVd5ckJ3d1NtNjZpak5xQnZ5ZWpITU84by1XWXZ4cHZyNFBRbE0xOG5mOXo5WFU3R3RhdS0wdzNfd0lQMjlwbk5SY2VFNlF2eVNZZHhRcWZheDZPc2NQWmY3VFZkNUJfekEza21yRFNXTXpEZWdPMkV5MHNoV0NFX3UxZE1WR0ZvLWswYlg4dmFjOVV0WVFqbXFWV1dkRFJ2a1NSejVOVXBIMmpCSlgtSl9SVTJhWW1veHVRSkY4S1kyUkMxRmNFTG5TcnJaMGxyWk9PSW9jR25oY2FJazlVNEFIbGlxei1ES2FvUzhZWTIxRTNMUGRWbHJJcC1NZDN5ejJGU1FhZDJCMGdqMGpmbGNncGJiYXBXTWdLelA1clo4ZVdoVTFJZkhhdF9BMlZlRHlpQ3BINHVqczlBenYtTWRldmV3Z3JGN3NaVGtHdUxwVl9jV3ZaR2x1WG4wR2I2MFJJSUsxU3I0Y01zcmdUendWLV9vVFZkTV9vRG5uSUY1TVR6TWw5ckJhdzltVllwQnRzRnFYMVRxY3BUWUxtdllweUtoTDRidFRrRGM?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "士電 押價內外15%",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YX2hVNF9GdXJZWlh6WG0zZE5RNDBJMkxFUzlxQmd4VEptaFZIOVdQYnNXREZ3aHZHZktrcmQ1ejRVQUdJdjRJWWx1WC1PNTBhSnFxM3MwNnItQdIBX0FVX3lxTFAzYU1Ed3dJN3hQSXhES3Nqd0lQc204MkgxT3VhTlRQaGR6aDBNb3VheF9YLXNSb00ya01Ca1h4NW5ZV1JXcGZvSzlhTFl6eXh2SEJaRG1Ra0tJY3dNa01v?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-28T07:00:00+00:00"
+      "published_at": "2026-10-12T07:00:00+00:00"
     }
   ]
 }

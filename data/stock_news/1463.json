@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-19T09:28:33.032296+08:00",
+  "updated_at": "2026-10-24T08:54:18.528107+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1463",
   "name": "強盛新",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《上市公司除權除息 6-1》強盛新 10/15除息",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUllFZjRPYWdWMnVIeW4xSnYzYlNCVDJQclMyRjFHd2ZfRy1fUlFDdVA5ZzVIanlxWWpGS0hpMHBTcHFUWUlPeUdqbHNfLXJudnJHTVZFX1R1bkw0RXJHeVN1dTlkZnRVNkluREx0aGcyTHNpZk1sXzVzMDFXdTJjUE5xRTR2emZ3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-15T01:14:00+00:00"
+    },
+    {
+      "title": "《股市行事曆2-1》台灣鑫(00401A)除息、強盛新(1463)除息",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlo0d2dBamxkS2VocWdxZ0lDTk1qaEVhSWMxemxmYXU1ZWY3RHp6NFpNdDBULUZMLXNIOG1pTmxWVXEtMjU5Q0YzQk9naUJhODdDbjEwa2FFMDV2Sk9Xc0ZxMzVIa0Y3NVkxcE5mQjB4MkpCNUZLTmlTbTZXZHktekphUGdmaEtV?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-14T23:38:00+00:00"
+    }
+  ]
 }

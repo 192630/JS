@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-19T09:28:26.672339+08:00",
+  "updated_at": "2026-10-24T08:54:13.326332+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1446",
   "name": "宏和",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "公告精選：*ST康佳A將於10月23日除牌；華正新材、宏和科技等前三季度業績大增",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZWdtZmpfNUwxd1FmdEVMcEtnY3lvdmxNejRBOU5rSU9ndXNXRjZ0Q3lwYWJEOFREcm5nNnFPMmlCWUJQRG9OWGpRX2xveW9SQmsxWWs4UEtvaWZv?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-10-22T13:48:00+00:00"
+    },
+    {
+      "title": "宏和科技(603256.SH)發佈前三季度業績，歸母淨利潤7.43億元，同比增長435.63% 作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41MHFQX3RlRjV5bjV6TDhpOWRNd3AtdjNSenVxRFBZdk1uMDJpN1dVWGhQSzdweWplZkE4cC1qZ1BqMV9iRHFjQlhUY252M3FGbGdDbV9zeWZyQ0hkN0had2J6bThuZ051WUZYc0hWc00?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-10-22T10:51:57+00:00"
+    },
+    {
+      "title": "兆韓企尋求與中國電子布大廠合作：宏和科技、菲利華、中國巨石迎來機遇",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05UmxvSTBQVGpxVmluTjVGT1ZBZFJMTlpxVU94YVh2Qzc0MG9kMV9UcVdWZTFOOGljNFFQMk95dDVka01lTDBPSA?oc=5",
+      "source": "鉅亨號",
+      "published_at": "2026-09-30T07:00:00+00:00"
+    }
+  ]
 }
