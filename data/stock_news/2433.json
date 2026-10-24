@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-20T05:10:29.452495+08:00",
+  "updated_at": "2026-10-24T22:41:01.947843+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2433",
   "name": "互盛電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【公告】互盛電 2026年9月合併營收2.22億元 年增-1.07%",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX2ZzSUNFUXFEWHBsQndPOXdpSnFpMW5RN2V2dzI3TWFsWG5QMW9wNExyM0k3SnA2d3dBa0JjOEhPdWlkXzRRTEVXQ1N6a2JoWjBxQ3o2bmdVdUVXVWRCMDBMZ2wtS29rN0JzbWhzaFVKQnh2dDhyUUVmUjFPMnpoNy1GZ0FOd201bi1Jd0RvLUFJVVd4elZfU0tWMzE5MXNySzJ5MXYySmQ4OVdCNXdpTVJHeDkxLUlXQVRPel9qQ2p1YW5lTXVPNHRZVndPRHpxVE1Ia2kwcTY4dmVGb2hmTHNuejNTdVpOTjBHY0hMOXdsV0lHcHBmOGJucU9USXJocGdhMVVQcFh1Umc3QURxTG1jMm16aEZra0ZxNHRoQQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-12T07:00:00+00:00"
+    }
+  ]
 }
