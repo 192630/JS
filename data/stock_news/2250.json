@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-19T23:45:02.725670+08:00",
+  "updated_at": "2026-10-24T19:19:04.837310+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2250",
   "name": "IKKA-KY",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "IKKA-KY斥資1.35億入股毅金精密 部署日本人形機器人商機",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12YWNnZS1FLTlFX3Z5TG1mQ2Q2SDJWdnVrYVE2UkNmNHFycWlPWE1SbHFzaUxzUlcwbXJyZHdwN1NMbzFDUDJ0SlhraUlORVg2eEw3SFFPUHo?oc=5",
       "source": "自由時報",
-      "published_at": "2026-10-06T23:50:55+00:00"
+      "published_at": "2026-10-22T10:19:00+00:00"
+    },
+    {
+      "title": "IKKA-KY 更正115年9月資金貸與他人明細表資訊",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83ZnNKejVXOWlzUWVLdERja2lEVFpsSFFyTUxZUVh1SS13aGZTWDBOc1pWRVhza2NwVzNUY3M2YVVMVFVaTFd6eEJ6Q0FWRkdSd3I5ZWxuOWM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T07:41:43+00:00"
     }
   ]
 }

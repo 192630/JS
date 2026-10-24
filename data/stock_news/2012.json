@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-19T23:44:28.334725+08:00",
+  "updated_at": "2026-10-24T19:18:33.324959+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2012",
   "name": "春雨",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "港股異動| 春雨醫療(00108)午後漲超18% 攜手麗滋卡爾共建生命週期健康管理閉環作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5razN4cW04dEJqWTdCX1QtTnVPS2VaQ2pjbTFUYVNib3EzTGoycUJYbW9SQVd0THktOGxlSzZWcndEQUh0SWpxRWVHdWlUdkx1RmlvOE82My1pVGxHbDdaODhINTFxRjY1TGZBZ1VDYTk?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-10-23T07:45:26+00:00"
+    }
+  ]
 }
