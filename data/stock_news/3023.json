@@ -1,57 +1,81 @@
 {
-  "updated_at": "2026-10-20T19:52:33.320417+08:00",
+  "updated_at": "2026-10-25T07:25:28.762976+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3023",
   "name": "信邦",
-  "count": 8,
+  "count": 12,
   "news": [
     {
-      "title": "【12:42 即時新聞】信邦(3023)股價偏強小漲，市場聚焦營收連六創高",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalNyMGFCdXhSQjk0OExsNk84ZzlRcmRWenBUb1lzU0dKMUs4MkQzZlgzQnJ6czYtQzRmT2ROV1JYNUVubGYxVnFuRDU1QTJ1OElIVDNGYmJtcndFMFV2QVJzbnVuQ2R1cTl5X2wyRVlVelFNd1AxQU8yaWxTZFBxeXQ0SENrV1dxTUJmUG93?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-15T04:42:52+00:00"
-    },
-    {
-      "title": "信邦9月營收月增2% 拓展三大領域",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByQm5ZR3hfMTBVQk1sOUFVSTlxeU1sRVB2b2syb3BsT0htOVVrbk1ESzBrQy11YlIxUmtKM01JMXVfOS1zNDNMamNCVzJwc0VmMUFTdkRTYnZqZ9IBX0FVX3lxTFBwMEVkdlo2TVZwd1RqVEI1dF9vUDBPNU81ZGI0YUdsMXh4MkY5MUtfVVZDLWhZX3MteEVXQlBvNFBzREx4OTd1NmNsaEZOdjZvaUx2VFliVnhPWWtQb1pJ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-03T07:00:00+00:00"
-    },
-    {
-      "title": "信邦9月、Q3營收同創新高 三大前瞻領域策略布局全面成形",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPdkh5MExFTk9WaDl5QUJIZl95Y1VrSTJoMUJUaklPaFNOMEtERER3WlFLaG82RnFWNUx4UVE0QVZFSnNEbnN5dEpQYlhDWUVBYnQ0c0FpdHZqRjl6VU12U0tWSHRFWXJvRWphUXlWMUllU0JPaUk2cldsSTdJRjFpdE1UbTZpV0t3LTdoUzdvQ1F6U1lLZlBjSlFCYzVGdUo5Y1l1N29tVWIxUzZrMG1GbWNOSmExX21PNGJjMjgtQmRPam9CLXVoaTRNZjg3Y1Z4UnhvZ3NnekdjWVlXSzk1TVdLTjU1elVYOVNMTjB0QUNwc2xnRGlXcWlUdmdFY1pKSHNZZnlVaVh6YWI4RE5NYmVRbUpVYy12SzdPMm05bjVWd19RdlJsejlodlpiajBYX21QUDhvQXd3eHROSGRsUUQwRUNWWGJfNnVEWkZURVA3QXdobFlaZTNXd0dtSzFvOTE3Wm1hRjdzcEpwbzgtMUlRY2N4dw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-02T07:00:00+00:00"
-    },
-    {
-      "title": "綠能事業回溫信邦9月營收33.48億元連6月登頂| 證券",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UT0xWMlphaGxjWWhkbXRLQVJoMlNETS1jbXVvUkt5NnkwVVBpNU1pQVMwY1NuelRjQmFhRDMyWE1iZlJ5M1psYWhYbGdxaVRYQjJuZTlQVl9pOWVxMlE?oc=5",
-      "source": "中央社 CNA",
-      "published_at": "2026-10-02T07:00:00+00:00"
-    },
-    {
-      "title": "信邦營收／9月33.49億元 連續六個月創新高",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUnJIeE83UFJmbEp3SlNQOWt0Z2h2SjhtMGFpTEhlWE1ITGZTSk1MOGswZjhLbndsdjUtOGNmMHpfajRJVk1PaHU4cGk4TlpiQzlXdW8tXy1sQdIBX0FVX3lxTE9jeDVxeXdzT3ZYYWV6N2dxaWxYRERwSWd4SU1mQ1NzN2lseGNkeWJKRzhGWUlURUgwNlFESFdzWjdEb2FwMW1POGc0eHJMTTBOUTY2aURPVlpkSnhOaGk4?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-02T07:00:00+00:00"
-    },
-    {
-      "title": "3023 信邦- 信邦九月份營收成長- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15Smd1NjU3RDVEUnlMQXcxZGhqZC1PMkdPSUJOLXdSdkM3MHRmUUJ4ckM3T1BhRV9ONmQ0S2pfM2FMRDBSUVhNUTE4cENoM0ItWE4xc1RvUnU?oc=5",
+      "title": "3023 信邦- 信邦Q3每股賺3.79元稅後純益9.11億元- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FTmtIdlgzcjJrZDIyMjRxeTZXRFZzVWxRN0pkckRpZGJKOThMdXdfM0txVVo1aGFsLVF3SlZXTXRVdTFuZzVZQW1fOFJIVzJrOGh5Smh2ak8?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-02T06:27:39+00:00"
+      "published_at": "2026-10-22T16:32:22+00:00"
     },
     {
-      "title": "信邦營收／9月33.49億元 連續六個月創新高｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IaHFoYTV5MzE3M2hkY21SUWxUb19vZkRpUENsZXNfWld4anJUNVV1TjdGM3FmRm5JSVkxUm5VVThiQWhlUlZLWFZhZGJRUTdEVFhtbXZJVE1mLUdjRHpzeWxfeE9hd1dRU1p5d19mU042VkNVT1E?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-10-01T18:15:00+00:00"
+      "title": "信邦Q3每股賺3.79元 稅後純益9.11億元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sQV9keFNpb2V3eVlFMHlLTThNMVR3di1QbTJTNVU2S3ZWRFBTb1NucmNaNllNRHdnd0s0V0kzbk93VWNUWnpHa1RvZDFiUW9xUTNieXRoa0U2Z9IBX0FVX3lxTE42ZDliUllnam5mZ044VzhBbkpndFcyaEFacE5BM2hwSml6VTNLTUdTRXZjQ2NNaWJna1pZemxta2FRT2pZMHI5VEpXU1lvc1NuVkhNNVdBNXlWU2x3YS13?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-22T16:06:10+00:00"
     },
     {
-      "title": "信邦半導體應用貢獻上修；明後年雙動能趨勢明確",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNENtdWpicFdpdjRGZkVXS1dpdTMxck9CNVg4S3hGM01ycDVNV0VIVENEeVhWcFF3bXRodVN2SExnb3V6VWxGT3VuekZWYUFpdVpHRTgxb3VHWFI0UVJvd2JuQlhfc1FqallNUDBoaUZscGZGYWsxOFhTb0l6eUF0bWN5RlBIbUFZZ2ZvVzdOVnlfbzNabDNaWmhveEhWcDVYVnhWSWZVOVFuRExid3UzaEtPN0hFcWRBRkFPcG1udzRaOV9SdkdtYXFOV0o4STBla0puT0xESUFOcUtyeTRKYlNvSGZFTTkzSS1IcEJFb29IMzZYWVRPb2l2NkV1eVZnVHlzaW5maGUyV2dLcWdpS0tYRTBLcE1VNEpsOFBRVllHbWI1Vlc2Zk5EQXZwcUNHbFZ4U1pKR292cFJEVGF3d0JKWWpSYVlHVUNuSUFhWEt5VkRnSDdRXw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-29T07:00:00+00:00"
+      "title": "信邦Q3純益年增24% EPS 3.79元創六季高點- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnhZNm1kWUxybTkzb2xvVzhyYzhZcHZ1VzFWa0N4Z0JQdFJTX0hOMFNWVldjeEZ2TU0xREdWY3BsWnhsaFB3TnlERnkyS0preEdvZC1reGg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T11:21:09+00:00"
+    },
+    {
+      "title": "信邦Q3純益年增24% EPS 3.79元創六季高點",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyQkZPSkhlTVdOYXB6LXR6M0wyMTYyVjJhcVBlOW5jOFktQnNYcmtuS0RXdFpIMVVMWWhrSU5nSk5fQjZxZ2lzNkFBUklZR3M?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-22T10:25:42+00:00"
+    },
+    {
+      "title": "信邦第三季獲利年增24.41％ 前三季EPS達11.16元",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90VDNHRi1yNVFTUFlOWGZBZHFZMHdSSXJoanNhTndBMUU4NHlFNmpuTnBNUUx3RTdkUmc4UFUzYXJMTl9QS2ZoUGIwUVBaZ0RPd0R5NXo4Y0ZkR1Bqblhv0gFkQVVfeXFMTmFQdjlfTjVZNjRTRUcxUzN5eXRYM0JoaXk3d3drb082TkxKVkxyeTdNZzI5TmFreGpfcWVQVmdiVmNGaWVrYTdmT2hiOFVRU0k3V040aVVEZmtEOGpySGdoeExHdg?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-10-22T09:36:33+00:00"
+    },
+    {
+      "title": "信邦財報／今年前三季獲利年增10.9% 賺逾1個股本",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYjEwV2YzcUZuVV9xTDFjamNaQzc0NGFtZ2hJWGdLVHdjNE05ZXRQSWM5NVpoaWFyZnhEQWZSUE8xY0RjZVdMcW9oejFmdjRNRTItS2M2amdJUdIBX0FVX3lxTE9fWVh2Q1lxUS04MEd4aWIzcmxRTi1QeF92enhOT1V4SGVHdTlJZlFVclF3eHVUSEY2QnRNN3ZBQ2pnWXpnOVk2OGJzNDA4cVh4N2ZaQlFnN3l6SjgzTDY4?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-22T09:15:50+00:00"
+    },
+    {
+      "title": "信邦 代子公司冠澤股份有限公司公告經由第三地區投資事業間接投資大陸之相關資訊之投資架構（變更114/07/24公告）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80N2ZHaHZVTGphUVhkWHNFSEg4cFBXbE9QalB0NGluMmUzb2xWNGwxYll4MGZJUFdTeXMzNjh3Wk1BaWFaZndSenczT0pnMkVDTzVqZmZCdlQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T07:43:48+00:00"
+    },
+    {
+      "title": "3023 信邦- 信邦公告董事會決議發行國內第九次無擔保轉換公司債- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpTUxXVXBIOHJ3d3gtZThxaUxZaGl3aFpwZ1UxUDctT3ByOE9YbGF1Y0RxZ0QzWEZwYmtEVTJCOXZPQUxtX1Y1RGNDMmZwZF82YlllWmFRMnc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T07:00:56+00:00"
+    },
+    {
+      "title": "3023 信邦- 信邦公告董事會決議發行國內第十次無擔保轉換公司債- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PNDVkV1RISlhQNFo0b0xRSVczcXJyR1QwRjNGV2d1eVc4cDh2OXBCblhwRHozYkRuazRVWXZUcmREdmw1aGdPSlRGV1RCWGk0UTNDVEUxdmY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T07:00:51+00:00"
+    },
+    {
+      "title": "3023 信邦- 信邦前三季獲利26.79億元，每股稅後11.16元 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zT29NQXdHVzNHVnNiMDhQS25JOW8ycnNtU19jR3VuUEx2dUlwYTFxcEQwN0p3UjdoZmg4Z252TmxKXzc4Nnp6ZDZBVmtMTUw0Z0RzTC1RX1E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T07:00:45+00:00"
+    },
+    {
+      "title": "3023 信邦- 信邦董事會決議發行國內第十次無擔保轉換公司債，上限20億元- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zV0Z5c3lTWHNRVXpxZng1V3BnQVVKWVVDTHZCbGh6Z19ocVFNRjVnX1hjZXJpemZkMDhLS1FxZmJFS203MkpyUFhHNm5Zb256VnhyUXYzcjU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T07:00:43+00:00"
+    },
+    {
+      "title": "信邦電子 (3023)：深耕 MAGIC 領域，AI 機器人與半導體雙引擎驅動全球智造",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lVmxTSEJVS2duaG5QVlkxaDJsdUtyeVhTLXl1MWpsT3hSR0Uzc2JJbEVNaHYxYmlRMHFQcnVnTzltcWM?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-10-22T07:00:00+00:00"
     }
   ]
 }
