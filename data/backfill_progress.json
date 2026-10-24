@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-24T07:30:41.362311+08:00",
-  "last_start_index": 2300,
-  "last_end_index": 2394,
-  "next_index": 0,
+  "updated_at": "2026-10-25T03:11:39.229288+08:00",
+  "last_start_index": 0,
+  "last_end_index": 100,
+  "next_index": 100,
   "total_securities": 2394,
   "run_size": 100,
-  "processed_codes": 94,
-  "successful_codes": 94,
+  "processed_codes": 100,
+  "successful_codes": 100,
   "empty_codes": 0,
   "failed_requests": 0,
   "retry_current_batch": false,
-  "cycle_complete": true
+  "cycle_complete": false
 }
