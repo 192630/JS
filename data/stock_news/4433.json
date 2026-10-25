@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-21T13:02:51.600146+08:00",
+  "updated_at": "2026-10-26T02:28:19.458090+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4433",
   "name": "興采",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《集中市場券商買超前30名 3-1》鴻海(12127)、中鋼(4433)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFRHZ3lZYTlQeDl5amFpYThnM2wtNmlTSGstQ3pjekczdGNuU0hOdjNHRnhtU1NQMThkWHJVQ3hWVEZXZV9NTTFhRm9KTlJ6SGNzNHNKdzFLY2xFX2x0UzNjWWtXQTZqelhkMk40YWJ0c1dpN21sMWRGUk5mWUdvMHZHZ2dfRV9h?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-21T23:29:00+00:00"
+    }
+  ]
 }

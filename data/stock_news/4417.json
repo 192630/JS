@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-21T13:02:48.984106+08:00",
+  "updated_at": "2026-10-26T02:28:16.894701+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4417",
   "name": "金洲",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "金洲 (4417) 深度分析：全球漁網霸主轉型智慧養殖，迎向海洋科技新紀元",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OeTlJNVQ1d3dVaDFnUGtXQlM0VjZoYUFWRkNlRk50SWVJLWtGcUVqMGdLdC1fM3NqZE55UUhodk1Ebkk?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    },
+    {
+      "title": "金洲管道(002443.SZ)發佈前三季度業績，歸母淨利潤1.11億元，同比增長18.77% 作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGaTVONmt3azNfRGtoMUF5VW1nYmdLY25PMTFvRU12VGVhR1c4Z2g1a05tMFR2RHpHU1NnS2phUS1lc1A0QlNZRkFmc0dyb2Vac2NscWd5eGFvZU1xZjE2b3g4dXJ2OXkxbmRBODc5X0Q?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-10-16T09:33:55+00:00"
+    }
+  ]
 }
