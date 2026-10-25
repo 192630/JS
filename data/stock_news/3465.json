@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-21T04:44:51.415112+08:00",
+  "updated_at": "2026-10-25T17:56:32.532404+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3465",
   "name": "進泰電子",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "進泰電子越南北寧廠AVR產品助出貨將邁向成長高峰 倉儲新廠今啟用",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSTNNTEgtXzJMSThGWVBZNndvY0Rab0NQU2FUZTFqbmtjLWk1UWJwSlZtaVRJSmJyVGVMMnNaQjQ0U25CZVdQcXdXMEJGeWI4ajBRN0ZzUVc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T04:02:33+00:00"
+    }
+  ]
 }
