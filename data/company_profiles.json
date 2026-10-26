@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-19T08:25:43.441697+08:00",
+  "updated_at": "2026-10-26T08:38:46.864380+08:00",
   "source": "TWSE OpenAPI / TPEx OpenAPI",
-  "count": 1989,
+  "count": 1991,
   "sources": [
     {
       "market": "上市",
       "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
-      "count": 1096
+      "count": 1097
     },
     {
       "market": "上櫃",
       "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "count": 893
+      "count": 894
     }
   ],
   "profiles": {
@@ -3035,7 +3035,7 @@
       "code": "2072",
       "market": "上市",
       "company_name": "世紀能源設備股份有限公司",
-      "short_name": "世紀風電",
+      "short_name": "世紀能源",
       "industry_code": "35",
       "industry": "綠能環保",
       "founded_date": "2017-05-15",
@@ -5497,7 +5497,7 @@
       "industry": "建材營造",
       "founded_date": "1980-01-23",
       "listed_date": "1999-05-03",
-      "address": "台北市中山區樂群二路267號10樓",
+      "address": "台北市信義區松仁路277號20樓",
       "phone": "(02)2755-5899",
       "website": ""
     },
@@ -8124,7 +8124,7 @@
       "founded_date": "1996-11-07",
       "listed_date": "2009-03-26",
       "address": "桃園市中壢區過嶺路二段530-6號",
-      "phone": "(03)4632808",
+      "phone": "(03)2721369",
       "website": ""
     },
     "3607": {
@@ -10998,6 +10998,19 @@
       "listed_date": "2015-12-16",
       "address": "台中市西屯區文心路二段201號6樓之6",
       "phone": "04-37050000",
+      "website": ""
+    },
+    "6467": {
+      "code": "6467",
+      "market": "上市",
+      "company_name": "泰合生技藥品股份有限公司",
+      "short_name": "泰合",
+      "industry_code": "22",
+      "industry": "生技醫療",
+      "founded_date": "2010-07-07",
+      "listed_date": "2026-10-20",
+      "address": "台北市內湖區瑞光路550號3樓",
+      "phone": "02-26598515",
       "website": ""
     },
     "6472": {
@@ -14772,6 +14785,19 @@
     },
     "2235": {
       "code": "2235",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
+    "2249": {
+      "code": "2249",
       "market": "上櫃",
       "company_name": "",
       "short_name": "",
