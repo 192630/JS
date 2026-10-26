@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-22T13:05:05.998761+08:00",
+  "updated_at": "2026-10-27T04:03:27.524467+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6216",
   "name": "居易",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "TWA00 加權指數- 君子居易以俟命，小人行險以徼幸- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qMkthN3k4alNPNXYtZEVRaE1mNnBSYzNtVDlxdmZIeng1U0pWNmI3VGRiT1NNa0JoV2U4TlR2SlE1dWhTMFF0M212SjJUSm1LeWQ2dEl1Vk4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-22T09:06:35+00:00"
+    }
+  ]
 }
