@@ -3493,18 +3493,6 @@
           "weight": 0.35
         },
         {
-          "code": "6526",
-          "name": "達發",
-          "shares": 16000,
-          "weight": 0.32
-        },
-        {
-          "code": "3264",
-          "name": "欣銓",
-          "shares": 49000,
-          "weight": 0.32
-        },
-        {
           "code": "6488",
           "name": "環球晶",
           "shares": 15000,
@@ -3514,6 +3502,18 @@
           "code": "6510",
           "name": "精測",
           "shares": 4000,
+          "weight": 0.32
+        },
+        {
+          "code": "3264",
+          "name": "欣銓",
+          "shares": 49000,
+          "weight": 0.32
+        },
+        {
+          "code": "6526",
+          "name": "達發",
+          "shares": 16000,
           "weight": 0.32
         },
         {
@@ -3738,15 +3738,15 @@
           "weight": 0.99
         },
         {
-          "code": "3008",
-          "name": "大立光",
-          "shares": 2000,
-          "weight": 0.92
-        },
-        {
           "code": "2449",
           "name": "京元電子",
           "shares": 47000,
+          "weight": 0.92
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "shares": 2000,
           "weight": 0.92
         },
         {
@@ -3810,15 +3810,15 @@
           "weight": 0.51
         },
         {
-          "code": "2344",
-          "name": "華邦電",
-          "shares": 40000,
-          "weight": 0.46
-        },
-        {
           "code": "6510",
           "name": "精測",
           "shares": 2000,
+          "weight": 0.46
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "shares": 40000,
           "weight": 0.46
         },
         {
@@ -3834,15 +3834,15 @@
           "weight": 0.38
         },
         {
-          "code": "6526",
-          "name": "達發",
-          "shares": 6000,
-          "weight": 0.35
-        },
-        {
           "code": "6691",
           "name": "洋基工程",
           "shares": 7000,
+          "weight": 0.35
+        },
+        {
+          "code": "6526",
+          "name": "達發",
+          "shares": 6000,
           "weight": 0.35
         },
         {
@@ -4036,13 +4036,15 @@
           "shares": 300,
           "weight": 0.2202
         }
-      ]
+      ],
+      "last_fetch_status": "failed",
+      "last_fetch_error": "00987A 沒有解析到股票持股"
     },
     "00401A": {
       "code": "00401A",
       "name": "主動摩根台灣鑫收",
       "issuer": "摩根投信",
-      "holdings_date": "2026-10-24",
+      "holdings_date": "2026-10-27",
       "source": "J.P. Morgan Asset Management Taiwan",
       "status": "success",
       "holding_count": 56,
@@ -6693,14 +6695,15 @@
     }
   },
   "_meta": {
-    "updated_at": "2026-10-27T04:01:55.034151+08:00",
-    "database_version": 5,
+    "updated_at": "2026-10-27T04:17:01.174495+08:00",
+    "database_version": 6,
     "description": "Taiwan active ETF daily holdings database",
     "history_enabled": true,
-    "successful_fetches": 6
+    "successful_fetches": 6,
+    "batch2_successful_fetches": 6
   },
   "_snapshot": {
-    "created_at": "2026-10-27T04:01:55.034151+08:00",
+    "created_at": "2026-10-27T04:17:01.174495+08:00",
     "snapshot_date": "2026-10-27",
     "note": "Each ETF keeps its own official holdings_date"
   }
