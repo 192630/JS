@@ -8388,9 +8388,14 @@ function renderVolatilityRisk(code){
   const label = document.getElementById("volatilityRiskLabel");
   const detail = document.getElementById("volatilityRiskDetail");
   if(!box || !label || !detail) return;
-  const risk = calculateVolatilityRisk(getStockHistory(code));
+  const history = getStockHistory(code);
+  const risk = calculateVolatilityRisk(history);
   if(!risk){
-    box.classList.add("hidden");
+    box.className = "volatility-risk medium";
+    label.textContent = "資料累積中";
+    detail.textContent = history.length < 21
+      ? `目前有 ${history.length} 筆歷史行情，至少需要 21 筆才能計算最近 20 個交易日的波動風險。這不是看多或看空訊號。`
+      : "部分歷史價格欄位不完整，暫時無法可靠計算波動風險；資料更新後會自動重新判讀。";
     return;
   }
   box.className = "volatility-risk " + risk.className;
