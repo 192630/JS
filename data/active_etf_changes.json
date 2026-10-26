@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updated_at": "2026-10-24T03:33:12.314862+08:00",
-    "current_snapshot": "2026-10-24.json",
-    "previous_snapshot": "2026-10-23.json",
+    "updated_at": "2026-10-27T04:45:22.775297+08:00",
+    "current_snapshot": "2026-10-27.json",
+    "previous_snapshot": "2026-10-24.json",
     "description": "Daily active ETF holding changes. Changes mean differences between daily portfolio snapshots and do not necessarily equal intraday buy/sell transactions."
   },
   "etfs": {
@@ -23,8 +23,8 @@
       "code": "00401A",
       "name": "主動摩根台灣鑫收",
       "issuer": "摩根投信",
-      "current_date": "2026-10-24",
-      "previous_date": "2026-10-23",
+      "current_date": "2026-10-27",
+      "previous_date": "2026-10-24",
       "status": "success",
       "summary": {
         "increased_count": 0,
