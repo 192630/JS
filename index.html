@@ -2066,6 +2066,15 @@ footer{
 .signal-performance-item span{display:block;color:#747a76;font-size:11px;line-height:1.45}
 .signal-performance-item.positive b{color:#9d5752}
 .signal-performance-item.cautious b{color:#4f735d}
+.volatility-risk{margin-top:14px;padding:12px 13px;border:1px solid var(--mori-border);border-radius:12px;background:rgba(255,253,248,.86)}
+.volatility-risk h4{margin:0 0 7px;font-size:15px}
+.volatility-risk-value{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:6px}
+.volatility-risk-value b{font-size:16px}
+.volatility-risk-value span{color:var(--mori-muted);font-size:11px}
+.volatility-risk-detail{color:#747a76;font-size:12px;line-height:1.6}
+.volatility-risk.low b{color:#4f735d}
+.volatility-risk.medium b{color:#8a6c3f}
+.volatility-risk.high b{color:#9d5752}
 @media(max-width:620px){.cross-signal-grid{grid-template-columns:1fr}}
 @media(max-width:620px){.signal-performance-grid{grid-template-columns:1fr}}
 @media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
@@ -2453,6 +2462,11 @@ button:active{transform:translateY(1px) scale(.98)}
         <h4 id="signalPerformanceTitle">📊 同類訊號歷史表現</h4>
         <p class="signal-performance-note">只統計均線狀態首次出現的日期，避免連續多日重複計算；屬歷史回看，不代表未來報酬。</p>
         <div id="signalPerformanceGrid" class="signal-performance-grid"></div>
+      </div>
+      <div id="volatilityRiskBox" class="volatility-risk hidden">
+        <h4>🌡️ 近期波動風險</h4>
+        <div class="volatility-risk-value"><b id="volatilityRiskLabel">-</b><span>最近 20 個交易日</span></div>
+        <div id="volatilityRiskDetail" class="volatility-risk-detail"></div>
       </div>
       <div class="financial-source">綜合基本面、均線技術面與三大法人當日籌碼；只呈現目前資料是否同向，不保證未來漲跌。</div>
     </div>
@@ -8325,6 +8339,68 @@ function renderSignalPerformance(code){
   box.classList.remove("hidden");
 }
 
+function calculateVolatilityRisk(history){
+  if(!Array.isArray(history) || history.length < 21) return null;
+  const recent = history.slice(-21);
+  const closes = recent.map(getHistoryClose);
+  if(closes.some(value => !(value > 0))) return null;
+
+  const dailyReturns = [];
+  for(let index = 1; index < closes.length; index += 1){
+    dailyReturns.push((closes[index] - closes[index - 1]) / closes[index - 1] * 100);
+  }
+  const mean = dailyReturns.reduce((sum,value) => sum + value,0) / dailyReturns.length;
+  const variance = dailyReturns.reduce((sum,value) => sum + Math.pow(value - mean,2),0) / dailyReturns.length;
+  const annualizedVolatility = Math.sqrt(variance) * Math.sqrt(252);
+
+  let peak = closes[0];
+  let maxDrawdown = 0;
+  closes.forEach(close => {
+    peak = Math.max(peak,close);
+    maxDrawdown = Math.min(maxDrawdown,(close - peak) / peak * 100);
+  });
+
+  const ranges = recent.map(row => {
+    const high = getHistoryNumber(row,"high");
+    const low = getHistoryNumber(row,"low");
+    const close = getHistoryNumber(row,"close");
+    return high > 0 && low > 0 && close > 0 ? (high - low) / close * 100 : null;
+  }).filter(value => value !== null);
+  const averageRange = ranges.length
+    ? ranges.reduce((sum,value) => sum + value,0) / ranges.length
+    : null;
+
+  let label = "低波動";
+  let className = "low";
+  if(annualizedVolatility >= 60 || maxDrawdown <= -15){
+    label = "高波動";
+    className = "high";
+  }else if(annualizedVolatility >= 35 || maxDrawdown <= -8){
+    label = "中度波動";
+    className = "medium";
+  }
+
+  return {label,className,annualizedVolatility,maxDrawdown,averageRange};
+}
+
+function renderVolatilityRisk(code){
+  const box = document.getElementById("volatilityRiskBox");
+  const label = document.getElementById("volatilityRiskLabel");
+  const detail = document.getElementById("volatilityRiskDetail");
+  if(!box || !label || !detail) return;
+  const risk = calculateVolatilityRisk(getStockHistory(code));
+  if(!risk){
+    box.classList.add("hidden");
+    return;
+  }
+  box.className = "volatility-risk " + risk.className;
+  label.textContent = risk.label;
+  detail.textContent =
+    `年化波動約 ${risk.annualizedVolatility.toFixed(1)}%｜區間最大回落 ${risk.maxDrawdown.toFixed(1)}%` +
+    (risk.averageRange === null ? "" : `｜平均日內振幅 ${risk.averageRange.toFixed(1)}%`) +
+    "。波動代表價格起伏程度，不等同上漲或下跌方向。";
+}
+
 function renderCrossValidation(code){
   const box = document.getElementById("crossSignalBox");
   const summary = document.getElementById("crossSignalSummary");
@@ -8370,6 +8446,7 @@ function renderCrossValidation(code){
     grid.appendChild(item);
   });
   renderSignalPerformance(code);
+  renderVolatilityRisk(code);
   box.classList.remove("hidden");
 }
 
