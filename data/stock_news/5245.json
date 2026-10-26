@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-22T03:26:26.472770+08:00",
+  "updated_at": "2026-10-26T08:29:43.064187+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5245",
   "name": "智晶",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《櫃買市場券商買超比前30名 3-2》久陽(18.94)、智晶(18.60)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWN2Z1diZ09nNkNiVGpQX01QUjFDekdTd2J4d09aVm1pNGJDZE5peFRYaGdfQVEyU05OcHB0VUFVSWdaQTZwRi1ZVnM2eXBMMUNVV1F0QWpqYWRhdXExVDNGa0ZWLV9WY1pLeFBab1FaU3l2SlpjSndSMUZSb2FXeEgwMEhuYlNt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-21T23:29:00+00:00"
+    }
+  ]
 }

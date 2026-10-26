@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-21T23:23:55.881104+08:00",
+  "updated_at": "2026-10-26T08:29:39.650656+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5227",
   "name": "立凱-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "立凱-KY(5227) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UcTYzMDduN3JZSHhxWW90UnhOVncwaVpFMzRHUVJmdGp2NWxhT1JHaUszVUo0NVJMeUhGcUllV0lNcjhGaHV3Q25LTFFFaTV5WXZR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-25T19:07:44+00:00"
+    },
+    {
+      "title": "立凱-KY (5227) 深度解析：磷酸鐵鋰技術領航者，智財授權擘劃全球版圖",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1YYkRCRUF5c0t3Z2JHNkpSSlAxbGFBclpNRDlEZW1GWTJLRXpodEVxLWZvLWNoYjB3bXNIdEFwVEwzbU0?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    }
+  ]
 }
