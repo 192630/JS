@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-22T03:26:49.512133+08:00",
+  "updated_at": "2026-10-26T14:27:55.796887+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5403",
   "name": "中菲",
-  "count": 12,
+  "count": 8,
   "news": [
+    {
+      "title": "中菲行：半導體加持 Q3空運仍旺",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xQmd5MDd5R2lpM2FHQ0I5My1pV0h4UXIwSTFqNU1WUkVuWTJyVHZXQmNnaDExYVNJUHVKd2trMVpBc2Vyak5jX2Y1UHpPN0h4Yk5JQVgwWEk?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-22T10:50:17+00:00"
+    },
     {
       "title": "AI半導體需求旺 中菲行9月營收飆逾4年新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTNkRjdjRvRXJ5ODJiTS1qb1hqZ1hlWUFJVi01eGRsRGJ2VC1RYTd3NUNkQ3FJb29LWWtJNm1IZ19yZzFkbHdLaGJ1UEszcXl6RmlvajFVZnE?oc=5",
@@ -12,27 +18,21 @@
       "published_at": "2026-10-10T11:54:15+00:00"
     },
     {
-      "title": "中菲行(5609) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nTTZnczB0WU55WUxJa0hmaEJpUUxUVmRiUWFJblNGUXdmVTNVcVBHWlZ4d20yV1FTZ0phUy1VZnBjNGRWdGJHUnAxTm5weUhUNlZn?oc=5",
+      "title": "2603 長榮 - 大航運-中菲行115-09 營收- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLb0xzSmYwemZMQkNVbEc4TG9HTE1WaG1UUlNzLUxoNnJJTV8zd1BmT1lCdGFPSUVSbnRwWUVnZkNhckhDM05BTDNIU3dOemhXdUlmLVg1TEU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-10T04:37:42+00:00"
-    },
-    {
-      "title": "中菲行：半導體加持 Q3空運仍旺",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xQmd5MDd5R2lpM2FHQ0I5My1pV0h4UXIwSTFqNU1WUkVuWTJyVHZXQmNnaDExYVNJUHVKd2trMVpBc2Vyak5jX2Y1UHpPN0h4Yk5JQVgwWEk?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-07T22:39:27+00:00"
-    },
-    {
-      "title": "Q4海空運運力都緊 中菲行：海運部分急貨轉空運",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5TXRnaGFMRXZWMFRMZEVGdlpRV3RDcDBfc05WVkNISW9rcXVuTjY1bUwwNnUzLWZoLWRNaWF6SnhnRUQ5Xzc1V3pZQnRlMjQ?oc=5",
-      "source": "鉅亨網",
       "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
       "title": "中菲行9月營收大增47% 創4年新高",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oU3hObmo2MUhwdkE1aEpYMlgtbEVKVzc1Wk81bFFfS1RIRWY1ZVBOMTJPMV9TR1hIWWNFTUpJVlRPUG41eTB6Z21jT1d1NV9idmIzMjRDSDJFT0HSAWBBVV95cUxQcmJYZ0tDcDE4TGF4UG8xcExMWVVxcTRtdnUwVjN6bzFuYkozbGFEY0RCOGxCLVd3M3dIYmwwOHRRMUpyM2FtTmxpcFNMX2hXNUhfWFh4dHZCaDVDdXZpTFk?oc=5",
       "source": "經濟日報",
+      "published_at": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "title": "Q4海空運運力都緊 中菲行：海運部分急貨轉空運",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5TXRnaGFMRXZWMFRMZEVGdlpRV3RDcDBfc05WVkNISW9rcXVuTjY1bUwwNnUzLWZoLWRNaWF6SnhnRUQ5Xzc1V3pZQnRlMjQ?oc=5",
+      "source": "鉅亨網",
       "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
@@ -48,34 +48,10 @@
       "published_at": "2026-10-05T07:00:00+00:00"
     },
     {
-      "title": "2603 長榮 - 大航運-中菲行115-09 營收- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLb0xzSmYwemZMQkNVbEc4TG9HTE1WaG1UUlNzLUxoNnJJTV8zd1BmT1lCdGFPSUVSbnRwWUVnZkNhckhDM05BTDNIU3dOemhXdUlmLVg1TEU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-05T07:00:00+00:00"
-    },
-    {
-      "title": "中菲交惡 逾150華文教師回中國",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQWJWMUZnRGxUMnVoX3lndjFETExLZV9xTl9PellWZk1TeVVQcXR5MWg3LTl0ZjRhdWMwbmRUZktRcUdHTVVIUFItVmxXM0ExUmtjQjNCZ0pLWU1FUUtfTlBwakxld3RLT0NncWFOMFlxX04wMnZtRUxOS29HdlNmMkpoVDJZMGVGYzA2Q3ppcllDeEZIU1dXbC1YTDc3aUwySURGRUVDaDBNZ0M3amZJd2xsNW1Ccm55Z0pGaEdPcUl1X1pGenl5U19ENVRsNGEzY1lqTzhDUHRZVjdZNkNJRVBKdldET0hvbmRfcnRZTVlJazJzazZGeTg4UVR4dw?oc=5",
-      "source": "Overseas Chinese Daily News",
-      "published_at": "2026-10-05T07:00:00+00:00"
-    },
-    {
-      "title": "中菲南海對峙後中國軍隊海警同一天民主礁演訓| 兩岸",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRaGRORnhVMV9JQXQ4Y0szWXc1ekd3QWR0MzI5a2gwM3k0Vko5dGVsbWt6SHczZ2d3LVpKVlZVcTljT202YmMwbzQ0VF9ubDk0QU5CVGRiWEFKTUpvZFE?oc=5",
-      "source": "中央社 CNA",
-      "published_at": "2026-09-27T07:00:00+00:00"
-    },
-    {
       "title": "中菲南海仁愛暗沙對峙後共軍在黃岩島海空演訓- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iYk9RNTdPU0xvckx4NjhYdWNNTFY4cW5tRDNkNktKTFRDNnAyclpBd01HN2NEb1pnR2I1d1FITXhaa3E0OEFYU0Z3VUFNWnhOLWU5WTc5VzU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-27T07:00:00+00:00"
-    },
-    {
-      "title": "中菲南海主權爭議 陸下周於南海實彈射擊",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nVnFCc1pNNllVUW03UEt5WnRrQnh2ZVREMklrWVBheFdZdGR4MlBNY0RRX3BOMXFLeldEdmhiakV6ajR4OHNCYjdZaXFaTng3Q1EyOTNZak1fUdIBX0FVX3lxTE0wRFNpVVNtR0F3S2JseFBMakNXWWpFVjRpc0RUZm5HSGxEcUE0Umlhcm5qTW1GR3Y3MVFFZDBRZ2JWSzkzTWFVQi1BcFZtaFFEN3kweEpUS1p2bVExaTVz?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-26T07:00:00+00:00"
     }
   ]
 }

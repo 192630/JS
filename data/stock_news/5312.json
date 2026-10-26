@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-22T03:26:38.123563+08:00",
+  "updated_at": "2026-10-26T14:27:44.803319+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5312",
   "name": "寶島科",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "5312 寶島科 - 美國生技指數創歷史新高，根據疾管署統計：新冠疫情9/1～9/... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PU0RZYW1XTDVaNThKLXZRNHlBaTdzZm04bW5tZWREUnhwbFZrOTVYRTZtN09XZU5NV1BPM21aRC1oanA4UXFMLWpzcUVESEx5WTBxUHJ1NXE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-25T03:13:33+00:00"
+    },
+    {
+      "title": "寶島科 (5312) 深度解析：台灣眼鏡通路霸主，數位轉型與專業升級雙引擎驅動",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBnem1lYUJKMWdzU0E2VUNIT3kzd1lWLTRqMFp5VEp5aWJHcko1VFZaWmFHc0prUHZsZF9HWm0wQ3BtV28?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    }
+  ]
 }

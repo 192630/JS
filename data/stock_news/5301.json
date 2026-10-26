@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-22T03:26:35.865674+08:00",
+  "updated_at": "2026-10-26T14:27:42.104104+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5301",
   "name": "寶得利",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《停資停券一覽表》 方土霖、寶得利、福懋油",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdW52WjFmSExxSkd6ODhQSUtlbFhuT1lzc3dMWFdvb1VMR0lEblFVUmhRclAwblpkOXBTVllfMU4wX29SLWpyVVJPSWdJYTNINDNhVmdyY1ZuSWZtWE5lY1NHbnl1RHVKRHVhdllJNWRMdTJ3RzVqQ0w4MnNHb2hjMUtSNUpUODFy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-29T07:00:00+00:00"
+    }
+  ]
 }
