@@ -2059,6 +2059,7 @@ footer{
 .signal-performance{margin-top:14px;padding-top:13px;border-top:1px solid var(--mori-border)}
 .signal-performance h4{margin:0 0 4px;font-size:15px}
 .signal-performance-note{margin:0 0 9px;color:var(--mori-muted);font-size:11px;line-height:1.55}
+.signal-performance-confidence{margin:0 0 9px;padding:7px 9px;border-radius:9px;background:rgba(135,153,143,.13);color:#5f6862;font-size:11px;font-weight:700;line-height:1.5}
 .signal-performance-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
 .signal-performance-item{padding:10px;border:1px solid var(--mori-border);border-radius:11px;background:rgba(255,253,248,.86)}
 .signal-performance-item small{display:block;margin-bottom:4px;color:var(--mori-muted);font-size:11px;font-weight:700}
@@ -2461,6 +2462,7 @@ button:active{transform:translateY(1px) scale(.98)}
       <div id="signalPerformanceBox" class="signal-performance hidden">
         <h4 id="signalPerformanceTitle">📊 同類訊號歷史表現</h4>
         <p class="signal-performance-note">只統計均線狀態首次出現的日期，避免連續多日重複計算；屬歷史回看，不代表未來報酬。</p>
+        <p id="signalPerformanceConfidence" class="signal-performance-confidence"></p>
         <div id="signalPerformanceGrid" class="signal-performance-grid"></div>
       </div>
       <div id="volatilityRiskBox" class="volatility-risk hidden">
@@ -8309,8 +8311,9 @@ function calculateSignalPerformance(history){
 function renderSignalPerformance(code){
   const box = document.getElementById("signalPerformanceBox");
   const title = document.getElementById("signalPerformanceTitle");
+  const confidence = document.getElementById("signalPerformanceConfidence");
   const grid = document.getElementById("signalPerformanceGrid");
-  if(!box || !title || !grid) return;
+  if(!box || !title || !confidence || !grid) return;
   const performance = calculateSignalPerformance(getStockHistory(code));
   if(!performance){
     box.classList.add("hidden");
@@ -8318,6 +8321,16 @@ function renderSignalPerformance(code){
   }
 
   title.textContent = `📊 過去「${performance.label}」首次出現後的表現`;
+  const sampleCounts = performance.horizons
+    .filter(item => item.average !== null)
+    .map(item => item.count);
+  const bestSampleCount = sampleCounts.length ? Math.max(...sampleCounts) : 0;
+  const confidenceLabel = bestSampleCount >= 20
+    ? "較具參考性"
+    : bestSampleCount >= 10
+      ? "初步參考"
+      : "樣本不足";
+  confidence.textContent = `樣本可信度：${confidenceLabel}｜目前最多 ${bestSampleCount} 次有效訊號。樣本越少，平均報酬越容易受少數行情影響。`;
   grid.innerHTML = "";
   performance.horizons.forEach(item => {
     const card = document.createElement("div");
