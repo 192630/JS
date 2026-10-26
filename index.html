@@ -2044,6 +2044,19 @@ footer{
 .financial-signal.positive b{color:#9d5752}
 .financial-signal.neutral b{color:#606762}
 .financial-signal.cautious b{color:#4f735d}
+.cross-signal-summary{margin-bottom:10px;padding:12px 14px;border-radius:13px;background:#e8eee8;color:#52645a;border-left:4px solid var(--mori-sage-deep);line-height:1.65}
+.cross-signal-summary.positive{background:#f5e8e5;color:#80504b;border-left-color:#ad7772}
+.cross-signal-summary.cautious{background:#e5eee8;color:#496552;border-left-color:#668b73}
+.cross-signal-summary.mixed{background:#eee9f2;color:#625b70;border-left-color:#8d82a0}
+.cross-signal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
+.cross-signal-item{padding:11px;border:1px solid var(--mori-border);border-radius:12px;background:rgba(255,253,248,.86)}
+.cross-signal-item small{display:block;margin-bottom:5px;color:var(--mori-muted);font-size:11px;font-weight:700}
+.cross-signal-item b{display:block;margin-bottom:4px;font-size:14px}
+.cross-signal-item span{display:block;color:#747a76;font-size:11px;line-height:1.5}
+.cross-signal-item.positive b{color:#9d5752}
+.cross-signal-item.neutral b{color:#606762}
+.cross-signal-item.cautious b{color:#4f735d}
+@media(max-width:620px){.cross-signal-grid{grid-template-columns:1fr}}
 @media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
 
 /* 莫蘭迪可愛動畫主題 */
@@ -2419,6 +2432,13 @@ button:active{transform:translateY(1px) scale(.98)}
       <div id="companyProfitGrid" class="etf-profile-grid"></div>
       <div id="companyFinancialSummary" class="plain-note"></div>
       <div id="companyFinancialSource" class="financial-source"></div>
+    </div>
+
+    <div id="crossSignalBox" class="etf-detail-box hidden">
+      <h3>🧩 多面向訊號交叉驗證</h3>
+      <div id="crossSignalSummary" class="cross-signal-summary"></div>
+      <div id="crossSignalGrid" class="cross-signal-grid"></div>
+      <div class="financial-source">綜合基本面、均線技術面與三大法人當日籌碼；只呈現目前資料是否同向，不保證未來漲跌。</div>
     </div>
 
     <div id="globalExposureBox" class="etf-detail-box hidden">
@@ -7900,6 +7920,8 @@ function showHistory(code){
       "hidden"
     );
 
+    renderCrossValidation(code);
+
     return;
 
   }
@@ -7982,6 +8004,8 @@ function showHistory(code){
     ma20,
     ma60
   );
+
+  renderCrossValidation(code);
 
 
 }
@@ -8155,6 +8179,103 @@ function buildFinancialSignals(item){
   ];
 }
 
+function getCrossValidationSignals(code){
+  const signals = [];
+  const financial = companyFinancialsReady
+    ? companyFinancials[String(code || "").trim()]
+    : null;
+  if(financial){
+    const outlook = evaluateFinancialOutlook(financial);
+    const score = outlook.className === "positive" ? 1 : outlook.className === "cautious" ? -1 : 0;
+    signals.push({
+      label:"基本面",
+      value:outlook.label,
+      detail:outlook.reasons.slice(0,2).join("；"),
+      className:outlook.className,
+      score
+    });
+  }
+
+  const history = getStockHistory(code);
+  const ma5 = calculateMA(history,5);
+  const ma20 = calculateMA(history,20);
+  if(history.length && ma5 !== null && ma20 !== null){
+    const close = getHistoryClose(history[history.length - 1]);
+    const score = close > ma5 && close > ma20 ? 1 : close < ma5 && close < ma20 ? -1 : 0;
+    signals.push({
+      label:"均線技術面",
+      value:score > 0 ? "短線偏強" : score < 0 ? "短線偏弱" : "方向分歧",
+      detail:`收盤 ${close.toFixed(2)}｜MA5 ${ma5.toFixed(2)}｜MA20 ${ma20.toFixed(2)}`,
+      className:score > 0 ? "positive" : score < 0 ? "cautious" : "neutral",
+      score
+    });
+  }
+
+  if(institutionalReady){
+    const row = findInstitutional(String(code || "").trim());
+    const values = row ? getInstitutionValues(row) : null;
+    if(values){
+      const score = values.total > 0 ? 1 : values.total < 0 ? -1 : 0;
+      signals.push({
+        label:"法人籌碼",
+        value:score > 0 ? "當日買超" : score < 0 ? "當日賣超" : "接近持平",
+        detail:`三大法人合計 ${formatSigned(values.total)} 股`,
+        className:score > 0 ? "positive" : score < 0 ? "cautious" : "neutral",
+        score
+      });
+    }
+  }
+
+  return signals;
+}
+
+function renderCrossValidation(code){
+  const box = document.getElementById("crossSignalBox");
+  const summary = document.getElementById("crossSignalSummary");
+  const grid = document.getElementById("crossSignalGrid");
+  if(!box || !summary || !grid) return;
+
+  const signals = getCrossValidationSignals(code);
+  if(!signals.length){
+    box.classList.add("hidden");
+    return;
+  }
+
+  const positive = signals.filter(item => item.score > 0).length;
+  const cautious = signals.filter(item => item.score < 0).length;
+  let label = "中性等待";
+  let className = "neutral";
+  if(positive >= 2 && cautious === 0){
+    label = "正向訊號一致";
+    className = "positive";
+  }else if(cautious >= 2 && positive === 0){
+    label = "保守訊號一致";
+    className = "cautious";
+  }else if(positive > 0 && cautious > 0){
+    label = "訊號分歧，宜分開觀察";
+    className = "mixed";
+  }
+
+  summary.className = "cross-signal-summary " + className;
+  const neutral = signals.length - positive - cautious;
+  const missing = Math.max(0,3 - signals.length);
+  summary.textContent = `交叉驗證：${label}｜正向 ${positive}、保守 ${cautious}、中性 ${neutral}、待補 ${missing}（${signals.length}/3 面向到齊）`;
+  grid.innerHTML = "";
+  signals.forEach(signal => {
+    const item = document.createElement("div");
+    item.className = "cross-signal-item " + signal.className;
+    const small = document.createElement("small");
+    small.textContent = signal.label;
+    const strong = document.createElement("b");
+    strong.textContent = signal.value;
+    const detail = document.createElement("span");
+    detail.textContent = signal.detail;
+    item.append(small,strong,detail);
+    grid.appendChild(item);
+  });
+  box.classList.remove("hidden");
+}
+
 function renderCompanyFinancials(code){
   const box = document.getElementById("companyFinancialsBox");
   const revenueGrid = document.getElementById("companyRevenueGrid");
@@ -8168,6 +8289,7 @@ function renderCompanyFinancials(code){
   const item = companyFinancials[String(code || "").trim()];
   if(!companyFinancialsReady || !item){
     box.classList.add("hidden");
+    renderCrossValidation(code);
     return;
   }
 
@@ -8257,6 +8379,7 @@ function renderCompanyFinancials(code){
     "｜金額依官方資料以新臺幣仟元換算。";
 
   box.classList.remove("hidden");
+  renderCrossValidation(code);
 }
 
 
@@ -8530,6 +8653,7 @@ function showStock(row){
   renderStockEtfOwnership(currentStockCode);
   renderGlobalExposure(currentStockCode);
   loadStockRelatedNews(currentStockCode);
+  renderCrossValidation(currentStockCode);
 
 }
 
@@ -8560,6 +8684,8 @@ function showInstitution(row){
     status.textContent =
       "⚠️ 找不到這檔股票的法人資料";
 
+    renderCrossValidation(currentStockCode);
+
     return;
 
   }
@@ -8577,6 +8703,8 @@ function showInstitution(row){
 
     status.textContent =
       "⚠️ 法人資料格式無法解析";
+
+    renderCrossValidation(currentStockCode);
 
     return;
 
@@ -8725,6 +8853,8 @@ function showInstitution(row){
   result.classList.remove(
     "hidden"
   );
+
+  renderCrossValidation(currentStockCode);
 
 }
 
