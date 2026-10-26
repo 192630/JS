@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-10-22T07:28:24.414928+08:00",
+  "updated_at": "2026-10-26T22:25:24.319530+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6112",
   "name": "邁達特",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "邁達特(6112) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80WG53T0RuQ3hnM2VZU3UxcnJOMTgwNllScnl5NnRoMGN4NVpoRkNONWxTbm9BdXREMjRFZHVzdlFTNVhXTWJ3bk1WX3RhRV9hbE5j?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-24T14:27:17+00:00"
+    },
+    {
+      "title": "【11:03 即時新聞】邁達特(6112)盤中走強，資安與AI題材續成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTDhveHAyb09GVGdNWUxFMEwyc1lVRnhqejJ5VW8wTnhhZVI5R0VOXzg5THpEc3RjRkp5YVNVenA0NHNDZVRYNld0ek1leEJXbTZ4eUtOYm0zN2NEdDJZbnRRb0NkQkcxTGUtUDF0ZXY1cndzR09BWExJV1E1MEZYak42VEI1OGEzLXRLZnRR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-22T03:03:25+00:00"
+    },
     {
       "title": "【10:46 即時新聞】邁達特(6112)亮燈漲停，資安族群買盤續強",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS295aDFTM1duczQ2T25BTnNPTlRCWWczNUtQSjhjbGZZMGItMHpqUElhWWt5UmFySEtzN1ZQbG9VODQzTGYyQU5MRUdvVFlDZ05DYjlfNEtUMlBuNy1HbXRYbmZ6eEFRVDBOZWRjV1JISkU2ZU5YcC14MmZGQ2c3YXp0OUx1WFFFakthVzd3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-10-16T02:47:30+00:00"
+      "published_at": "2026-10-16T07:00:00+00:00"
     },
     {
       "title": "全球AI治理商機上看57億美元 邁達特攜手國際大廠聚焦安全與規模化部署",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFN0pDVGpJd19HTUl3MXRvemNMQlRkYS1ITHNlZlBtd0hYcmJ2djcwMVY3QW16czlhdkwzeERGajZTelhiT2VhMEV4a1ZmWDJPMnpVVGFRYlNxWG9uZVpMV3VCX2pRNTNLTTdXMVd1TQ?oc=5",
       "source": "知新聞",
-      "published_at": "2026-10-08T10:58:00+00:00"
+      "published_at": "2026-10-08T07:00:00+00:00"
     }
   ]
 }

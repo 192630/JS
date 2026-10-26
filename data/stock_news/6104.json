@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-22T07:28:22.475921+08:00",
+  "updated_at": "2026-10-26T22:25:22.631546+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6104",
   "name": "創惟",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "創惟科技（6104）深度解析：高速傳輸介面領航者，AI PC 與 Switch 2 雙引擎驅動成長",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1dy16ZUY0aGNiSUk0Z25MZ2l1M0Q5ZF82OVB3enoyOHV5eEx4WVRTeUdJSXhnaW1DclFVTjlHYnlpZ2s?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    },
     {
       "title": "6104 創惟- 創惟9月營收月減2.8% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mTWVDWUowQVBYVnlkNl81OE4tQ1lNLXpjOTZJcWthaEtHNS1QeVU2b2d2cmY4V0kxS25SZTNvTUd6aDdoNlAyTkpwSEFJSW5WMzcwV3hsSWg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-05T10:29:43+00:00"
+      "published_at": "2026-10-05T07:00:00+00:00"
     }
   ]
 }
