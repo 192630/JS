@@ -2056,7 +2056,18 @@ footer{
 .cross-signal-item.positive b{color:#9d5752}
 .cross-signal-item.neutral b{color:#606762}
 .cross-signal-item.cautious b{color:#4f735d}
+.signal-performance{margin-top:14px;padding-top:13px;border-top:1px solid var(--mori-border)}
+.signal-performance h4{margin:0 0 4px;font-size:15px}
+.signal-performance-note{margin:0 0 9px;color:var(--mori-muted);font-size:11px;line-height:1.55}
+.signal-performance-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.signal-performance-item{padding:10px;border:1px solid var(--mori-border);border-radius:11px;background:rgba(255,253,248,.86)}
+.signal-performance-item small{display:block;margin-bottom:4px;color:var(--mori-muted);font-size:11px;font-weight:700}
+.signal-performance-item b{display:block;margin-bottom:3px;color:var(--mori-ink);font-size:15px}
+.signal-performance-item span{display:block;color:#747a76;font-size:11px;line-height:1.45}
+.signal-performance-item.positive b{color:#9d5752}
+.signal-performance-item.cautious b{color:#4f735d}
 @media(max-width:620px){.cross-signal-grid{grid-template-columns:1fr}}
+@media(max-width:620px){.signal-performance-grid{grid-template-columns:1fr}}
 @media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
 
 /* 莫蘭迪可愛動畫主題 */
@@ -2438,6 +2449,11 @@ button:active{transform:translateY(1px) scale(.98)}
       <h3>🧩 多面向訊號交叉驗證</h3>
       <div id="crossSignalSummary" class="cross-signal-summary"></div>
       <div id="crossSignalGrid" class="cross-signal-grid"></div>
+      <div id="signalPerformanceBox" class="signal-performance hidden">
+        <h4 id="signalPerformanceTitle">📊 同類訊號歷史表現</h4>
+        <p class="signal-performance-note">只統計均線狀態首次出現的日期，避免連續多日重複計算；屬歷史回看，不代表未來報酬。</p>
+        <div id="signalPerformanceGrid" class="signal-performance-grid"></div>
+      </div>
       <div class="financial-source">綜合基本面、均線技術面與三大法人當日籌碼；只呈現目前資料是否同向，不保證未來漲跌。</div>
     </div>
 
@@ -8229,6 +8245,86 @@ function getCrossValidationSignals(code){
   return signals;
 }
 
+function getTechnicalStateAt(history,index){
+  if(!Array.isArray(history) || index < 19 || index >= history.length) return null;
+  const close = getHistoryClose(history[index]);
+  const closes5 = history.slice(index - 4,index + 1).map(getHistoryClose).filter(value => value > 0);
+  const closes20 = history.slice(index - 19,index + 1).map(getHistoryClose).filter(value => value > 0);
+  if(!(close > 0) || closes5.length < 5 || closes20.length < 20) return null;
+  const ma5 = closes5.reduce((sum,value) => sum + value,0) / closes5.length;
+  const ma20 = closes20.reduce((sum,value) => sum + value,0) / closes20.length;
+  return close > ma5 && close > ma20 ? 1 : close < ma5 && close < ma20 ? -1 : 0;
+}
+
+function calculateSignalPerformance(history){
+  const currentState = getTechnicalStateAt(history,history.length - 1);
+  if(currentState === null) return null;
+  const horizons = [5,10,20];
+  const returns = Object.fromEntries(horizons.map(days => [days,[]]));
+
+  for(let index = 19; index < history.length - 5; index += 1){
+    const state = getTechnicalStateAt(history,index);
+    const previousState = getTechnicalStateAt(history,index - 1);
+    if(state !== currentState || previousState === currentState) continue;
+    const entry = getHistoryClose(history[index]);
+    if(!(entry > 0)) continue;
+    horizons.forEach(days => {
+      const futureIndex = index + days;
+      if(futureIndex >= history.length) return;
+      const future = getHistoryClose(history[futureIndex]);
+      if(future > 0) returns[days].push((future - entry) / entry * 100);
+    });
+  }
+
+  return {
+    state:currentState,
+    label:currentState > 0 ? "短線偏強" : currentState < 0 ? "短線偏弱" : "方向分歧",
+    horizons:horizons.map(days => {
+      const values = returns[days];
+      if(!values.length) return {days,count:0,average:null,winRate:null};
+      return {
+        days,
+        count:values.length,
+        average:values.reduce((sum,value) => sum + value,0) / values.length,
+        winRate:values.filter(value => value > 0).length / values.length * 100
+      };
+    })
+  };
+}
+
+function renderSignalPerformance(code){
+  const box = document.getElementById("signalPerformanceBox");
+  const title = document.getElementById("signalPerformanceTitle");
+  const grid = document.getElementById("signalPerformanceGrid");
+  if(!box || !title || !grid) return;
+  const performance = calculateSignalPerformance(getStockHistory(code));
+  if(!performance){
+    box.classList.add("hidden");
+    return;
+  }
+
+  title.textContent = `📊 過去「${performance.label}」首次出現後的表現`;
+  grid.innerHTML = "";
+  performance.horizons.forEach(item => {
+    const card = document.createElement("div");
+    const className = item.average > 0 ? "positive" : item.average < 0 ? "cautious" : "neutral";
+    card.className = "signal-performance-item " + className;
+    const label = document.createElement("small");
+    label.textContent = `${item.days} 個交易日後`;
+    const value = document.createElement("b");
+    value.textContent = item.average === null
+      ? "樣本不足"
+      : `${item.average > 0 ? "+" : ""}${item.average.toFixed(2)}%`;
+    const detail = document.createElement("span");
+    detail.textContent = item.average === null
+      ? "尚無完整的後續區間"
+      : `上漲比例 ${item.winRate.toFixed(0)}%｜${item.count} 次訊號`;
+    card.append(label,value,detail);
+    grid.appendChild(card);
+  });
+  box.classList.remove("hidden");
+}
+
 function renderCrossValidation(code){
   const box = document.getElementById("crossSignalBox");
   const summary = document.getElementById("crossSignalSummary");
@@ -8273,6 +8369,7 @@ function renderCrossValidation(code){
     item.append(small,strong,detail);
     grid.appendChild(item);
   });
+  renderSignalPerformance(code);
   box.classList.remove("hidden");
 }
 
