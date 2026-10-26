@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T21:40:48.336107+08:00",
+  "updated_at": "2026-10-26T23:20:57.461692+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -6281,7 +6281,7 @@
     },
     "2072": {
       "code": "2072",
-      "name": "世紀風電",
+      "name": "世紀能源",
       "market": "上市",
       "industry": "綠能環保",
       "revenue_period": "11509",
