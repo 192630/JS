@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-23T09:39:45.446346+08:00",
+  "updated_at": "2026-10-28T05:23:35.150082+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7709",
   "name": "榮田",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "7709 榮田 - 跟著SpaceX飆上無際的天邊。 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aEZNc0g2WldFQzlrTW1JaHQwYnlsX2FLY0tYdVJ6NmtQMDZ0T0lURVpkV1Z5dzlibHVvRXI2Nkh5bmpvLVBOeXNvcm05N3ozV0E5QUVyYmU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T04:17:16+00:00"
+    }
+  ]
 }

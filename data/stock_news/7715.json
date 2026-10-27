@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-23T09:39:47.631086+08:00",
+  "updated_at": "2026-10-28T05:23:37.494068+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7715",
   "name": "裕山",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "個股：裕山(7715)以現金為對價取得燁民實業837萬股，每股14.33元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd0Fta25lLTllSGxkbGNwcVpKMDRHQ3MtdEd1dUtJbXd6UlVDVkFzclE0dER6T0d6blRIc2ZkRHNDYm0zeGY2U2l1TTRJQTlMR3p4NE82QVlWNEVDbnlERkp1SzZQandqcm1qX0dhZHB5MEZUM240Skhma201ODdBaWtLR2RZQlZr?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-26T23:53:00+00:00"
+    }
+  ]
 }
