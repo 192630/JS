@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T03:28:19.764722+08:00",
+  "generated_at": "2026-10-28T07:49:58.916024+08:00",
   "taiwan_market_phase": "盤後",
   "update_status": "更新完成（延遲行情）",
   "risk": {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 80555.0,
-      "change_percent": 0.746380921140437,
-      "data_time": "2026-10-28T03:27:33+08:00",
+      "price": 80889.0,
+      "change_percent": 1.1038424878148367,
+      "data_time": "2026-10-28T07:49:34+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 2340.13,
-      "change_percent": 1.0064481414085835,
-      "data_time": "2026-10-28T03:27:33+08:00",
+      "price": 2349.91,
+      "change_percent": 1.2823721000623416,
+      "data_time": "2026-10-28T07:49:08+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -43,9 +43,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "NQ=F",
-      "price": 29832.0,
-      "change_percent": 2.3677166975499278,
-      "data_time": "2026-10-28T03:18:17+08:00",
+      "price": 29838.5,
+      "change_percent": 2.390021275135543,
+      "data_time": "2026-10-28T07:39:54+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -56,9 +56,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "ES=F",
-      "price": 7762.25,
-      "change_percent": 0.7495619443182556,
-      "data_time": "2026-10-28T03:18:18+08:00",
+      "price": 7761.75,
+      "change_percent": 0.7430722305146343,
+      "data_time": "2026-10-28T07:39:48+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -69,9 +69,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "^SOX",
-      "price": 11464.241,
-      "change_percent": 1.599025506455714,
-      "data_time": "2026-10-28T03:28:19+08:00",
+      "price": 11482.505,
+      "change_percent": 1.7608857291996207,
+      "data_time": "2026-10-28T05:15:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -82,9 +82,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "^VIX",
-      "price": 17.61,
-      "change_percent": 5.575539568345322,
-      "data_time": "2026-10-28T03:13:16+08:00",
+      "price": 17.52,
+      "change_percent": 5.035971223021582,
+      "data_time": "2026-10-28T04:15:01+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -95,9 +95,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "CL=F",
-      "price": 99.71,
-      "change_percent": 0.24127877752085541,
-      "data_time": "2026-10-28T03:18:17+08:00",
+      "price": 100.05,
+      "change_percent": 0.5830903790087446,
+      "data_time": "2026-10-28T07:38:55+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -108,9 +108,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "GC=F",
-      "price": 4073.5,
-      "change_percent": 0.3226283124815267,
-      "data_time": "2026-10-28T03:18:18+08:00",
+      "price": 4071.3,
+      "change_percent": 0.26844645847699955,
+      "data_time": "2026-10-28T07:39:43+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -121,9 +121,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "DX-Y.NYB",
-      "price": 102.302,
-      "change_percent": 0.6810353311681993,
-      "data_time": "2026-10-28T03:18:18+08:00",
+      "price": 102.365,
+      "change_percent": 0.7430371026473728,
+      "data_time": "2026-10-28T06:04:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,15 +143,15 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 80,555.00，漲跌幅 +0.75%",
-    "以太幣 2,340.13，漲跌幅 +1.01%",
-    "納斯達克100期貨 29,832.00，漲跌幅 +2.37%",
-    "標普500期貨 7,762.25，漲跌幅 +0.75%",
-    "費城半導體指數 11,464.24，漲跌幅 +1.60%",
-    "VIX恐慌指數 17.61，漲跌幅 +5.58%",
-    "WTI原油 99.71，漲跌幅 +0.24%",
-    "黃金 4,073.50，漲跌幅 +0.32%",
-    "美元指數 102.30，漲跌幅 +0.68%",
+    "比特幣 80,889.00，漲跌幅 +1.10%",
+    "以太幣 2,349.91，漲跌幅 +1.28%",
+    "納斯達克100期貨 29,838.50，漲跌幅 +2.39%",
+    "標普500期貨 7,761.75，漲跌幅 +0.74%",
+    "費城半導體指數 11,482.50，漲跌幅 +1.76%",
+    "VIX恐慌指數 17.52，漲跌幅 +5.04%",
+    "WTI原油 100.05，漲跌幅 +0.58%",
+    "黃金 4,071.30，漲跌幅 +0.27%",
+    "美元指數 102.36，漲跌幅 +0.74%",
     "美國10年期公債殖利率 4.99，漲跌幅 -2.97%"
   ],
   "rule_signals": [
@@ -337,8 +337,13 @@
       "generated_at": "2026-10-28T03:28:19.764722+08:00",
       "score": 33,
       "status": "中性"
+    },
+    {
+      "generated_at": "2026-10-28T07:49:58.916024+08:00",
+      "score": 33,
+      "status": "中性"
     }
   ],
-  "risk_change": -14,
-  "risk_history_sample_count": 32
+  "risk_change": 0,
+  "risk_history_sample_count": 33
 }
