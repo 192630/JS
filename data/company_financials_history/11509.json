@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-27T22:46:38.743777+08:00",
+  "updated_at": "2026-10-28T23:16:44.538103+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -11,6 +11,7 @@
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_fh",
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_ins",
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_mim",
+    "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ci",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_basi",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_bd",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_fh",
@@ -18,7 +19,7 @@
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_mim"
   ],
   "latest_revenue_period": "11509",
-  "company_count": 1398,
+  "company_count": 1399,
   "unit": "新臺幣仟元；EPS為元",
   "companies": {
     "000104": {
@@ -25499,6 +25500,18 @@
       "net_profit": 59263.0,
       "parent_net_profit": null,
       "eps": 0.9
+    },
+    "7710": {
+      "code": "7710",
+      "name": "東擎科技",
+      "market": "上市",
+      "profit_period": "115年第2季",
+      "quarter_revenue": 1758203.0,
+      "gross_profit": 512300.0,
+      "operating_profit": 273665.0,
+      "net_profit": 267031.0,
+      "parent_net_profit": null,
+      "eps": 4.3
     },
     "7711": {
       "code": "7711",
