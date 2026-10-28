@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-24T08:54:12.887329+08:00",
+  "updated_at": "2026-10-29T03:41:24.993423+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1445",
   "name": "大宇",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "投保中心發布 中石化及大宇紡織求償登記",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MMTBZUTRBaVN4Y3YyZERBN3U4U0NqU1BxNW9jNVZzQ294S0hqaVhjM2ZuTXZFeVBCa29pSURDdzBwNVl0dlpLRXpRbExHUHE3a21COWppRF9uajJ6VVpQTjVJOEdVeHM?oc=5",
+      "source": "https://www.centurynews.com.tw/",
+      "published_at": "2026-10-28T11:24:13+00:00"
+    },
+    {
+      "title": "大宇紡織股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVBoYTJwVUJNeWVZM1VsMG9pS296X1NVSUNmTnlSWngxeVU5U2NkdEtYVzNxQ0huMGplMXpfS3Z0LWhDVTNMOEZ3LUtfZVBOb2d3bjhkT2lXNWhvYkJHZXNGSGhYWXJGUFNJRTFBVlpNcXhIVkQ4LXBlalpacWxWbGhqLWF1RlgtQ0cwZlh6QWhhRjlldWg0?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-10-19T07:00:00+00:00"
+    }
+  ]
 }

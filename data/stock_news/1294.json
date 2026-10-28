@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-24T06:24:05.939160+08:00",
+  "updated_at": "2026-10-29T03:41:02.811754+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1294",
   "name": "漢田生技",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：漢田生技(1294)9月營收7422萬元，月增率44.59%，年增率5.96%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUI4T0dEYUxFM2tISlBlRWtsaFBCUlYwX3hRMVlVcXhyZ2V2ckhJMng4YzJxOU5oWDVaekJuazA2RGdwWFZGUnN4TFJEVndoX0ppZExveWVNTEVsNWlEZ0ZvYUxXcGgwczExeERXV0ZYdFZySHlwMzVJTUExaFpsN1hIZTl2Z3dk?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-12T07:00:00+00:00"
+    }
+  ]
 }
