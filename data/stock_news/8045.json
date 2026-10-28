@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-23T15:43:26.724672+08:00",
+  "updated_at": "2026-10-28T08:37:16.071020+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8045",
   "name": "達運光電",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "達運光電與美商Markforged推出全新戰術概念「移動式軍民通用製造中心」 擴大搶攻國防商機",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBabWY0c0c1X1lRNEN6aERMaFhwTXBwTlBrSVhYS19nM2lFazlkVnVZWjhEbFd3MEZRbTk1UGdkbUZoU1FPRzhsc3BrQkNrVV9RQUpQV3I4ejRBNDNPMG42M1U3OExDdnhibDFtYUVTMA?oc=5",
+      "source": "知新聞",
+      "published_at": "2026-10-28T00:10:00+00:00"
+    },
+    {
+      "title": "達運光電攜手美商 Markforged 搶進國防商機",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1VqQVVaeEVXN0NVT0xqZGw3ZjRZbHIwRU1MTnQzb0xDWFh2dDN2dG1ycUJ1YVZBS2p6MVc3UHpSRVM3NmNZeHpmZ2kxTk54Vk5Gdi03WHNfNThORnBFcWdzMTRpaVowUWhHUnRCZVRaWF9jX0FzYnVVa3pNeGlULdIBX0FVX3lxTFB4bTdQZEJaQmZDM3JJbEhiVlpFQVlrRWNBR016QnN1eHhBb0Vmc3ZBOUNkemp3NWVuZUJKaHNmdmFuSnVkNVdBVHVuVHZ6WXhBUTd4NmRjWWQ4Y3BfU25V?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-27T10:54:50+00:00"
+    }
+  ]
 }

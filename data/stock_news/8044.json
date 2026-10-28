@@ -1,21 +1,57 @@
 {
-  "updated_at": "2026-10-23T15:43:26.330927+08:00",
+  "updated_at": "2026-10-28T08:37:15.647293+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8044",
   "name": "網家",
-  "count": 2,
+  "count": 8,
   "news": [
     {
-      "title": "焦點股》網家：Q1營運略有起色 攻漲停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Fd3dQTURiZDd4M1FYM0xINjFSRVNGY29uUzgzWmIwcnZWUkt4VmVmbEJXYklNVEFoaEFHRG9tUUE0ODhlSGlxckhOempZU1NUTVRFbENLWXo?oc=5",
+      "title": "網家拚獲利 衝刺雙11",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jMmk2ZTM2bUdRYVdZNTN6Q212UUNGd05yemRFX29VS0s3b3p6alFzRXBObjF4akZuVzh3X195d3VOajNZb1BhVGlrVUItcWZt0gFWQVVfeXFMTUxwV2VodUV0QjR1OVNOVnhBZm5MaFNPWW9sd1dfbmo5YmE1ZU9MN1dSVnozQ2V2TG11Tk5xUFFNOXV1SThaUVNuS0dpZGpnOWlpeHlFVEE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-27T17:56:57+00:00"
+    },
+    {
+      "title": "網家PChome雙11拚搶最速達 總座談資安戒慎恐懼與子公司切割 | 鏡週刊",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWQ1RFMkl2R2ZtZHVXYnhLb2FHSEJ5Wjh2YjFLUndzN0lrbDk5cjczNXp6UHI2bWVqMGpRNXpYOFI0ZjZrTlJxbTQtZGxHU2ZpWU1BZDBR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-27T13:58:12+00:00"
+    },
+    {
+      "title": "網家公告子公司 21JP 擬向日本東京證券交易所 Growth 市場申請 IPO",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFUTFvVlVVOUlUZDNSRkptUTh0N0RsSkZ1THhkZHkycDF1U2ZVSGJZbEgxaWxqQ2dpNmtUdU9DTXRMMENSRFloclU3Tkk?oc=5",
+      "source": "聚財網",
+      "published_at": "2026-10-27T10:42:37+00:00"
+    },
+    {
+      "title": "網家雙11看旺3C 全年續拚轉盈",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GZGMzTHFwTWt2UnlWcE84STlDbWZacjZhU09qcmtTZEtfRzExX2RuR0p2UXp4QnBLYnhhSHBTU1ZWN1NyX1NNcE9TS2Q5aGRqLTBhOE8xY3c?oc=5",
       "source": "自由時報",
-      "published_at": "2026-10-18T11:57:44+00:00"
+      "published_at": "2026-10-27T09:22:05+00:00"
+    },
+    {
+      "title": "電商雙11檔期正式開跑！AI換機潮引爆商機，網家訂單激增89%-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUUwVWFRSy0yeEF0Z2dpOWxKdXN6TGc0S2xqX05ZYWV3QlhTc2FqX3k4aVpFUEJCbmJlM2NsRGJwRTZKbF81MHpVbW5BUXJldldoY2VldUZydjNsMXhGemtxUU5yZnZyZ0dqWlBYYmZHT1NUM1FTRVVxUFJtOWJCWjJR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-27T08:39:14+00:00"
+    },
+    {
+      "title": "網家 代重要子公司二十一世紀金融科技株式會社公告董事會決議申請股票於日本東京證券交易所Growth市場上市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KVF9KTzNFTTdXdkJKOGdaM2wzSXd4bURsdmo2Q1IxYlpUZ1NrdlU0UXV6ckNkUDhEOWdnNHJjYnd5T0NJZS1BUWlnOGdHd2tsbXZnWTJ5NFc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-23T10:53:05+00:00"
     },
     {
       "title": "【11:45 即時新聞】網家(8044)盤中續揚，法人與主力買盤成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVjYWtCSXp0aUJxNTM3ZnppTWg5dU40R3JTOWYtdnVZT1FsbWpkR2swTFhqLTg5cDFvN0NmaGd5OTdlSlZvRUxmRk1vekFRY2s5V0lKSEVlMUx5VHVNTUh2WVZvb2dqWlZkOFN4OWFYTXU0c1cwbmJBSWdwbTNtOWVvRF9MM3Izb1N4T0R3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-10-15T03:45:28+00:00"
+      "published_at": "2026-10-15T07:00:00+00:00"
+    },
+    {
+      "title": "網家9月營收月增6.3% 富邦媒-6%",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MV1N1Tkg1TDZLN1VkUzY0RjJCNGVZSTN0T09kbUtwd0N0VjV4S2ZTYThUNkJOWXNmeVplQUsxNlQwRGNncW5vd1VoQlNndy1i0gFWQVVfeXFMUHlud0ExcDdSX3I2QkU4QVl6dXY2S2JpdWJqMmNQSUtIc1VxVzB6WkhEYkUxOGxsUDQwby1hV1gxTGRWZGJMMVppU2ZfamQxNWtIWk1EZmc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-13T07:00:00+00:00"
     }
   ]
 }
