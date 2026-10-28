@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-23T21:37:52.376445+08:00",
+  "updated_at": "2026-10-28T14:56:07.438098+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8916",
   "name": "光隆",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "阿美麻糬董座開車墜花蓮光隆橋受困 警消救出送醫宣告不治",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByM0R1WG1hdTZvSlBmRWtVNFQyWUtwcDMwNllvdnhDM0hqLWlSTGVHc0hoRHBISFVuTjUxbnNmRzYxMUdmSDlCeE9NTGpoMEpYa2fSAVdBVV95cUxQbUJUNlZSaF9Ncl9MMjZFOXNlUTZzeDZTT1M0UWNISWJIYVhYcWwyRE5sQnJGU0U2T1hiZDJYMDR0VjdQQjN1V3RrZnpLQTRod3N5dTNHTFE?oc=5",
+      "source": "鏡新聞",
+      "published_at": "2026-10-25T13:03:00+00:00"
+    }
+  ]
 }
