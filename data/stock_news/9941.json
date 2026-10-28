@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-24T02:30:47.793114+08:00",
+  "updated_at": "2026-10-28T22:09:22.706027+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9941",
   "name": "裕融",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "裕融(9941)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qeEJMTXdPaVBGSlBGQlFncWpnRWFaenlkTWFUdGFGaFMyM3NRUzZjWEFuTGJmTERhSGhWVDZnQXlZOU9WeC0tMDFFeXRZdFNPMUxMZ1VDVVdKZ3Flby1sdVdB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T06:00:00+00:00"
+    }
+  ]
 }
