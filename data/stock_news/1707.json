@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-24T14:01:41.900230+08:00",
+  "updated_at": "2026-10-29T14:03:10.464705+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1707",
   "name": "葡萄王",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "葡萄王(1707) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFSVNUZi0xdFJQTHM0azlhNGhWVW91M1pIQTRkWVpCZXRtOEQyNjkxWjRocjV5ZXlnVTdnVGtSaV9EaXVWRGtSR1ROV0F3Y25VQ2kw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-27T06:12:21+00:00"
+    }
+  ]
 }

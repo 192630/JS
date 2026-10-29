@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-24T14:01:56.771362+08:00",
+  "updated_at": "2026-10-29T14:03:24.414812+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1780",
   "name": "立弘",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1780 立弘- 立弘115年9月營收8824萬、年增24.13% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aaGsyOFh0a0YwWHNpcG5fU2RZZ1Q1a2lYS3UzNDdVZlhxNXFYNFd4ZWt4b0kzQkJnOE9tNU9UNWR2S0VLVTAwZ0RITFJiOGU1a3RFN1hYNzA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T07:00:00+00:00"
+    }
+  ]
 }
