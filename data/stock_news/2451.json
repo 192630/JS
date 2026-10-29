@@ -1,81 +1,39 @@
 {
-  "updated_at": "2026-10-24T22:41:07.776880+08:00",
+  "updated_at": "2026-10-30T03:05:04.839297+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2451",
   "name": "創見",
-  "count": 12,
+  "count": 5,
   "news": [
     {
-      "title": "頭城阿拉伯宮開價33億賣了8年，創見「束家人」花10億買下！曾是全台最頂級招待所，李登輝王永慶都來過| 今周刊",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GWDluOGtXMVlvLTgyV3p4RE0xcHVxaXNfX25yNTFoQTBwZDljZXRWOHFJV19WWDNhbWhiSDRhbjgxWXBNWVRkeDRWY3lfVWdTSnR1MmpR?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-10-21T09:35:56+00:00"
+      "title": "個股：新門(5432)9/3～10/6處分創見股票219張，獲利約496萬元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMlVpVC1ZWGJfXzRDRU5Wc1JjbEo5YmZIcUxXSlNJUWJ2RTZTNVMxMjYxb0RfTWlpN2E3empYWnM5ODBvaVdzM1VXWEhSYnhZNndFM2doQUdRZDZ1MHRFSDI2UHlIQUlVT2NJYlNmVzFmSlh0cUhHU2xUdGEyd1BxWk40bGRNTE4w?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
-      "title": "10億買阿拉伯宮只是點心？創見束家狂砸逾45億 超狂房產地圖曝光",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VUWo5VXlNVnhuamhweVJCVkJPSWNkejdqRnBLS0RCZF9hWHJUSm5aTzJFcVJpSzRFYzAzQWtQX1hELUt3NE50MVZrNHDSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
-      "source": "NOWnews今日新聞",
-      "published_at": "2026-10-21T02:23:10+00:00"
+      "title": "創見9月營收轉雙增/Q3寫次高；續拓AI應用",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUTBOa2xQRV96Q2JtLWhrMnhEbi1xbi1aSi14dFAwcGh3Y3ZHSkE4NGozOEMzV1pEdThLeVlObjEwTVFPRGZfaGJDa2E4Zkx5amhVNWtRLUdzNm00WUZfRzdaRmY1TDcxaWgwRU9xSG1FZjRQeDh1TXc3UW1OLWJXb201YU9hVm15T054N041Ykptam43amprUGZmRHBwMnpCYlhxUGp6ZFNvc1kyWkdaMDU5Q0lDWlZTdmJlVkdhWTdBeEl4ZXg1Z2ZtbFU1NlJuYkI4Zm84Wkd0VXpvZUhDeFhpTFJIV3JHSG40bWRsRkV0elQzbkRWa2k4U0UteEthR05vLUNpUkwxa2dCOFhZY2xVZGZCRUZO?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
-      "title": "3266 昇陽- 頭城「阿拉伯宮」10億元交易拍板創見束家買下- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lM0t6dlBZdlJValFhOWRia0VXSmtvcWxiaVRRY1dQcjYyQjVmUzVYcVNyM1ZvcUlmWUpZOFZLbVF0V2RyUENFSkcwYU1QOFd5QlBLbjFWX2Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-20T18:55:58+00:00"
+      "title": "創見Q3營收160.7億元創次高 深化AI及工控應用",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNVc3UlAyZkotanJrTUstUnVIWVYxV1UyMFlTZU5fdDFyWHJ4RFRGcE14TXhpT2Ezc1RCTjh3S016UmhJbUk3Yjk3S2hhUEk?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
-      "title": "頭城「阿拉伯宮」10億元交易拍板 創見束家買下",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zalZSekxWRkJzeGt4U084czJLOUFFQVlIRlQ0OUthNnoxYlp6TWdBT0NyeTF6dkZJcVoxWS0tV1R6c0gwajBQMWRYM3UwRkloSzk2TEhJc29XQdIBX0FVX3lxTE1kMExnc0lYRDR6SWlSS1o0ZllCUW45d1cxOEtCRHIwbnBqWUdPUlUxVWFaejVHdFNMUVpVSWhnRnlZLXpsRTZ3cGRpOWU2X1Bfd1Z3ZlRsdDlMWGI2ODh3?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-20T18:17:47+00:00"
+      "title": "創見參展能源週，展示三大產品線",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNX1pFNDBWUUh6NEpVbEVMVThDUXJyRjBNRUdoNnhmME1YaFQ0SEFheFVTQ3NxZ29PYjlDQnlOOFpYNEpoYVh5aENZb1NWNEVYRHgwVnNBVUxBMUtXclhxRHpEbi1ZdV9jOTNjUzBYMnFRbDNfaGpxcHktSXFJRk9lR3BFUkVmWlJvYVIwYWpibDZHMmhsbGExRmthNHJQTHlNa1lKSUVrcFg5b0RndERiNmVQTC1OeEhXZU9DdVRlUGRudGgycmZKM3o1aFZOM3ZzU3libGx6R01PV1JKdVJ1aVF1VFJUOHJoaUZhU0ZkbHV4ZjBwZndVcWdGcE82dGlENUF0ZA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
-      "title": "宜蘭「阿拉伯皇宮」10億易主 傳記憶體大廠創見接手",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zWmxXcFROUy12Vzc4ZmNEbVVPWWhKOGJUbE1qVFdqUVNXZ1JlcE1ZQjVDY0hsU3NhcnVHY3hfaXo2Y1YzRE5pNDVFVEhyQWNhdkhvUXRMdkZzNG1tT19GVUJDNmR2UQ?oc=5",
-      "source": "民視財經網",
-      "published_at": "2026-10-20T11:07:16+00:00"
-    },
-    {
-      "title": "創見束家上半年獲利「年增24倍」 斥資10億買「阿拉伯宮」",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtc3RVOFBYekhGLW1LaTQ3SUF2cVc5cG00TXp2QmFHZWRtMDBmNVB6UlhVSjFxS0xSR3A3d29nVC1ldzhSSWdDaWFKZWM2NjN3dFJTc3lYRlrSAV5BVV95cUxNYUVyVXVvX2hfQVJoSEx2bU9lYkROM3pfTENRQUlxV0NnMGtEMXh0WXpXcUwxR3hTd1JSaC1qQ0Npb3BLM2hySXJ2MUQ5TkxLazMwU1pZd1FkdFRldFRn?oc=5",
-      "source": "鏡新聞",
-      "published_at": "2026-10-20T10:51:00+00:00"
-    },
-    {
-      "title": "商用不動產大單！宜蘭阿拉伯宮傳10億易主，科技家族創見大股東接手-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWlLNE9kSVhzQ1NPaFJuZXhCNDFZSkd0WERWMmVrbWZZWEFkVkN5REFBUU5yOXZ0U3dXcUZfc3lPbEhTUG1ZeGJLSC0yYVo4SFR0QVpZQlFDMHl3MWIzM2Z0STlPcURSbW5tRmhULWR1WlNRU0FJWVNxLUZPVVdpNU5B?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-20T09:12:10+00:00"
-    },
-    {
-      "title": "創見束家大手筆！砸10億買下宜蘭「阿拉伯皇宮」 傳奇招待所迎新主人",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80TDdPeWltMXRDT29XSl9aaXBYOXo2MW1yY2poUTB6M1ZhWkxEa3c3Zk9nU25kTkZacktIcjN1RTgwTTZlTlNwU2gtMmIzWG9iSnhZMWtLR3J2WjNPOVdBXy1VbjNUNUROaWQ3TWZkMHpZUXdBLWR30gFfQVVfeXFMUFBwRjBLY3BKUDhKa0o0Nm1BYmM3ek9iUDU0dXhDNTFrbUpIRm5xaFdsa05CcnJENHozOFJvcmtfZWNWam9MWFhnb0RRXzVBRHhkUXNGYlFDQ1NxMzJQRmM?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-20T07:06:19+00:00"
-    },
-    {
-      "title": "頭城阿拉伯宮10億易主？傳記憶體大廠創見束氏家族接手",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1ME9Id2ktMG0zMXpqbnNnT201bXBvUkl2dllnb0VRZWJpSUVGUXFOeXlROGJMdi0xQ0l0eFh6bDNpN0w5RDlsRjZqNWg0dzV4azB6X2dSTWNLZ0tyWHpN0gFkQVVfeXFMTktpalB1XzZqY0x4cFZzMGhSbmJxTXZDLU9yZjdkYUdkVGwzLWI4UE5vcHIxYUJjWXhSSldMVUtVLVpSUDZyaHoySWRseDNIbU1iVlA0aDFDVkFoQUZ0RUt1R3NIeg?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-10-20T04:24:17+00:00"
-    },
-    {
-      "title": "宜蘭頭城阿拉伯宮易主，創見束家傳砸10 億接手- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUmFxQTdBUUJBQkdESWZBaDllZm5MMXFUamFGZFExMEVRNUUtQzNwRVY4VnQyM3R3ZmZTdmhwQlVBNVZkR2hpdC13QkN1VnRoYjhxVVA1V1o?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-19T20:30:15+00:00"
-    },
-    {
-      "title": "2451 創見 - 創見參加台北國際電子產業科技展展出嵌入式鏡頭與DDR5記憶體- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52UkJYNkoyWUQtRjJmdElJdmNOYU1aek9vVnJKbDJFbHhQMmlDczAzZVg0dWNYdVhaX01tb2JwY25UeVlBNnpZWnZqUHkzRDMtT2JtNTJKQjQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-13T11:37:27+00:00"
-    },
-    {
-      "title": "創見參展台北電子展展出嵌入式鏡頭與DDR5記憶體| 全球中央",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EWGE3Sk9SWTdSVzBUamtFLTM3R3BWb2Ryb2NwNzZHRnNNUEViQU5TbFZDeGdzX295VlRVZlExMDVIN0lFUHBtRnB4OFlURHdTS0pvbkpaMFV5WlkyeUtRUG40RWQ3Zw?oc=5",
-      "source": "中央社 CNA",
-      "published_at": "2026-10-13T07:00:00+00:00"
+      "title": "台股一度創新高、記憶體還是沒跟上！巨虹再跌停「失守20元」、創見跌3% 華邦電、旺宏同陷疲軟",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPRGplamZWR2ZDQXBiRF9sV3htVE5tWE1fRkQ3eGRfU3RxS0JjTGU2OVVfaXR0dmY1UHNvdUJPNzRDYmJScTQ1eER0THdBV2NSZ0Z6SlZOelpOaE9yaWRQa19keWpiZGl3NldiTlNuWGFSSjlKaDkyR0xpTDQ4aW9zNENINWo0RC03NS10bHpieW9UY0kxYkczdUZVMmRmaFFabVMxSTVQckltNzQxVnFJMVZDUzEwQXJqUWg5Uk1uRUt3cTlQWkFpeU9qSzBhUE93R1d2TkVEMnpPMlJWTGMzZlpiNkVHYzVMTWZKMXFocDdGaFZjU2ZQZnhOWjlKZFM2NEQyR1FoZ2w1Mmx5RmZiSy13ek1RQU40QkNEYmt6cGF3VlBNVk5oeVBRX3ZTcU5XR1RwVldJVTB2ZUt2SFdUUFFnaGZUbUtvUkl3WEQ1SE9URnJGQmdDODR4UFRTOWpZc0EzRGotWGh5Mnc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-05T07:00:00+00:00"
     }
   ]
 }

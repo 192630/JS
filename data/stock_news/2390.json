@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-24T22:40:46.158775+08:00",
+  "updated_at": "2026-10-30T03:04:44.024866+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2390",
   "name": "云辰",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "云辰在台積電供應鏈中的成長與波動如何取得平衡- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxMDhGSFZHdDFWVkdxa3I1UGRkTnNHdXE2cjFjQ2R4aUVFcHhrOTU3Z3VrUTlEdTBqV3A4bmMza0FjN29nNFQyUVB4aHUwWjcyRmYzS1VDMjJuNkdieENiNWIyZDlfaVU4cElOQkotVDZ4STlydnZ5LVRMdw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-24T06:38:45+00:00"
+    }
+  ]
 }
