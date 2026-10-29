@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-24T19:18:49.419810+08:00",
+  "updated_at": "2026-10-29T21:22:32.061735+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2072",
-  "name": "世紀風電",
-  "count": 0,
-  "news": []
+  "name": "世紀能源",
+  "count": 1,
+  "news": [
+    {
+      "title": "世紀能源 公告本公司名稱由「世紀離岸風電設備股份有限公司」更名為「世紀能源設備股份有限公司」，公告期間：115年8月26日至115年11月25日。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41Q3hHbklLRE5vVmZSbjNQU05wUEhpVlJDSzg1YVNKNU9xdFFhR0tHdFVTanNXUHJXNUNJUUNDWC1ITmp2VDRMZ1ZXY252UW81LUp2TWpHcEU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-23T23:35:32+00:00"
+    }
+  ]
 }
