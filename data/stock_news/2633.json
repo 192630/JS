@@ -1,57 +1,27 @@
 {
-  "updated_at": "2026-10-25T04:59:13.812114+08:00",
+  "updated_at": "2026-10-30T07:25:03.005499+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2633",
   "name": "台灣高鐵",
-  "count": 8,
+  "count": 3,
   "news": [
     {
-      "title": "薔琵颱風來襲 台灣高鐵24日全線正常營運",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90TDhtaG5XYjk1bE9EYUM5eVNaQU9jcks1UldkUDAtMmFpcnF6cmtzYnpYS2Uwem9yejVIcVN1a0ZjUEwwTEZVVXdoV0ZEVF960gFWQVVfeXFMUEVZTDUyZDY3VEYzM0VSSlllMDROQjRmb3BxUTZqUk1lWFpBQktudzlXOFU5clpyaW03R1FuT2RuVkNINlNCUzk3SkxxWVVkQlJGRngyX0E?oc=5",
-      "source": "UDN",
-      "published_at": "2026-10-23T12:41:36+00:00"
+      "title": "西班牙高鐵事故引關注，台灣高鐵、台鐵有機制把關",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNC1MWVRlRnBXMmtkUmJuSWZ5Vnd1dFhVNTR4RDdmdXVYRDZBOXVkTXZIVUhob2VoN24xSGpxb2VzejdmSW9MbzBNM1JJTnRVWmJiNmRQbkxRRldSSGZqcFZaREM5STJSR2ZEX3JPRThzT1R5NUM1VHF6ejlWbmVTZkg3a1I2X196T05KdXZkdWdLaE15UUlXMQ?oc=5",
+      "source": "TechNews 科技新報",
+      "published_at": "2026-10-29T07:52:53+00:00"
     },
     {
-      "title": "2633 台灣高鐵- 高鐵列車增設「雙層行李架」 年底前34組車全升級- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hX3lBNldleV8wOGo4X190YldpMFU1cmxacVdaamEzaDhYNTdtNllOaVF0Vk8xbEZqdVRiQUp5UmhVcm4wNll5dTRINGlQb3NwN1FBNXFLVTA?oc=5",
+      "title": "西班牙高鐵追撞釀68死 台灣高鐵3大安全控制系統曝光 | 自由電子報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrQnFaSjR6Mm5ldFlUdGhHY21YRTNDcmZlcW9UTnFXWmZBUXJnN2RpaGw1eWFOS1JWZW55WVZqY2ZFM0JMVFF1VFBsdXdSYnhJUmRxVUV3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-29T06:28:40+00:00"
+    },
+    {
+      "title": "2633 台灣高鐵- 九合一大選高鐵、台鐵加開班次！售票時間、時刻表資訊一文看- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxalVpYllBYjlaN183ZWVjaGZfczJOemtRYW5YMWFHOGpHWjlNbl9tcE90Q2tWNFpYWUVCcl9Wdi0zMENjR1BrVGxXTFRyNjR0b1oteFJ1SHk?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-16T06:28:54+00:00"
-    },
-    {
-      "title": "2633 台灣高鐵- 高鐵第一組「雙層行李架」完成！ 每列車可放106個28吋行李箱- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QZnFTcnRQcF8xUkxtTk9IUkRVellnaWdoU0JNQU5aNkNfMUpwM0REUW5yVkV0TWVsdkxWUVk2QU9JSEVTQXNxaUJhUG9zbUl6NHhNa2hCOWQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-16T05:50:20+00:00"
-    },
-    {
-      "title": "2633 台灣高鐵 - 【台灣高鐵(2633)盤後解析】外資買超對作投信，股價小漲 ... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42bTZHSUpoM1I5enBwd3Uyc2NoQmJGNEI0czN3bjctYWthN1k0Y0lZRUNOcm5RSXR4aThLRm1JX2EyaGN0X0tpaVVVOElxMW5BYkRyaUluNzI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-12T12:47:43+00:00"
-    },
-    {
-      "title": "台灣高鐵：國慶連假前晚分流疏運見效 自由座20分鐘可上車",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtU3pfc3FUWjFsb3JQNk5CdTdrOGZKYm9QRlktclFEM3dVbkVXMzRDdzZlVGstYnJoVXFPSHVteWdNYjJuRjRKR1dabEt6MGxuOWpZcjFOVHFGN2JYSGJ0b0RGNzXSAWpBVV95cUxNeVZpTk5KMG1TRFpmRllMLVQzWEwzY1NybWpZMVZRZFJBU3pTdmhfMHV2d3p0OUNrVjdRR1JmQjN3RnBPVnJ3MGNNZFNMOERwOTA4dHRSb3pYVVptYnBwbnMwLWJvRENrUlVn?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-09T07:00:00+00:00"
-    },
-    {
-      "title": "2633 台灣高鐵- 清明連假入侵高鐵無線電系統害列車急停桃檢起訴23歲男大生、求刑2年 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WaE9LY2hDSUFCVV84c2dyTTdXWlozT0lkYVZYdXA4aDRYeEpCRk5uRnlfTWZranBydTlQRTIyRS1KdllFaC1ETFA5a0xqYXNCV0l2TTBSRjQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "2633 台灣高鐵- 林健正專區》中秋高鐵擠爆之後：從台北—台中穿梭區間車到取消固定自由座車廂芻議- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84RVF6eEVsWHR3Z3hFeXdlVFA4T1FvOGdhbU5jU0dITjhkN3p0YXRUcF9tejAxMlJRTHZYaWVpVkg4Slc4VDlUTmxCeW1POTBvbWhHUkRwTFA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "2633 台灣高鐵- 高鐵迎戰收假「超高峰」！區間車台中快速折返、全車自由座嘉義發2班 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JVzZrWW9WMHRDeHAzaV8wcHFkaU5CUUFuaWJBendyYUJza094clJLTDBlYjYyVlNwUk9wZXAyNm1yM3o2S0NwVGdlNV9wWm1VV1p1anlOTy0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-28T07:00:00+00:00"
+      "published_at": "2026-10-28T17:57:01+00:00"
     }
   ]
 }

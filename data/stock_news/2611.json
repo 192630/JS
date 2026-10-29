@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-25T02:15:55.264292+08:00",
+  "updated_at": "2026-10-30T07:24:58.659351+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2611",
   "name": "志信",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "志信多頭攻堅力道凌厲- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbWxmaHYzel9kN2V2UlkzVlhsMG5zdzAwNVd4SEtnZHdJa1dZbkZYX3VoNWMwVS0tY3Z3aHk4V1g2aWZSbGxfT1BkRmM3RmF0dENoUTdnRHhwNXdVLXVV?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-10-13T07:00:00+00:00"
+    }
+  ]
 }
