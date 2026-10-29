@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-10-24T08:54:38.352856+08:00",
+  "updated_at": "2026-10-29T08:05:30.768239+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1563",
   "name": "巧新",
-  "count": 7,
+  "count": 8,
   "news": [
-    {
-      "title": "焦點股》巧新：中東戰火燒到鋁業基地 強攻漲停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkdTk5c3d0RXhueS1qUUp4WlNsZTd1Q2hOcXZhY1JNaVZOMXhKeHRvMndSVzMyOGJjcFV4eEV0bTRsVE5ORU5Qb1ExdmRjU29seUlUeUFSVXc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-23T09:17:04+00:00"
-    },
     {
       "title": "【11:13 即時新聞】巧新(1563)股價走強，市場聚焦營收創高與多元布局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlVndVdPYmJxU1p1SzVXaDlWdVVUZVB2a2dmbzFHSklrNV80cEZaNGdBTWx2U2JpWTZNcjVZRFhPSlowRDJwV3k4U05OY0l0cEFYMGVjUl96M1B5T3I4dmR3cFphNVZ2eDFDY1k1RXNGUHVSTUdLcEpZbXpCa0ktLTB0dVF5QVl6YzhpNVV3?oc=5",
@@ -18,16 +12,16 @@
       "published_at": "2026-10-12T07:00:00+00:00"
     },
     {
+      "title": "巧新9月營收創高，明年半導體扮新動能- 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFdTOXRWcjV2MDg4SVFtazkyb1FpQVppMTd6WHN6cXhObWJkcU54azV0ZjJXTUhOTEkzRndILWpSU09WNVh5ZjZVWVl0THBJLXdqX0xhNzZsbFNnekh5SDdLNWxRS3RpVW5ORER1UHR4LTlTU1dpQjBOTjdMbGxTN0FvRVBfUUlyRTVqbnRURTlaUQ?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-10-12T07:00:00+00:00"
+    },
+    {
       "title": "1563 巧新 - 感謝外資出發 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2ZDlvRjc1UWdmanFtUnJQQmtLTTNLSk1FRkp3TVdUNDFZVnhaQ0RxbmFlWWlWN3RhZ3p2MDlmOVhpMjlKdE5WTHZJa3pUTGtSM04tX3pjTGQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-10-12T05:00:20+00:00"
-    },
-    {
-      "title": "巧新9月營收創高，明年半導體扮新動能",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNaTV3RVpVMlFFbWltQzQ0eFlhdWhfZ2I5eUVPZFBjbXgtVHhkbUh3ejl5cnplY0hhQ2pNWm1OaktQS3JXSklpeTNSTENVcVQwLUllNmV5OTNEQ2ZTd3VoZGZNdGhOZjEzVk9RVWMzTlNLekgyZnJvX29NNzFJMzU0aTktcVBGMkZTM2M5RzdnOUl6Y2FtTGpaOVFVN2QxOWhZbkNYUU1yT2JNdkRQRXhhZmdMd0I1OUdRMXg1cHR2VC1qNmlEM1BuaTc1X0hIUVkzX3BtNGNvY2dkYkRPV0hCV1UxZVdOX25tRkZ0cnYtRmVvcnFSMXp5OF82MmliX19fUVd6MlFFNm94SmtJSlFKNmtSdnFrVEdMTF9NQ3FB?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-11T07:00:00+00:00"
     },
     {
       "title": "焦點股》巧新：9月營收創單月新高 股價強漲",
@@ -40,6 +34,18 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HYVB6S000cVZOS3g1bVBnTUpSUHhaUGVudWh3TndvLTlmZGNxVzBFdUQ2STM4V3dsTm1BRUNZMElmOWROOUgtaFN3ajVtUXc?oc=5",
       "source": "鉅亨網",
       "published_at": "2026-10-09T07:00:00+00:00"
+    },
+    {
+      "title": "巧新營收／9月達8.16億元、年增39.69％ 創單月新高",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42TWFmdG5HNjY2SmpoVkRCUlFDckIwUjQ1emhVSW5saUtqX25sLVBlZC1SZzNsZjVlSGpsSFEyY0ZlRkgyQW1QanlrVjdPNDEx0gFWQVVfeXFMT19IWElmSjhleUhLbzhPWDV0RTZ4Q1FjMmRpWTBPc3R2Y1M3Y0hYR19lNG5zX1ItRFlkdDByc1VFdFNEb2NFN21SOFRLakNUUHlYekpEY0E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    },
+    {
+      "title": "1563 巧新 - 買著放著都舒服 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Vd3dOSE9SUXdxVG1pMERkV1dDX1dGdG1xWWU5Zi1oNVRTcmlaRDBCXzRJV0ZoOFNYWWNyQTlsZkhmMDVReTlnX3N4SVZPenk5QmRJaGMtUFE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-07T07:00:00+00:00"
     },
     {
       "title": "1563 巧新 - 👌 - 股市爆料同學會",
