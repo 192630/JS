@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-25T04:59:45.736966+08:00",
+  "updated_at": "2026-10-30T10:46:24.517720+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2911",
   "name": "麗嬰房",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 麗嬰房(2911)股價拉至漲停，漲停價5.53元，成交203張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQkx2QXRfOTJTVXBYdzhveEU1bDk4NXFFSXc4X0lQYmpGSWZYMmtlM3JmYnVYLU1TZ0JDWGJJbE5SaGFtbjI2cDIxX3VDQVl6eFFYRTBEdy1tanVMdHdreFlhN2E?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-25T17:09:53+00:00"
+    }
+  ]
 }

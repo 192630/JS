@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-25T04:59:26.682594+08:00",
+  "updated_at": "2026-10-30T10:46:04.952337+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2736",
   "name": "富野",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "阿里山特富野古道友善工法維護加拿大保育成員參與| 生活",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OSWpDeTF0MDcxZ2FqTXQxemwwMEdBYjE0bU5TcDNrYzB2ckdoWHNWN3QzRVZDdnZVQVlmM0tKdG93NFl5VkZta21ZVnRJUWpqWjVDWWo0XzdZajBuU2Nv?oc=5",
+      "source": "中央社 CNA",
+      "published_at": "2026-10-28T06:32:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-25T04:59:29.730999+08:00",
+  "updated_at": "2026-10-30T10:46:08.147733+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2752",
   "name": "豆府",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "瓦城9月營收年增8.8% 豆府+4.9%",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WREN4TzJGRVEyemsxdTVNSlpRX3dSWWVJZFBxUE1xNFQwbkxaZXU1QXpHRGZuN1dwY0FjckYxX3pWTFJxUUVJWEJ5a0pCNXRwQWdxZHZsX2Jhd9IBX0FVX3lxTE9uTGVSYkctVmFWNVJtU3N1M0pKczNiSVVZTlVyX0tBa1FjUzY3eEczTFBzU3REZldVcHp0REZKclVYVTFpaUc0N2MyeUdhUlVESVN0NGZYWEJxbkswWHJN?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-13T07:00:00+00:00"
+    }
+  ]
 }
