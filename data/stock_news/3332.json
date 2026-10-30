@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-10-25T12:58:27.177621+08:00",
+  "updated_at": "2026-10-31T00:45:00.636756+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3332",
   "name": "幸康",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "陳建全：幸康DC-DC打入AI電源供應鏈 獲利挑戰新高",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNOU0xMWY2dV9XZ3A0WVZTa2psM25zSU5SRVJscmhHR3RtN0RvUDNTUzZSR1E3bTdsc3dhb1FtY1hZNFNqbVgzV1lEeFBKcnVFWW5MTGY4eFloNC04UlRLd0FGSGl2SlJoSUdOa0MtaHRHT3dkQTdpbC1Ia3d4MTVDWVRoNWkxZEFCLTZuQzlXckNXbVpyTFY4dGdrdzhNcDRseDRCTW9wREhEMUFVaTRpNzRPUmVRYk1uX2pHUmlzX2xFLVVnME1yZzdrWGRYN1FEdldYUmtveUlrMEFFNGwtM2liYVUzM0pEdWtLbDRfSjR4SEpGS3RZMkpHS0MxMkZxRUxpenBkMGZERDducXdSVGFnNV8zQzE3R2pweHN5UC12UkttQmRKQVFZUTRzQ3J3ZzE1MFFJOA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-30T12:07:03+00:00"
+    },
+    {
+      "title": "財經週日趴（影）／陳建全：幸康DC-DC打入AI電源供應鏈 獲利挑戰新高",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96UjNaUUxjWC1lcHRva1gyTWpGLVNMdXZYUE8ydzlIVFhUWmU1NEFOLWJzeWJOcGY5X3BKSElmWEN0RzVFbnkwQk10QTEwX0s2VVFIQko1UEtsWFhJV0lXSGhLM1Ftdw?oc=5",
+      "source": "民視財經網",
+      "published_at": "2026-10-30T11:55:43+00:00"
+    },
     {
       "title": "幸康電子股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnZWQUFtMF9rcy00R3RkN05wcGQ0aDJLNVYwOU5KLUJwQm9ITVdwMDlyWWY5Tlk2MzVEWUkwVE9zaTcxeUJXV29NYVhhdzdHdXFtcGhCZFFCUlY0aVYwemRjZDBGQ29VVk5EQ0xfY1ctU0F0YnBRekc2blVsUWtpQTV6UjI3WFk0ZmtzV2c0UGREclZzZWFZ?oc=5",
-      "source": "MoneyDJ理財網",
+      "source": "MoneyDJ",
       "published_at": "2026-10-05T07:00:00+00:00"
     }
   ]

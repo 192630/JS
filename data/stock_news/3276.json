@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-25T12:58:14.306476+08:00",
+  "updated_at": "2026-10-31T00:44:47.212221+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3276",
   "name": "宇環",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "宇環數控(002903.SZ)：第三季度淨利潤38.33萬元 同比減少7.00%",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BRll1LVBEcktOU0tZd2J6bmpJRFpjVXA0ZHhLdk5aQkh6T2ctbVlUWFpRTk9qeW1CbjVWWGJ4UWhLbXBFUThld1NHTVV3bWhOc3p4UDhtdzBmYzRRUF9ZMURfTU5pVmE2WEE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-10-28T23:22:37+00:00"
+    }
+  ]
 }

@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-25T12:58:02.547149+08:00",
+  "updated_at": "2026-10-31T00:44:36.482681+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3213",
   "name": "茂訊",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "【12:22 即時新聞】茂訊(3213)盤中小漲，主力籌碼續偏空成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWpUb1hjeU5DTU1rZ2NqRzl3SUpxOXJ1QjhxZkhDRC1Fc2l5cTNOeEdhd1Fpek1fSUxOX2JOMmNHYXB3TFlwWVNLc3NuTFJhRWpPY3NiZ0VPX3JiQXN5Z2lNeW5YVXg2UWgySHoyT1lFdDhhMkM3bS1PSFZqTkxxcE5JZkdUM0Z6bUh1cF9B?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-30T04:25:44+00:00"
+    },
+    {
+      "title": "茂訊(3213) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BVDhFNm5xZHVNT2NLZ19IZkc0a2o4aXJpdUNEOHVxaVIyd1RqZ0ZfaEZULW9TUDlLbFRNUUFjeWxCN3hBWkFOdHhVdjNsakFQTmpR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-29T09:24:32+00:00"
+    },
+    {
+      "title": "茂訊電腦（3213）深度解析：強固型電腦與通路雙引擎，無人機與軍工題材驅動成長",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE82Z2RoWXA3QnREUWlIcUp2RlhlMVJSeGZxWlEycGRKMG51dllUc0tOVTQ2X0N1ZGgtRWUybWNsTEx0Mnc?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    }
+  ]
 }
