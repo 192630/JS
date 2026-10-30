@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-25T07:25:24.637081+08:00",
+  "updated_at": "2026-10-30T18:15:13.090554+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3011",
   "name": "今皓",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "今皓偕AI子公司湧現智庫 獲數位轉型楷模獎",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxORXR1c2pUd3pBT1FBSElkQl9RNlZ1VVBNVE9aNHAtQkZnOWxLbnJoeC1LNUJsWHNMMFRKSGY5Rk5zWXNsQkFTcm5EOHIxOEhEV0pzYXB5UEhuZlhCOU1PbW5RTFpNZ2lkZG51QktVNFNzQmxVQkdXalVBdjNDQW45SXQzcE9XazBaS1lGOThSS2JiT2FGZVZ6dlo5YnQtRHVnZzlqMVk3MW5hQ3BXTU8tVmlIY0hiTTVNc0QzZzRXdk9DOEs4dEY0R2k0V1lZeWlWek9yMXhCLVFLWHBCMDZEREdPcE1GYldDTEtqbzRuQ3Z2MDJyZ2dzajdxVFZ4X3RHQkNIOXUxcHFlYVJrSnQ1eC11ejhhXzNzUjdGYjdpODlsOHJBMHlMX2w2d1FLTk5la3dweEdkcw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-27T08:06:00+00:00"
+    },
+    {
+      "title": "今皓擴大AI代理人布局 搶攻製造業轉型商機",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRHJkbzg4bGpfWm5Ya0k0YmRxMDhHRWo0X1E3c0NTb1hVQ1ZCU1BOaWJBbTBKWVNtWFBJZFo4Wm50OUktLTByRVR4d0VvbGNHRkRSeGxPUzY?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-27T07:58:12+00:00"
+    }
+  ]
 }

@@ -1,81 +1,45 @@
 {
-  "updated_at": "2026-10-25T12:57:52.038220+08:00",
+  "updated_at": "2026-10-30T18:15:47.145059+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3149",
   "name": "正達",
-  "count": 12,
+  "count": 6,
   "news": [
     {
-      "title": "正達 (3149) 深度解析：從蘋果供應鏈蛻變，AI 玻璃基板與車載 3D 玻璃雙引擎驅動",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBIM25sNnppMlpweWR3MFFock5LNVNhX1JaNFB1Z2ktcWQtaTVQNE80UTJRb0NfRzZkZ3hYRGUtM2JuQWs?oc=5",
-      "source": "913 理財估測站",
-      "published_at": "2026-10-23T03:25:27+00:00"
+      "title": "熱浪衝擊銷售，先正達集團營收下滑",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SVUdfekxKNFFHbFh4Q3h6MFRlOFZSLWgwbDVtdHY5aDRkQzJzdlNvX1Q3YVpRUlgwbmtiN0dvTmI5aWswUU1Ua2daSHdJUmRnTURNa083Zng0TkJMRXowTGprMHByZTdsU2otZkF3QWljLWxrSTI0?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-10-30T08:16:12+00:00"
+    },
+    {
+      "title": "光電股紅光狂閃！「這檔」再飆漲停續刷天價、玉晶光、GIS等另8檔也同步亮燈正達噴9%、鼎元漲半根",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPR2w3LVI3aGg4OXBhajlwME1rSUlHS0gya1NKZmdwdTl1X2pOd3Roa3o2bzBvcUtHdk03aHFnMTVIOHlMZEtraUpFSmZZb2Z0VUNaNnlQTlZ2ZjJ0YmtDaE9kUGhVVEFaV3FnTzZSd18xNzQ3QWFRbGZzSlNaWlpobVpEMnlrdml4cE5wNEhqRHVtRmQ0QUs3bVh2ck1VMF9hZmxFdHBWQ1NpeHpaT3RFdm12dFdSUFQ3TWt3Mko5d0ZQVGZ1dFhRU2NZdXY2RVhlcDFWQlNuOEszcUtjNF9DX2xRWXpnR0pKUGU4UU5uSEp5RHItcUZOZ3hBbmN3Z1o4VngzX092VV9ycHZaRVlyaktZVXNpWFFBYjJCWDZWNVFFUzR2NTEtV2V1YWRhdF9XMUxCV1YwM3U5M3lXMjhBYktTeTB4WU5ZMFBMWWZFYnlLd1BTczh0d3NtenhFV1d2amZMdWRMNFZhdTlTRHVvanNaelBxQlhnc3lnd1d2cXQzTkNZVlJjWDVEN194RXZtY083eDRQc3NmREZrMnlYbWJsTDlLMHJtMG8zRDhiOV81YjZjTGc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-28T07:35:00+00:00"
+    },
+    {
+      "title": "【10:51 即時新聞】正達(3149)盤中勁揚逾9% 無人機題材成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXhaa3dydU5SUDI5R0FNcEdOZXViWUdZZWZMZmduS19GZVF6ejA1YWk1QUtHcUVoWXY1NVNsU2w4aGxybDIwR2EtWVRmeXBBRXJybnp1OUkwa3FXMFhKWHlsYXlhUlR3ZjJ2ek9nRTlvVW5xaGxKVzA3SFh4SEcxSFdSUmUtank3RklxTVBn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-28T02:51:22+00:00"
+    },
+    {
+      "title": "康寧黑科技插旗CPO！誰被取代、誰奪王座？「台股隱形剛需贏家全曝光」正達、聯亞、旺矽優勝劣敗全解析- 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSRFVxTjE0aVMtSXdLb0dLWFpUWmNQS2hHUEp0R0NfeGNzSjNjLVR1UmZtNmRYTWVjRVByOE9iY3pWdmxoV255cWFTOEZOcE82UTViTnR0X2QzWDNBM3N1NENXX1gtRDF0Y0E?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-10-26T02:21:21+00:00"
+    },
+    {
+      "title": "正達(3149)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bWQ0UFZGZFBYbFh0VmVWNDRqaTBCaHBKWGRya1Q0cnpQd0J4a2VObXpyV1ozRzRJWThiTWJSdmRNRFpJZVY3WGtsRUFwNEdiU2dNeWdfcUNDTUY0d2hCZVB3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-21T23:00:00+00:00"
     },
     {
       "title": "【11:29 即時新聞】正達(3149)盤中小漲，無人機與高階玻璃題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOend1U1FoWUVwa2I2QWN0MjBFVFVqM3NlVlkzQzlxTGZtenE1OWc5YXJveGFkU3JNQVltdjJ3Y3YxNkwwZmlmLTVvWjhBa3hNTjM4bUxQMV9Pdm1nN0lrb25tLVFuQWJOVnlUM1NuNEZnUUZlSGRXRkZWellOakFWT2hyazRrQTAwRFgxSWFR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-10-19T03:30:09+00:00"
-    },
-    {
-      "title": "20261015(四)緩漲急跌是機會,FOPLP群創友達趁此時,非經濟利空下正達冠西電未來股價更迷人!",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZzlCYnlCZkl6TmpqZnkzSWh4X2hWSXpfZEZkaWhPSzBuUzl0dTRNT09sNm9zYXA3SDB1cEVkeXlNRHZidkFvRUdza3BTdWJxd3dwZHVuRlVZOTkz?oc=5",
-      "source": "YouTube",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "3149 正達 - 我們顏董到底看上正達什麼？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRXp3cjJxT2l1eEpEV2syZUZLWE51QVc1Rmp4Y1VzOXRXX1RUbXZGUVYxb0EzZnRhcHJZR1BNR290RlQzdUtScjFzbGFacU45T2VRd3p4NHE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-13T07:00:00+00:00"
-    },
-    {
-      "title": "彭博：先正達香港子公司擬首發自貿區債 融資20億人民幣 (10:41) - 20261009 - 即時財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOcm5kN2JVV2ZMc2hfZGo1M3pkd2pmc0QzekxpWlRpYndNNF9fVDNtRUtaOVdkNTI2Mjc2OWNYNXRuZmhfNnh4SWNMekxXeDdQTV9mSGQyVlo2Q1lEdE1CeDZnTnhRc2pvWTEwN296VEY1QjJJc0xMMmtkSDZDT2I2OElvX1hIU0h4NUQyTWx3aHM4RWtUdXdmTU9yQ1I2NGM3MXJLcUh3VUliaTJpZWx5cFlDYi1hbVZtU0lhZWV0elNJSlFRcllyaEE4dFR1WVF2cW41MGtacTF3ek1PZXROUUdheExNUExDVFI5SkNyOHRENWNTNld2Znp4QjZtenFYby1RN3lvLW82YVI4SUNpSEczZ3BrRl81S0FUdjAxS25lYl8xOUtJam5SUnVSellmM0g3RkJtSmlFdWktcW9tV2ZIM05GSlZKVVJROXdfT0t4ZmlodHhjYzhYZnpHdzhIRWhVcVp2UXk0UkFjSlJmYy1meGx3SkFOLTFzTHV4b0pFcDdzTWNzYUJIaw?oc=5",
-      "source": "明報財經網",
-      "published_at": "2026-10-09T02:46:24+00:00"
-    },
-    {
-      "title": "3149 正達 - 等大人 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lcm9qX2lHQTl0ZTd1Y3lhbDN4ZEo2RXJfYkR4TlN1cE9FOEZQeE5hVVNqS2lLVWZpTDZENWN1WkhtMHk4azRqVHlXTm1qb3hKMEhEamZSOFM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T09:03:12+00:00"
-    },
-    {
-      "title": "正達轉攻HDD，2027新事業進入放量期",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdDJ4dUoya1B4dWptb2w3LXBYVXBCbXpfLU00bUwxZGdqY01POWNJOU5jX3NsWFI0dzFMWl8ybUgwaWtxTFhLcjVnbVVyOXZHMlp5Ti16ckx1cjd2OFBEMnZ1VnVTX2t2Q0l4akk3UW16YTN5V0lXTzQ0VGcyTDA3Z0ZvSlBYaXVGaWhpaS1ORy1QS0IxZ3pIR2F1NXkwd1BhXzhBcTJ6aE1pODR2YVEtR3BreUx2alVFcnJDRHYzNmpqNGw3RXVkVTJVdnl6QTNxbGozOUh6UDg2TWVaTkRBdFJOZmxLcHZ1bGlWWi1aQThXdEIwcFE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "【09:21 即時新聞】正達(3149)亮燈漲停，玻璃基板題材成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeC1CVXRteWxDU1hHbmFGaG9vN2NiRms0TXVhQjlHQmZLcV9Ra2FCMk1UN211WVlIVEp6eDFCaE5UWDdna1Byd055dGVwbEZWalhaREVRc0l2dFNRdXp0Rmw5Yy1iaFVYSW8zbHBKRnJkUXF3NG1xVEswVnB2bkRQeFk1MDJ4dGRoS0lLbmxB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "3149 正達 - 【正達(3149)盤後解析】價量齊揚，法人主力對作 正達今... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43OHdxbzh2NGxNS0ZuZWFZSVlnM01DYll2dlVxcUhBVFJ5amgxMTYta1pWMV9YdEo3U1FtQVMxLV91bFM4M1FjV0FTNDNSUXNJcTQ3QkRkOWY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "【09/30 產業即時新聞】面板族群強勢表態！正達、安可亮燈漲停，帶動中游零組件全面走揚",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjA4eEpnY0ZWR1A3dnlmSWpTZ2hJV0JFWGphekZGdmRoM2w0RzdwdEJBNkhsT0VHRG9wVlotNy14c0lqWXo4SlloaFpHQWlRZGNSN25WSFNvNTNTVXl2NVNJMEhTaElKeEhKXzlxaHgzZGw5MXgyOTZNTkZtN3k1aF9UVENEaWNfUmZ3OFJB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "輝達點火玻璃基板！鈦昇、正達強勢表態 AI先進封裝下一棒來了？",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00cnU4aVJ0bDRjcl9uTUx0RzBUUTVCWUZLZnZCMVpxaTFFS25HSXdocUFlRjhRMndOeDRTcUZvc0g0TmNxMkFiMU9RdmQ?oc=5",
-      "source": "聚財網",
-      "published_at": "2026-09-29T11:25:55+00:00"
-    },
-    {
-      "title": "面板紅到發燙！「面板三雄」領軍攜正達、安可亮8盞紅燈 和詮、力特等10檔群起攻高漲逾3%",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPUmxIQXJnd0N6NXRNUENwVEozbjJMYVhXY05OM2hydlNrWTVoVDNTVnZ1T0hONjE3N29mVDlyU3VwZ1B3dE9kS0gzMllWZzFobVBnX29RSDlTS0xLUTZMS0cwTFdWaERxRG1KcGtBYkxseFlkTDFLVWhrVmNLTWQxQ1NmRHBiamREM3NybktETjFPOGJYTGhxcGZ4QU1ITTk4Nl9Ha2Zhd2hXaWlKdDZSd1pOck9ob3ExdGdGU0xXM3BEUkRTVENtc0JhcG1DcTNBaTBLYnNULW1oUmtmdFh5WmFiZS1HSWthMm9XZ0tVbnM1c252VjBmcmlsNUY2OUppMWdBN1dGQXgxRW5oWWlNSWFTdWl6RUNEODB4ZXdBR3E2VUpHTUN5R2t4MzZzMEh4N0ZrV0JWa0hBTXpsYWxkenUxTjNwbzhmS2hoYVNOOFVMTG5CQ0NaeUZuYTZvRFJJUEJDX1BabVdRc2d4TklnX1lITW1GUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-29T07:00:00+00:00"
+      "published_at": "2026-10-19T07:00:00+00:00"
     }
   ]
 }

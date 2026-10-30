@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-25T07:25:49.974740+08:00",
+  "updated_at": "2026-10-30T18:15:37.557702+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3085",
   "name": "新零售",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "比高集團(08220)擬成立合營企業 打造線下「AI+IP」沉浸式新零售消費連鎖平台",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFJNM1J5OUxUS3JfNTdma0piWF9ub3RMMGZIX3pRY0VoX05QaU51Sl8tYXRhUXp1VXpldjBCR3R4ektqLWt2NE51aE5WOXE5N3NMM0FOT1JjakVMenpaeFc0cDQ5ckd6UDJGTXlGeXZnZDRwMTRFVXM2MFZnZk9fdzdXbWpPZ19GVVFuckdsLWMza2ZsSWFLTE5DeW16TVFsZTRWUzdRYw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-10-29T09:30:36+00:00"
+    },
+    {
+      "title": "3085 新零售- 【10/15 產業即時新聞】三孩政策族群逆勢揚升，內需防禦與幼童概念股展現抗跌力道- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41OF9qbmlCNEYzZmpUSFFVYzViV1RXYVFXVGFJdEQ5TGEyZ0NMSHR3SnpaUXM5OHNKWkZ1UVdzdFBqV1FaV3NVem13b3kzLTc3MXg2ZlY3bUo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-14T07:00:00+00:00"
+    }
+  ]
 }
