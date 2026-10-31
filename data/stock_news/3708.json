@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-25T22:27:51.980936+08:00",
+  "updated_at": "2026-10-31T09:40:46.227166+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3708",
   "name": "上緯投控",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "上緯投控(3708) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wQjhCY3E1NktvazU4VURESHdJY2FqMDBReWNfSjMxRExvTGVweEhBUlNHSHRrRThrY1g4dXkxdGZfTldheXVoUS0wYzdjRGJzdVVv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-30T02:27:38+00:00"
+    },
+    {
+      "title": "【12:15 即時新聞】上緯投控(3708)股價走強，AI機器人與再生材料成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVdpdWtmczNWRktCTlhRbUFOMDRyNURzdnc5c3lXSWNsZ1Q3Y2l4eThVeVZaaDF6dE9xZVg3ZWxhNXMzVDdFLXR1QWlfYS1aOVF6RkFvQzBHODBiTmswSVRCU0N5TWlqaVFhUldoRURTXzdURlhyaFRBVzNwZFBhZXRhRDRZMVNNcldwS0V3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-28T04:15:38+00:00"
+    }
+  ]
 }
