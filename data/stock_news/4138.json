@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-26T02:27:58.960170+08:00",
+  "updated_at": "2026-10-31T16:34:08.444752+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4138",
   "name": "曜亞",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《一週投信賣超11-2》南亞科(4138)、英業達(4013)、宏碁(3680)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWVRSkdqa0VJNFA5M1dDd1VvMGxHZlAtN0FfbV84YTg4VHpmc1JOLU5hMUdyLTlTaG9IY1RlZllfbk16Smo1V1VpSVkzNkUwQ1M2a2xkTTVKdEFBZWpwV3J6N29CYUR5Ymdsc05NZzBqcmZWUEJXTTRNako3dWEwdTdrVnVsOUl1?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-26T23:47:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-26T02:28:25.474354+08:00",
+  "updated_at": "2026-10-31T16:34:35.587889+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4528",
   "name": "江興鍛",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "江興鍛中國廠最壞狀況已過，Q3虧損可望收斂",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUUhkYl9aQjRDbGRQekM2YkFvTk9MamtFdk8zd29oaDNEZjRCM2FNMVBCLVZWQ0lXbDZ6OTBfc1VvZkZRLW5QdVNzMW9DZTFNdWhWcS1QNkxuTEtTTnBjVkVWRFVwWjFSbGdLbnFUd3BFWUY5VDd6aDR2NlJLWVU5U3V1LWszQ09LMGtZcVM3d3pVMHlpYkZMdTlNQVoxX1UwQlNaX2VpekM1czVsSUNoZE0tZW5wd3NUYzEzUFlidGdPQzY5MXNtYkNaN3JITlRSTk1NaFZBUG1GWF9GcVFWWjA2cXUyM2ZZRXNDX005X2Y2MHNzZmNtS3hqMklxcnFMdG1aNzZDTUNqb0JWc2xHRy1vVlZNUmF5Ml9lUHpvM25pNGtfNTBKV00zWWZmSWlQQ1Q3cUVwRQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-27T07:00:00+00:00"
+    }
+  ]
 }
