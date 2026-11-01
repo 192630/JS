@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-27T13:18:15.857851+08:00",
+  "updated_at": "2026-11-02T06:55:44.592934+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6620",
   "name": "漢達",
-  "count": 8,
+  "count": 5,
   "news": [
     {
-      "title": "【10/16日股價漲幅】漢達(+9.96%)、安克(+9.92%)、視航生醫(+9.73%)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zdjRxR3ZlNWhvcUVqM0NkNEFqZ0ppRU9WVXJkVWszN3JBYzZGS1UzWTJlMEFTMUJFYXdJSS1iTmhRY181RTJielgyMmgxNDliTVNlSzFxazhaVDRfSzJyOXhnRXQyTzgwRVhGREdR?oc=5",
-      "source": "生技投資第一站-Genet觀點",
-      "published_at": "2026-10-16T19:41:58+00:00"
+      "title": "【09:42 即時新聞】漢達(6620) 盤中走強逼近九成漲幅，市場聚焦新藥成長動能",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlYxMi1TTU1ucWgyTUZ5eEN6NmpwWGczZ0VwazU4X0gyVFNiQzFKalAwaWZIWklDcEUzZGxJR1dCbmRqZ1JJR012N09IS3QwQkRhZEN1TnBERHhsYmdoV2lVNHk1V3AtSDNuVEZXeUNzXzFYWnd5VnhPV2dRdGdxY2xzNnl2Vjl0dmZrcTFB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    },
+    {
+      "title": "【10:23 即時新聞】漢達(6620)亮燈漲停，市場聚焦505(b)(2)新藥動能",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2NBVXRQSmZnZHlEZERhMXF4LXdzYjE1RlR6Z3ZVTEV5RzVNVkFpSGozRU9HbXRqY3FMRkgtS284YTllckotemhTYUlRTktPbWw3SFFCNTN0UjZURXFEb3VCX0RCTDM3ZGh4Q2lVS05wdG5UT3R6YmZSejFVZzdfamg4R2pka2NiZjlpb1h3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-16T07:00:00+00:00"
     },
     {
       "title": "【10:37 即時新聞】漢達(6620)股價勁揚逾9% 主力連日調節成盤中焦點",
@@ -18,40 +24,16 @@
       "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
+      "title": "焦點股：漢達高毛利505(b)(2)產品營運占比已過半，新藥證挹注新成長動能",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExrV1pHVW5VcGFCaEpKaHJrQ3pCT0FhVGk3Wi00Nl9JWm0xV1JtRkhGVFZnMUhJT0JBLVNKSFA3QlpLYzRhWUoxV1lERm4tZzhPeUl0SV9maFFlcWY3T2dYNTBPQ2l6UDBEVU04ZV90anU5Vl9JbVV1WEwwM3ZzMkl2VTh4VXdF?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-05T07:00:00+00:00"
+    },
+    {
       "title": "6620 漢達 - 穩贏 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmTWVESDBTQlVTclp0cVNheGdlWVVrSE55V0hCSUxCaDBHTEM1RkxwbDFsQ1lTSjBzTDdjNW1fMXZSUUhWWHp4N3M4cWdYcF9BbkRfU3FjbGw?oc=5",
       "source": "CMoney",
       "published_at": "2026-10-04T07:00:00+00:00"
-    },
-    {
-      "title": "6620 漢達 - 阿姨趕快高潮吧 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2WUpBRDlkdjBEbkZFTTRkSnRRQkN0SG1fYXhOZlRxMFFtdzZRWEJuRnF4d1lib2l5WXhzOUNLellJSWZtQmE3R0pkZElkcTR5Y21ZNE9FOFc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-01T07:00:00+00:00"
-    },
-    {
-      "title": "漢達HND-039上市倒數計時，增添市值想像",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTGZiYVZUb1FOaEljekE5VEx3ZnNlRnRBYm1mVi1COVZKamdpT2cyVzRRWjJwUlJtanZzQnowMTZjLW4zUDlvMEs2UFQ3d0R0YTZHQU1LWXFXRFdOdV8wbkc2ZjVpMWM1SW43X2FUZGJJaUw4clRpZUw3OEFkbDJSbndwaXVPWldsR0RzZlhwOFh3bnNEaXVnVE9YRGdLb1JSRHRMMnZPR3drcnd6NVBiUjJJYllMTmgxcE9fN1BwM0FHaEpRN0FGZ3QwS3d6MnZCc0wtYnlKUzFjZnFuLWtYenVFb3hUTDNiNlVELW01OWp0bHdMN2dKTFY4ai1vTVlFczlKdTBjckJyTVdDanc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "漢達(6620)董事與內部人持股｜監察人及關係人持股變化 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uazVXVXphNU53SXVvMVJqRUpDejhua1R6aVVTRFVabzNKcjNlaEtrX2pBZnNyVjI5R2YzOG14ejBxYzZuWEg0VVkwdm5PTTcxSS13QkZGN3BGeXVsWDQ4UkN1aFhTcTA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "【12:21 即時新聞】漢達(6620)股價走強，市場聚焦505(b)(2)新藥題材",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclpRbmxxZ0J4aHJGQUNVdzhadi1TNTVxMFRwdVJtUkxQRWhOem9ZTXpSTGRKZW5xeW8tNVNqN2xRaUMzamVzNjJrZnAxamxCUFR3aVZ0UG9wbW9TcFFPTDFiNEh1M01la1RkX0MzNE05eWlvWkRWd253eTM3cmZsSDFlTDQyRE84cVNoaWVn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "【12:47 即時新聞】漢達(6620)盤中偏強，市場聚焦505(b)(2)新藥題材",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzVyUUVKdWM2WW1zTTllOFg4VldjWlhDYlQtTUg5STVZdXllNm8wWGZQSXNvdklOeFlJZVRLb2lzTnM2M0V5TDZKT1A3WjJPcDhnU0hlMXFjM0FZeUk5c1BpQkx1MndOS1oyNmxpU0NrQ1V6OFRiQzkwSHpySE5zVnNPdzVqcWE0X3FxWUVR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-29T07:00:00+00:00"
     }
   ]
 }
