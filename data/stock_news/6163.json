@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-27T04:03:04.371093+08:00",
+  "updated_at": "2026-11-01T14:27:40.857693+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6163",
   "name": "華電網",
-  "count": 7,
+  "count": 8,
   "news": [
+    {
+      "title": "華電網(6163) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3VFpZRm9ob2l5NGpQU1R1VXNab1U4aGxpdGxhblBzU3piYkNzaHJxWDkxbE9iTkVNbWR6TlkwbHRQV21pdFJyb3dVVndXSzNtY3BR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-27T16:52:39+00:00"
+    },
     {
       "title": "6163 華電網 - 美國生技指數創歷史新高，根據疾管署統計：新冠疫情9/1～9/... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DMGNOeEZXYmVYcVQtRHF3VFZZRWlQUWVEamFfUUVndUZMenNzYmkzMEtDZGZYUkotXzl3TEh2SEFPdVByeV9QWGZRMjdBNXdiYWFoTGJfeWg?oc=5",
@@ -12,16 +18,10 @@
       "published_at": "2026-10-26T08:41:08+00:00"
     },
     {
-      "title": "華電網(6163) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3VFpZRm9ob2l5NGpQU1R1VXNab1U4aGxpdGxhblBzU3piYkNzaHJxWDkxbE9iTkVNbWR6TlkwbHRQV21pdFJyb3dVVndXSzNtY3BR?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-22T08:42:31+00:00"
-    },
-    {
       "title": "【12:11 即時新聞】華電網(6163)盤中走強，AI與資安整合成焦點",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzalkzRUc2WldvclJlMUVlQzIwb1FpM0w2YkljNTZiWXZuaWpGZGNKNkRfX2wyN1pUbVlueTk5b1Q2Um05cXYzYTFzbm5YSXhxaVNDbmlYQkQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-13T04:12:14+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczVBWkR0Zl9NVTJmVFpkNDdsMVJIUzBUNDdXNEJzYTlLaUlEWVUyTjQ3NXdXb08zcEdsODdyZGpOOTNLZHZ3M3Y3WkNlYjRoV3Uyem5jRjZBa0R2TDcyUlZkd3hycTFZdDZSMnM2YzhlUnRyWGZkT0RvODlPZVp4QnVZVVVsd1pSd0thNmZn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-13T07:00:00+00:00"
     },
     {
       "title": "營收速報 - 華電網(6163)9月營收9.17億元年增率高達87.35％｜新聞快訊｜豐雲學堂",
@@ -30,15 +30,21 @@
       "published_at": "2026-10-12T07:00:00+00:00"
     },
     {
-      "title": "華電網成立子公司「碩維」 看半導體業務拓展樂觀",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0bmowLW1oU3pxMXJSNEo4b1pFdVlZYk4zRWgtM0ZtYzRNT0Y5NkYxcC15VFNITFdTQXV0M1Y0QzNncFo2TTFXdzRoNWRxaVFPVnYxeTlZSUE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-06T08:00:16+00:00"
-    },
-    {
       "title": "華電網董座：半導體領域在手訂單樂觀 明年相關業績估增3成",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWWxaVURYOFpMTnZ1TFByQ3RBMkt2RGZCMTltRzRuZGlHS2tqcENMRnQxdDVHN1ZYNmJMU0ZEalZpMXlWa24zbmQ0ZS1oaWM?oc=5",
       "source": "鉅亨網",
+      "published_at": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "title": "碩維深化半導體布局，華電網明年營運看向上",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdk43Qks1aDdqNkVGOU5meU5uRTNIZXRlNzFfbDZ6U2tybUZGMWhDUFgzWEVBZlVLVWVQSkFvN05XYlExVVNjUDhSaDI0LUd0Vl96WHhNOElyUnI5Z2ozTFF2QkF6TDJnaW9IZVdCWG1FMlgtWnRwdmdXdDZha1NVanYxNkpFdzdoQmJrV3h6NnA3TnowNEdybjJvWWdudlRJZEVIWE10MFlncS1YajRnZ3BXMHBLMjlGM2FMczhoeENXeGZOUEJOdlRTU2M1d192TFpRVE13UWhUVWM3VzJQSXhfMDNNa3lCYXFnbWV6ZjZvWEJmWnpaYnBreUJpZ01wMDdiX0dPcEd2WjBVNFpuSjV6WnI4clNwRFJlbk9Kem45UWY0aXpWSEpwdDFHYzUtd2VMQllneUVZVG9XVnkxVg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "title": "華電網成立子公司「碩維」 看半導體業務拓展樂觀",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0bmowLW1oU3pxMXJSNEo4b1pFdVlZYk4zRWgtM0ZtYzRNT0Y5NkYxcC15VFNITFdTQXV0M1Y0QzNncFo2TTFXdzRoNWRxaVFPVnYxeTlZSUE?oc=5",
+      "source": "自由時報",
       "published_at": "2026-10-06T07:00:00+00:00"
     },
     {
