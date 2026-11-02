@@ -2558,6 +2558,7 @@ button:active{transform:translateY(1px) scale(.98)}
       <div class="research-item"><small>中期方向</small><b id="midTrend">-</b></div>
       <div class="research-item"><small>均線結構</small><b id="maStructure">-</b></div>
       <div class="research-item"><small>成交量變化</small><b id="volumeTrend">-</b></div>
+      <div class="research-item"><small>短線活躍度</small><b id="shortActivity">-</b></div>
       <div class="research-item"><small>最新 K 棒</small><b id="candlePattern">-</b></div>
       <div class="research-item"><small>支撐／壓力（V2）</small><b id="supportResistance">-</b></div>
     </div>
@@ -2565,7 +2566,7 @@ button:active{transform:translateY(1px) scale(.98)}
     <div id="ruleSummary" class="research-summary"></div>
 
     <div class="plain-note">
-      以上依歷史價格與成交量自動計算，屬於規則式研究說明，不保證未來漲跌。壓力支撐 V2 使用最近最多 120 個交易日的局部高低點、重複碰觸區與成交量加權判讀。
+      以上依歷史價格與成交量自動計算，屬於規則式研究說明，不保證未來漲跌。短線活躍度只描述量能、日內振幅與 K 棒實體是否明顯，不等於適合當沖或建議交易。壓力支撐 V2 使用最近最多 120 個交易日的局部高低點、重複碰觸區與成交量加權判讀。
     </div>
 
   </div>
@@ -6951,13 +6952,36 @@ function setResearchAnalysis(history,ma5,ma20,ma60){
     ? volumes.reduce((sum,value) => sum + value,0) / volumes.length
     : 0;
   let volumeText = "成交量資料不足";
+  let volumeRatio = null;
   if(averageVolume > 0 && latestVolume > 0){
-    const ratio = latestVolume / averageVolume;
-    volumeText = ratio >= 1.5
-      ? `量能明顯放大，約為前 5 日均量 ${ratio.toFixed(1)} 倍`
-      : ratio <= .7
-        ? `量能縮減，約為前 5 日均量 ${(ratio * 100).toFixed(0)}%`
-        : `量能接近前 5 日平均，約 ${(ratio * 100).toFixed(0)}%`;
+    volumeRatio = latestVolume / averageVolume;
+    volumeText = volumeRatio >= 1.5
+      ? `量能明顯放大，約為前 5 日均量 ${volumeRatio.toFixed(1)} 倍`
+      : volumeRatio <= .7
+        ? `量能縮減，約為前 5 日均量 ${(volumeRatio * 100).toFixed(0)}%`
+        : `量能接近前 5 日平均，約 ${(volumeRatio * 100).toFixed(0)}%`;
+  }
+
+  const latestOpen = getHistoryNumber(latest,"open");
+  const latestHigh = getHistoryNumber(latest,"high");
+  const latestLow = getHistoryNumber(latest,"low");
+  const intradayRange = latestHigh > 0 && latestLow > 0 && close > 0
+    ? (latestHigh - latestLow) / close * 100
+    : null;
+  const candleMove = latestOpen > 0 && close > 0
+    ? Math.abs(close - latestOpen) / latestOpen * 100
+    : null;
+  let activityText = "活躍度資料不足";
+  if(volumeRatio !== null && intradayRange !== null && candleMove !== null){
+    const reasons = [];
+    if(volumeRatio >= 1.5) reasons.push(`量能 ${volumeRatio.toFixed(1)} 倍`);
+    if(intradayRange >= 3) reasons.push(`振幅 ${intradayRange.toFixed(1)}%`);
+    if(candleMove >= 2) reasons.push(`實體 ${candleMove.toFixed(1)}%`);
+    activityText = reasons.length >= 2
+      ? `活躍｜${reasons.join("、")}`
+      : reasons.length === 1
+        ? `普通｜${reasons[0]}`
+        : `偏低｜量能 ${volumeRatio.toFixed(1)} 倍、振幅 ${intradayRange.toFixed(1)}%`;
   }
 
   let levelText = "歷史資料不足";
@@ -6979,6 +7003,7 @@ function setResearchAnalysis(history,ma5,ma20,ma60){
   document.getElementById("midTrend").textContent = midText;
   document.getElementById("maStructure").textContent = structureText;
   document.getElementById("volumeTrend").textContent = volumeText;
+  document.getElementById("shortActivity").textContent = activityText;
   document.getElementById("candlePattern").textContent = describeCandle(latest);
   document.getElementById("supportResistance").textContent = levelText;
   document.getElementById("ruleSummary").textContent =
