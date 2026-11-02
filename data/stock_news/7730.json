@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-28T05:23:41.126841+08:00",
+  "updated_at": "2026-11-03T05:48:41.096262+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7730",
   "name": "暉盛-創",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "暉盛-創擬私募普通股200萬股、每股192.50元，增資基準日11/13、洽定應募人為志聖等",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0JDajJXOWJTcnItUEZVNFA5dnduU1ZPWUhrQ1FxeEtQV3lMZ1B2UmEwT0RnVGZ4ZFVUYmxVdWFfQUVBR1BLZW1EM1hCZzdoekxfVF85UFljNHBKSVFKa3FjMHRhc1QwNnNERDlvY3ZMdHo2Ni1Hc01kVzJWWkFySXQ0OXlGV19yTDNXay1zTmVLQQ?oc=5",
+      "source": "台視全球資訊網",
+      "published_at": "2026-10-30T10:07:30+00:00"
+    },
+    {
+      "title": "個股：志聖策略投資暉盛-創私募1900張，持股4.68%，深化電漿與熱製程合作",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmMwZE1TdTNKVk1wOWthMmxaU1hjWHVEQzN2TnNXMDhOWXk0OU8xd2lwbllHbTlrelNVUTZja1lXcl9WSjdEV21FZWhhZjUxbFRadEwtNHFPcnNQb294VXYwd28tdjdtTDRYTWVPVkRwWkd5QTlrZmVDb2tQVjNCd0JVQmQzVUhH?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-30T07:32:00+00:00"
+    }
+  ]
 }
