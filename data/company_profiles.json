@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-26T08:38:46.864380+08:00",
+  "updated_at": "2026-11-02T09:45:14.892951+08:00",
   "source": "TWSE OpenAPI / TPEx OpenAPI",
-  "count": 1991,
+  "count": 1996,
   "sources": [
     {
       "market": "上市",
       "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
-      "count": 1097
+      "count": 1099
     },
     {
       "market": "上櫃",
       "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "count": 894
+      "count": 897
     }
   ],
   "profiles": {
@@ -8124,7 +8124,7 @@
       "founded_date": "1996-11-07",
       "listed_date": "2009-03-26",
       "address": "桃園市中壢區過嶺路二段530-6號",
-      "phone": "(03)2721369",
+      "phone": "(03)4632808",
       "website": ""
     },
     "3607": {
@@ -12534,6 +12534,19 @@
       "phone": "(02)2503-8111",
       "website": ""
     },
+    "7710": {
+      "code": "7710",
+      "market": "上市",
+      "company_name": "東擎科技股份有限公司",
+      "short_name": "東擎科技",
+      "industry_code": "25",
+      "industry": "電腦及週邊設備業",
+      "founded_date": "2018-07-04",
+      "listed_date": "2026-10-27",
+      "address": "臺北市北投區立功街79巷9號7樓",
+      "phone": "(02)5588-2688",
+      "website": ""
+    },
     "7711": {
       "code": "7711",
       "market": "上市",
@@ -12896,6 +12909,19 @@
       "listed_date": "2026-08-11",
       "address": "台北市中山區松江路121號15樓",
       "phone": "02-2502-5686",
+      "website": ""
+    },
+    "7867": {
+      "code": "7867",
+      "market": "上市",
+      "company_name": "特力屋股份有限公司",
+      "short_name": "特力屋",
+      "industry_code": "38",
+      "industry": "居家生活",
+      "founded_date": "1995-03-01",
+      "listed_date": "2026-10-30",
+      "address": "台北市內湖區新湖三路23號5樓",
+      "phone": "02-8791-6668",
       "website": ""
     },
     "8011": {
@@ -23324,6 +23350,19 @@
       "phone": "",
       "website": ""
     },
+    "6825": {
+      "code": "6825",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
     "6829": {
       "code": "6829",
       "market": "上櫃",
@@ -23571,6 +23610,19 @@
       "phone": "",
       "website": ""
     },
+    "6898": {
+      "code": "6898",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
     "6899": {
       "code": "6899",
       "market": "上櫃",
@@ -23677,6 +23729,19 @@
     },
     "6929": {
       "code": "6929",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
+    "6938": {
+      "code": "6938",
       "market": "上櫃",
       "company_name": "",
       "short_name": "",
