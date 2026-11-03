@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-28T14:56:09.386382+08:00",
+  "updated_at": "2026-11-03T20:06:37.905527+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8924",
   "name": "大田",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-3》大田(-12.12)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpDZUlTSmhmeFBnd19tLWxlNG01eDJ6ZEdFc1dTU0JUQThlSklMNzRKNFdqdy1vSlJZZUV0U0Z0VEdlVzI1RkFmckVNczBEajQtLXltRHpUanY3dUxoNzhoYmVSTnRFcGZ6NUc1VnBHall6V2NrY2ZMR3VMUnF2Y1c5bGE5REFj?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-28T23:29:00+00:00"
+    }
+  ]
 }
