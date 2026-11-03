@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-28T08:37:25.500245+08:00",
+  "updated_at": "2026-11-03T11:31:17.923673+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8083",
   "name": "瑞穎",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "瑞穎 前三季EPS衝9.4元",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3Q0t1dTkxdHNCUllzMGNvcmo5X2RpVXRoSHlTakhuaWp4TlBuRnFKbnZ3VXRkNGJSbjdfZnlSWm43VV9MNjJBbGNlcXFnT1o0ZC1zRm94SUF3YW41UVpkUE5oY3lhZ0hZMDJF?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-11-02T20:10:00+00:00"
+    },
+    {
+      "title": "《電機股》瑞穎前三季EPS為9.4元 距2025年全年僅差0.4元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZlNZcXA2UzR2TG5PTTlzZmpkMEVoZ0IzNF9rT2lKek82TXU4eVM0dXNGN0JGS1FIT1MyMnY5eXVmaXhBYmZ3UEM0aVlVYTl5N0hpR3NCLWRTUU5kLVZtVkl6LTlVZDR6OXNXczdwdU5Ya3ZfQ1d4UnZ1YVZIeF9Idm9WM0xiVEZ6?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-02T04:51:00+00:00"
+    }
+  ]
 }

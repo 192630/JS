@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-28T08:37:17.406348+08:00",
+  "updated_at": "2026-11-03T11:31:08.507108+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8048",
   "name": "德勝",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "星德勝(603344.SH)發佈前三季度業績，歸母淨利潤1.02億元，同比下降23.70% 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZ1Q4dThuSHdUc3dZT1FpOFRiQkwwcWVwS01vZG1TdTh2YWw0Vno4V0NmTEZ2azY5MHl5UzNGNlpXSmZUSUJIajVSWGpmQkxNM2dnRkhQWkdtQVZxZFNQNUh0aTVmQURQaWEzc01JOUs?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-10-30T11:54:58+00:00"
+    }
+  ]
 }

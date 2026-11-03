@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-28T08:37:17.842865+08:00",
+  "updated_at": "2026-11-03T11:31:09.014907+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8049",
   "name": "晶采",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "晶采 115年第3季綜合損益表，每股盈餘0.57元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43QzZ3NWJZcW4xaVZwMDNqYVhReEFsNVprS2hvaGY1UFc4M2F4QXZYZ25mUUFVYVJQN19lZ1FnVXRGSkEyTkxDaWFRc3BnM0JkVDhfWk5SZXU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-02T07:06:58+00:00"
+    }
+  ]
 }

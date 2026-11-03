@@ -1,21 +1,57 @@
 {
-  "updated_at": "2026-10-28T08:37:30.791273+08:00",
+  "updated_at": "2026-11-03T11:31:24.655703+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8099",
   "name": "大世科",
-  "count": 8,
+  "count": 11,
   "news": [
     {
-      "title": "《TAISDAQ十大漲幅》 彬 台、濱 川、詠 昇、大世科、尚 茂",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmk5UzUtNGRjcG91QTBRclBaOUNoMEptTkZLUlNBREpDWVpMY2RUcXNhYWFRV1MtN0FfVUhWUUpiLVdxZnJ5eGFXeFBqOGZtWFl2S1JjbHpFYklxRDQwOGdPU2NTcHBDVXZiVlV0dS16VHZOUUd2T01JVHllc0Y4TnlKX1ZzY3Bv?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-27T06:21:00+00:00"
+      "title": "【09:12 即時新聞】大世科(8099)股價走強，注意股列與算力題材成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWJuTEF0NWNVWFlHV0NFSlBkZXZJb1JCUDRtVDBUNFNyRU5LX3hLbHhLWjdBTVdXTjh6d19DRUhwTnNGM0toS1BBUjRpRUNfWVdUZF9VYnBVN2hrTTVFNmRMcGxHblRpY29HTFRnQ0R4RFB6T0p5VUx0Nk9nWk92UDRHVjRrQWhSSEhJRjFB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-03T01:14:10+00:00"
     },
     {
-      "title": "資服股收盤大分流！大世科鎖漲停、零壹漲逾5% 倍力卻從漲停翻黑",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sNXJhMzJEamp2ZG9MR0hfZy1SWXJDYkFfRHF1TGFhZ0JKd2VnMzhzT21wMkt5QTNMbUFFX1ZGMXNnZlRDT2VORjV6c3M?oc=5",
-      "source": "聚財網",
-      "published_at": "2026-10-27T06:19:08+00:00"
+      "title": "大世科獲利／自結9月4,700萬元、年增90.8% 算力建置需求夯",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FV25MNmh4eFVWdVJzeXhJbjdkSG40T1V4bkxKWHRDRi11VTl6SnVBSXpwWjB6STNFMDFlZVd0LVpLaVNUUWFnZUVvSGZGanVX0gFWQVVfeXFMT3Bjb3NKTkpxTzhHMU9kbTlKWDBqRGprU2pfMTA0UzJxRl9Lb2prSF9GMWZGeUw3MGhsaWdLRjdRQUloUm1KRkNjRDVtYUMwWWVmQUhxNkE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-02T09:29:33+00:00"
+    },
+    {
+      "title": "【09:58 即時新聞】大世科(8099)亮燈漲停，AI算力題材買盤急拉",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93cXVqMVpDRnNLZHR5YWhuaVJxOGl1aERpT3JmOTIwNlJ3SUx4Z3M5VzM0YU16d3lUUERnbkJ2MDA4YmdsZjhKT3UtckItX2Q5SkhSUFRKdjhjTVROWm5BdDdGOG4tNDA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-02T01:59:23+00:00"
+    },
+    {
+      "title": "大世科9月 EPS 0.47元 碩禾0.42元",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRk04ZE1ZdEFYRFlKa1JYN2p3Sk5uWUJRNnlzNDI0UXNPeGFYbDNKSG5KWGNEZkVQTXoycXZaY2hHU3dtOXUxR1IyQW9rNTVUbTlrOVdJNDVWU1nSAWBBVV95cUxOUVpZRXdISWlyZUV2aTk2a29kZ1hCTG1lUWV0S1NMWVpZbHJnUEUtM3BQaldCSzk0bEZjVVY4eUstNWJXQU95YU0zbzFUYTJrYTlKQl8xY2NvU1hXdGMyWDg?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-01T08:00:00+00:00"
+    },
+    {
+      "title": "飆股幕後》母公司大同加持 大世科股價本月漲9成",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94UURRbjh0alNOOWRfR2c0eDNPRDQ5aG9SRU85Q2Z3aXpDdVZveHFEQXZfMEFENkUyeEIyUzNyMEZBaDVzU05xd2xTb2Q3dzF0MC1BSUVn0gFbQVVfeXFMT2hMOWZ5TGU0WWlZNlQzSEdxalRReWNETms3RGVNMjlPeUc1UnhSbnhKRmJXay1JWm05YkUtV04tcWJkU1dyN25wZG4tRjc4Ulc1a2J1SkZXM2c3bw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-10-30T21:30:00+00:00"
+    },
+    {
+      "title": "【台股10月風雲榜】大世科狂飆87%列注意股！AI概念股意藍漲逾7成 上櫃20大飆股出爐",
+      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNWnB6UFRaSzRwZW1PTGZ2M0NXZG5xV1NNUmRpTlRyY1Z6aVFGeEh3bGlJZm1tNUhlOVVpVDFqYkswMXJZeHRzWFh1ME9sYXVHZUllc0lPeUFhMlZqNFpHLURhWDNuMGlCWW80V1d4eEdFdTkzNDFIT3J3a2puSU5MTXBqY1hVd3prSTdOT00zTGtoc2Jaak9LczhXOE1QY0d0Z2tTMXRqOTRVdzlpZ1lBaUFHLVR3ZV84WmpHNWV0VEpxU3JhNzFiNkV5UnpSX1BjaEtsdnBDQU9uY1JSS1FaOHNxdjZlbE9EV19lRUVWNHNPS2djeFhOcXNROHRfTzVwVlhxQXp4QlpKRGgwZWFYaVoyankxYXZKT0RpMU5iVlNhVmgwa3p3eHN2NHRWcFVpYzI3RERndWRRRVY1bF81S3dtdEV1dmhnT2dQNlRjZkt1TEFaT1hVZ1BSa0FPZTVPd1NXN2oyZFNlYUJxMFJQUjFoblhwWU5hQ3Jyc293Mkk0azNZNHhicHppR2V3Y1ZVajZ2YUVDOHgyWXNROFYtYWV3OTFOM25RN2VMbXdONmJKTjBtRDM5QmNLZ1hOSFRwZmZ3eDJjNmJMU0dvSHRHQWVZaFJaMVNDVHluSE1zdndnZU9OLTYxWHI4REFwYm10akZGSg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-30T06:37:58+00:00"
+    },
+    {
+      "title": "【09:22 即時新聞】大世科(8099)股價走強，AI算力與主力買盤成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVFWWWZVSlNWZ2hLV1NhQ2tVaVNfSFJmaGM0SzRwbW1zTzZfaEx2cjZ6ZHd2dkRZY1o5THlmeHVFYTdPZGJGWGxZTUh0dHhMLTcxMGxvc0tfN0xrVGlrNG5TVF96dGlBal9OYU4yVGZrczR2dmF4SjJJOUNub3N1QzhiMkhYUkZJZ211SElR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-30T01:22:35+00:00"
+    },
+    {
+      "title": "大世科強勢噴漲！連5個交易日漲停 股價突破百元大關",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zbUZBYTA0SmZXQjFCMUJkdkE1cGNpU0pTd3dTcERYUi0tRFpvU0gyOE5yX3FJeHAxTUpsTWdVUTFBd0lFTVR5bzdwaldxY25iS3AwYTlwUEM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-10-29T01:33:33+00:00"
     },
     {
       "title": "8099 大世科- 阿華概念股- 股市爆料同學會",
@@ -24,34 +60,16 @@
       "published_at": "2026-10-22T08:30:55+00:00"
     },
     {
-      "title": "大世科開盤即收盤 股價強勢跳空漲停",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pWlJNbGswUTY4bkpmZTJPYk1VOTlfNW9TZjU0SkoyM3NaX244eGNaRHVaYkEwLTJmOWlTNWRNWDlzSjZjM3dvdGFNOWlkaURwcHMyU1ZLR1FuZnfSAWBBVV95cUxNYjl1RHBhdHhnczVEV1gwS1I5MzhQelF4bzRrYXBjREN6UFhNZkVJaDJ1czZPcnotWDJaZmdvSF9JN0tFUVlIbm5BZTl3ZjJ4Y09lMzN0TFJBUW1SWEp4bUg?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-21T05:39:29+00:00"
-    },
-    {
       "title": "大世科9月/前3季營收創同期高，明年營運再向上",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORlAzS2ZkSUxzZjAtSVJpbUJJQlppYmMwS20xVGFkUjJ5V0FTQ0FvdGdJcEVGc20wNXEwVWRCN3M3THVpaDdDRGNRZGNqM2p5WFZHWVNZeFRLVmRpZ2lISFNjN2RlM21LLXMtZndEalNUY04zQk5odUVhaUE0QXN2clpibFhDV2w1SHhZWkhIZHpfOHBNYnhWTDhXUjBBcG5CX3BHeGllVFZ4d2V0Tm1KSWduVFVMNXg4Y0NqeEhuLUFfbXBpREFxNGEySFQ0MjFmU3RtZWxYMkgxQldXQ0l0aWZfQW9YVHljVm9rMHlyaGUxY1cyR0hQYVFpUWFIMUVjcTJPSzkzRUdkVUV3WUUybnVLUjFJNVhwVkRLUDJzclAwS2JhN2hRaFZ5UnhlaENWRzNLTy0zWDlFWUpXZzZsMDB3Z1M?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-10-13T07:00:00+00:00"
     },
     {
-      "title": "大世科拓海外市場，東南亞為首要區域",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUl9iX1p4ZHBESkF1ZHhxYWdlc3g4YzExWmJEUFB0T1FtTmYtemNLU1BHX3h6MldqMmtERENvek5mcjVuNUFQVWpGM241SFJiMy1LT3hVakVQM2hUZlFTeFpYZGJfa0JRY1VtTTYtc3Awa3VYclpKSlhneFJXOUhIa2FNazNneDFTRVRSLXY1QUZVd3htZkFwd0p2dVY5RE9kUkRQRkZDSXBxZWd3c1V6dEFkVlR0UWVzU3pyeXVIWXFqVDF6N2VfVFRvSy1OcUpUWHpIU0xTUlg0S2gwQWdmMmxPb05MMnZha0w0cERYS1ZHV2tFaWdrekxTNFhoaXVsZVB4QmV0dEpIY2VHNDV0WjFsYVotR0RFbG1iSw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "大世科以AI為成長主軸，盼帶動公司營運成長",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQMS1rMVBuNHlBMjltTzdCeUZRd1lTSW1CTE80NU1ocnpXTFpOcmxlYklPSkNocV9qcEJSUkttVkpUWlFTanBCMzZBNWljMFZtT1ZDVXhldUR2RzZtdndjdjNBVWJqTldRYkd3emxIOWxIMzBSemR2dXN1azlDUWpRWlJQeDdlMHNrMk9mcGMwaUE1ZEMzb0dyNDg3TlRSa1YzNURyQmQzazV3clFTZ3F0MTE3eEo1X1pjUHRLU1dTcks0eGczTl9qTFUzcFdYMnRpT0tiRXdNMnU5bU1UVWxVaGthWHJzUUl4cjRwekVZOHlMMEZWbUlHMS1kLWxWMjhueDZMVGhzTUl4TFp5NktiN2p1QmtENWVkYkpzOWpveVFKakFYd2M1OFR4aWNJcmJWeFpaNWZWTQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-29T07:00:00+00:00"
-    },
-    {
-      "title": "大世科AI算力成果顯現，今明年營運向上",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOGNSZEtOZWtfT0ZuTlBQSnBuOGRQQWRhV3VyVi1KZ1ZPajBiUEhNTURrSUY2TTBlZHBNOVRPUUlCek40VXRwenV0Q25JTEd3MTBsS0hCRVRvM3V6Z25UbU1hd0MyR0NqTFpYMkR4eTFNQ3l6UjlVekszZS0yc0dNYjRWcFZkMGRxcE02UTh6UkJMcjFORlE1YW5kYmRlekpyRm9RUVIzTGs4NW9sTldXMWY0QUMzNVhkQWN4aG9pa2lNQmx3dkxTR1R3Yk9jMUFhdnk3RW1yWmRxbE5BQWhmYUI1cGFObjVNaVZBdktrZGZSSklIMkZUZ3RGaDY3WUJDY1lMZ05JUWFKTkFZemxQNS10Rm1yRURrSmlJN0cyUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-29T07:00:00+00:00"
+      "title": "大世科攻東南亞AI建置，評估日本美國市場",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GYURVcnVPSzhUNXN2SHVfVHVabTdlMVF6WTBmVlQzLUpxVjhkaEJ4WjhjWFBQX0VLdGdPU2w0T2VqaGlaRFpBeVdYRU5JZmc1aGVmUVduOUU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-06T01:54:04+00:00"
     }
   ]
 }
