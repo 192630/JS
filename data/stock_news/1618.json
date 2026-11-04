@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-29T14:03:08.619840+08:00",
+  "updated_at": "2026-11-04T15:36:26.453077+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1618",
   "name": "合機",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "合機(1618) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92YmpvSXhZaHZwZVNaSUpkV3ZzdS1nTVdTZWpBeWY0cDhXVkMzSUFqYlpEbDU5NDNmbG5TYzlXdjVqMTF6aWp0RUJaM2hSYi0wcURN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-02T04:02:10+00:00"
+    },
+    {
+      "title": "2330 台積電 - 1618 合機：特高壓毛利30%大爆發、今年穩賺6 元 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5keXY2S0NiMThPY3NpYm5yakpQY0tMbzBNUmJhX2xMVHdIRWRibHJlYzRuRHdRbThHWk9sRk5SRGR1MVE1cjJaYmp5RWNqNVU4TnAyU3hrQWY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-02T03:42:41+00:00"
+    },
+    {
+      "title": "1618 合機- 【11/02 產業即時新聞】重電族群全面回神走高，線纜與變壓器雙雄點火、綠能長線利多續航- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQa1JETU9aRXVucXVHai1ONEZRcWxMWmlOeWRUTEFfUEFPWjlqb29MeXc0Rm80c1loTWxfLUZjenFCRHVmQ1RJU0hUdDRDUEZUdl81WVVZWXg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-01T09:31:24+00:00"
+    }
+  ]
 }
