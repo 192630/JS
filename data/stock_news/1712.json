@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-29T14:03:12.593634+08:00",
+  "updated_at": "2026-11-05T00:25:44.599343+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1712",
   "name": "興農",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【12:02 即時新聞】興農(1712)盤中小跌守40元關卡，主力近期轉為偏多",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMnE2a2ZPOC1nUVdrMFZmVXNiYUtVSDl1S184V3pxcDBhdW1kOHdtNDNmWGJ0N3B3WTRhUGZDSEk2MlNScm5lcmFDUjVWNkd6WGd0OGozczI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-03T04:07:14+00:00"
+    }
+  ]
 }

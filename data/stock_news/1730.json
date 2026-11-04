@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-29T14:03:17.848607+08:00",
+  "updated_at": "2026-11-05T00:25:49.868657+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1730",
   "name": "花仙子",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "花仙子前三季EPS 3.73元；明年配息可期",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVFIzeHZCZUhUYURBa2hsTXpfU25xVFRiZGZDWnNFSk9UX0pLbzNYZTF3RXowcjhrQkhCd05EbXZhODUwc3lWUHVmTmlYWG1DYmlzTnNDSWJPWkNTZlBuSDVRNnlXNFFROWlGZFVQeDlpV2ZIV0NmRVphN09DdjlCWVRoTFVFUUZWUGtxa0NFZnBaTFRZSUNZaEU2NTQ4NHJHdEdYVDlNRUR6UlFxdUJlVThhNHktOTZ5OFN1c0dLSUhaVjNGdUFqTWtySmZ6MFZNaGhiWDJldjF4NU91Ni1zRWgtVmx4VU96T1pxWG0yRnBZWHVXS2JCY2JnOXNZazRpQ1pB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-04T03:53:40+00:00"
+    }
+  ]
 }
