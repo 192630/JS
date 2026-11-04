@@ -1,27 +1,51 @@
 {
-  "updated_at": "2026-10-29T03:41:11.234743+08:00",
+  "updated_at": "2026-11-04T08:42:55.524374+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1324",
   "name": "地球",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "馬斯克驚言「記憶體需求超乎地球」KOSPI 50迎史詩重估",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtbFNBTDNwV0t1RUpYVDBsdTBtdm1PN2ZBQkdQZFNmcjZaQzA0TzFBMDZ0VUwtNzB5M3VZc2JrMHBaQTltaHgwNDBGYWJxbjBGcTZB0gFYQVVfeXFMTjZQQldOVXN3Y2hqQ0hpdjdzOUNUVVZnaGF3Ukw0TkFicmRnSmZnbHFaX21keF9kYXJ3cFF3RTFGMy05T09HaUhBbG11MVE3NEFEUGNfTDAwVQ?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-03T00:41:26+00:00"
+    },
+    {
+      "title": "馬斯克預言軌道運算將超越地球運算 SpaceX股價盤前勁揚逾3%",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNd1laNzVmdDdZOVZEMU5kLXpyeGh4dEkxQWlwaXR0Q082STNPT25jZmtBS3BFX3kyM1R1dEE3V3VVcjZyeEdqcUszMkY0S0s3OC12TUo2UU1tbnFEV2hseE9yOWp2REIwbVladjdsQjd2VG4xN05UdGRDU2lqTEUzbGdpOE1QUUt0ZnM5UmhsbHp1OVB4MHVRa1hfdXRTengyRHluc3o5U1ZFcjQ3VnhtdEV0NHhfUjAwZnVFak50ald2RXVBRXZJY2NrQ0Q2eUU5dHlCYjN4UWFHUjFBX2J4VE11Mks0VF9GRHdjVEdBd3lCLUZGV2dWXzFyV0gtVXAtSEE3MjRtMmliUjRRbTZ3NmxTRXBTRHMzanU0LVFuZFp1a1ZXa2ZkM2ZzYXNsSUYzQXd5UVV3bmk5MUpaV29HMzh3OW01U0puaWNMcTlJY0pERFFJZlZtaEJHN0pQNnZsQzhnMWZfMExqdW1aMlBVaDRNTUdSbFg2VWdXbw?oc=5",
+      "source": "商傳媒",
+      "published_at": "2026-11-03T00:03:29+00:00"
+    },
+    {
+      "title": "3491 昇達科 - 國外低軌衛星市場研究報告預計到2026年，低地球軌道（LEO... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0QVE5TGl4cnZkM2t4NkhYOWdBUkwtSTMzYzdHTDBSRWVlQ3NFSFZhM0REWEpnMFRzSXpYSTl1M3FlM3BBb3JTWUktTzMySHF4MGgtQjNIaG0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-02T02:41:31+00:00"
+    },
+    {
+      "title": "3491 昇達科 - 昇達科客戶SpaceX 的星鏈低地球軌道 (LEO) 衛星通... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DcG5OZW0zQ1VURjZfMF90bE5XRS11eWo0VzltTGdfZHlWcEVENFR6N20yYnB2SFZXNTRvVmJ0SXpnTDl0S1o5XzdqNVNOMFVZYkFjbXBjOGo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-31T22:42:56+00:00"
+    },
+    {
+      "title": "TWA00 加權指數- 做夢？遠見？人在地球夢到外太空- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QS2syMDRJQXktYlUxTGFfYkIzTU8wM0hfdENIdnNBT1Jic3NVOGVhLXRncXVuSzlXUTBxaWxpeEhFZzV1SngweVNZNDdIUW1od1g5ZzFqZkU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-31T01:12:14+00:00"
+    },
+    {
+      "title": "就買這類股票？馬斯克：對它的需求超乎地球一切",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTlV3eXVIUHp0QkQwcG0yeFV5a1Y2dXo5VXBFM0x5NEthNmctQXpsZG5GeEtMaGFVRExhUU9CTHZpZmJNOHZsN29tOFA5a2N4a0wyUXNBU2VhTDdKLTE1QWZtRGo5clYweDlBNDNub0RCdWRKVEHSAXtBVV95cUxPVHY5Y0Y0ZVBMSUxuNHdYVFVwVnRnUkFjSVdHcTd5VkZXODlFaEVPeVRrcFQzYmZ3czc2eTU0ZEhnSjFKTG82dDAxUlNRLVFYNU5vNjJZVnd5M0lEcWxBd2F2RHpJNklDLUtVUVQ4ZUtuZ1ZGWUV5aTM1c2M?oc=5",
+      "source": "禁闻网",
+      "published_at": "2026-10-28T12:09:00+00:00"
+    },
     {
       "title": "馬斯克說機器人對存儲的需求將超過地球的一切需求",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVdkUEcxaTJ2djBrWWJQdnBwanF5cXBrZGU3Y3dZa2pVNXRlczNKdHZ4emZ1WERwTXRfVVBPcml6OUV3MWRvYm5WVDBHMmJPR2lvSHhXZFltU05Mc05KdWV4d1ladGNkS1pqQUhkaXVMbFlLaEdFcy1IQUNjQUJRV0NiVUdVUjJRbnFRR1JZcXNEWVJfdW51UGxJSXNtb0lQM2RBRV80bHFJcC1vUXRXUGxrZ0VJelk?oc=5",
       "source": "Moomoo",
       "published_at": "2026-10-28T02:44:40+00:00"
-    },
-    {
-      "title": "地球能源公司股價今日為何急漲？ 作者 Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByWVhHVVBkQzc5cEJTNjNUQ0ZrZU5YMnpjd3BTZ3BfNS1tNlpKaGRmMk9uc0wzZDhxTmNLM192bU91LWtmMElHZlEyWDFCdzJwZVNiU3hoRGZ4cVhnZVNwUmh5UkZsb2NyNmljcjJRUDlaNWJkejVv?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-10-27T13:57:17+00:00"
-    },
-    {
-      "title": "ST華誼：暫未參與投資電影《流浪地球3》",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Mbm1yRVhfQm9sZURHbWppSUF6SkNRQWVRVk1nLUdxWGpNdUFQLUJwSGV5TXU5NS1HYTUzM2FJLU01WnQ5WDBEeHktUnNEenY3c3Y4cHFUR2hDQVhPOEtubFpoREUtNjhsVVE?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-10-27T05:10:34+00:00"
     },
     {
       "title": "6407 相互 - 原住民古老预言警告第三次地球“震动”(图) - 股市爆料同學會",
@@ -30,10 +54,10 @@
       "published_at": "2026-10-26T02:55:45+00:00"
     },
     {
-      "title": "2330 台積電 - 台積電看要被馬斯克幹掉了，地球人渣。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MWW51TWRFdGdjWjVFcG52RloxNHZXZFR5Ynh5bEJjdFhqRTRsS1A4QnlpN3pYb2dhVDhoVEthTGpRTWtheUFxelA4VHI2WXlnUjB6Rmd5U2U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-25T22:36:16+00:00"
+      "title": "低軌道衛星激增恐癱瘓太空 逾3萬物體環繞地球釀撞擊危機",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNNUdfRWNnbVVybklGd2JveV9tS210WUtUUERJX0plYzR1aUgyYUFRZXRfdDc5ejg2T2JhLTNnV1VSRjlvSVV6TVo2UlV2RjZDXzE2TmZ4ZWNMdjdab0txT0dDZTZmZ1NQN2NHd2diV2ZDakpEM3lqRHp5Ujk4VzdJc3VWbGVsTTNVZjdmTXFsLWhnbVNUUUJpWEdaM0R1RGZ6TUpHLUtKcUd3WmxIQlJXZW1CZVdQVVhTOVBrUmFlYnZCYVJhV0hxNEpFWEMzNDRWYmlQc1dOSndzUHlmeWhReG1NQklBb2N0OXRVbWdGdVZ4dlIxT1BEbTAydWtOWUQxWl94b0k4dFJPel90aEl2MmM1dWxqcU1kcm84VjlUYXFnSGt6cUJma01vVjkyNG80V0VHM2ZmclNvUmJ4VmRpUjRDTFFmdFV5Vkp5ak1fNlhmTkMyMjFQTW5uN19rUndCZlI0THFqbzRMUHlNeFR6Yy1WQUxNRWdFb3hOblFPa2lXSDlBR1QwbkVR?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
       "title": "Google 地理空間 AI 工具升級 強化地球數據分析助解環境挑戰",
@@ -42,28 +66,16 @@
       "published_at": "2026-10-15T07:00:00+00:00"
     },
     {
-      "title": "地球特攻隊淨灘行動 登場",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsd1FVaWVPZWZjb3FkZVVnZlpmMVhMMEFPd29vOHRRbnJVdkZrVUVkZnQ3U1N5WkROZ0NSWS1tNjVDWFFNSnF6ZG4wY1JLbkNZ0gFWQVVfeXFMTUx4UUJ5TklMelRTTV9RVFVnTnRic3JjcS1jVXRLdVFCWFFWYnJCN2FaQ3Z6VjBfNDZGeXoteHk2UTBCNnNnTHZUV1NtdG1CdmF6UTd5eWc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "title": "York Space 兩枚衛星獲美國太空軍核准 強化地球同步軌道偵察",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrQ3d1dFhZNUE1QnN6djhKYU1mV1E3Qk5XOGR6eDY3aGFjMGhfa0h1cHM1aWxFU3N2YUFPSF90dDhua3pmTlI1U1RYZzhPSlBRdkpBcHVTazVvbVZDQ29YTWVQLTBBdFA3a19jMXlIRQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "微型設備革新地球觀測 超越傳統衛星無人機限制",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONkFqc2hMZXBBRms0cGpPS25vRWkwcE9GQ2hCd1FMV05ZZHNkRmJiQm5jQjZCc0dvQ1FXS3B4MmpJeVRkcjhjSVVtNC1VM3VOeHRlaDRBR0tpcy1ia3FhN29jeDBpUkU1QUgwWjkxRi1CbDBNMjVocUFrenJ6ZnBHejdkeEVxTWRoZWR4dE5UMWduVG4zOUE3eWM0NzhSSW40LTNXb0FKT1d2U1J2NmRNN0J3OVgxS3hUR0N3cWpZNjlRMzk5aWpTcmZRNWtRUDJLMHBtUms2RHcwY1JyM2RHSC1HcXBJRkp1ZGd3VTYtT0JYZ2FSVWJ0M0tlc2JGUnNJNFVGY3ZYSUw4TkcycXRQQ3YzMTVkeDFPTENkOExTUTNwdm9yWGVuT0laQzFiNHduSU0wbE0wVVpYTDdUVHlPUXB0YVdkYmYzb2R3M21DOWdxREx3LWFzUw?oc=5",
+      "title": "從輝達到SpaceX！00409A跨海布局AI獲利巨頭 投資視野衝出地球",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQV2x4ZDBvOFd4UjRDc1NReWhjYUNvd2Jqc3ZjV0tTZWNvcGNHcjhUNEp5Zl9aRU5XS25wcy1DN0h1ZE1nb2cwNW9wcFk1NEFRXzdNUjNaakdldEhCYlhGVV9JZzVWb1BWbFZGQ2lQWk9DX2hNQ2ZzWm1jOXJLcjNOakx1Zzh6RU1LSnFyOUNYTGg1X2RZOExvTnZpT21OU2Z5b2xGN1BTZkJsTFNOYkw5eG90MmNqeUhQcHlCWUUwWk4wbVlnaW54S0tsSjItc1RjY216enNodGt6NVlNMUxscXV1eV9YZ0dVMWlLQlRzOHExM0FVaHY1UGJENFFEWkhIVmZsNndUZkZYYzZnSmFvalJqc05CdF9fQ3pvU2JwZXJDWGVCNGIzd0VrRS1WRnlJQ2dSZ1hnNlR0MURnMWxGdmJYVk5hb0kwaXJRY1lEQ1plSzQwUVg1dk9ETDF0VlVD?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-30T07:00:00+00:00"
+      "published_at": "2026-10-13T07:00:00+00:00"
     },
     {
-      "title": "SpaceX星艦首度進入地球軌道類股表現抗跌| 科技",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93VFFSRzhIcG5nNmZrZTJtX0Uzcllfa2x1ZFhlWm56Vzk5Q2dqa18wNUhrVndhc19OMlhTLWhaSDNPcFZZYnZ4RmxzWWNQSTJWZC1DWXNSQ3lpb2M?oc=5",
-      "source": "非凡新聞台",
-      "published_at": "2026-09-29T07:00:00+00:00"
+      "title": "英國男子耗時28年 步行環遊地球一圈",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oMDR1Qnp1d3ZtajZfblBhajE5THRTVE4zZ0hmSHNaQXJBYmxscWxzQk1RQWlNa2hnQnBYV1o0YzJyUkh1dHVMRFZLU000M3JSUjdWNFlyUFpZaWt4ZTJV?oc=5",
+      "source": "大紀元時報香港",
+      "published_at": "2026-10-09T03:23:00+00:00"
     }
   ]
 }

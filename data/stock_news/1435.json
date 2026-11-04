@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-29T03:41:20.490053+08:00",
+  "updated_at": "2026-11-04T08:43:05.917964+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1435",
   "name": "中福",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【公告】中福接獲智慧財產及商業法院114年度商暫更一字第1號民事裁定",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQTHl3M0NLZWdocUw4RkgwdEpCekpmQ2ltNEU2UGNUbmlSbFhSUHF3T2pOd2p1Yzc5WDZ2dDJVdk9hUS1uWGxraGZLSnhORUJEVHBqWlZVQVRCQnRtOXMtb2d1XzZxOW42NWptWDRROU56bEQwZGRiOTBiMzJ5TmpPWU1NS1BNMEIxNkFYY0tLWnBUMWlFcGpUQ2ZpUWV3N0Y5Y2RRQjI1cHNkeWNxUDNvQTB4MUhuQzR5S2tab1ItM0VzdVNBTU9PcE4wZFpCdHZ4ckdDTUhPVDhtSE1KWXJ6S0x2SHNsX2d0XzZ4cUZLWFFaYW1UMEE0MzA1TFhYYTB5NXl4MWQ0QlBqNFdRYUZBei1sS0tlVUdmdWZ6b2FFYWppdVBaSlQ3LWlUODRESW42VHJ0eDlNckx2dmdxbzlWeGhmQnduVkMwVDhLRjZWRFR6YndGM1hsbzFkOHYwMmRtcHM3R1l5ZmF6bklCNG9rLVZEQVJhckVfRjlYSjJmWm56c2g1Y0VwOGF1bkhYVW14RnN6V0RVV1Bjcm9PVWstaFlFUDZoeVk?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-03T10:33:51+00:00"
+    }
+  ]
 }
