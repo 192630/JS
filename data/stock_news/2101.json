@@ -1,33 +1,45 @@
 {
-  "updated_at": "2026-10-29T21:22:32.976564+08:00",
+  "updated_at": "2026-11-05T06:41:54.664858+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2101",
   "name": "南港",
-  "count": 4,
+  "count": 6,
   "news": [
+    {
+      "title": "南港房市變天？住宅新案喊到180萬 商辦推案潮同步引爆",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOZUxzellUMDNNNXNhWUJtbVB0WFQ0SlMyaXlaMnQzdWhONl93eXlFVDdGNEdQTlgwWEJIWHVwWHpaYnJUUUxEQkpBUW1BSlVxcGw0dW1oVkIxeFh6OWhicUJGY29rZW94V2FBVk5DUUV6d1d3ZDQ1ZU5TcVlVem9jeEZsQW1peHQ0MURPM3ZYQXhDUU1RMGdaYlVoM1RaNlpjNXZ4TkttbUU0OV9iLXhZc190VlZabk85bF9TZnRDNXg1MjlnNm4xMk1ZekUwQWVGc1pUVTZmcjJLVW1hSmFLOXhDTGVUUzN6NUlRZVg2dHY1SW51alpJd0RYcTZyZHJQazMwUU04RVZ2c0hqcE50NmFsa2hKdnI3MGo2MUFvN1pnODY2SERhNDRHLWp0ZXdjQkJkbktiVmlXQ2xETWpZOXRZbnpYTDU5a1MxNFM3NXNsbDBsTWNxb2g5bU9MaHlXaklzM0ZSWmZ2dw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-04T07:21:00+00:00"
+    },
+    {
+      "title": "曾恐嚇南港輪胎小開陳威陶 天道盟太陽會「熹董」落網",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IbDZSUDUtM2c1UUUwRjA3dEVHcTlCamd2OWw1XzFKeFBCcS1WelhGOUJ1ZjV6T3RGSVdVbXpISm5mMnJkTV840gFLQVVfeXFMTk0wTTdqVW1iVTRKUTcxd19EVGdyQlg3Rk9uOTVtaU5mZGpIQVlkdU1NTUxDRFVuTEVlTW1rX2dzenU4dDRmQ1hPYm9R?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-11-03T14:20:09+00:00"
+    },
+    {
+      "title": "朴寶劍粉絲快衝南港！韓國館送限量明信片、Kingdom Friends娃娃 再抽雙人機票",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94VGZscDg0MWdDeE5ZWFhndTI1dXhlNnhKaEpLeFlTWVJtZVRsQWJjTXpZTTdoWWZweVU0a0tQejVtbllfczFuMktGYzMwV3hPN2JCZHQ5bDdHVTlRRmg5UEQ1RUxJQ2dKblFMNWFRSQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-11-02T07:21:02+00:00"
+    },
+    {
+      "title": "都更議題延燒! 直擊南港都更案痛點\"審查塞車.造價飆漲\"",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNMUJKcGc5SlRqQVg4blRkdGE4TmdjcFoybUU4TWJDNjlIQ2x2QWVOWTJ6amVBa0ZqQ3llZWxTc09hN3lKQ19qQkVWMENwSXNLaWRLeXl6S1hBYUF4QlgtUTdLWlUzelBFNG5KREhBcEhsVE8wUFRuRGRTSkFpNUZjdGNfVERaemVCOUxhbDNwbkphQ0dTSGgtTVdjc3ppM2g5ZHp2SGhGUXRudUZ0aVNCQ2FtT3FBaHN5SU0xWlg5V2VkYTBoc1JGS3Z0UjNWRVZ4X0o0WFdvdHNURkRHbTVoWjM3RGgtRkxJc01MTmh3ajVqT0paRk4tbG9HajJTZTFFRk52MGtCS3NjNk9zNmdERzdxdU1fY0lkYmtlQjNXVDdhakFseWxibTBLTVhPb1ZSRTJncWxZdUdzdkxPRE1XTEw0Um5Hb29KMXNMNGpnZ1JEZy1sdFZQYTRFODlKUXlOb0NYWVktOHZaNlRQZlVBQzVwTQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-01T06:58:06+00:00"
+    },
     {
       "title": "2026台灣工業週10月南港登場 八大展區串聯智慧製造、AI資料中心建置與永續工程",
       "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQc0V1TEdodGtndVVLZG5DSUxBZWpKRzRBRHJFQk5rTzNaUVpTOVlPUU9qcFp2RWZvbzE1QkwwUDdKUUJZRmVxWnU1ekt1NnBDTHgyS1RwVkFIcndKWnMtZFlwSE43SVRocWFFXzMtZ2JXZ2pmVFlwcjd1ajJEYnlJMktPWGxrNk9wRFBWZk55U3BUYjJGQmtsRlc4ZFVxWnJJUVg0aDVZZ1NtQ09ZSE8xSXVGMUNNTXpiUklROW1uNWI1LTJUdnZoLXUtZDJsRVg4UFFBX3I2VkM0MG0yOUlXdmNJUmFac2xWdTZhb2J1a3FaR0F1TTkxblRTRGJ6VzNzUHVhUl9rYnZndlU4Z3ZjeTJzM0trTmdVdEZ6Ui00MmhVczRVMWxlS3FSaEV1cE5uWlViUzI5LVl3dXlNNkRhU2xtMU5VU1UzWEtlOXdtWl9qRl9PVUJrWWxjX3ZPZmh0b0lVeHdCRmx6NnVTRW1Lc3BLenllUVFYZWoyWEp4cTVtRjdzc1F6TVZfU21iOFhDTXRNSlBoOVFWZ3ZJbFQtUndwOTRqYlpMck8tOVFESFluU2dRYktGZ0FxckhoWTlBUWdrWUFRUU1OMlJjTnpXckVuNmRLUUpiM0x1Sg?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-16T07:00:00+00:00"
+      "published_at": "2026-10-15T07:00:00+00:00"
     },
     {
       "title": "台北轉運站經驗延伸東區門戶 日勝生萬達通營運南港轉運站東站",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOSWtqYVA4cnEtRG9SLVhncjZaVzE1Zlo0WHJSMkNRalNZZ1dIQkhsM3VXQzRzdDhiN1pIR1pwVEJXc1laVVBNTUM2MnNERjVGM3BrZE0tN011TnFtWDdTSkxHVjduTk9WSzJCT2xkdnRDbFByaFF5QWk0WDFwN2x5M2VZQnZvMVJ3R2xGbzFEOW5ab3l6V3kzdDQwYzBYYUFrcDUwT0JPb05NUmd4c2pnSWZXQmFNTjZVM0dVZzh5RGlvZVNzb284UFNRa0V2UVAyM3RmWnpJdjZxU1JpZXprWjh0ZDNWOVRic2V5MFdjOG95MzZsdFRkYXpCcGt0bzJfQWRrbVh4WHV3b2Z3Q2xYUU5NbTBVWDlUZGNwY3JsXzluSlZleFJFS0hlRFAwb25sMVp1Z1oyb2IxN0UyZExlUklZU084MzM5SE9MSDd6QmNUMmptOGFuclVoSHlqTDNuQkUwdkJ4MEZmWDVJblYzMWYtWEtaZzFWZHUtck53cDdPS1dKOHhCN2tNX2ZLaW5hdkxTTmtfOVBJcXpob3Zqcm13QkREZWtEZ2NoUkctZw?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "title": "2101 南港 - 南港:新低價已出現後''只缺一支漲停板鎖死囉'' - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11aGVMSHpuYmdLZVZwS2w3cGZlQWlzWHlqdkNiNGsxeUFxX3NGd0M1WlRKUmNEQ0xBam1mQmRWUkFGaUlxN1ZsQ19EMXJ6dDRJNWY4cFdIQjY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-07T02:19:20+00:00"
-    },
-    {
-      "title": "前進台北市先買二線區？ 南港、文山、大同、內湖新案門檻都要2000萬",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQSlMwMUVFQXhEYzY4MnpRMmJpTlA3cHZJWUdscUR2dHRLM1JQMG1JUC03YTN4b1k0T3duSndCWDI4V241ZWQwSXJ4bV9tMGo5R0s4UE9uOV9FZUNpLWFYa3l3NzZIUzFhdUViTUhUWmhsZ0xkRGVOclE4ek5qWVhsc25nR0dqLXNkUTFkdzAwTnRTaVpRMTZkcnM3emZXTWQ2UXhVQktNak44Y3ZRWENxelI0U3ozVFBSZzYwalVsLXJsSlVWTXZrbmhuTXpITUZVYTBVaWU5ajBhZ2VqaFhiSVZwZFQxemZod0ZVbzZ3cU9VWGM4RUx0anpSZm9qZFItbGE4VUlVQW8wX0s3ck5xZ09UYlJLWkZIcThHU1RrMVUtdVNEUHNYZHJ1R2xsSlZPRE1VcFpPajVIbG1ZOEJRaDJMM1BZd0hsN2I0M0NwWWI4LTl3ekg5NVJKUWNRS0lsQVNsd3BGc0dQNnZvT292Rnd4azB0TGlFYnlZbnhUZ1FJMWxua0ZKN0lsYUtrOTJ1aFVmcHJOR1E1anhOQWc3eDM2bDU4U2dxYWNlTkNWUHJ3WjdkbGJ3UFI5dVdpQQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-30T07:00:00+00:00"
     }
   ]
 }

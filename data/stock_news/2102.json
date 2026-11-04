@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-29T21:22:33.399456+08:00",
+  "updated_at": "2026-11-05T06:41:55.191083+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2102",
   "name": "泰豐",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "搶核能商機！華新、世紀能源、高力、泰豐四強成立華新世紀核能",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HZUp6eHBfQjR5WmR6b2ZwNDZjNTJraW5SdHQ4dllFc2dydWg2QjNWMDJDRExpNzgzdjhYZE0yNUlIdmd6RDJhemE2cHJGRWJRX0lvNkpScXA?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-03T10:58:48+00:00"
+    },
+    {
+      "title": "獨》華新麗華、世紀能源、高力、泰豐聯手搶攻新式核能",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQcW04SHhTUTB1eWE0bzRKbmY4Sk1fMHpuWEFIUGVFTlVET3pQQkhZeGJGNmVlVUl3S2VxZUJ1bUFteDJ1d290WFV0bmt4VDdVbFdCclJfUVh2ZXl2Q0lsU05LZ3U3UlpVYmhzVVFfdGswR1VjRERaUEdCVi14RnZsQ05EY3ZTZ1NubGpJOEM2eHhoVXhiNFpPc1E0NU82X20wclJYeWM3U1pUNEtjM1kyMWFXcDl1YU5pa3JCQjYwVEJkd3RzVGJOTFFJOUQxQ0dFMGdVT0oyU2pjN0Q5cGdsbDlQV3lVOWpJSXRnLWdrQ3hUQ0VJWmYyc1ZnOTR4MDNGYUdfZXdsc3VnaXdsR0lpSHNzbnhGeU1PZTRhSzZBd29wZzFXOUxLTGd0dW5HQTJUdWtCZXpnOU1KTHd6V1NLdTdOcWZQMm5qY3RCRWtSWW1MVzQ0T1dTcndjSHA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-03T08:28:24+00:00"
+    }
+  ]
 }
