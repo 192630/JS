@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-30T07:24:54.684394+08:00",
+  "updated_at": "2026-11-05T20:34:03.349505+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2601",
   "name": "益航",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 益航(2601)股價拉至漲停，漲停價6.6元，成交2,306張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yWDlKaER4cnhwSHl2MWxsZFJsN2J5VUNsRnBGbzRsdWNoQ01TSVBLQkdvdFl6bzJGMVJKV0NSRXgwVnJJYmZSekNxSEtCQi1zNE1abWRlMGJ2MXdWRHlXU1Rzci0?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-03T19:11:07+00:00"
+    }
+  ]
 }
