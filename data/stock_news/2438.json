@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-30T03:05:00.356737+08:00",
+  "updated_at": "2026-11-05T11:34:41.442196+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2438",
   "name": "翔耀",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "翔耀 代重要子公司勁耘科技股份有限公司公告認購翔耀物流股份有限公司現金增資普通股事宜",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lY1VnZDRoa2RuMmJmdENPT0dXOEEyUWZoSUM5c2ZtNTBSQUFzOEFLODZsNTFJYUZoSFJNaXdtRWkzbHh2elZacG03LUhhQ0pHUVNCbWlPSUw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-03T11:14:41+00:00"
+    }
+  ]
 }

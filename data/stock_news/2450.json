@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-30T03:05:04.342701+08:00",
+  "updated_at": "2026-11-05T11:34:44.626452+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2450",
   "name": "神腦",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "神腦秋日優惠新機0元 iPhone換原廠電池省800元",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPU1FNQ09KNjBJZkMzWTZnUlp2UENNTHdlS0xyRmc2SXFkTkdHZXI3N1padEhnTE1MZ0tWQ1NDdnZGZDRUdTMyMmxsUXJ1ZU1zZGg3Q0NqRnlORk5UX25Pcm9uTXFDYlVRa2hXSHBkMWFUWTh4bVpLdm0zaVIwcl9Zc3JJazFOalBTRklSQldNRU04Wk9Vam1LZ0x1TWpqbFFwRHh0MFpjWjFvOTQ3cjlLSXlEdmYtc1JRc2MxQXZWTnU4ajliamViUnQ1NmN2RzlPanhROXRZcDVNNE1UcTd1UGJZNTJsczlUTkVGNF9HMGE2Yzg1OVpWR3RCYThtbWFlcDFsc01FOUNLb0gtZkFjOUtydXNITU9RMFFMRkx2LUl1QQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }

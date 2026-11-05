@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-10-30T03:04:42.940403+08:00",
+  "updated_at": "2026-11-05T11:34:26.593976+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2387",
   "name": "精元",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "《集中市場券商賣超比前30名 3-3》精元(-18.51)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGRlbUpVcksyNl9Db21EWFBjMDRncGxUYWMyb20tbTRmd1BLX0xUbnh6YUJXbFZKcEhBLU9Dd2N3VWlxaXU2QldwVnZaSVhWS2NBVjN5VnZIOW5GR2xHMzVoQXIyeXc5Q0pjY3JkeUdoNjlONThDWWxkUVNta2NPVXRVZExTVHli?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-04T23:29:00+00:00"
+    },
+    {
+      "title": "《集中市場券商賣超比前30名 3-3》精元(-19.04)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX21WNU9GLXV4WHJUVVFRdWlmbTE3OUFxdGV1SEVQaENlaC1PZjBrQXVmQkV0eENCdGVLY3NwVkFKRy1ydERfdFVpT0JMQ3NwRWR4TDZWZjVpMnVOUHlfRVFBaHhLS2pNNUZNaVN5Ym9VWG1PeTVTdmxRY0FqdTdkR2VCMUZWUWdt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-29T23:29:00+00:00"
+    },
     {
       "title": "個股：精元旗下峻立科技3/4～10/20取得聯發科股票80張，每股均價3,804.18元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2M5MFp5R3ZzczlPZFV6WEJKOV9mYnpKMHFQYTh0N0xVVmR3TXRXZThoekZrYzRjcDJXUkoya2lEVG1uWFRUUkN1M1RDa0JUMlNHSEpERkVQYkt0bE5NbkttcGlzOUlJTE9tUHlpSzFhd0ZlZWVLYnFST1lXLURqYUlmWm1JbGp2?oc=5",
       "source": "富聯網",
-      "published_at": "2026-10-20T07:47:00+00:00"
-    },
-    {
-      "title": "個股：精元114/12/11～115/10/15取得台積電股票140張，平均每股2,267.40元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORU1YRnlKSEdzZUhRc3laNHBsUjhrRm9qTV9xdXc3MlJERGVzLU05NzN2ZFdMWEFKVklaUEZGZHFJQVlSNjVwOHVINl8xT3ZWQ2JKMVRDdF9YWW5DODVPcHE3ZW93d1E4eXZoVkFMd2tZbkZfc1QyWFBGYVlRUDNSYm5VdHRSVkNO?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-15T07:00:00+00:00"
+      "published_at": "2026-10-20T07:00:00+00:00"
     }
   ]
 }

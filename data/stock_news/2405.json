@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-30T03:04:48.518413+08:00",
+  "updated_at": "2026-11-05T11:34:31.256440+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2405",
   "name": "輔信",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "輔信營收／9月1.65億元、年月雙增 中高階Mini PC、工業電腦需求穩健",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OdEVscFhCS0ZubFd6SzkyNS1icTJKSjJBekhlaEVGejIxVVdPRkNoeEZIUzVxcUlKTXczbDgzS1UtSVJzdW9LWHgtQzBpMWZ30gFWQVVfeXFMT05FQzJoNnhKNkpScjE4YWFmQkQxNC1hMFYxTDQwS0UzUGY5YTdSNkVYMFVWVmltZ0tRUnJLRFVCcWg3Y1RUY21aeG1xOG12SHJzRjZNalE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }
