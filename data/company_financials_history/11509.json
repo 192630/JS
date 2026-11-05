@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:28:23.528449+08:00",
+  "updated_at": "2026-11-06T00:38:13.491809+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -676,7 +676,14 @@
       "cumulative_revenue": 21866426.0,
       "last_year_cumulative_revenue": 20852147.0,
       "cumulative_yoy_percent": 4.864146603225078,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 21866426.0,
+      "gross_profit": 4063514.0,
+      "operating_profit": 2149648.0,
+      "net_profit": 1639340.0,
+      "parent_net_profit": null,
+      "eps": 5.47
     },
     "1216": {
       "code": "1216",
@@ -2322,7 +2329,14 @@
       "cumulative_revenue": 3705094.0,
       "last_year_cumulative_revenue": 3618159.0,
       "cumulative_yoy_percent": 2.402741283619653,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 3705094.0,
+      "gross_profit": 493677.0,
+      "operating_profit": -38666.0,
+      "net_profit": 84437.0,
+      "parent_net_profit": null,
+      "eps": 0.47
     },
     "1516": {
       "code": "1516",
@@ -2761,7 +2775,14 @@
       "cumulative_revenue": 5867803.0,
       "last_year_cumulative_revenue": 5334742.0,
       "cumulative_yoy_percent": 9.992254545768098,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 5867802.0,
+      "gross_profit": 1415546.0,
+      "operating_profit": 565458.0,
+      "net_profit": 449517.0,
+      "parent_net_profit": null,
+      "eps": 2.24
     },
     "1568": {
       "code": "1568",
@@ -2896,7 +2917,14 @@
       "cumulative_revenue": 1182597.0,
       "last_year_cumulative_revenue": 804723.0,
       "cumulative_yoy_percent": 46.95702744919681,
-      "revenue_note": "訂單需求增加"
+      "revenue_note": "訂單需求增加",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 1182597.0,
+      "gross_profit": 488736.0,
+      "operating_profit": 192181.0,
+      "net_profit": 163420.0,
+      "parent_net_profit": null,
+      "eps": 1.87
     },
     "1598": {
       "code": "1598",
@@ -3511,7 +3539,14 @@
       "cumulative_revenue": 1880999.0,
       "last_year_cumulative_revenue": 1812381.0,
       "cumulative_yoy_percent": 3.786069264685516,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 1880999.0,
+      "gross_profit": 943129.0,
+      "operating_profit": 289824.0,
+      "net_profit": 256857.0,
+      "parent_net_profit": null,
+      "eps": 3.73
     },
     "1731": {
       "code": "1731",
@@ -3934,7 +3969,14 @@
       "cumulative_revenue": 2032302.0,
       "last_year_cumulative_revenue": 2155381.0,
       "cumulative_yoy_percent": -5.7103129330730855,
-      "revenue_note": "配合生產及客戶需求時程致本月營收增加"
+      "revenue_note": "配合生產及客戶需求時程致本月營收增加",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 2032302.0,
+      "gross_profit": 504240.0,
+      "operating_profit": -119560.0,
+      "net_profit": -24573.0,
+      "parent_net_profit": null,
+      "eps": -0.03
     },
     "1795": {
       "code": "1795",
@@ -4142,7 +4184,14 @@
       "cumulative_revenue": 2572373.0,
       "last_year_cumulative_revenue": 2306176.0,
       "cumulative_yoy_percent": 11.542787714380863,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 2572373.0,
+      "gross_profit": 252263.0,
+      "operating_profit": 83478.0,
+      "net_profit": 49614.0,
+      "parent_net_profit": null,
+      "eps": 0.33
     },
     "1907": {
       "code": "1907",
@@ -4309,7 +4358,14 @@
       "cumulative_revenue": 14665782.0,
       "last_year_cumulative_revenue": 15696082.0,
       "cumulative_yoy_percent": -6.564058470132865,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 14665782.0,
+      "gross_profit": 757771.0,
+      "operating_profit": 485127.0,
+      "net_profit": 459961.0,
+      "parent_net_profit": null,
+      "eps": 2.3
     },
     "2014": {
       "code": "2014",
@@ -4547,7 +4603,14 @@
       "cumulative_revenue": 2494960.0,
       "last_year_cumulative_revenue": 2339983.0,
       "cumulative_yoy_percent": 6.622996833737681,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 2494960.0,
+      "gross_profit": 235742.0,
+      "operating_profit": 142605.0,
+      "net_profit": 162801.0,
+      "parent_net_profit": null,
+      "eps": 1.25
     },
     "2033": {
       "code": "2033",
@@ -6539,7 +6602,14 @@
       "cumulative_revenue": 265284971.0,
       "last_year_cumulative_revenue": 36492902.0,
       "cumulative_yoy_percent": 626.9495065095125,
-      "revenue_note": "受市場需求成長影響。"
+      "revenue_note": "受市場需求成長影響。",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 265284971.0,
+      "gross_profit": 213417452.0,
+      "operating_profit": 197831577.0,
+      "net_profit": 163876933.0,
+      "parent_net_profit": null,
+      "eps": 49.28
     },
     "2409": {
       "code": "2409",
@@ -6603,7 +6673,14 @@
       "cumulative_revenue": 31310882.0,
       "last_year_cumulative_revenue": 21516848.0,
       "cumulative_yoy_percent": 45.51797735430394,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 31310882.0,
+      "gross_profit": 2206040.0,
+      "operating_profit": 886553.0,
+      "net_profit": 669289.0,
+      "parent_net_profit": null,
+      "eps": 3.66
     },
     "2415": {
       "code": "2415",
@@ -6850,7 +6927,14 @@
       "cumulative_revenue": 3855495.0,
       "last_year_cumulative_revenue": 2318840.0,
       "cumulative_yoy_percent": 66.26826344206586,
-      "revenue_note": "本月營收及本年累計營收較去年同期增加，主係電腦週邊產品挹注成長所致。"
+      "revenue_note": "本月營收及本年累計營收較去年同期增加，主係電腦週邊產品挹注成長所致。",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 3855495.0,
+      "gross_profit": 401347.0,
+      "operating_profit": 79808.0,
+      "net_profit": 102300.0,
+      "parent_net_profit": null,
+      "eps": 1.65
     },
     "2433": {
       "code": "2433",
@@ -7500,7 +7584,14 @@
       "cumulative_revenue": 1925602.0,
       "last_year_cumulative_revenue": 1850761.0,
       "cumulative_yoy_percent": 4.043796038494436,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 1925609.0,
+      "gross_profit": 474992.0,
+      "operating_profit": 206894.0,
+      "net_profit": 219097.0,
+      "parent_net_profit": null,
+      "eps": 1.37
     },
     "2485": {
       "code": "2485",
@@ -7548,7 +7639,14 @@
       "cumulative_revenue": 2727527.0,
       "last_year_cumulative_revenue": 2147708.0,
       "cumulative_yoy_percent": 26.99710575180611,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 2727527.0,
+      "gross_profit": 596692.0,
+      "operating_profit": 336153.0,
+      "net_profit": 302374.0,
+      "parent_net_profit": null,
+      "eps": 3.78
     },
     "2489": {
       "code": "2489",
@@ -7891,7 +7989,14 @@
       "cumulative_revenue": 3569237.0,
       "last_year_cumulative_revenue": 10862640.0,
       "cumulative_yoy_percent": -67.14208516530051,
-      "revenue_note": "係115年9月認列皇普LaVie案72,567仟元、皇普雲鼎案24,121仟元及租賃收入340仟元所致。"
+      "revenue_note": "係115年9月認列皇普LaVie案72,567仟元、皇普雲鼎案24,121仟元及租賃收入340仟元所致。",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 3569237.0,
+      "gross_profit": 1167678.0,
+      "operating_profit": 905958.0,
+      "net_profit": 703135.0,
+      "parent_net_profit": null,
+      "eps": 1.41
     },
     "2530": {
       "code": "2530",
@@ -9976,7 +10081,14 @@
       "cumulative_revenue": 44859658.0,
       "last_year_cumulative_revenue": 43929248.0,
       "cumulative_yoy_percent": 2.1179738838233697,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 44859658.0,
+      "gross_profit": 21039356.0,
+      "operating_profit": 15695208.0,
+      "net_profit": 16165465.0,
+      "parent_net_profit": null,
+      "eps": 121.98
     },
     "3010": {
       "code": "3010",
@@ -10223,7 +10335,14 @@
       "cumulative_revenue": 12254170.0,
       "last_year_cumulative_revenue": 10107065.0,
       "cumulative_yoy_percent": 21.24360533943336,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 12254222.0,
+      "gross_profit": 3300256.0,
+      "operating_profit": 2002825.0,
+      "net_profit": 1791329.0,
+      "parent_net_profit": null,
+      "eps": 11.09
     },
     "3027": {
       "code": "3027",
@@ -10795,7 +10914,14 @@
       "cumulative_revenue": 15506956.0,
       "last_year_cumulative_revenue": 11912439.0,
       "cumulative_yoy_percent": 30.174483999456367,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 15506956.0,
+      "gross_profit": 3061639.0,
+      "operating_profit": 2037118.0,
+      "net_profit": 2128590.0,
+      "parent_net_profit": null,
+      "eps": 7.4
     },
     "3092": {
       "code": "3092",
@@ -13167,7 +13293,14 @@
       "cumulative_revenue": 573538.0,
       "last_year_cumulative_revenue": 507219.0,
       "cumulative_yoy_percent": 13.07502282051737,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 573538.0,
+      "gross_profit": 200241.0,
+      "operating_profit": 98007.0,
+      "net_profit": 191247.0,
+      "parent_net_profit": null,
+      "eps": 4.78
     },
     "4576": {
       "code": "4576",
@@ -13789,7 +13922,14 @@
       "cumulative_revenue": 2115194.0,
       "last_year_cumulative_revenue": 1669971.0,
       "cumulative_yoy_percent": 26.66052284740274,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 2115194.0,
+      "gross_profit": 807543.0,
+      "operating_profit": 267552.0,
+      "net_profit": 258563.0,
+      "parent_net_profit": null,
+      "eps": 2.38
     },
     "4956": {
       "code": "4956",
@@ -16129,7 +16269,14 @@
       "cumulative_revenue": 434836.0,
       "last_year_cumulative_revenue": 606331.0,
       "cumulative_yoy_percent": -28.28405606838509,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 434836.0,
+      "gross_profit": 178133.0,
+      "operating_profit": -29509.0,
+      "net_profit": -16620.0,
+      "parent_net_profit": null,
+      "eps": -0.17
     },
     "6224": {
       "code": "6224",
@@ -16367,7 +16514,14 @@
       "cumulative_revenue": 14794428.0,
       "last_year_cumulative_revenue": 14679560.0,
       "cumulative_yoy_percent": 0.7825030178016235,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 14794428.0,
+      "gross_profit": 2929023.0,
+      "operating_profit": 385180.0,
+      "net_profit": 313521.0,
+      "parent_net_profit": null,
+      "eps": 3.16
     },
     "6282": {
       "code": "6282",
@@ -16415,7 +16569,14 @@
       "cumulative_revenue": 117290511.0,
       "last_year_cumulative_revenue": 83235287.0,
       "cumulative_yoy_percent": 40.914406890913945,
-      "revenue_note": "客戶需求增加"
+      "revenue_note": "客戶需求增加",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 117290511.0,
+      "gross_profit": 15092211.0,
+      "operating_profit": 5997800.0,
+      "net_profit": 4851692.0,
+      "parent_net_profit": null,
+      "eps": 10.1
     },
     "6288": {
       "code": "6288",
@@ -16479,7 +16640,14 @@
       "cumulative_revenue": 23641068.0,
       "last_year_cumulative_revenue": 26608921.0,
       "cumulative_yoy_percent": -11.153601455692247,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 23641068.0,
+      "gross_profit": 3233618.0,
+      "operating_profit": 623838.0,
+      "net_profit": 1362813.0,
+      "parent_net_profit": null,
+      "eps": 3.4
     },
     "6414": {
       "code": "6414",
@@ -16959,7 +17127,14 @@
       "cumulative_revenue": 813870.0,
       "last_year_cumulative_revenue": 1143003.0,
       "cumulative_yoy_percent": -28.795462479101104,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 813872.0,
+      "gross_profit": -82774.0,
+      "operating_profit": -195266.0,
+      "net_profit": -161617.0,
+      "parent_net_profit": null,
+      "eps": -1.95
     },
     "6558": {
       "code": "6558",
@@ -17869,7 +18044,14 @@
       "cumulative_revenue": 3946375.0,
       "last_year_cumulative_revenue": 3149558.0,
       "cumulative_yoy_percent": 25.29932771519051,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 3949421.0,
+      "gross_profit": 1859667.0,
+      "operating_profit": 1125325.0,
+      "net_profit": 931398.0,
+      "parent_net_profit": null,
+      "eps": 14.77
     },
     "6789": {
       "code": "6789",
@@ -18180,7 +18362,14 @@
       "cumulative_revenue": 478402.0,
       "last_year_cumulative_revenue": 864023.0,
       "cumulative_yoy_percent": -44.630872094840065,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 478402.0,
+      "gross_profit": -68425.0,
+      "operating_profit": -803818.0,
+      "net_profit": -745708.0,
+      "parent_net_profit": null,
+      "eps": -6.37
     },
     "6861": {
       "code": "6861",
@@ -20225,7 +20414,14 @@
       "cumulative_revenue": 9561131.0,
       "last_year_cumulative_revenue": 6966995.0,
       "cumulative_yoy_percent": 37.2346470752455,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 9561131.0,
+      "gross_profit": 1985107.0,
+      "operating_profit": 1602103.0,
+      "net_profit": 1397368.0,
+      "parent_net_profit": null,
+      "eps": 3.16
     },
     "8134": {
       "code": "8134",
@@ -20305,7 +20501,14 @@
       "cumulative_revenue": 986154.0,
       "last_year_cumulative_revenue": 986649.0,
       "cumulative_yoy_percent": -0.05016981722983553,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 986154.0,
+      "gross_profit": 238051.0,
+      "operating_profit": 100516.0,
+      "net_profit": 93224.0,
+      "parent_net_profit": null,
+      "eps": 1.36
     },
     "8163": {
       "code": "8163",
@@ -20964,7 +21167,14 @@
       "cumulative_revenue": 3911480.0,
       "last_year_cumulative_revenue": 2796546.0,
       "cumulative_yoy_percent": 39.86825176485565,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 3911480.0,
+      "gross_profit": 563632.0,
+      "operating_profit": 322094.0,
+      "net_profit": 239365.0,
+      "parent_net_profit": null,
+      "eps": 3.42
     },
     "8442": {
       "code": "8442",
@@ -21044,7 +21254,14 @@
       "cumulative_revenue": 79982944.0,
       "last_year_cumulative_revenue": 76991904.0,
       "cumulative_yoy_percent": 3.884875999429758,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 79982944.0,
+      "gross_profit": 7328708.0,
+      "operating_profit": 2297936.0,
+      "net_profit": 1863059.0,
+      "parent_net_profit": null,
+      "eps": 7.02
     },
     "8456": {
       "code": "8456",
@@ -21124,7 +21341,14 @@
       "cumulative_revenue": 23714434.0,
       "last_year_cumulative_revenue": 22296942.0,
       "cumulative_yoy_percent": 6.357338149778566,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 23714434.0,
+      "gross_profit": 14228824.0,
+      "operating_profit": 6686256.0,
+      "net_profit": 5162822.0,
+      "parent_net_profit": null,
+      "eps": 16.75
     },
     "8466": {
       "code": "8466",
@@ -22498,7 +22722,14 @@
       "cumulative_revenue": 8765431.0,
       "last_year_cumulative_revenue": 6809724.0,
       "cumulative_yoy_percent": 28.719328419184095,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": 8765501.0,
+      "gross_profit": 2239552.0,
+      "operating_profit": 805717.0,
+      "net_profit": 687946.0,
+      "parent_net_profit": null,
+      "eps": 0.92
     },
     "9941": {
       "code": "9941",
