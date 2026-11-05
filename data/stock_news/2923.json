@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-30T10:46:26.790146+08:00",
+  "updated_at": "2026-11-06T04:43:59.874565+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2923",
   "name": "鼎固-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "台股巨震資金急找避風港！營建股逆勢噴出 鼎固-KY一度飆9％、國建漲逾6％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WY3RyY3pIMEhtQUhNakd4SmRqMTRFTXNjRnp4YV9SaGt4RG5MVmg1NU5NTWotd0ljaGZTQmRUSm5pTXJTQ2RnZ2RKRHJDb0wya0VLanpKbjY5d3pTV2pv?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-11-05T03:05:00+00:00"
+    },
+    {
+      "title": "2923 鼎固-KY - 生合（1295）研發多種功能性益生菌，專利「增肌減脂益生菌」... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yeWxlQlVCV2Q0N3RhMkY4X3JDTXNlZ04wWGVXWHk2VVUzVkNqV1BESG83VHNTNWJ1aTJNRkozbUZZa2N6ck1LZlVDcm9CSkpoWXhVZFRaUlo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-10T07:00:00+00:00"
+    }
+  ]
 }

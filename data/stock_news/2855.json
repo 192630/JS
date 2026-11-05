@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-30T10:46:17.014261+08:00",
+  "updated_at": "2026-11-06T04:43:51.017014+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2855",
   "name": "統一證",
-  "count": 3,
+  "count": 5,
   "news": [
     {
       "title": "統一證(2855) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0T1JidnU3TTkzUnFXcEtNNTdCTFJ5Qk1GTk94eGdxeEtwVHJvODFoTXBqVDVVcTRZQ2l5c3dtdjNnWnhGNHpwa0luclhwdi1KellN?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-28T04:31:16+00:00"
+      "published_at": "2026-11-02T07:55:18+00:00"
+    },
+    {
+      "title": "統一證 | 2855.TW 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16SlBERjRmUGgxZmMxTE1pTUdjOVRMUEpadFhSRzdwZVNEaWt6Vk5mbjB1dVY1ekk4Ny1HQy1JWVd1U1hRVHZHTHdFV3duQlpCLVpzVA?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-10-30T07:00:00+00:00"
     },
     {
       "title": "統一證打造友善金融服務 首度導入黑暗對話沉浸式體驗",
@@ -22,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fdzRyeHZtS0w1M01uaHU5cTZhcW5PYmZ1TDdVenVMd2JuM3A4SEtmSGRmcjZtNl9HSUh3VmlYdVdzRmUzby1BT2g0bEZaMHRnTkNjaTNFaE4yd2ZFRkhj?oc=5",
       "source": "工商時報",
       "published_at": "2026-10-11T07:00:00+00:00"
+    },
+    {
+      "title": "營收速報 - 統一證(2855)9月營收29.29億元年增率高達113.17％",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52eTBVMnRhT3BHWjJpdXhTa21GREN1d0VJRjhSTXFuLTctWG5IUzZRYkotLUFkMzIxMC1QZUkwMGdtSmtnaEdpcWVLdEttNXVCTlNWUHAwQjZ0MjFoZktxOUlyZ1c?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-10-08T07:00:00+00:00"
     }
   ]
 }

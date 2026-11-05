@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-30T10:45:59.384271+08:00",
+  "updated_at": "2026-11-06T04:43:34.165139+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2712",
   "name": "遠雄來",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "日本袖珍黃金下期期貨 (2712) (GD14MNEXT) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Rbk5yX215Sm1FWHpVNWJWMy11ZHF0MkJwTFJuUmoxWlBPVmtmVExJVTE3cmswc3d2di1aTmV4MGwyaVhXczRFblN4VGJqLUFCZjNBVnFSWFg0Z0p0VzBfV0RnWXZUdFd4YnV6NnpMRUNYdw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-11-03T07:57:41+00:00"
+    }
+  ]
 }
