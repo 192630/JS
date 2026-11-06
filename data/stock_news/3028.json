@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-30T18:15:19.742858+08:00",
+  "updated_at": "2026-11-06T09:39:58.952046+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3028",
   "name": "增你強",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "增你強前三季合併獲利17.91億元，每股稅後7.55元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmTEJmeGktVHhwRXE5X0RkMkc5RTNHTzEzSWxhM2JxSHctTFNId1NmT0NpYzl0c0NvOWlBS3dRQnYzdXh1VnFjd09GY3dpWVFaS2VlTmJMVEs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-04T11:51:07+00:00"
+    }
+  ]
 }

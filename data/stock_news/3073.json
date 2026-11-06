@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-30T18:15:35.809452+08:00",
+  "updated_at": "2026-11-06T09:40:15.730330+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3073",
   "name": "天方能源",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "3073 天方能源- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FcjBRMjRyeDZaSjRxeFFuZUZGMXA4ZkRfSGEybGVrNFNlLTVaN0swcWpaeXY2RFhDWmJPN3JrSEZOX3JlcW5yZkVLQ0w3eGJveGNkRzZqM28?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-31T03:53:37+00:00"
+    },
+    {
+      "title": "營收：天方能源(3073)9月營收2333萬元，月增率48.89%，年增率379.65%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlKdW9JNTBJWjFkZ2FGTk1uRV9kRWZDemxoWHpybEhXM3JCT3FxWlNJRzRoWkxKWnRDUWxGS0VYc1FxR3lhUDB0V3lmWDFwTC1wLU1TdnU5eDluUjF3eTBoMUJna1ViZG1MZDNVR29fcXg2V0tkRjhVTGprcUxNMmhFaWpnT3pt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-08T07:00:00+00:00"
+    }
+  ]
 }

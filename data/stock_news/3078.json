@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-30T18:15:36.203747+08:00",
+  "updated_at": "2026-11-06T09:40:16.172466+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3078",
   "name": "僑威",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《櫃買市場券商買超比前30名 3-2》僑威(16.52)、宜特(15.87)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTM3NHJVekdhdmRjWXBMa1Bjb1psajNHOVdKTExOU1lOSmZMYThPMXJRYkdfaDVOd3Zra3VFWlBQRDF4cm5TLUY3TC1sZGxLQ2txTVQ4N19Ia19tQko3RUlEWFR3bzhTNEExYUhBUGZRM3FGaXJieEtLb0NpcFZlOVF0RVpOWk9u?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-20T07:00:00+00:00"
+    }
+  ]
 }

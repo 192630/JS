@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-30T18:15:30.441018+08:00",
+  "updated_at": "2026-11-06T09:40:10.059672+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3054",
   "name": "立萬利",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收速報 - 立萬利(3054)10月營收4,126萬元年增率高達516.8％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBra05CVjl6ZEFaOW40eEkyVUZRb1R3dXF5UUpPQndPS2pMS3hRNGdKWlZURkNLZWFlT1hqN2RmQUhDeG9FWmpiVXVnZGZpSGxBQmlPclFNSU82N1VOdWJleTNicEZHWm5IN1hLMWVNdXdLdnNnN0E?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-04T18:20:00+00:00"
+    },
+    {
+      "title": "這些個股EPS連續兩季創新高 台燿、晶豪科、豐達科都入列 立萬利季增224.2％",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZlpvbkdwR3FLZVdCd1RrSzZ5TVpMVEtHSXJ2dUNkUnBWUU9SQXMxUnFrYzV3LS0tVXhWQlAxVkpMY2hHeWxfZnZHOWdkQm55R1hoUk1FelU4Zw?oc=5",
+      "source": "信傳媒",
+      "published_at": "2026-11-01T23:05:47+00:00"
+    }
+  ]
 }
