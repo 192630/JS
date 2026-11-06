@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T00:44:39.717252+08:00",
+  "updated_at": "2026-11-06T17:33:02.668693+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3227",
   "name": "原相",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "聯詠 Q3 EPS 9.99元 原相3.68元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nc3l0SU00MVB6SUxLNEFTOWxfcTJVQ3FjNENnZVJoU3pwdkQ5LVV0bTkxOHBmRU52UWdJLUtPR1ljb0FiWTRKaDdjVjBZMUla0gFWQVVfeXFMTlEyVzdWTnBlei1aUUtYR1RLZ1F6Q19US1ByLW1mUnlGTC1ycURfRmRDdlMzTVJpcUN5UWRLVjVYWE9KWTBJbWJWOFY5cHNZcVYzczB4ckE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-03T16:54:25+00:00"
+    }
+  ]
 }

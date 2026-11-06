@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T00:44:48.140069+08:00",
+  "updated_at": "2026-11-06T17:33:10.412099+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3285",
   "name": "微端",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【10:34 即時新聞】微端(3285)股價走強，市場聚焦技術面偏多結構",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMm5qTENDYndENWt5SVJFenBPcjlBSEdpQldMSURsNFhzbS1tT2J5cEdFZWpDS2NIM3VVSmRVV0ZHM2xFeUVGVFhreFVDQTdQVWliUVNmNDgzNW9Gd3N2SElFUW43bVJTYjRveC1zZ09mQmVWVll0U0s2VTRPQVdDckNmSGlqbTlCcFowUGhn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-04T02:38:03+00:00"
+    }
+  ]
 }
