@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T09:40:30.045489+08:00",
+  "updated_at": "2026-11-07T07:18:28.414768+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3628",
   "name": "盈正",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "3628 盈正- 盈正前三季合併獲利1.0億元，每股稅後2.22元 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00MXVTQjdyZEk5OS1DRFNjSk5rOW5md0pkTk1saUsyMU5KODd5WmlqVVh2WG9UaVVRWlFaa0tzWGxhb2ZiSDlwWVRsa19WRnFjY3ktVERhODI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-02T07:45:21+00:00"
+    }
+  ]
 }

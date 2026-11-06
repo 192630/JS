@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T09:40:28.208123+08:00",
+  "updated_at": "2026-11-07T07:18:26.458060+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3622",
   "name": "洋華",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-光電》洋華10月營收為1.29億元，年減30.36%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGZiWmxxUjV3bUdPR2tNQVhTUzRpSGRlbnlvazZFd0oyNmVhZjkwVUN5M3R4d0MxOS1EWFFVMmNhWld5V0w0WFNSV0pBMGlNNUR4WGlwN2QxQ0p3VldRV1QxdUZpMHZVOEVOUDNReWZKMmE3ODhkaDR5MnZxRTZ3aUU0VnpIdlhK?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T07:04:00+00:00"
+    }
+  ]
 }

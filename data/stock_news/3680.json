@@ -1,81 +1,21 @@
 {
-  "updated_at": "2026-10-31T09:40:38.877022+08:00",
+  "updated_at": "2026-11-07T07:18:38.180134+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3680",
   "name": "家登",
-  "count": 12,
+  "count": 2,
   "news": [
     {
-      "title": "搶攻半導體商機！耐特科技打入家登供應鏈 擬11月下旬上市",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPVF9HcGlWSFlOWVMxaThuWEg2dkFITlB3VjFCTVBGaW5aa2h3OW9Gb0JhbDByTDM4ZFRYcFhVWGRvdmVEa0RCTUpFTXhIZXE0M1diMHJtQ1BxQ1F3SGtiODRJb19uTldiREg2VUlGa1FESlIzeVBfT3pSbFdhQlBqMlA3MTNXS2lNckkzYzBYTy1IeE9uWjVHb3B5UjMwUV9EcWREVnk3QVNqNm5YSXU0UXRsN1U4dnNXbkY1UldwaEhTc3BkRVFIUmZjMmEyT1kxNGlRUHQ5cHM2V0Z0YUtnZkpuQlhuRXY3VmUwbUIzSUs3R292LWx2aG9hOFExTV94cGgtdkRmSFBWVU05ZlIxUWRkN0FKcjhDeTRXMW9tV051aTRKckx0bEFtT3hVWUNCbXIwRGpZVC1rX21EU3FqZmlSVTNhM1k3b1lYTmY3LUc3NUdQaHBlcjhtc0EtRXBQNlUzXzVZMGRmSDhH?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-10-29T06:24:00+00:00"
-    },
-    {
-      "title": "耐特切入半導體鏈11月底上市 董座：家登助轉型、鴻海給了挫折和鼓勵 | 太報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KcjBwek5YSkpJczlkZWIyVWU4UlZELWlPTDlsOWNrUG5YbURzNGtCNm1TSnQ3UmZKQnZ5TDhYZDc0b1A2Y3NyNTB1WjZCOHBEMy1JdENB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-10-29T03:09:23+00:00"
-    },
-    {
-      "title": "家登 3680 - 簡介",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIQVdVN1VhczJWcHB5aV8zc29RYlhHVmlVakE2RUFtVzAxbVVlZjJnNTlCOE9Ja0Nvbk1yZTI1MXVUNC02aWNuc1A5VkRiTnhPMWtmbC1wTWs?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-10-22T04:06:14+00:00"
-    },
-    {
-      "title": "家登9月營收創新高 法人上看730元",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkVUMTN3d3JuVTFkYVl1SktyeWV5eWkxQzJfZlhWTV9wYWU0LTIxeElXOXY4N2lOdVJPX1Z5VkdBNmlXN1haVElqaUJJYjhGY0hYQUpyc0dpX1hfS2J6WFMwV0VERm5DbG9JU3ptZ2tCc293S0FWcTRLcVM4dmhudnZGOEN1dHdYTkpMVTE0dlBNZw?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "3680 家登- 家登9月營收9.9億創新高拿下韓系大客戶先進封裝載具訂單- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3emhXcmtERnNtaHlmdG8tQ3VndThYeGVUbXVSQzM1cllkV1lrUEo3SEV5eW5UZnhyV3o5VmRobGVVNUxUblFhT1lDSjVKdjNDWENQU0FDVlc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-09T01:20:54+00:00"
-    },
-    {
-      "title": "台灣家登精密工業美國格蘭岱爾設廠 強化半導體航太供應鏈",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodEl5dUJyTnZrN2tfYmlTWFU0elNKcGxqbG1lVTNrOG9SR1lBTWRPSGxVTVQ3VHJ4TDM5MWlnb3pUM1JxeHh2dm01OA?oc=5",
-      "source": "樂聯網",
-      "published_at": "2026-10-08T09:12:58+00:00"
-    },
-    {
-      "title": "家登9月營收創高！奪韓系大廠先進封裝載具訂單 明年正式出貨",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxORjI2MWFRRHJoLTZvZ3V4eE5YMG9HTjFfbkVleVh6cld4b1RMUlViRXl2aXlaMUI2dlRQeGhqb1ZwVENieUJiajNjaktzdFd2TUpKdmd3Yzh3MkJXYzJwZG1teHFJNDZZT044SFVCd1F1c0l4WVo3SnlwR243SXA1NVp6WnZIdUdxWE1sdWxuVFRsSUdJLXhXSFBNNDhvcDMzLUZzUG8tMF8ybFdKSFJyN09lS1JVcDVRMElxdGZHVTVRR3lZSHdrZGplMTFPMk1qWUJDbVZUeFNrOFpfWXpGeGtyOWVNUDdsTE9iSmJwYVJxS2FPanNKcVVMZUthUVI3Z2l0U0NmUVpZdzY1T254UUs1Uk5CdFJDMS0xOC05TDdZV092TzRHbk90MWpFQWtXRThVbHpHelJlTjVBRkxOaWJrc2JmTm56MlMwTGJweElZS1EyVGliRUxiN2c4S0NYWHFWcld3YVlDWHQ5QmxqWGtJTXhvd1lPNGtaWHpYb0JLSFU3Q21senpXN2p1Q1pJU3YwWHc2Yw?oc=5",
+      "title": "半導體全軍覆沒！「這檔」Q3獲利改寫近20年新高續跌8.02% 家登跌逾7%、志聖、萬潤慘摜跌停",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOUmpVUmRFOUJ1YUtRcDN3ekRqZG42M0NsUEluQlBhbVczMXVnMUhNSDdNOEkwZ1VvVDIwZ3lSMHF1dEF0cDB2dm1fSld1ZXliSmxoTnlPU1psaXhOOFhaY2ZraGhqci1WSXlISDhaR1oxNjlIZTZHQUZGV2hPQVVnQ3BHNHdYaWlvNGNpb0tyS29VYTI3QW5wV1pXc2xueEJMSWxnMlI3MHBHMGxZRFBXSnY2VmpRLTd3QnhrZkpwSmNJUnZ0MUdST256WEdxS24tS1ZkRDBLWi1DRFBIV2RNTUpKTFhGbzk2Q2dXemUxYnBIaWFUdXpidU5KUFpMN3UxQnFiTEVMLWpHd2hwczNpU1dhLS1XREZNWFFIbHduUUtPT0Z5VlpBOFdCQ3llcVpEVm9mSkUzcjQ0akVoeU5sVk5MVFpkeEpET2xnLTRmV3hxVFFYMGlYcW5nMFI4X0c2ZnZTcEwyZXBFejUxYTBoNldCamczeG1CTnoyYXFUNA?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-08T07:00:00+00:00"
+      "published_at": "2026-11-05T09:10:00+00:00"
     },
     {
-      "title": "家登9月、Q3營收雙寫新高 拿下韓系客戶先進封裝載具大單",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aVW1xVFN2anViblZUMlB6ZUY5VXJ6NWZpZWRPblBmQkFXaUxaMVAzdWotR2VpQmZiVXFFdFUtSkl1bkhfQ2pNR0JyN08xUEgtMlBSYktvVXJLeXphMW8w0gFkQVVfeXFMTV93S0JkOTc1emp1cDVJa0t6bDdUODNvZDlVUVV6VmVkV240SDNYNVljelFQS1g1LXpveFptWGwtaFZKTHBuaHJRb3dfNURUTUdxV1ZJOHRoMWJvMXEyZ0FwQ3hWUg?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "家登報喜：已接獲韓系大廠訂單！9月營收續創單月史高| 財經焦點",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BLUJGMVNQeFFXakFzMXJyeTFWUWJJQVhKRUNSbHowcVdoLTFidUxIdmN2STlJQmVyZVg4US1TdG9oY25oNThUdGJuajZrZmlTbXY3Um03TE9PS2V3?oc=5",
-      "source": "太報 TaiSounds",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "家登9月營收9.9億創新高！奪韓系大客戶先進封裝載具大單",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcDBYZkphZXJMbm9pZVp2X2lJNG45RzdGX0tHZUJ4MlBrTV9pRHRKTFI2NS1pN28xTjVDSWpHX0ZlaUtJRnF4bFAtbXJRc0x5YmJhYl85WjItYzJfSkNDTUhGNGZiemJzbklDLTZyb3FxYWJhcGhQb21QWUp1QUtYWGl3?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "家登9月營收創新高！奪韓系大廠先進封裝大單 2027年放量",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95R09tSWM3WEUyT1hoY0d5bFpFQTBSbVBfQTh4bm5MOGtNWTV3VVZXbjVYSDBtTTFmblZRVmhUaDA2QnIwTTBnTC1HdXpuNlU?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "家登美國製造據點啟用！Q4投產 搶攻半導體、航太商機",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZZai1CVkhTMVoyYjV5S01INi02RzE1R1I4N1BxTzBNNTV6Z3FKalUwX0tkTmZ5UTNrUlZwNWxhbHNia25QRUkzRnZGTUkyb0dhSE1jMVVkQW9QN1Vrc01scVZfZkt2b3JYMDRGZEJULS10bHRLeThNb01pR1gxY05B?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-10-07T07:00:00+00:00"
+      "title": "3680 家登 - 獲利年增 206%，營收只年增 22%，中間差了快九倍。 ... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yVjlMdkxKVURtblY2OHdxblZ1OExyQXdpS0l6ZkV4S2l5NnVCTFJfVmtHX3JoT2xJcVNOTE00Z3l0YjhXdnRWRUJhRm4wVFR3UnVONVNVT0g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-13T07:00:00+00:00"
     }
   ]
 }
