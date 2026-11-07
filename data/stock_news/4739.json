@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T23:24:46.386152+08:00",
+  "updated_at": "2026-11-07T18:29:09.021253+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4739",
   "name": "康普",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【即時新聞】康普(4739)今日最新宣布前三季獲利暴增840％，EPS達4.81元大放異彩！",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6MHlEdzZGcWNLX3Bka1ZiVDFKaE9fUmtOWXo5N0hTamZTSzZBOU5Tc01nUzNsNFFfUU11ZWNxeHVhN0Y5eE1pa0tid2xUenNwTkc3bENfM19SRHNERnZNQmR5RzdrYVE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T12:53:06+00:00"
+    }
+  ]
 }

@@ -1,45 +1,27 @@
 {
-  "updated_at": "2026-10-31T23:24:49.901478+08:00",
+  "updated_at": "2026-11-07T18:29:12.397013+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4749",
   "name": "新應材",
-  "count": 6,
+  "count": 3,
   "news": [
+    {
+      "title": "《業績-半導體》新應材10月營收為4.46億元，年增24.40%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWpPSm83NWR4S2xTSFZjQ0RWWnBLT2hRSkRKaU8welRRbzl5ZnVWWVJSX1dYQmRuR3d0eTJjOXZoMENhYjBXeHlFVnZ3YnNTc3NUUWF1bTZ3dDZCNjdMYUtTUzZLVE1uZ3l0amF0bFNack5DV3dHcnNlY3VfcENySWotT3lOeGNE?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "title": "新應材Q3每股賺5.62元",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cmVzRVBLa0E4WlprLVNBMFZBRU1ucmhZU1JoOVl6ZEY5RUVSdGw5dXJCSmlsZDR6dklRUGw1ZzFWYWVLcVVPQUpQOXlDd29uSXJ5Zkx0MDQxSGvSAWBBVV95cUxPZm1VSXJVR2VjVTJ1c0dvT1pxWkYwOVVwRE03RHhMOU5UQzkxYTNfN0JTX3pfRXo1bkxsYkhtNHpyNFZDSWlqTXNOR1hXU2JWRGp4enRMZEx6eFBpLTNDdGw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-01T16:42:48+00:00"
+    },
     {
       "title": "新應材(4749)跌破700心慌慌？鄭廳宜霸氣喊「一股不賣」！2奈米量產大爆發，目標價依然不變？",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMzlNcW0xQkR5cHhYU3cwUGdDU2ttY1BzTmRPUjQ2VnM2N0ljbkxWOWpBSl90RkdHZ3JQejYtX2JqOHJKZllUTEtxNlZrRE1vcjg3bVhn?oc=5",
       "source": "優分析UAnalyze",
       "published_at": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "title": "新應材自結前三季合併獲利11.75億元，每股稅後12.56元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQXdYbl9TcHI5dmMzdVVXRC1ZVFpfVW1YeGs1cUNMMnFnN2RoQUxwbnhVY0pGWW1BRDFpSXhHV0pMSm5Va3AtSVBFbmxHTG05WDhqdExVWlk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-30T10:54:28+00:00"
-    },
-    {
-      "title": "新應材 公告本公司115年第3季自結合併損益",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IdkNaNkxhRWY3YURmRDJrLVZ1ZXF5QWpELUg3YkRnY21kUkdzZ01TNzBtcWdMNGNjOVBZaVliQ2d2cC1SMTZKWWlubmpyd3FUUkpVdm5KZU0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-30T09:47:00+00:00"
-    },
-    {
-      "title": "4749 新應材 - 說好的要超車台積電呢？ㄧ元叫獸 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xVHVkVjVndkdXZ0liS2hOSlZvdEFHc2xZcFl2MWlZeDNiWGlobl9tV1FJVm1nNmhYNVlIQkx1Wml0T1hYREc5dzdUMUZ0WjNIOVJReUtLN1Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-27T10:45:58+00:00"
-    },
-    {
-      "title": "新應材(4749)成分股、持股明細總覽",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WdFljM05XZGU0RGttUWdiS3FNdzh2RXRHT3F5ZHhYUzdfNjdBUjlnbmRjZFp6Q1N3dkNXTUxBUU1zWUxzbGIyYnFn?oc=5",
-      "source": "口袋證券",
-      "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "title": "《業績-半導體》新應材9月營收為4.31億元，年增11.82%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVFUSnhXM3dwZTczaW1rMGY2bnN3dkNTcXFUQy1qOHk4U0dGM2ZpYjlsaXNBRkdqSUt2cXBsdzhTNmJDd0t2SFM5NEtPZlBaemxBS292bk1CcGpIQW51eWJrbnYwU0Zwc0FjZl9wZ2tpYWYwd1dodC1LaVVkXzJEY3JQdUlaVHM1?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-07T07:00:00+00:00"
     }
   ]
 }

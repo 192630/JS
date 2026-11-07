@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-31T23:24:55.394453+08:00",
+  "updated_at": "2026-11-07T18:29:18.355630+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4806",
   "name": "桂田文創",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "個股：桂田文創(4806)總經理由張淳姿接任",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDRDa0x5LTFodGFyZHpHRGR1X0Ntc1I3TEFoM29YcElEMU91dlduT1NEbXNSV0ZNQmV4emJaUGkxOUlUMDdSbTk4ZzR2Y2tJb1R0ZEZ6a2FaeWJlTUx2anNqR2x6cncxdVZvZ1lOU0hGLWNNRFRGWEhHQ1k4ZGdkM2dsT1J1ZWVf?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T23:30:00+00:00"
+    },
+    {
+      "title": "財報：桂田文創(4806)115/1/1-115/9/30歸屬母公司淨損1685萬元，EPS -0.24元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVU5ENTdOTHFKZmx0OHZoU1hnTURoel9qd0o4eWE5STR3RGo4ZG5QR3BGSGE1eEVnWXg0VmdQamlEZ1FLYU1obThvR3M0Qm1ScEh5NG5aLTd0bkl4emhvZENxdGtXZjdvTVMtZ2k4ZDJUbW9fbktSRWZXaUpEVEVDRmktdkVnTFBV?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T09:04:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T23:24:48.808061+08:00",
+  "updated_at": "2026-11-07T18:29:11.324989+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4746",
   "name": "台耀",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-生醫》台耀10月營收為4.98億元，年增23.98%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlFKUjRBSExFRjhad0R5M1o1VTJBOUlGb2tUTWIwYUx6Q3dockRJalhBTnlkRU1pMlRsYV80MjVvb0VnSFNQTGtVQkZsSk44NjQ5X2pHeFJHMnNOS2x0eHVkMnc4Nk12TVA2SG1pbVRCNkhZTVdTSkxad2RaUHJzVWRmRU8wd28t?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T07:02:00+00:00"
+    }
+  ]
 }
