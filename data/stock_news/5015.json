@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-01T03:26:28.316026+08:00",
+  "updated_at": "2026-11-08T00:55:20.760247+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5015",
   "name": "華祺",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-鋼鐵》華祺10月營收為1.20億元，年增6.20%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVJQRW0tTkpFdlNidFJheEc1TTl0NFMwZDN2OWdwMUFYV0hCSTdTNmE4MmgxazJNaFJtb1A0Nkp0MGNhVW1wWHo0aUhFZHhKZGtDalEyelRKZEFPRlVPRlUwTDZYVTRMMmh3aWRha1NrWFJTelAzYXBieFREaUV2Mk9EWWtfRDYy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T23:40:00+00:00"
+    }
+  ]
 }

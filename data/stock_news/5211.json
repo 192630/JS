@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-01T03:26:32.456054+08:00",
+  "updated_at": "2026-11-08T00:55:24.772843+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5211",
   "name": "蒙恬",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "SUNWAY (5211)",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPc1lmOTVIM0t2elB4ZlRKb1NPWl91NWh1NGloalFnQWc3UzVsb3puX055NExSOEs2MVByajJvRll2V3ptLVFhLW9UM3BWVTZoUmpOYnM4ZmZveGVhQ2dsbko4VFFpSkw3NWQtNGNuX01iekhuamd6dUZKMWUzWXNFM3NPeWNaQV9YRXgwOURYcDFjUVpqS2I3cGpTU3hyRF8xVmtMajBqWHRKTFlEUllRNV82Z05zY3FKX0tEOUM5S0JjTW1jT05IM2xwLTNKWS1KTUN2UDk1N1FuVzRWVkZ2V0hIdEtBcUhJX1A1em9ONHV6cjFCYlctSDZ1M1ZaQTR3RVFpd2czU05qNUIwQkF4S2ptVi1TMDZuQkdMWl9iRTBwZWhOS3hBZHpfVlV2ZE9QRFhRMTg3ZS1HeWh1WVIzdDF0VFAwMzB6MldBZ3hubnA3WUN5ajJMRk5tWXI?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-11-02T02:23:03+00:00"
+    }
+  ]
 }
