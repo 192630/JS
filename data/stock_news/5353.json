@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-01T07:29:35.407707+08:00",
+  "updated_at": "2026-11-08T04:59:10.388696+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5353",
   "name": "台林",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "《業績-通網》台林10月營收為1.50億元，年增5.20%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanJhUUpyanFkOGVxbVlwZWdzckc1clNOc0dnQXRBWU90cnBfd25tMzlnSEZCNXZDNDl5OGFvMVo4Mmw3MHpXTHdRM19NN2tTVWZpRDBRYkJfU3ZGU2lCeE5GVmRubEZDZ1BDZ3lzalBleEhFbXM2LTJQSW1aNHAtNUtiUFRRUWIw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T08:59:00+00:00"
+    },
     {
       "title": "《股市行事曆2-2》台林(5353)增資股上市",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTU1ajY3dmxHalRFVTU2MTR2bmZ0Rk5lSFZSR29jOThkc2ZRLS1kMGNJTDhTSVJYZmNLZExKZXRNYVp0QXdHSV9uTnlndWUtd2xHU3RnakFFVzBjTVlTZlZGWFNlWXJTUzRoQTd5QXdKUXZHVmlyNFF2Zm1xWFdkX3lOQ1lBVXot?oc=5",
       "source": "富聯網",
-      "published_at": "2026-10-14T23:38:00+00:00"
+      "published_at": "2026-10-15T07:00:00+00:00"
     }
   ]
 }

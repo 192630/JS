@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-01T07:29:33.296665+08:00",
+  "updated_at": "2026-11-08T04:59:08.540978+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5345",
   "name": "馥鴻",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "財報：馥鴻(5345)115年前三季稅後虧損191萬元，EPS -0.05元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckcwVmI2OTFTTmdDZkdHekhCZkVzMnc3YS00bGxUSEZ5T3FxLXBGUjBqRTJnSVdtYk1oOHl6UDVrVk05Qkl1cDcwNHdBdVNoeGtDVUlCcW4zMEktNjJNd0ZxZC16WGtZQnllblpSclNlbXQ0U19TY1ZySXhpOS16dlhwbWFLRHlL?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T07:33:00+00:00"
+    }
+  ]
 }

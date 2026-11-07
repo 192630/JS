@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-01T07:29:45.560620+08:00",
+  "updated_at": "2026-11-08T04:59:20.338974+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5464",
   "name": "霖宏",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "盤中速報 - 霖宏(5464)股價殺至跌停，跌停價42.4元，成交204張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYN1hfcXprWHpTWmZaOVNYdjRiZy1fay1ZdG5GY1JaM2tYSldITDdYaHZxTFdNSHdlNnBHYURKeGNSSjhfeDZCaWdXa0t4ZEdOamxEOHB2Y253NE0xd3NfTWNqZFo?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-06T07:44:22+00:00"
+    },
+    {
+      "title": "霖宏 (5464.TWO) 的分析師見解、目標價與建議",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82dWpCZVZoNWc4RTdlY3VtelVQTE9iODJYOUUtOWc1dUlBZFowaUExYzlsTWpaazYxdW16Rk50dk1jQTlIUEtzS3Jrck0wX3BTT1RINHJGd1ZSQ0JlNXZaa05QN0E0eWhVeVVSZGZB?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-11-04T01:47:09+00:00"
+    },
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-3》霖宏(-13.98)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVV4c1p6VEwwTW9GY2xWeUxuMV9QbzBwS0VQTnBqbWNrNW1MZlhlWEEtaUVVN3BES2w0Q0cyQmZRQW5FeHRILU53a2hoZE84Z1dobXJiZEdwREJ1MThDdHpVUXJuaTkzWTV3UU9NX2JJLW1oZkZfY0RaT1R2WDVoUldjc1BpNkdU?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-02T23:29:00+00:00"
+    }
+  ]
 }

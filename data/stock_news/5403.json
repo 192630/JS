@@ -1,57 +1,63 @@
 {
-  "updated_at": "2026-11-01T07:29:39.035730+08:00",
+  "updated_at": "2026-11-08T04:59:14.074756+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5403",
   "name": "中菲",
-  "count": 8,
+  "count": 9,
   "news": [
     {
-      "title": "2603 長榮 - 大航運-中菲行115-09 營收- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLb0xzSmYwemZMQkNVbEc4TG9HTE1WaG1UUlNzLUxoNnJJTV8zd1BmT1lCdGFPSUVSbnRwWUVnZkNhckhDM05BTDNIU3dOemhXdUlmLVg1TEU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-06T07:00:00+00:00"
+      "title": "中菲行上月業績大增",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96WjFNMG9nWUE1NHdVVzRsQTVKOE43ZUdZZ1JQRVBwc3dtSHZzMkpFYXlDRkRseW90dE9uM1NKYy10S1BwUXFYYmhvTFNGdHlm0gFWQVVfeXFMT01XVXBjdmZadTcxOXdBaS11alR5X0hiMmJpYnR2bVd6a1Exb0RLZVNaS0VlTmlPWW5KMkxkNGg2a2FiU1RJUHVuOFhUcE1pNzNVb0w1MGc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-06T16:17:39+00:00"
     },
     {
-      "title": "中菲行9月營收大增47% 創4年新高",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oU3hObmo2MUhwdkE1aEpYMlgtbEVKVzc1Wk81bFFfS1RIRWY1ZVBOMTJPMV9TR1hIWWNFTUpJVlRPUG41eTB6Z21jT1d1NV9idmIzMjRDSDJFT0HSAWBBVV95cUxQcmJYZ0tDcDE4TGF4UG8xcExMWVVxcTRtdnUwVjN6bzFuYkozbGFEY0RCOGxCLVd3M3dIYmwwOHRRMUpyM2FtTmxpcFNMX2hXNUhfWFh4dHZCaDVDdXZpTFk?oc=5",
+      "title": "【即時新聞】中菲行10月營收38.68億年增65.3%，創2022年5月以來新高！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjFWTXFiSEpuZzd3WWp3MFpfNV9BVTNubkYwZFB2Q0gtUlU2X2NrOHpCOUZzM0R5d3RzdnBTLVFkRW1XczZVeXc2M1ZxeTlGbHRfSFZ2UDVSTkZHZHF4QVNSQ25vRGtuNVIyRjJFR3dLbFI2S3BlUEpZY2lSTmRieVNmQjBHVGM4QkxIY3FvNVI?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-06T04:51:34+00:00"
+    },
+    {
+      "title": "AI貨運旺季需求強 中菲行關注美西碼頭罷工變數",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5bHFsQlRwOFJCbzRmRHBLb1QzbC1Tak45c244V2hXZnQ1Z0wzLWFvMzRYMXRtTmU5UlJ4bjdTS1BkQlk1T2hXcEVLajRscDlvWHZoWHhiS1M5R1pwLXM1cWNqZkdVVlRpc2k1UlVoSmhOT0YxVktB0gFfQVVfeXFMUFBZVEZKeE85WlFwcTE5dGM0QmNjV0d6bkpqLTY0T1FTTUJPQ3VPNTlOQUJRMmdveGh3RkttaUQ2bUFZN0c0TkFYaE0zSmdXU2p6TG9uYXB6U0l3MHdGSlE?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-10-06T07:00:00+00:00"
+      "published_at": "2026-11-06T03:37:10+00:00"
     },
     {
-      "title": "Q4海空運運力都緊 中菲行：海運部分急貨轉空運",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5TXRnaGFMRXZWMFRMZEVGdlpRV3RDcDBfc05WVkNISW9rcXVuTjY1bUwwNnUzLWZoLWRNaWF6SnhnRUQ5Xzc1V3pZQnRlMjQ?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "AI半導體需求旺 中菲行9月營收飆逾4年新高",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFWk0wdjJiTjNLTkJQOS0weGxELW9YOERZeHpIWWFmazRVVFlfeG1DeFRUM2pEalBMekR2NmYtczl3R1Z1cVhsUFg3ZnE3ZklVczZfSTkyNG0zbFE5bF8w0gFkQVVfeXFMUG1yVnQ3NFN3cXZieEYwN1RxUjhnaFBTZGIwSl9uQThad1o2WHVlUXFKUFdkVFFySllWRW91ejZLRV9kSWhxWVMxTFN1bTJLOE13b0pfWW5lN2VBb3plcHplajl4Sw?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "中菲行營收寫2022年7月來新高！AI與年終需求升溫、海運急貨轉向空運- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94OUQ2TjU3RGdLYmZ3M3hHa3hZdzNDSDRPVFp3ajJ4djJ5WEhNVG1aT3pndkVlc0NHTVpBVVJoX252SUdTTmRhUHZCdDkySGZvZGJkNENyMnMwMkJCLXZ6SnZaZWJSbVltSWc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "中菲行：AI半導體物流續強 美線艙位緊、急單海轉空",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVzB0dV84VzAySGhOVFUtTFF1OEZEY1RvTThCa01vekhiX2ZzU0JKM29CV0M4Vjh0YTBlRV9VNXJiMmJWVWxXejNNOHlCWjBMRVBZZVoxdFRhd9IBX0FVX3lxTE1tbDVCRDZGZUlSel9pblpIbi1OUmhyQXl6cDRVWDgwY0w4RU1TbU11WTFMYWVZYVdqS1V4ZjdTTmc1Tm1jNWtkOU5KVUI2c1FJTGtsVkhSay1MQ1ZuYWZn?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "中菲行9月營收寫近年新高，Q4看空運運力仍偏緊",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOeUF3MEFEM0NZRlh3eDFmc1RQdGZqNGhSc29hbzkxRXk0M0VCSGhHTDVtTVQ0aWlRaTAzTm81cWd6bzdnZ0tlbXpISl9pZDBtYnVfZ1ppQUtPVC1XWjR6NFdPVnk1Y1FzM2NDLTlXM1c5QkZVNXZOaHV3RzlfMVU1VHRIR1BfdVNYRGYyZmliRG5FMWx2UzVab0cxUGlyZzQ4WWlFZ2JPSEJsTHloU2lZeUs3V1d6dFJmUFFudld4aEtNMlphalYyb3VTMU04Sm9sSTJsNzVDR0xEdndsWHpxc1BSc1FCUTdnTWVPakxOZ01Ec2NpeFY4WkMzWGw1cGVJM05DeURkblIxaWZNbnlkX3ZJTnlHczU5ZzR4N2trS2preGtrTkRsWnk5VjJVTjlKSU5XNlhyWS15VW80V2gzYVJ3MjE?oc=5",
+      "title": "中菲行10月營收亮眼，Q4空運旺季看好",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYmVkM2NtbDVERkZnZ1VIbGZMdGdBSjVJQkk0Y1dWNzJFdWMtYWgwV2tCbjNpYmJKNkdYc0xJR2NhZGpxSXkzOGhJMzN2NGNEVmN5Rmswa1k3M2RpdjMyLVFCZ0t6OE5oN2cyZFktWDFBLWdSZlJMQU1LeF9nSmFSWVBOOWVOSzA1OW94RzNUX19Hakw1ZkwyTXliMDRCN0dLVXNPaFBneWtBX3gzd1drN1dGVlVDYm5scnpoMWYyVUFHSGdpdUtMQXFOQk10NmhpOWRGQTBMdllPMER3YV9nOUxSTzlucWN3TzUyUmd5WW5DVGFOZ3V6X0FqVmdPWFFPdTlIM1l2T1l3dw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-05T07:00:00+00:00"
+      "published_at": "2026-11-06T02:57:06+00:00"
     },
     {
-      "title": "中菲交惡 百餘華文教師分批撤回中國",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVm9MZ0d0R0YyNk9iMVE4VEZYNVo4bHQzWkFUdWhILXltNTlIdkZ5UHhfTnFaV3p3NmVwRXN2SlNka3I2aE5YRXhYRmp3Wk83NF91ZzRoZ2thUdIBX0FVX3lxTFBRamN0Sy1Gcm9mMUFwenREWUVfZnR6NFNaRUk3M1pkYlVRVmprWFVUYVgyTDlNYjU0MlZzMGZTMWNnVjNiNDlqX2hZLXAwd1ZDbnpSVzVsbm5RNk5SMjRR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-04T07:00:00+00:00"
+      "title": "AI與旺季雙引擎催火 中菲行10月營收飆65％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2alNjRHFIOXYwVFdNYVBDRVVnOTFJTEt0V3RyUF93S3dpVlR5Q0YweE1yaVhZd3NTdGNGQWVVNkF6a3BiLUFUbDA1QVVfZDNDWmgzQzgyekw2WHFrWXhN0gFkQVVfeXFMTTZPeC1lWkNPcnFEODUxZGUwS1c0UGxkU1ZZaFdjbGhUZ0tSWFMwcEFwb0VxSExKSTl0UEljbjhnWHhaSlhsX2ZDd2Z1WW1NZmh1X0trTDVIbzhibDNqSzI4VVF0Ug?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-11-06T02:31:53+00:00"
+    },
+    {
+      "title": "中菲願改善關係 小馬可斯允赴深圳外長通話 互邀領導人出席東亞及APEC峰會",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbWRXZmYyejhYWnBWLVRMYko4MzllOWgyQjhycFI5V1NyR2plVXVlYUdCN2syNUdUeWVoU2tycFdzSzcyRldUZTIzam41MVh3cVcxZnFBQnZDNDFEX0M4MFB2T0JZTXBEZ2FZOUlmS3M1cVgxLTRZVEN0LTh6V29pb0ZyX1BBY1BVckhZOXk2SXllSmJmMHhVT2c5dzR1U1NSZUJVTUJibTZtQk5oaWxCaWV2bVdNTWJMekVjVGpxempvdTJPRWtCOEN1czlGMk9OODZpam05aWxxNERFQzY4T3psbVFFc3hIQVZ6WUxVY3huTFc3aTE2QXpUdVVvYUVVVnFZZE9NQk4tRldpMFZabFQ5MHUzUEE?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-11-04T18:35:24+00:00"
+    },
+    {
+      "title": "中菲外長通話 王毅籲菲方在海上議題謹慎行事",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45blJ1c1BhLTBqY3J1MjE3akxVVXpqNThYenVSZFdZSTN4YVRxM21LYkJHMVBZM3IyX2JHY1k1SEpLNWxUSGx6c0tSWXl6TkdNRUNDdFhCX2JUOGNJY1NKUg?oc=5",
+      "source": "民視新聞網",
+      "published_at": "2026-11-03T14:43:34+00:00"
+    },
+    {
+      "title": "王毅與菲律賓外長通電話 雙方就改善發展中菲關係達成基本共識",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPSFdja19TUnpuVE5kanlTVVNHUExLT3F4OXNwVm83Ri1zTGh2ckN1OFZTTUh0d011cXdtQnRQVVk4NVZJU0oxTm9kWjQzcjUzOXRwVVl5ZVB3XzlyUEJtZFhyMHpqLVBudDI4UDBlZEp3OGs2NUo1TjRmUTBUekwyX1ZrUGtvR0J2M3VwMUR3VTg1bktRSmtmUTNKQng3MHhZdmZSOENuZU1pblZ1dkVfY0FHSTVRdm4xS25LTGlfelhhb21lT0RCNXdNeGZtYm1pQTNXODVpMU9UZl9IYzBaaDBpNnF2Q2JtNXJaUzBLRklxU3JCNWwzd1NVejJNV0FkY3luN2pYR3RhaWpWTm9iNnA2TUgtRmswNFZZc1BSWlM3aGhZVEJDV0U0anAtV2RPc3UxTHp4ZkNpRGxVM1JRbHUzTE9xYmpqX3FzNndXYXdvZ2VtNkFrc19Wd3BGZ2tQWkZId01lVm1XbUU4aWNkU0E3ekxfWVBTN1g5V01WOVRDeGY0c0VzUlZKRWo3ZzlTMV9Gal9hTV9YeTZYeU90aURKZEt2cjB5ZXFXZ1p0QVZ0b0djVmc?oc=5",
+      "source": "橙新聞",
+      "published_at": "2026-11-03T14:24:27+00:00"
+    },
+    {
+      "title": "中菲行(5609) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nTTZnczB0WU55WUxJa0hmaEJpUUxUVmRiUWFJblNGUXdmVTNVcVBHWlZ4d20yV1FTZ0phUy1VZnBjNGRWdGJHUnAxTm5weUhUNlZn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-10T04:37:42+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-01T07:29:32.840674+08:00",
+  "updated_at": "2026-11-08T04:59:08.099149+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5344",
   "name": "立衛",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：立衛(5344)10月營收3140萬元，月增率-7.76%，年增率2.85%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUo4MXA2dXdlZWEzbERtN0hfcVVqLVVtSmZGdE5paWFFakFENVp0SXdDVXU5akZ2bWhkcTZkQ09oT2l2WndLckxScjJUSFN2dzZWNC1GQlZ0UnBEOW5rUVdYRk9JRWJVVHY3eXVITHBRTHlYbzFoRmZpcHNsdGZNeVVtT1dqcU9v?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T23:06:00+00:00"
+    }
+  ]
 }
