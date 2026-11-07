@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T16:34:30.226121+08:00",
+  "updated_at": "2026-11-07T10:56:45.729527+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4440",
   "name": "宜新實業",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：宜新實業(4440)10月營收9950萬元，月增率14.12%，年增率-10.19%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhfS19CUDlES3YwYXl2ZzhTV3FxV3REOHdoTERPN2dTUzQwS2dfVzhxc3l0NWhqWUNfNG5WZUZsMDdEWTh1bjYzX1ZNYWEyY3J0TVFfUVE5elVBOW0wWmkxdHhQNF8xdk5zZUpYb1RKTGR1M0ZOeERFTy1mWUJHMmlUTTFncjFO?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T08:12:00+00:00"
+    }
+  ]
 }

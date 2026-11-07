@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-31T16:34:36.139033+08:00",
+  "updated_at": "2026-11-07T10:56:50.638800+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4529",
   "name": "淳紳",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收速報 - 淳紳(4529)10月營收249萬元年增率高達416.8％",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnRldmazNtQzFIV09zRENxdzhGUmU5Y2FXRzN0N0dXS1I0UU92WThTLWdDU0dpdFdjajVRcHpaSk8zWDkzWkN0OENtYm81anM?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-05T11:20:31+00:00"
+    },
+    {
+      "title": "營收速報 - 淳紳(4529)10月營收249萬元年增率高達416.8％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaN1dZQVA2RmV5eDdLZXROYXZBVDl5RFlQZjlKY0ZHSUV4UllzN1RiU1A5RXVNSmRUXzVuR29Xb0RybVRiaV8yQTFVcGlYVEZydnZSYWFJeEpDV1JrYmgwRUhXcW9mT3Q2ckFnOF8tVVgxS1N2NXc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-04T19:20:00+00:00"
+    }
+  ]
 }

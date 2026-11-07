@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T23:24:26.953593+08:00",
+  "updated_at": "2026-11-07T10:56:57.294880+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4554",
   "name": "橙的",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "橙的營收／前三季達3.97億元 創同期新高 歐洲 AM 銷售逼近去年全年",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12bXdSU3EtbnVTWVpTYkJmNDhzVkwzeVZLQUhweWtObEc3ZFZjajhZU3Q2b1ZMMkhrdjZyUXprSWtMTUdvRHBqUTkxM1Vna2dXUHdmVk5zSXpRdVHSAWBBVV95cUxNeFlFNC1Tb3FTa3FUZ3I4Z1Y0YjYtTGlQTTY5NmJmdXlTT3BUOVJvTmVfRDdZcnlJVmVLSTJGSUJGdFdBc0JFVy04dUxEQThCWWdMU1lRTWV1TC1Lc2dvOTA?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-12T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T16:34:41.442807+08:00",
+  "updated_at": "2026-11-07T10:56:54.926148+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4543",
   "name": "萬在",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "台男涉詐百萬在機場被捕 日警公布姓名",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNOGVMbk41QUJYZEQyaWZ5X3I3ZXNEdGw0cnMzTDRXbXVJSUtnTHlSeDVIOFlWUU5wM0FJbzlVYjJZc0tsTENEUWpSNWNuVG45OTJnb0lWRWxWS3FvQjVYV2ViYVV5SG9RTTg2eFNyZWJDYVlTT1pDdzBJM2JzdmRQMXJ1V3FUSUV2SmVKdEhXdThOaUU4XzZ2TVppYkhqZHh0LUw0ZzFBVGdYYjRScE9JbEtYZTdZNXl5amxWRndkaHRoRjFLODNUN0tUcnJLaTR5RldUYUFBVXY0X25Db3Vib0hIR1RhQ3lGU043bXVNaHJBNFpnWlA1dVVfX09zY2JmTjlGZEJhX0QwUUhZVHV2ZVJzaExZUkdUVkQ1aGI5R3A?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-11-06T07:12:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-31T16:34:10.128945+08:00",
+  "updated_at": "2026-11-07T10:56:25.906992+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4148",
   "name": "全宇生技-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "全宇生技-KY (4148) 深度解析：微生物技術領航綠色農業，印尼擴產啟動成長新引擎",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PYnh1cGlSbVhsY0E2ZkxmaW5JbC1ick1Xak5ucnN2bVNHR3FuVDdHV0JYVzZueEdBREcyaEg1M25mb1k?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "全宇生技-KY 115年9月營收3.67億、年增5.28%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sTDM5N0hFc3d6ZDhtcFFOSEhBR1RiVS1PUHVpcmxFemlvT0JDOXAxVGFFb1dPUk5YMHgzZGpHd0VoTjZJWTcxMWVJc1VMTnNSdWVuOXVIR0Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-09T10:21:41+00:00"
+    }
+  ]
 }

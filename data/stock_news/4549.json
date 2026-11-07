@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T23:24:25.218241+08:00",
+  "updated_at": "2026-11-07T10:56:55.691624+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4549",
   "name": "桓達",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電機》桓達10月營收為0.93億元，年減11.94%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEJ3VEE1aTREMzlVVTN3enpvMDZKMEx2elFHOFJzcTVPODBkOTBxczFPWEFYR2x3bmRUY25CT1RkU2NROWJRVnNpY3U3OVlQbXdTZHc4ajdpOWxueWgzRTNCMmRJTDdKNE1xalBPVFcwWk12c0loMVVpdFJKZGV0N0pRXzNSek5R?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T06:05:00+00:00"
+    }
+  ]
 }

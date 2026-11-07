@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-31T16:34:12.877071+08:00",
+  "updated_at": "2026-11-07T10:56:28.595696+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4161",
   "name": "聿新科",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-生醫》聿新科10月營收為0.48億元，年減20.32%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTNHOUQwWVBtU2taZm9BcE04Q2hvWVdsMkN1VFBpTzZvZ1F0bHFEOXZiTGNIU0dITDh6VVVjdF91T2lSZGxtWGVEWmNHV3NSSjVFQUEwVjUzLTZiSm1FVFB3NGNCM3p2WkpkeXVHOGtaVWU3Tm9pVjBVdnVBSHNVOHNVYzNmeHlS?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T07:13:00+00:00"
+    }
+  ]
 }
