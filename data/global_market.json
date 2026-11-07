@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T21:14:37.018901+08:00",
+  "generated_at": "2026-11-08T02:05:29.592916+08:00",
   "taiwan_market_phase": "休市",
   "update_status": "更新完成（延遲行情）",
   "risk": {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 75801.0,
-      "change_percent": -0.031171822115837123,
-      "data_time": "2026-11-07T21:14:12+08:00",
+      "price": 75779.0,
+      "change_percent": 0.21229270641700027,
+      "data_time": "2026-11-08T02:05:12+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 2238.18,
-      "change_percent": 0.07154704135065985,
-      "data_time": "2026-11-07T21:13:58+08:00",
+      "price": 2233.87,
+      "change_percent": 0.539093013327977,
+      "data_time": "2026-11-08T02:05:12+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,8 +143,8 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 75,801.00，漲跌幅 -0.03%",
-    "以太幣 2,238.18，漲跌幅 +0.07%",
+    "比特幣 75,779.00，漲跌幅 +0.21%",
+    "以太幣 2,233.87，漲跌幅 +0.54%",
     "納斯達克100期貨 27,085.25，漲跌幅 -3.71%",
     "標普500期貨 7,402.00，漲跌幅 -2.28%",
     "費城半導體指數 9,390.25，漲跌幅 -12.15%",
@@ -185,26 +185,6 @@
   ],
   "commercial_use_note": "目前免費來源僅供研究站原型驗證。正式會員制上線前，必須逐項確認商用展示、重分發及即時行情授權，必要時改接付費授權 API。",
   "risk_history": [
-    {
-      "generated_at": "2026-11-01T04:02:16.430123+08:00",
-      "score": 65,
-      "status": "風險偏好降溫"
-    },
-    {
-      "generated_at": "2026-11-01T07:27:01.538966+08:00",
-      "score": 65,
-      "status": "風險偏好降溫"
-    },
-    {
-      "generated_at": "2026-11-01T14:20:27.931980+08:00",
-      "score": 65,
-      "status": "風險偏好降溫"
-    },
-    {
-      "generated_at": "2026-11-01T22:20:03.879789+08:00",
-      "score": 65,
-      "status": "風險偏好降溫"
-    },
     {
       "generated_at": "2026-11-02T03:45:07.397908+08:00",
       "score": 65,
@@ -304,8 +284,13 @@
       "generated_at": "2026-11-07T21:14:37.018901+08:00",
       "score": 78,
       "status": "高風險警報"
+    },
+    {
+      "generated_at": "2026-11-08T02:05:29.592916+08:00",
+      "score": 78,
+      "status": "高風險警報"
     }
   ],
   "risk_change": 0,
-  "risk_history_sample_count": 24
+  "risk_history_sample_count": 21
 }
