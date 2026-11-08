@@ -1,68 +1,50 @@
 {
-  "updated_at": "2026-11-02T10:37:36.321555+08:00",
+  "updated_at": "2026-11-09T07:49:52.833715+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6751",
   "name": "智聯服務",
-  "count": 12,
+  "count": 9,
   "news": [
+    {
+      "title": "智聯服務總經理韓政達退休 施宣輝兼任總座",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxa3BZcDZoTFNpTUpGVkQza1VDZXlZendfS2hISmVFUWFzdkF3VE1icDg4VFJ3RDBqN2ZHcHVva0sxX05CUS1IRzJIZTIyM3R5NEt3Q2h4NmZsUdIBX0FVX3lxTE9jNmYxNjF4TkdLaFVEQ0gyV01XTGJfNmhVOWVzRmcxSVhuRjJ1R05zdER3MzZsdFVhd2htVTFEY283aTF6MThSdHRSUXJKckdKS2FGWFp6N0RYRkUtVnU4?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-06T08:00:00+00:00"
+    },
+    {
+      "title": "焦點股：AI生態系＋轉投資事業發酵，智聯服務反彈挑戰收復短均線",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQNUQ5bDdsSmFYYVJNM2lfVVRqUkF5bGhJbFpYeTFDR0x5OE1zN2VGYkRuN2NldllPZ0pvdXZCYktCUHVZa2VVXzBOekxtbkN0bzg4dC1YRkR3RzM5UHBSeFVVVnJoZmdGeG9YZm1yZzhUamVuQWFJNHlkUkpjRzFtRUZlel9KaWQ2UV9GeGpDMkFINXlSc2p0S2NLR1hYenRoRXZNUFJ5MG52ZFZDYTkwN0FPS2dZN1JhbGVlZmd2WWJuVV9MWENldmh0ankxcm9WdTlhWjZEdFVYVUYxNFBOTzdzbFI3eE1VLW9xWDZKclNzV19kNERNaVh6anNoQWJ0YlJTcUhOMUJBNnpxU0JOWTZYTG9nWTFVRVJqeVFZZWNxQlZnUjk2anZOMU90bnU3eDRBTVRvdWI1VVBOSklZREpMenloamZqb3kzZTVHT2FyTTZZdVlZRkEwbVFtcXJQR205S25tRkpHUjJwWS1jVHdGQ1g1UEgtczJZb0RraFZ4Tm0xZUFoaWpyeG9sT2F5X1R3WDJZRHg4UQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-06T05:15:24+00:00"
+    },
+    {
+      "title": "AI應用股逆勢亮紅燈！廣寰科、力新漲停智聯服務衝9.86%",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JVGYxUnN5Y1dVQlpmNGItbE1xNS1hZGY2U2ZIRkg2NnIyczYyb2FTSVVRd1NzTlhoeVdjZ19zYWc3QW9Gd3FBUkJRdVM?oc=5",
+      "source": "聚財網",
+      "published_at": "2026-11-06T04:38:21+00:00"
+    },
+    {
+      "title": "智聯服務（6751）10月營收年增近兩倍，跨足半導體廠務搶攻IT與OT商機",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zMG9PMnN1SUZObjZnSThWTFpTME92c0xqRV9ZZGt4RUJoQi1CcTRUdTk3VmtWMWJHLWpCNG12ZjV5MVVDWm03cjFsNmlRZlR3aE9HS2lFcmR1T254TFpfMG0xVFVZUFpBZk13bDRTSQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-11-06T02:53:55+00:00"
+    },
+    {
+      "title": "【09:02 即時新聞】智聯服務(6751)盤中續揚，資安與IT整合題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JYzFUNTdxRUlnVmt0RXUxX0U1ZTNISlBBTHFnRnlYZS1uMXNZbm9lcy1IOGRoTVB5azZHMzZMRlNvNWpiaC16bTFpN1RUR3ptdVoyZUJjMV9qRW1wb3ZvdkdIU1VYOGc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-06T01:04:57+00:00"
+    },
     {
       "title": "智聯服務獲利／自結9月 EPS 達0.72元 淨賺1,600萬元",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERWNMOGlOdzdPOW5FMUJBSFZKOHkyNDVLZjNiYUpGb196WWJMX2wtV3lvaFNjUzM1Um10MF9JMlhrM2tkVWE0U0J1RHFFUHg3QW5VcnRNNGt0MWPSAWBBVV95cUxQVVhlaUdVNTNCTG9PVFdDMDhUU2xVNUhKTDF5OWVEbE9rbXZBaEs0bVdiS3AtMjZnOFltbVhYVHUxZmNsSUZYM2lpRlo3cHhvMWtvS0pNYVdVcW9ZSEJqd0o?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-10-30T09:00:00+00:00"
-    },
-    {
-      "title": "《資服股》注意股：智聯服務 近5日漲22.49%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMU9Ba3hmTkRmVkM5R2VFOXNiaEhqR09pSDBrdzNXTnBCY1pkcXc4aEx0R0NFb213NmYxQ0dnTzF1UTM0VF9GcEVnVU1tX3dvaFVWVnlZUXROQ3ZhUXFseEZnc2xCdHZkZ2c2eUFFTnpfV01KUWRmOEJuSXc2Ukl3ZHpIblg5MEgz?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-30T00:04:00+00:00"
-    },
-    {
-      "title": "《資服股》注意股：智聯服務 近5日漲37.56%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEVHRUllX1dSOHQ1R0xvTUNSS0k5M2gxRDVOWXZkZ1Y5NlRqZWMzZElET2MwRXluNUk1c19Uc0VvM1ZYSkxqTVdTNU9MZF93WmNvWWNJR3J5WHZ6OTJIUEhpc1hQb2kxbkQ4MDdZM281VndUVE4wUExyaEdYRmhYaE40N3kzcmFM?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-29T00:02:00+00:00"
-    },
-    {
-      "title": "新倉康和證、宏碁資訊 智聯服務賺47.4萬 GIS-KY賺27.8萬",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPeFRMWHAwQVdvWk52d0VENkdwbFN1NmV0VV9GcVQ5UEV2LWRjZm9CcWFxdVlvZmNhQ2NHdnAwTlpGMVNqVDJuYXltVUcyX1VDN0d5WEZvT2NWZHI2Mk9HZF9janJHZXByUU9aNlY2d1JLelZsaTJnQ0c0ZzM2Qm80U0tZdExKRy1SbWhKZVFXOWxxZGo4ZHBNdHZOWlRKblFUN2c1UTRYTE1veWNlT1ZQMmhBVnNwc04yM1BBTGd6RklZT1Y5R0lwNUdIX1M3QlNKVWV4UWlydkZsR1lQY3VVMmVGaE41V05YZ1JGMXZJem1Ta0pWUk5hd2x1Y3p0S3VQbzlLazBNcm83a2RqNGgyOHZhUG5WRUxEVXVWNFVNSC1DaVBYMkVkQWM1YUtYZXFqVlZNM0hGUjh1NnpTZ25wSDVXa1BPU2QwLWZPaWFwWFhLaFFaVnllNXRRRlpTVHdhOHV1ZjNuNEtaeVRqc2prTjBCQUNERloxdlZwcg?oc=5",
-      "source": "台灣好新聞",
-      "published_at": "2026-10-28T07:32:21+00:00"
-    },
-    {
-      "title": "【13:21 即時新聞】智聯服務(6751)股價走強，延續資服與半導體題材關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnZmOEJCQjlFa1JvVTNOa2I5R3dtcDFpNjBXYnBKU05IQ2g0NTQ3d0NuZXRlSkhWbTk2ZGkyWE10VFJ1c19RR1VfY01lcWVyYUpJbEUtaTF6RHVjS3ZoU2VtWTRkVklJTGZocE1TcTRHZDFBeHd3Wi1CaGE1STBSTzg1OVlRbVdGOElsbWx3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-27T05:21:20+00:00"
-    },
-    {
-      "title": "7天噴77%狂拉6漲停！「PTFE研發廠」禁閉關不住飆20年新高登強勢股王智聯服務、威鋒電子陪榜",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfMGIybzJRMi1jY3RjRnFncExkMVR1NnVUaGtqd05lcmNSdkF5dVpmN3lONXhEVGdKMDZPNU5WS0V6WndvcC1BV0Z4WQ?oc=5",
-      "source": "FTNN 新聞網",
-      "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "title": "新倉GIS-KY 加碼宏齊、閎暉、安可 智聯服務賺12.4萬 閎暉賺6.75萬",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNZzJGb1oyYV9KTUhzbjR4TXZPSUdHQ1JjbDJSNFp4RElrX2UtN2pDdUpkcllBWXhJXzNvS1JaUGFsWkZPcm1GcmlJX055VFdTV1RqTHczcDhEMzdBTG96bzFGcl93eDhVamtDdEw4WmxvR0RkalVrT29sWlRVSGRtb1ZTWUgwc0VLUlJCdi10aGktVmhHaHhrS0R2WXJLNnloUTdXOEltMjRlV0x2Rl90MlptWkd2NThQUlpRZEwyaGRHeEhINmtsR1lzdDdod1VUNjlTenhORkxtZlBPYUhZYTFZakpTLW5nWEgxNWkwanRRYzlBM0o3VEhfc1VHNUE3azJUZEtEd01sR21INGN4UEk0UjMyTnRzdU9Ga0hSQXVQOTNKSTdoOHFsT2tWTnBOMlVDdmlDUS1VaEg1alRralV6VjZYcVhmS3NCYWctNUZ3X0V3XzlUcG5DQkp5YkszS05aOW1tWXpWR0JlRkgtQTh3?oc=5",
-      "source": "台灣好新聞",
-      "published_at": "2026-10-21T07:00:00+00:00"
-    },
-    {
-      "title": "《資服股》注意股：智聯服務 近5日漲32.39%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa21PWERKa0t5ZkxOdlUwT19NYTU2QkVyb19zdEo1R2s3eGw2NXY2ek1fZFpxcXJJZ09Ga3Zvak5qWHVzNjI1Z2FUUWNDYmd4cVZCdzduR3RjRGxCbkxUeERucVVtTEtVbmh3M1NldUVFcGJxdXBFaVdDbDVUZXpiSW81dy04N2oz?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-21T00:05:00+00:00"
-    },
-    {
-      "title": "《台北股市》盤中焦點股：聯策、尖點、智聯服務、GIS-KY、南亞、德宏",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2pUaVVZeEdsSHhoV0d5ZHh1MWlEYWNoOTRHMzRvaS1KUjJZRy1aN3c2YnhoVkNTM0RlbThFaTIwNVhHOHEzcE8xbmI5NVd2QmtyRXZxTmF4Zy1sY2JIZlRXaXRxeWlwSG1RZjJYaFYyaXNGTVQ4T3hzdEw1QmRyWVNpSEtnWm9a?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-20T02:16:00+00:00"
+      "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
       "title": "台股大盤回檔 智聯服務逆勢漲停",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FSF93VWc5RE9aUDlLb21ERmlZUngteWNLZ0I5LTVMT2ZqalZUbjhkSDJwXzdjd2tEZ2xIZEZSbXduV2NYNVVBcm9KYzdPMVF00gFWQVVfeXFMUEN5YWlJcnRNd3RvZjdZUnJfT2hFYWVMR1FobjNyOGU1d1pEZm8xZlk1bHNPZ1RqelVqUzRHMEQxNGZIS1NwalJCaU84NFYwSG8yZVd3RVE?oc=5",
-      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxLVgzMjdEV1VfeHR3QmZWWFpyVnlkdjU4dFhPdTJXSWpDck00WUN4Q3pEMERnZGRiNUlrMTFob0d4a29BYXVvOXk2UXBkT1VySGZpcmg2R0ZORzTSAWBBVV95cUxPWnh0WVItX0x1a0hqSjF0ZjVfQlpEcktFUm15eUd4WDJFWVF1a1RNbE52NzdzN1B6cEJaRW5pV2tvMFBHZzdraTkxOFRjLWVsN0tOMm5VSm5SVERxbzJXeTg?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-10-19T07:00:00+00:00"
     },
     {

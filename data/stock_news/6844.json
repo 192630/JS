@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-02T10:37:53.687245+08:00",
+  "updated_at": "2026-11-09T07:50:10.308595+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6844",
   "name": "諾貝兒",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "諾貝兒 115年10月營收3.15億、年增1.14%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CSEZ2SXlBS09Bb0FSRnA2NkNTUlhMNEdyMEEtM0tQSXNDaE1hME8xTHlyVi1Ib1Z2bWl6MEtyeUd0cUgwVk83MFlFUmd3QmZNMmUzcUhiT1I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-03T12:21:39+00:00"
+    },
+    {
+      "title": "諾貝兒 公告本公司董事會通過115年第三季合併財務報告",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKcWRwZUVjUGpBVjZWRzNwajdNb3RMX1V2UmR5a0dFeVE3QXN3eXItUUZ5MkRkb0JGNmdtcUFOMG5TNkNHdS1KV1BIdmhlQU9TUE5SR1NUX1g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-03T12:21:35+00:00"
+    }
+  ]
 }
