@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-02T03:01:25.370256+08:00",
+  "updated_at": "2026-11-08T15:32:00.983752+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6272",
   "name": "驊陞",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "6272 驊陞- 驊陞前三季合併獲利630萬元，每股稅後0.08元 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UHdyb3gxLWM1bXhnN3RKa2Roby1RSmt4UGVpVURMQ2Z3ZGo3NmQ3bzc1LTRUbUdwSWlwWE1PYmZZQnp6OHJGVUhUX2RBVzM3QW4zbHNtNks?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-07T05:08:05+00:00"
+    },
+    {
+      "title": "6272 驊陞- 驊陞公告本公司董事會決議通過115年度第三季合併財務報告- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNkxJRnlBRF9oTkI2cGo5YWtoZVZ4YllxZTh6V000QUFSLXlOOXEwSE1XQjk2aFdjS29rVDBKb1hScFpRWTFRMHg0NTkzeWl2c3pmVUt6R2g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-07T04:21:38+00:00"
+    }
+  ]
 }

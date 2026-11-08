@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-02T03:01:23.407838+08:00",
+  "updated_at": "2026-11-08T15:31:59.302182+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6266",
   "name": "泰詠",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "【13:24 即時新聞】泰詠(6266)盤中小漲，短線買盤回補成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkhMWHNCeHgzSXA3aDg5RlNyWHdGRXpKSWFvUy1wZnFMVDd6RU1HOG1LcHpqZzJUdUlZQWlKR2J4SU5iT1VNWGFTLUdtS0UzbURiRUlmcHJsc2tkYk5lREw5NVBRNFRpcHVsLTlMZ1RCbUZrWjFQeXRDYUdWMkhCTURoZFBZOW9HNXRTamJR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-05T05:25:59+00:00"
+    },
+    {
+      "title": "【11:39 即時新聞】泰詠(6266)盤中小漲，主力續偏空成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSTFDZ3Ytbnp5MmNFN0ozRDI0YjFTTzBwbzhmblE4S0trWlViTGNhR0FDbDZ4VlBpUDVXNjZscFN0UHREcnpNSnRvVU1uck9vYTNpLWtkbnRKZTR2UFlNS1ZkVFhQU2FyeUVHbENrRjMxY0dHd3JRY2Y2aDYybWlKZkxFSnVycU1aTk9YSTNR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-04T03:41:09+00:00"
+    },
+    {
+      "title": "盤中速報 - 泰詠(6266)股價殺至跌停，跌停價21.55元，成交695張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iVEFCT2MyQkVEcFhjNTRIcVIzdnFTZE9OSjZHdks1SjVsZFBweUFHdERLYzN1SDUyLV9oSW1TZ3FCZGtob3QzeFNBRktaY0QzdHJTS1R6UHB5bFczcWY1Z3pYRmo?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-03T05:30:00+00:00"
+    }
+  ]
 }

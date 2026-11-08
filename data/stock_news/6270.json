@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-02T03:01:24.409782+08:00",
+  "updated_at": "2026-11-08T15:32:00.157813+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6270",
   "name": "倍微",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：倍微(6270)10月營收2億7873萬元，月增率-16.82%，年增率39.25%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam5aUTh2aV83MlBwYjk3SFFKY0haSnhQaHA0a1k3YkM2NVNoZWIwT0hUbjcwZ0hNWDROVU1TVEtMb3lqTnRtaUZ2VTJMOFU4eWE2NWEtRHNnaGJhNlo2a3lTNUdDRkstR2x2QkF5em1KUHdSWWoxeDdhUXZpanoxLWdndXRXTXIx?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T08:30:00+00:00"
+    }
+  ]
 }

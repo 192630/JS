@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-01T22:23:09.690755+08:00",
+  "updated_at": "2026-11-08T15:31:49.611741+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6228",
   "name": "全譜",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電週邊》全譜10月營收為0.06億元，年增11.90%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekx1aVdERzk2N1I3YWJjbW13cmpnMDdQYnZLS3YxUHI2cmViWHZrZ3IyZGhQdVpOeDJsdGQwUGNSUUFQMjZuU1RuempmRDhNeC1qMWdEcDFTN3JNYTlncUlVWElLRlRKV0FnMG9WNjRKRlFBbjA0Sk42elhDZVJXd2VuankzdHZB?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T08:15:00+00:00"
+    }
+  ]
 }
