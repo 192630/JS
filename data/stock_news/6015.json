@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-01T14:27:13.453210+08:00",
+  "updated_at": "2026-11-08T08:47:53.670570+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6015",
   "name": "宏遠證",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "盈餘：宏遠證(6015)自行結算10月份稅後淨損2億5348萬元，EPS -0.61元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXFVUThST09NSFUwc2pxVWc2cUw4emV5QlcyRDZPa0hQc2huLWRCSDIta0taSU8wYXVwdWp4NU1qTFROTEJzZXpmM1dHRWFzTHdCNW15ZmpvTFN3a3ZlY29qdlVtRXdsejBRcllyNXF4QUFON2ZKdEtwX0lEMnZhOGFZVk5oakNw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T06:51:00+00:00"
+    },
+    {
+      "title": "《櫃買市場券商賣超前30名 3-2》宏遠證(-315)、振發(-309)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2M4aVFiNFhuVU56WXM3V3oyM05ldTZlSW9yLXR2VHJuV3Rqc1ctRjdSYjZSbWZ4V1hfX0EyNU9TUXJPSWZvLUM0emJxQ0pkb0pRLVZ3dUpodFRfRGRMZDBUQk5Cd0J1b1JraGdlT2hTeExHSy1zQlNvM0p5bHVlSzlyTHMxM1JT?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-03T23:29:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-01T22:22:47.422810+08:00",
+  "updated_at": "2026-11-08T08:48:23.476433+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6171",
   "name": "大城地產",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "大城地產 (6171.TWO) 季節性回報圖表",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JdGlydEJmVHlOdjF3U2MyTWd0N1B6dTBZMEdWTVBWVlJhX2YtZEZGRWJWSlU5dG1ZQUFXa2lHaXMyMFYwTzRfV0xSbFpfLVZ2d0ppd1ZkNktDVEhPMjVVTmNRMzVNLVE?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-11-04T08:30:10+00:00"
+    }
+  ]
 }
