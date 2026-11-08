@@ -2682,6 +2682,7 @@ button:active{transform:translateY(1px) scale(.98)}
 
     <div class="info-row"><span>法人淨買賣超占成交量</span><b id="institutionVolumeShare">-</b></div>
     <div id="institutionFlow" class="plain-note">近 5 個交易日法人累計載入中...</div>
+    <div id="institutionStreak" class="plain-note">法人連續買賣資料載入中...</div>
     <div id="institutionSummary" class="plain-note"></div>
 
     <div class="plain-note">
@@ -8934,14 +8935,20 @@ function showStock(row){
 
 function renderInstitutionalFlow(code){
   const box = document.getElementById("institutionFlow");
-  if(!box) return;
+  const streakBox = document.getElementById("institutionStreak");
+  if(!box || !streakBox) return;
   const dates = institutionalFlow && institutionalFlow.dates;
   const values = institutionalFlow && institutionalFlow.by_code && institutionalFlow.by_code[String(code || "").trim()];
-  if(!institutionalFlow || !Array.isArray(dates) || dates.length !== 5 || dates[4] !== institutionalTradeDate || !Array.isArray(values) || values.length !== 3){
+  if(!institutionalFlow || !Array.isArray(dates) || dates.length !== 5 || dates[4] !== institutionalTradeDate || !Array.isArray(values) || values.length !== 6 || values.some(value => !Number.isFinite(value))){
     box.textContent = "近 5 個交易日法人累計：資料不足或日期尚未對齊。";
+    streakBox.textContent = "法人連續買賣：資料不足，暫無法判讀。";
     return;
   }
   box.textContent = `${dates[0]}～${dates[4]}（5 個資料日）｜外資 ${formatSigned(values[0])} 股／投信 ${formatSigned(values[1])} 股／自營商 ${formatSigned(values[2])} 股。此為公開買賣超股數加總，並非實際持股或獲利。`;
+  const describeStreak = value => value === 0
+    ? "最新日持平"
+    : `${Math.abs(value) === 5 ? "至少 " : ""}${Math.abs(value)} 個資料日連${value > 0 ? "買" : "賣"}`;
+  streakBox.textContent = `截至 ${dates[4]}｜外資 ${describeStreak(values[3])}／投信 ${describeStreak(values[4])}／自營商 ${describeStreak(values[5])}。最多回看 5 個資料日，買賣超方向不代表後續股價。`;
 }
 
 function showInstitution(row){
