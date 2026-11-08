@@ -653,6 +653,11 @@ button{
   margin-top:4px;
 }
 
+.market-date-controls{display:flex;align-items:center;gap:6px;flex-shrink:0}
+.market-date-step{min-height:44px;padding:8px 10px;border:1px solid var(--mori-border,#c5c7bf);border-radius:10px;background:rgba(255,250,243,.9);color:var(--mori-ink,#3f464c);font-size:13px;font-weight:700;font-family:inherit;cursor:pointer;white-space:nowrap}
+.market-date-step:disabled{opacity:.45;cursor:not-allowed}
+.market-date-step:focus-visible,.heat-date:focus-visible{outline:3px solid #789485;outline-offset:2px}
+@media(max-width:620px){.market-heat-head{flex-direction:column}.market-date-controls{display:grid;grid-template-columns:auto minmax(0,1fr) auto;width:100%}.market-date-controls .heat-date{width:100%;min-width:0}}
 .heat-date{
   flex-shrink:0;
   background:#f1f5f9;
@@ -660,9 +665,10 @@ button{
   border:1px solid rgba(68,74,79,.35);
   border-radius:10px;
   padding:7px 9px;
-  font-size:12px;
+  font-size:14px;
   font-weight:700;
   font-family:inherit;
+  min-height:44px;
   cursor:pointer;
 }
 
@@ -2735,16 +2741,20 @@ button:active{transform:translateY(1px) scale(.98)}
 
 <section class="card page-section" data-pages="market">
 
-  <h2>⚡ 今日成交焦點</h2>
+  <h2>⚡ 成交焦點</h2>
 
   <div class="market-heat-head">
     <div>
-      <div class="heat-title">今日市場熱門成交</div>
+      <div class="heat-title">市場熱門成交</div>
       <div class="heat-subtitle">依最近交易日成交股數排序</div>
     </div>
-    <select id="marketTopDate" class="heat-date" aria-label="選擇成交量排行交易日">
-      <option>資料載入中...</option>
-    </select>
+    <div class="market-date-controls">
+      <button class="market-date-step" type="button" data-market-date-step="1" aria-label="查看較早交易日">◀ 較早</button>
+      <select id="marketTopDate" class="heat-date" aria-label="選擇成交量排行交易日">
+        <option>資料載入中...</option>
+      </select>
+      <button class="market-date-step" type="button" data-market-date-step="-1" aria-label="查看較新交易日">較新 ▶</button>
+    </div>
   </div>
 
   <div id="marketTopStatus" class="status">市場排行載入中...</div>
@@ -2769,12 +2779,16 @@ button:active{transform:translateY(1px) scale(.98)}
 
   <div class="market-heat-head">
     <div>
-      <div class="heat-title">最近交易日前 50 名</div>
+      <div class="heat-title">成交量前 50 名</div>
       <div class="heat-subtitle">點選任一股票即可查看行情、K 線與法人籌碼</div>
     </div>
-    <select id="marketFullDate" class="heat-date" aria-label="選擇成交量排行交易日">
-      <option>資料載入中...</option>
-    </select>
+    <div class="market-date-controls">
+      <button class="market-date-step" type="button" data-market-date-step="1" aria-label="查看較早交易日">◀ 較早</button>
+      <select id="marketFullDate" class="heat-date" aria-label="選擇成交量排行交易日">
+        <option>資料載入中...</option>
+      </select>
+      <button class="market-date-step" type="button" data-market-date-step="-1" aria-label="查看較新交易日">較新 ▶</button>
+    </div>
   </div>
 
   <div id="marketFullStatus" class="status">市場排行載入中...</div>
@@ -3251,6 +3265,7 @@ let activeEtfExpanded = false;
 let activeEtfRankingData = [];
 let selectedActiveEtfDate = "";
 let selectedMarketDate = "__latest__";
+let marketHistoryDatesCache = null;
 let newsPageStart = 0;
 let currentPage = "home";
 let currentEtfSubpage = "summary";
@@ -4026,6 +4041,7 @@ async function loadMarketHistory(){
 
     marketHistoryReady =
       true;
+    marketHistoryDatesCache = null;
 
     console.log(
       "歷史行情載入完成",
@@ -4046,6 +4062,7 @@ async function loadMarketHistory(){
 
     marketHistory = {};
     marketHistoryReady = false;
+    marketHistoryDatesCache = null;
 
   }
 
@@ -6259,6 +6276,7 @@ function getLatestMarketDate(){
 function getMarketHistoryDates(){
 
   if(!marketHistoryReady) return [];
+  if(marketHistoryDatesCache) return marketHistoryDatesCache;
 
   const counts = new Map();
 
@@ -6271,10 +6289,11 @@ function getMarketHistoryDates(){
     });
   });
 
-  return [...counts.entries()]
+  marketHistoryDatesCache = [...counts.entries()]
     .filter(([,count]) => count >= 10)
     .sort((a,b) => b[0].localeCompare(a[0]))
     .map(([date]) => date);
+  return marketHistoryDatesCache;
 }
 
 
@@ -6312,6 +6331,18 @@ function renderMarketDateOptions(){
 
     select.onchange = () => {
       selectedMarketDate = select.value;
+      renderMarketRanking();
+    };
+  });
+
+  const dateValues = [...selects[0].options].map(option => option.value);
+  const currentIndex = dateValues.indexOf(selectedMarketDate);
+  document.querySelectorAll("[data-market-date-step]").forEach(button => {
+    const nextIndex = currentIndex + Number(button.dataset.marketDateStep);
+    button.disabled = nextIndex < 0 || nextIndex >= dateValues.length;
+    button.onclick = () => {
+      if(button.disabled) return;
+      selectedMarketDate = dateValues[nextIndex];
       renderMarketRanking();
     };
   });
@@ -6504,7 +6535,8 @@ function renderMarketRanking(){
     }
 
     const visible = ranking.slice(0,config.limit);
-    status.textContent = `✅ 已整理 ${visible.length} 檔成交量排行`;
+    const shownDate = date.selectedOptions[0]?.textContent || getLatestMarketDate();
+    status.textContent = `✅ ${shownDate} 已整理 ${visible.length} 檔成交量排行`;
     date.value = selectedMarketDate;
 
     visible.forEach((item,index) => {
@@ -10495,6 +10527,7 @@ Promise.all([
 
   const finishHistoryLoad = () => {
     loadMarketHistory().then(() => {
+      renderMarketRanking();
       renderTriangleScan();
       renderBreakoutScan();
       renderShortTradeScan();
