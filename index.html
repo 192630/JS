@@ -2680,10 +2680,11 @@ button:active{transform:translateY(1px) scale(.98)}
       <b id="institutionTotal">-</b>
     </div>
 
+    <div class="info-row"><span>法人淨買賣超占成交量</span><b id="institutionVolumeShare">-</b></div>
     <div id="institutionSummary" class="plain-note"></div>
 
     <div class="plain-note">
-      買超＝買進股數大於賣出股數；賣超則相反。這只代表該類法人當日的淨交易情形，不代表股價一定上漲或下跌。
+      買超＝買進股數大於賣出股數；賣超則相反。占成交量＝三大法人合計買賣超股數 ÷ 同資料日成交股數；日期不同或成交量不足時不計算。這只代表資料日的淨交易情形，不代表股價一定上漲或下跌。
     </div>
 
   </div>
@@ -3218,6 +3219,7 @@ button:active{transform:translateY(1px) scale(.98)}
 
 let stocks = [];
 let institutional = [];
+let institutionalTradeDate = "";
 let marketHistory = {};
 let marketNews = [];
 let activeEtfHoldings = {};
@@ -3847,6 +3849,7 @@ async function loadInstitutional(){
       json.institutional ||
       json.data ||
       [];
+    institutionalTradeDate = normalizeHistoryDate(json.trade_date || "");
 
     institutionalReady = true;
 
@@ -8310,7 +8313,7 @@ function getCrossValidationSignals(code){
       const score = values.total > 0 ? 1 : values.total < 0 ? -1 : 0;
       signals.push({
         label:"法人籌碼",
-        value:score > 0 ? "當日買超" : score < 0 ? "當日賣超" : "接近持平",
+        value:score > 0 ? "資料日買超" : score < 0 ? "資料日賣超" : "接近持平",
         detail:`三大法人合計 ${formatSigned(values.total)} 股`,
         className:score > 0 ? "positive" : score < 0 ? "cautious" : "neutral",
         score
@@ -9084,9 +9087,9 @@ function showInstitution(row){
   );
 
   const direction = v.total > 0
-    ? "合計呈現買超，代表三大法人當日淨買進股數較多"
+    ? "合計呈現買超，代表三大法人在資料日淨買進股數較多"
     : v.total < 0
-      ? "合計呈現賣超，代表三大法人當日淨賣出股數較多"
+      ? "合計呈現賣超，代表三大法人在資料日淨賣出股數較多"
       : "合計買賣超接近持平";
 
   const strongest = [
@@ -9095,8 +9098,17 @@ function showInstitution(row){
     ["自營商",v.dealerNet]
   ].sort((a,b) => Math.abs(b[1]) - Math.abs(a[1]))[0];
 
+  const stockRow = stocks.find(item => String(getStockValues(item).code || "").trim() === String(currentStockCode || "").trim());
+  const stockValues = stockRow ? getStockValues(stockRow) : null;
+  const stockDate = stockValues ? normalizeHistoryDate(stockValues.date) : "";
+  const stockVolume = stockValues ? cleanNumber(stockValues.volume) : 0;
+  document.getElementById("institutionVolumeShare").textContent =
+    institutionalTradeDate && stockDate === institutionalTradeDate && stockVolume > 0
+      ? `${v.total > 0 ? "+" : ""}${(v.total / stockVolume * 100).toFixed(2)}%（${institutionalTradeDate}）`
+      : "資料日期不同或成交量不足，暫無法比較";
+  const dataDate = institutionalTradeDate || "日期未提供";
   document.getElementById("institutionSummary").textContent =
-    `${direction}；今日變動較明顯的是${strongest[0]}（${formatSigned(strongest[1])} 股）。法人籌碼是當日交易結果，不等於後續股價方向。`;
+    `${dataDate}：${direction}；該資料日變動較明顯的是${strongest[0]}（${formatSigned(strongest[1])} 股）。法人籌碼是資料日交易結果，不等於後續股價方向。`;
 
 
   status.textContent =
