@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-02T03:02:00.194955+08:00",
+  "updated_at": "2026-11-08T23:24:23.150610+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6527",
   "name": "明達醫",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-生醫》明達醫10月營收為0.99億元，年增12.26%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmFZMUFqRFZpci1CUlBYdjU1VHd4QXMxVW5WQURGMnREUEo0enlzVG55Rm95ekZpb2pwWnVtQlU4cXRWTnAycTJ2akpRd05Lc1R2NG1zSS03aUhsT1ZDV3U4N3U3MDFWOHY4X1NMZHF1Znp0em5yS3JBN1UyQ0xTaVJ6bnRtV2tV?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T06:35:00+00:00"
+    },
+    {
+      "title": "明達醫 公告本公司董事會通過115年第三季合併財務報告",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mcExzVXhvcXplbFpIVVZVaHdORXpySkpjUHlnWEVSTnZFY1RVbzMtTTlFV3RSeWFYZ09tVVp5MFVkT3FOclVEMTl6dDFleTNfdERTUERhcGM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-02T08:54:35+00:00"
+    }
+  ]
 }
