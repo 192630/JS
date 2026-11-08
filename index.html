@@ -2681,6 +2681,7 @@ button:active{transform:translateY(1px) scale(.98)}
     </div>
 
     <div class="info-row"><span>法人淨買賣超占成交量</span><b id="institutionVolumeShare">-</b></div>
+    <div id="institutionFlow" class="plain-note">近 5 個交易日法人累計載入中...</div>
     <div id="institutionSummary" class="plain-note"></div>
 
     <div class="plain-note">
@@ -3220,6 +3221,7 @@ button:active{transform:translateY(1px) scale(.98)}
 let stocks = [];
 let institutional = [];
 let institutionalTradeDate = "";
+let institutionalFlow = null;
 let marketHistory = {};
 let marketNews = [];
 let activeEtfHoldings = {};
@@ -3818,6 +3820,19 @@ async function loadStocks(){
 /* ========================================
    法人資料
 ======================================== */
+
+async function loadInstitutionalFlow(){
+  try{
+    const response = await fetch("data/institutional_flow.json?t=" + Date.now());
+    if(!response.ok) throw new Error("institutional_flow.json 載入失敗");
+    const payload = await response.json();
+    institutionalFlow = payload;
+  }catch(error){
+    console.error(error);
+    institutionalFlow = null;
+  }
+  if(currentStockCode) renderInstitutionalFlow(currentStockCode);
+}
 
 async function loadInstitutional(){
 
@@ -8917,6 +8932,18 @@ function showStock(row){
    顯示法人
 ======================================== */
 
+function renderInstitutionalFlow(code){
+  const box = document.getElementById("institutionFlow");
+  if(!box) return;
+  const dates = institutionalFlow && institutionalFlow.dates;
+  const values = institutionalFlow && institutionalFlow.by_code && institutionalFlow.by_code[String(code || "").trim()];
+  if(!institutionalFlow || !Array.isArray(dates) || dates.length !== 5 || dates[4] !== institutionalTradeDate || !Array.isArray(values) || values.length !== 3){
+    box.textContent = "近 5 個交易日法人累計：資料不足或日期尚未對齊。";
+    return;
+  }
+  box.textContent = `${dates[0]}～${dates[4]}（5 個資料日）｜外資 ${formatSigned(values[0])} 股／投信 ${formatSigned(values[1])} 股／自營商 ${formatSigned(values[2])} 股。此為公開買賣超股數加總，並非實際持股或獲利。`;
+}
+
 function showInstitution(row){
 
   const result =
@@ -9106,6 +9133,7 @@ function showInstitution(row){
     institutionalTradeDate && stockDate === institutionalTradeDate && stockVolume > 0
       ? `${v.total > 0 ? "+" : ""}${(v.total / stockVolume * 100).toFixed(2)}%（${institutionalTradeDate}）`
       : "資料日期不同或成交量不足，暫無法比較";
+  renderInstitutionalFlow(currentStockCode);
   const dataDate = institutionalTradeDate || "日期未提供";
   document.getElementById("institutionSummary").textContent =
     `${dataDate}：${direction}；該資料日變動較明顯的是${strongest[0]}（${formatSigned(strongest[1])} 股）。法人籌碼是資料日交易結果，不等於後續股價方向。`;
@@ -10427,6 +10455,7 @@ setupGlobalAlertControls();
 Promise.all([
   loadStocks(),
   loadInstitutional(),
+  loadInstitutionalFlow(),
   loadHistoryProgress(),
   loadMarketNews(),
   loadActiveEtfHoldings(),
