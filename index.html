@@ -8155,7 +8155,7 @@ function getInstitutionValues(row){
 
 function formatFinancialAmount(value){
   const n = Number(value);
-  if(!Number.isFinite(n)) return "尚無資料";
+  if(!hasFinancialValue(value)) return "尚無資料";
   const sign = n < 0 ? "-" : "";
   const absolute = Math.abs(n);
   if(absolute >= 100000){
@@ -8191,13 +8191,17 @@ function formatFinancialPeriod(value){
     : text;
 }
 
+function hasFinancialValue(value){
+  return value !== null && value !== undefined && String(value).trim() !== "" && Number.isFinite(Number(value));
+}
+
 function evaluateFinancialOutlook(item){
   const signals = [
-    {value:Number(item.monthly_mom_percent),positive:"月營收較上月成長",negative:"月營收較上月減少"},
-    {value:Number(item.monthly_yoy_percent),positive:"月營收較去年同期成長",negative:"月營收較去年同期減少"},
-    {value:Number(item.cumulative_yoy_percent),positive:"累計營收較去年同期成長",negative:"累計營收較去年同期減少"},
-    {value:Number(item.net_profit),positive:"最近一期財報維持獲利",negative:"最近一期財報出現虧損"}
-  ].filter(signal => Number.isFinite(signal.value));
+    {rawValue:item.monthly_mom_percent,value:Number(item.monthly_mom_percent),positive:"月營收較上月成長",negative:"月營收較上月減少"},
+    {rawValue:item.monthly_yoy_percent,value:Number(item.monthly_yoy_percent),positive:"月營收較去年同期成長",negative:"月營收較去年同期減少"},
+    {rawValue:item.cumulative_yoy_percent,value:Number(item.cumulative_yoy_percent),positive:"累計營收較去年同期成長",negative:"累計營收較去年同期減少"},
+    {rawValue:item.net_profit,value:Number(item.net_profit),positive:"最近一期財報維持獲利",negative:"最近一期財報出現虧損"}
+  ].filter(signal => hasFinancialValue(signal.rawValue));
 
   let score = 0;
   const reasons = [];
@@ -8221,7 +8225,7 @@ function evaluateFinancialOutlook(item){
 
 function createFinancialSignal(label,value,positiveText,negativeText){
   const number = Number(value);
-  if(!Number.isFinite(number)) return {label,value:"資料不足",className:"neutral"};
+  if(!hasFinancialValue(value)) return {label,value:"資料不足",className:"neutral"};
   if(number > 0) return {label,value:positiveText,className:"positive"};
   if(number < 0) return {label,value:negativeText,className:"cautious"};
   return {label,value:"接近持平",className:"neutral"};
@@ -8523,7 +8527,7 @@ function renderCompanyFinancials(code){
   appendFinancialItem(
     revenueGrid,
     "月增率",
-    Number.isFinite(Number(item.monthly_mom_percent))
+    hasFinancialValue(item.monthly_mom_percent)
       ? (Number(item.monthly_mom_percent) > 0 ? "+" : "") + Number(item.monthly_mom_percent).toFixed(2) + "%"
       : "尚無資料",
     financialChangeClass(item.monthly_mom_percent)
@@ -8531,7 +8535,7 @@ function renderCompanyFinancials(code){
   appendFinancialItem(
     revenueGrid,
     "年增率",
-    Number.isFinite(Number(item.monthly_yoy_percent))
+    hasFinancialValue(item.monthly_yoy_percent)
       ? (Number(item.monthly_yoy_percent) > 0 ? "+" : "") + Number(item.monthly_yoy_percent).toFixed(2) + "%"
       : "尚無資料",
     financialChangeClass(item.monthly_yoy_percent)
@@ -8540,7 +8544,7 @@ function renderCompanyFinancials(code){
   appendFinancialItem(
     revenueGrid,
     "累計年增率",
-    Number.isFinite(Number(item.cumulative_yoy_percent))
+    hasFinancialValue(item.cumulative_yoy_percent)
       ? (Number(item.cumulative_yoy_percent) > 0 ? "+" : "") + Number(item.cumulative_yoy_percent).toFixed(2) + "%"
       : "尚無資料",
     financialChangeClass(item.cumulative_yoy_percent)
@@ -8562,7 +8566,7 @@ function renderCompanyFinancials(code){
   appendFinancialItem(
     profitGrid,
     "EPS",
-    Number.isFinite(Number(item.eps))
+    hasFinancialValue(item.eps)
       ? Number(item.eps).toFixed(2) + " 元"
       : "尚無資料",
     financialChangeClass(item.eps)
