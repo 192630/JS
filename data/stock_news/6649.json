@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-02T06:55:48.979562+08:00",
+  "updated_at": "2026-11-09T03:51:34.897195+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6649",
   "name": "台生材",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-生醫》台生材10月營收為0.12億元，年減34.12%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnJ3amhfVGZUOWstU2FZOXBIa0pUWEl4VTVDZm1VMjBORGREUWEwZGd5eEo5cklBRjNNR2tXdWVBM0d6VXhGbUM5ZGMzRzhjT01xU0VvdmJBM3IxTkJGTHdXQWNUZTBLTk9JekxmODR2Z3U5Tl9BNXhsMGxUeEg3T2d6ZDlWaEZF?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T09:22:00+00:00"
+    },
+    {
+      "title": "財報：台生材(6649)115/01/01～115/09/30歸屬母公司淨利426萬元，EPS 0.10元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEZ5OHhEaGtoYW9GcUtzSC03UmlSQ1lRa0xqcWxRWHFzTVMtRlRHY3FiZXUzN1lDc0JTSlM1TmVQSnBhY3lOUGJmTGtVRGo1eXNGR3pLZnQtVTJ5Ty1tWVJ3ekdKMFN5OXJYS3JjUUpnZU9HOVpJWV9JRW05OE5Bd2lCOG9Kd056?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-04T23:03:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-02T06:55:30.891495+08:00",
+  "updated_at": "2026-11-09T03:51:15.976498+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6569",
   "name": "醫揚",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "《業績-生醫》醫揚10月營收為0.83億元，年減9.48%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR084bzNua0F2aHhqMzYzSmFaZnl0TVFFMnhPbXBBN1M4RVliM21YcE5BYkpfMXgxSVR4dE9QazdDZlNVME9IbTkwNmxMRmlKeVVoZkVyV3YzR2RnZ1FISXJ4cnRseWhxdm40Ulp2ZVBqOEw4M3lWbHJDS3RKYW44aGtXQ0lwVFR4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T06:02:00+00:00"
+    },
+    {
+      "title": "醫揚攜手柏瑞醫打造高雄市立小港醫院醫療AI應用 助攻醫療影像AI落地",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yR2p5RGM3ZUpJZjZYdjEzcjZSLUJ2cnNGMHNnT2RvR0JINk5yR3JvZjVtQWI2MVZJLUsxOTVWOHh0MnM2eHRWMFRpV3R3S0k?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-03T01:57:40+00:00"
+    },
+    {
+      "title": "《櫃買市場券商買超比前30名 3-1》智晶(51.25)、醫揚(41.15)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1R4QmRiLTZzc0M0NVhiZ2tna21leC1fWUJsZHJvbFdMOThWalotMF9JVXU3MWJhTllMQXZOWlFwUnNXYjE3eVlwc1ZveXNLVmU3dUhYS2lqMGNyY0xvWVpHZUtWWmlKU2FySjB6c01PTk85TEJlTnhKLTFCUGFXbm5lQjlJSW0w?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-19T07:00:00+00:00"
+    }
+  ]
 }

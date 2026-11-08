@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-02T06:55:37.362937+08:00",
+  "updated_at": "2026-11-09T03:51:22.948598+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6591",
   "name": "動力-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "旺季拉貨升溫，動力-KY 9月營收寫今年次高",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOa05Ca0RWWVNwNWh5QzlNaFdmbnczbjJYc2Y3cTE5cDNnMTZIZXVnbFdZT2JvYVA2ZUxoWV9vSm1RSXZnQ2stX3RRZ2I4UnIzUVh0eFVoNkJhMHZ0SzVESU1TMDhuckVqYVp5RUhiY1U2SUVTdkJ5djFBSnN1V3h3SnlNNjU5ZFE4ZkRDUmE2ZG9FcTJaWWN1QjAyRHBEV2JiUnltSFllS0NsS3Naa1RLWWJUVVdNaXYzNzJxQVI1V2tsOHBrQWRyNXNBSWtKT0ZJbHdEcDZyVzl3UDRSWmtBQ2pWVGo3eFJGQ1NjUnRhMTZ4UTdZN1pyZm5GSDk1X2NGU1J2YTRXY2RweUowYml4dXpmYlVKQzBGQUR0RUExM3dJSFk?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-11T07:00:00+00:00"
+    }
+  ]
 }
