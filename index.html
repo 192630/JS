@@ -653,11 +653,13 @@ button{
   margin-top:4px;
 }
 
-.market-date-controls{display:flex;align-items:center;gap:6px;flex-shrink:0}
-.market-date-step{min-height:44px;padding:8px 10px;border:1px solid var(--mori-border,#c5c7bf);border-radius:10px;background:rgba(255,250,243,.9);color:var(--mori-ink,#3f464c);font-size:13px;font-weight:700;font-family:inherit;cursor:pointer;white-space:nowrap}
+.market-date-controls{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:6px;min-width:0;width:min(100%,390px)}
+.market-date-step,.market-date-input{min-height:44px;padding:8px 10px;border:1px solid var(--mori-border,#c5c7bf);border-radius:10px;background:rgba(255,250,243,.9);color:var(--mori-ink,#3f464c);font-size:14px;font-weight:700;font-family:inherit}
+.market-date-step{cursor:pointer;white-space:nowrap}
+.market-date-input{width:100%;min-width:0;cursor:pointer;color-scheme:light}
 .market-date-step:disabled{opacity:.45;cursor:not-allowed}
-.market-date-step:focus-visible,.heat-date:focus-visible{outline:3px solid #789485;outline-offset:2px}
-@media(max-width:620px){.market-heat-head{flex-direction:column}.market-date-controls{display:grid;grid-template-columns:auto minmax(0,1fr) auto;width:100%}.market-date-controls .heat-date{width:100%;min-width:0}}
+.market-date-step:focus-visible,.market-date-input:focus-visible{outline:3px solid #789485;outline-offset:2px}
+@media(max-width:620px){.market-heat-head{flex-direction:column}.market-date-controls{width:100%}}
 .heat-date{
   flex-shrink:0;
   background:#f1f5f9;
@@ -2746,13 +2748,11 @@ button:active{transform:translateY(1px) scale(.98)}
   <div class="market-heat-head">
     <div>
       <div class="heat-title">市場熱門成交</div>
-      <div class="heat-subtitle">依最近交易日成交股數排序</div>
+      <div class="heat-subtitle">依所選日期的成交股數排序</div>
     </div>
     <div class="market-date-controls">
       <button class="market-date-step" type="button" data-market-date-step="1" aria-label="查看較早交易日">◀ 較早</button>
-      <select id="marketTopDate" class="heat-date" aria-label="選擇成交量排行交易日">
-        <option>資料載入中...</option>
-      </select>
+      <input id="marketTopDate" class="market-date-input" type="date" aria-label="選擇成交量排行日期">
       <button class="market-date-step" type="button" data-market-date-step="-1" aria-label="查看較新交易日">較新 ▶</button>
     </div>
   </div>
@@ -2765,7 +2765,7 @@ button:active{transform:translateY(1px) scale(.98)}
   </button>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>成交量代表市場交易熱度，不等於後續一定上漲。
+    <strong>研究筆記：</strong>成交量代表市場交易熱度，不等於後續一定上漲。
   </div>
 
 </section>
@@ -2784,9 +2784,7 @@ button:active{transform:translateY(1px) scale(.98)}
     </div>
     <div class="market-date-controls">
       <button class="market-date-step" type="button" data-market-date-step="1" aria-label="查看較早交易日">◀ 較早</button>
-      <select id="marketFullDate" class="heat-date" aria-label="選擇成交量排行交易日">
-        <option>資料載入中...</option>
-      </select>
+      <input id="marketFullDate" class="market-date-input" type="date" aria-label="選擇成交量排行日期">
       <button class="market-date-step" type="button" data-market-date-step="-1" aria-label="查看較新交易日">較新 ▶</button>
     </div>
   </div>
@@ -2795,7 +2793,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="marketFullList" class="market-ranking-list"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>排行使用 TWSE 盤後資料；成交量以「張」顯示，1 張等於 1,000 股。
+    <strong>研究筆記：</strong>排行使用 TWSE 盤後資料；成交量以「張」顯示，1 張等於 1,000 股。
   </div>
 
 </section>
@@ -2812,7 +2810,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="industryHeatList" class="industry-heat-list"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>產業漲跌幅為產業內有行情個股的等權平均，用來觀察整體方向；不是產業指數，也不代表每一檔股票都同方向。
+    <strong>研究筆記：</strong>產業漲跌幅為產業內有行情個股的等權平均，用來觀察整體方向；不是產業指數，也不代表每一檔股票都同方向。
   </div>
 
 </section>
@@ -2846,7 +2844,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="etfDailySummary" class="etf-summary-grid"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>這是依公開資料自動產生的規則式摘要，不是漲跌預測，也不構成投資建議。
+    <strong>研究筆記：</strong>這是依公開資料自動產生的規則式摘要，不是漲跌預測，也不構成投資建議。
   </div>
 
 </section>
@@ -2869,7 +2867,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="etfDirectoryList" class="etf-directory-list"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>點選任一 ETF，可查看介紹、官方公開持股、行情與相關新聞。
+    <strong>研究筆記：</strong>點選任一 ETF，可查看介紹、官方公開持股、行情與相關新聞。
   </div>
 
 </section>
@@ -2892,7 +2890,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="etfCompareResult"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>重疊率＝共同持股檔數 ÷ 兩檔 ETF 持股聯集檔數；只能反映最近公開投資組合，不代表兩檔 ETF 的完整投資策略完全相同。
+    <strong>研究筆記：</strong>重疊率＝共同持股檔數 ÷ 兩檔 ETF 持股聯集檔數；只能反映最近公開投資組合，不代表兩檔 ETF 的完整投資策略完全相同。
   </div>
 
 </section>
@@ -2909,7 +2907,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="etfMatrixStatus" class="status">持股熱力矩陣載入中...</div>
   <div id="etfMatrixTable" class="etf-matrix-scroll"></div>
   <div class="heat-note">
-    <strong>今日筆記：</strong>名次依各 ETF 最新公開持股權重排列；紅色為最近交易日上漲、綠色為下跌。持股權重不等於當日買進量，行情為盤後資料。
+    <strong>研究筆記：</strong>名次依各 ETF 最新公開持股權重排列；紅色為最近交易日上漲、綠色為下跌。持股權重不等於當日買進量，行情為盤後資料。
   </div>
 </section>
 
@@ -2943,7 +2941,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="etfHoldingHeatList" class="etf-holding-heat-list"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>合計權重是各 ETF 公開權重相加，用來觀察主動 ETF 對個股的整體配置集中度；不同 ETF 規模不同，因此不等於市場實際買進金額。
+    <strong>研究筆記：</strong>合計權重是各 ETF 公開權重相加，用來觀察主動 ETF 對個股的整體配置集中度；不同 ETF 規模不同，因此不等於市場實際買進金額。
   </div>
 
 </section>
@@ -2956,7 +2954,7 @@ button:active{transform:translateY(1px) scale(.98)}
   <div id="etfIndustryHeatList"></div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>產業合計權重是各 ETF 公開持股權重相加，用來觀察整體配置方向；不等於市場買進金額，也不代表產業指數漲跌。
+    <strong>研究筆記：</strong>產業合計權重是各 ETF 公開持股權重相加，用來觀察整體配置方向；不等於市場買進金額，也不代表產業指數漲跌。
   </div>
 
 </section>
@@ -2985,7 +2983,7 @@ button:active{transform:translateY(1px) scale(.98)}
   </div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>共識代表多檔 ETF 公開投資組合出現相同方向的變化；這是研究線索，不代表未來股價一定上漲或下跌。
+    <strong>研究筆記：</strong>共識代表多檔 ETF 公開投資組合出現相同方向的變化；這是研究線索，不代表未來股價一定上漲或下跌。
   </div>
 
 </section>
@@ -3016,7 +3014,7 @@ button:active{transform:translateY(1px) scale(.98)}
   </div>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>連續增加／減少是不同日終公開投資組合的股數方向，不等同可確認的盤中買進或賣出，也不代表未來股價一定上漲或下跌。
+    <strong>研究筆記：</strong>連續增加／減少是不同日終公開投資組合的股數方向，不等同可確認的盤中買進或賣出，也不代表未來股價一定上漲或下跌。
   </div>
 
 </section>
@@ -3064,7 +3062,7 @@ button:active{transform:translateY(1px) scale(.98)}
   </button>
 
   <div class="heat-note">
-    <strong>今日筆記：</strong>目前使用 TWSE 盤後每日行情，
+    <strong>研究筆記：</strong>目前使用 TWSE 盤後每日行情，
     不代表盤中即時報價。
   </div>
 
@@ -3264,7 +3262,7 @@ let companyFinancialsReady = false;
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
 let selectedActiveEtfDate = "";
-let selectedMarketDate = "__latest__";
+let selectedMarketDate = getTaiwanTodayISO();
 let marketHistoryDatesCache = null;
 let newsPageStart = 0;
 let currentPage = "home";
@@ -6297,58 +6295,55 @@ function getMarketHistoryDates(){
 }
 
 
-function renderMarketDateOptions(){
+function getTaiwanTodayISO(){
+  const parts = new Intl.DateTimeFormat("en-US",{
+    timeZone:"Asia/Taipei",year:"numeric",month:"2-digit",day:"2-digit"
+  }).formatToParts(new Date());
+  const value = type => parts.find(part => part.type === type)?.value || "";
+  return `${value("year")}-${value("month")}-${value("day")}`;
+}
 
-  const selects = [
+function getEffectiveMarketDate(requestedDate){
+  const latest = normalizeHistoryDate(getLatestMarketDate());
+  const dates = [...new Set([latest,...getMarketHistoryDates()])]
+    .filter(date => /^\d{4}-\d{2}-\d{2}$/.test(date))
+    .sort((a,b) => b.localeCompare(a));
+  return dates.find(date => date <= requestedDate) || "";
+}
+
+function renderMarketDateOptions(){
+  const inputs = [
     document.getElementById("marketTopDate"),
     document.getElementById("marketFullDate")
   ].filter(Boolean);
-
-  if(!selects.length) return;
-
-  const latestLabel = getLatestMarketDate();
-  const historyDates = getMarketHistoryDates()
-    .filter(date => formatStockDate(date) !== latestLabel);
-
-  selects.forEach(select => {
-    select.innerHTML = "";
-
-    const latest = document.createElement("option");
-    latest.value = "__latest__";
-    latest.textContent = latestLabel;
-    select.appendChild(latest);
-
-    historyDates.forEach(date => {
-      const option = document.createElement("option");
-      option.value = date;
-      option.textContent = formatStockDate(date);
-      select.appendChild(option);
-    });
-
-    const available = [...select.options].some(option => option.value === selectedMarketDate);
-    if(!available) selectedMarketDate = "__latest__";
-    select.value = selectedMarketDate;
-
-    select.onchange = () => {
-      selectedMarketDate = select.value;
+  if(!inputs.length) return;
+  const today = getTaiwanTodayISO();
+  inputs.forEach(input => {
+    input.max = today;
+    input.value = selectedMarketDate;
+    input.onchange = () => {
+      if(!/^\d{4}-\d{2}-\d{2}$/.test(input.value)) return;
+      selectedMarketDate = input.value;
       renderMarketRanking();
     };
   });
 
-  const dateValues = [...selects[0].options].map(option => option.value);
-  const currentIndex = dateValues.indexOf(selectedMarketDate);
+  const latest = normalizeHistoryDate(getLatestMarketDate());
+  const dates = [...new Set([latest,...getMarketHistoryDates()])]
+    .filter(date => /^\d{4}-\d{2}-\d{2}$/.test(date))
+    .sort((a,b) => b.localeCompare(a));
+  const effective = getEffectiveMarketDate(selectedMarketDate);
+  const currentIndex = dates.indexOf(effective);
   document.querySelectorAll("[data-market-date-step]").forEach(button => {
     const nextIndex = currentIndex + Number(button.dataset.marketDateStep);
-    button.disabled = nextIndex < 0 || nextIndex >= dateValues.length;
+    button.disabled = currentIndex < 0 || nextIndex < 0 || nextIndex >= dates.length;
     button.onclick = () => {
       if(button.disabled) return;
-      selectedMarketDate = dateValues[nextIndex];
+      selectedMarketDate = dates[nextIndex];
       renderMarketRanking();
     };
   });
-
 }
-
 
 function getMarketVolumeRanking(date = "__latest__"){
 
@@ -6506,9 +6501,12 @@ function makeMarketRankRow(item,index){
 function renderMarketRanking(){
 
   renderMarketDateOptions();
-  const currentRanking = getMarketVolumeRanking(selectedMarketDate);
+  const effectiveDate = getEffectiveMarketDate(selectedMarketDate);
+  const latestDate = normalizeHistoryDate(getLatestMarketDate());
+  const rankingDate = effectiveDate === latestDate ? "__latest__" : effectiveDate;
+  const currentRanking = effectiveDate ? getMarketVolumeRanking(rankingDate) : [];
   const historyDates = getMarketHistoryDates();
-  const previousDate = findPreviousHistoryDate(selectedMarketDate,currentRanking,historyDates);
+  const previousDate = findPreviousHistoryDate(rankingDate,currentRanking,historyDates);
   const previousRanking = previousDate ? getMarketVolumeRanking(previousDate) : [];
   const ranking = previousDate
     ? attachRankMovement(currentRanking,previousRanking)
@@ -6530,14 +6528,15 @@ function renderMarketRanking(){
     list.innerHTML = "";
 
     if(!ranking.length){
-      status.textContent = "⚠️ 找不到可用的成交量資料";
+      status.textContent = effectiveDate ? "⚠️ 該交易日沒有可用的成交量資料" : "⚠️ 所選日期以前尚無可用交易資料";
       return;
     }
 
     const visible = ranking.slice(0,config.limit);
-    const shownDate = date.selectedOptions[0]?.textContent || getLatestMarketDate();
-    status.textContent = `✅ ${shownDate} 已整理 ${visible.length} 檔成交量排行`;
-    date.value = selectedMarketDate;
+    const shownDate = formatStockDate(effectiveDate);
+    const chosenDate = formatStockDate(selectedMarketDate);
+    status.textContent = `✅ ${shownDate} 已整理 ${visible.length} 檔成交量排行` +
+      (effectiveDate === selectedMarketDate ? "" : `（所選 ${chosenDate} 無交易資料，顯示最近可用交易日）`);
 
     visible.forEach((item,index) => {
       list.appendChild(makeMarketRankRow(item,index));
