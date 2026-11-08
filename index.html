@@ -2561,12 +2561,13 @@ button:active{transform:translateY(1px) scale(.98)}
       <div class="research-item"><small>短線活躍度</small><b id="shortActivity">-</b></div>
       <div class="research-item"><small>最新 K 棒</small><b id="candlePattern">-</b></div>
       <div class="research-item"><small>支撐／壓力（V2）</small><b id="supportResistance">-</b></div>
+      <div class="research-item"><small>下一交易日 CDP 參考</small><b id="cdpReference">-</b></div>
     </div>
 
     <div id="ruleSummary" class="research-summary"></div>
 
     <div class="plain-note">
-      以上依歷史價格與成交量自動計算，屬於規則式研究說明，不保證未來漲跌。短線活躍度只描述量能、日內振幅與 K 棒實體是否明顯，不等於適合當沖或建議交易。壓力支撐 V2 使用最近最多 120 個交易日的局部高低點、重複碰觸區與成交量加權判讀。
+      以上依歷史價格與成交量自動計算，屬於規則式研究說明，不保證未來漲跌。短線活躍度只描述量能、日內振幅與 K 棒實體是否明顯，不等於適合當沖或建議交易。壓力支撐 V2 使用最近最多 120 個交易日的局部高低點、重複碰觸區與成交量加權判讀。CDP 以所列資料日的最高 H、最低 L、收盤 C 計算下一交易日參考：CDP=(H+L+2C)/4；AH=CDP+(H-L)、NH=2CDP-L、NL=2CDP-H、AL=CDP-(H-L)。價位僅供研究，非買賣建議。<a href="https://forum.xq.com.tw/thread/xq%E7%9A%84cdp%E5%95%8F%E9%A1%8C/" target="_blank" rel="noopener noreferrer">CDP 公式來源</a>。
     </div>
 
   </div>
@@ -6907,6 +6908,18 @@ function describeCandle(row){
 }
 
 
+function calculateCDPReference(history){
+  if(!Array.isArray(history) || !history.length) return null;
+  const row = history[history.length - 1];
+  const high = getHistoryNumber(row,"high");
+  const low = getHistoryNumber(row,"low");
+  const close = getHistoryNumber(row,"close");
+  if(!(high > 0 && low > 0 && close > 0) || high < low || close > high || close < low) return null;
+  const cdp = (high + low + 2 * close) / 4;
+  const range = high - low;
+  return {date:row.date || row.Date || "",ah:cdp + range,nh:2 * cdp - low,cdp,nl:2 * cdp - high,al:cdp - range};
+}
+
 function setResearchAnalysis(history,ma5,ma20,ma60){
 
   const latest = history[history.length - 1];
@@ -7006,6 +7019,10 @@ function setResearchAnalysis(history,ma5,ma20,ma60){
   document.getElementById("shortActivity").textContent = activityText;
   document.getElementById("candlePattern").textContent = describeCandle(latest);
   document.getElementById("supportResistance").textContent = levelText;
+  const cdpLevels = calculateCDPReference(history);
+  document.getElementById("cdpReference").textContent = cdpLevels
+    ? `${cdpLevels.date || "最新日 K"} → 下一交易日｜AH ${cdpLevels.ah.toFixed(2)}／NH ${cdpLevels.nh.toFixed(2)}／CDP ${cdpLevels.cdp.toFixed(2)}／NL ${cdpLevels.nl.toFixed(2)}／AL ${cdpLevels.al.toFixed(2)}`
+    : "最新日 K 高低收資料不足，暫無法計算";
   document.getElementById("ruleSummary").textContent =
     `${shortText}；${midText}。${structureText}。這是依目前資料產生的規則式摘要，不是買賣建議。`;
 
