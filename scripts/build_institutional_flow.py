@@ -48,13 +48,27 @@ def build(data_dir):
                   for index in (4, 10, 11)]
         if any(value is None for series in values for value in series):
             continue
-        by_code[code] = [sum(series) for series in values]
+        streaks = []
+        for series in values:
+            latest = series[-1]
+            if latest == 0:
+                streaks.append(0)
+                continue
+            sign = 1 if latest > 0 else -1
+            count = 0
+            for value in reversed(series):
+                if value * sign <= 0:
+                    break
+                count += 1
+            streaks.append(sign * count)
+        by_code[code] = [sum(series) for series in values] + streaks
 
     return {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "dates": dates,
         "sessions": 5,
-        "fields": ["foreign_net_shares", "trust_net_shares", "dealer_net_shares"],
+        "fields": ["foreign_net_shares", "trust_net_shares", "dealer_net_shares",
+                   "foreign_streak", "trust_streak", "dealer_streak"],
         "count": len(by_code),
         "by_code": by_code,
     }
