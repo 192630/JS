@@ -322,6 +322,9 @@ jobs:
           )
           PY
 
+      - name: Build five-session institutional flows
+        run: python scripts/build_institutional_flow.py
+
       # ============================================================
       # 下載上市／上櫃公司月營收與最新季報獲利
       # 月營收與季報期間不同，前端必須分開標示
@@ -746,6 +749,7 @@ jobs:
           git add data/stocks.json
           git add data/institutional.json
           git add data/institutional_history
+          git add data/institutional_flow.json
           git add data/company_financials.json
           git add data/company_financials_history
           git add data/market_history.json
