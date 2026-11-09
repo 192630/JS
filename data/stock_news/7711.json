@@ -1,21 +1,69 @@
 {
-  "updated_at": "2026-11-03T05:48:36.024287+08:00",
+  "updated_at": "2026-11-09T14:55:19.488401+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7711",
   "name": "永擎",
-  "count": 5,
+  "count": 12,
   "news": [
+    {
+      "title": "7711 永擎- 當你懂人心❤️在股市就能無所不能- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fWWdFcU5YZjRTSl91bDIyWnNwTk9GTlJ6dEpNQmMzY2hTRW5QQ2c2Q3VJTkNHa1dQVE1SQWk0VHRHb3lhYU8wcTlaOWw3VzRpV0pfbkcyVlI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T11:40:37+00:00"
+    },
+    {
+      "title": "【10:48 即時新聞】永擎(7711) 盤中走強攻高，AI 伺服器題材續成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWm9rcVVId1F6cURaNFVtazFhYjdLQzJPNG1LeFNYS0lYTS1YSW41VUQ1cWNWVVJhQkRLbDd6QWZJYWFmUDBla0lqS2UxY01vOEhnajkzQUgyVHFvLTJBcURXWGlSWExEUzlQT0JrTjkxcEU2WmdRTVpKNWxfNzNiQXpkU29NSnpzZk5MVFRR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-05T02:48:51+00:00"
+    },
+    {
+      "title": "7711 永擎- 財報公布…… - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZNG9ZU0xXWVJ5NXlTSjZZdk52cW9VRHY3Q2Q4MmJlWXpHRHR5YnlaMVdFZXF4VHExVFR5YTRfLTJXbEstcjZzYUlnRDZ4cWRVU1IyNnM5Zjg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-04T11:06:48+00:00"
+    },
+    {
+      "title": "△個股：永擎(7711)Q3大賺近兩股本，一魚三吃，集團三劍客衝漲停",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1h2cDBvRXlQUFNnTmNVV0hBeEhVcHZNYmhnM0dUMXVjbGlUVHFfbnZ5QjEwMTNnQ1EycUw3SDZVVFJhTU9pNDBEOUZGQUNWbUQxdDBhTGx6TEJ2bnRKWWJPOV9JclRmWjYxUHBUUWtaZzlxaWZtbnEtNUtpU3YwRG9zMTNxWTNL?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-04T03:36:00+00:00"
+    },
+    {
+      "title": "永擎Q3獲利創高，動能料延續至明年",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLXIyTzFGbTJNRjdMUTJOSFZpOVNMWkg0NTdpUlNOUWMtZE1qOUNzWnd2aHlCWnBmZjdJQUYyNFE0NnBvakxqUWNYZmU1VDc5aElYNGo3XzJlTXFieS1rV0FKbk9YTGtFOVhZejZWZ2dURU94ZlgxVW5aZEUwYVZCcXFiWExfZThnbHdabFVjZEtKWGNxZ0kyQzJIN3EyTmNHTERSRTBEN0s3cXJjcF93WGctU1JiTXJpM0NEUFBnbmZONU9ZemNuRXozMm41aGdWX3VsczNORlc5LXlWSXZNZ3RWYnpkNi10VzcxQlg0ZDdPc2h1ejNyTThPMmJBRGhGUjhuZmRlUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-04T02:43:23+00:00"
+    },
+    {
+      "title": "一季賺近2個股本！永擎EPS衝19.81元 今股價強攻漲停",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeXo1VnJsWkFHZHZqTEYycmdSVVRpangtMDBHbjBrenR2Q0FYNXM0QkZzWm5HOE9wN0lTdFo1UnlmQWJ3TjRZMmg5M3pLbjg?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-11-04T02:01:00+00:00"
+    },
+    {
+      "title": "【09:07 即時新聞】永擎(7711)亮燈漲停，主力短線回補成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGNXejdJYUhGSGJJS3dLN0JoTGVXanZfckppSmRhVTNxMGNxSUZaWWMxU2lDVUdQd1BXV0t0TlVnWVI5d1pLNWR1eG5CM0l6bnE2RUEwTWdGNWNXbTZ2QTRCVl9nTTBiMmVhQy1nZFFnLXhpakdqN1pfcWJ4UFZ4S3pxTFQ3VmVjLVFTYXpB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-04T01:08:15+00:00"
+    },
+    {
+      "title": "【10:23 即時新聞】永擎(7711)股價攀高走強，市場聚焦AI伺服器成長動能",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR25TdHdpN19HRFVhNWZDWC1kT21CWnkzaUU5M1Q5U3BLVV9odDBrbnNpWW4ydW5rdUt6REtfRnZkXzg3Mlo3Y0lwbFJqeGhMSXcxaTRVTUdRbE1lREtiSGRJeGNHSjZybnR6aklneUZnN2hGR2NvdnhWYlRwaVgya3dNX2ZqTWtvd0thSVZR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-03T02:23:58+00:00"
+    },
+    {
+      "title": "7711 永擎- 永擎上季EPS 19.81 元 AI 伺服器需求成長、客戶擴大採購挹注營運表現- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zLVlBR09iR25SSGREbFd2M3U5R08zZDg5NXh4YkJtM3RnVlNIclYyMU04cFo0aTl0eHJtLUIzS1BFWEo1MVNpMXlielBVZGFSOTdETm5DX1U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-03T01:10:37+00:00"
+    },
     {
       "title": "永擎(7711) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MTBPTlZVeXZmNkM5Q2xMaFpsS2R0UEFXZFRUNGI3OGJuN3hKeVFGN1RjbWNOSXNDNFZkcm4xNC1zSXdkYkpWdk1xRVdyQU05dzJn?oc=5",
       "source": "CMoney",
       "published_at": "2026-10-31T14:00:40+00:00"
-    },
-    {
-      "title": "7711 永擎- 【下週觀察】AI伺服器題材升溫，「伺服器板卡廠」連3天上漲？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNUxNNmY5S2NJZkFKMnVYRjhrWEVpZ1NLd3NOMTFsRG9acTdWT1dGODY1NVItZURydjUtOWljXzNoM3NjRjJRS21lZlJOVUx3cW8tUnQweXY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-26T13:51:25+00:00"
     },
     {
       "title": "【09:35 即時新聞】永擎(7711) 強攻漲停，AI 伺服器題材再度點火",
@@ -28,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEEzSzVvTFNqU1NRcWExTDBQUDcxX1FnTlExX1dNc2w3Z3ZzTTVqYklkYk9BSkY3T1VhbXNXMEN4bHZFZGRneUtXOFY0UzhtVzZVQkFjUXhBWDF3RlZwR1pvLW0yZ3FUbFRnc1dhdDJycDdJeWxtRVFiTFNFVEdGX0gyNzNHLUNuc3AyVmV3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-10-20T07:00:00+00:00"
-    },
-    {
-      "title": "【12:06 即時新聞】永擎(7711) 股價走強站上648元，AI伺服器題材續受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc21nRzZvT3B2SU9tcGJjdUt4dmN0MS1RVWpkSjNMczVrMU1JcHhfMDk5WGxuSS0tODIzZ3JENXNCQ2tTY2YxTTRFZUk3Q1JrZTVfa3lGQzhCN0pjNjlEQzdCVGE0dHRNS1d4Rk0xcjJFdm1aa1VoekJlS3ZDNllfYk1tdERHdU1WSkFZZmR3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-05T07:00:00+00:00"
     }
   ]
 }
