@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-03T05:48:43.753117+08:00",
+  "updated_at": "2026-11-10T01:41:14.265299+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7743",
   "name": "金利食安",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "金利食安拚海外佈局，日本大型通路為明年動能",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOQ1BHejlRWDF4VmlRWG9hYldmMzVKUHhaRkdsWkJpdE5qd1pSSWg5cXN1Uml6X3RLSWxtOG1tSWRqQ3ZQRnFZYm5xSDJvdTlPeEVQcjhuWHhEY0pVdGprMmNsQ3RFM1RUYnBmQWNIQkROU1U4ZmFLV0pDcHJ2X2tnT0xUbmcxenctLXN4d2FLZktFSEt5SXBfMUpLb0d4VGdVeWlEVDhrbGRvOGFuRko3aW16aklrRFVDdzF6U1RaanpCa0YzRXpxNEJXX3V6TzNaZktzVTgtUmhWUnhacTRoeUVpdHZMYVQzNEtfX2tycnR3dVpVbmVsZWZDZHBubHVFdFZOcGxLb1lEOWZXOFdabHZ2SkZmUUh2bGpMMklfZmdhdVctbHRRWkhGcjYwT2dmRVkwbnJMY2UxRHZLR200ZnhWUHBOX05XdmFTUA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-03T05:44:40+00:00"
+    }
+  ]
 }

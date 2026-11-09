@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-03T05:48:48.260409+08:00",
+  "updated_at": "2026-11-10T01:41:19.077506+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7767",
   "name": "仁大資訊",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "台股狂瀉千點 仁大資訊早盤漲停收盤跌停 追高1張慘賠1.16萬",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yY0M2SWNzYlVKTHRMVjJyMGNvYW9MSUZQLTFNek1LdEhWeHBuNFREVHlwaFJpZUttOHVYVEZ4RzZuLThCRHRIS0hfSllzdTlzaXhKYlRDOUN0RXJzaHo4VXRtVl93ZHAwSXRmWGNvbmdIRmIzNHNRc0JB?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-05T12:12:02+00:00"
+    },
+    {
+      "title": "【09:35 即時新聞】仁大資訊(7767)亮燈漲停，短線多方動能成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHBqbHJuTGxnTlhuTFplLUxvNTEwbXJHWHlBZVh4SHh2TXdXb1hub0d6bTFwZmVaeHY0WUpVMUIydzNxazYzc1d5Yk9Qb1ZjUld5ajZDU1BoYU91Y0FpWXpubXE3SDlobVhtVnR6dVNFUWV6VVp4MmI2b25JZVlOMXhLMDVCcTVlb0RUUVF3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-04T01:38:13+00:00"
+    }
+  ]
 }

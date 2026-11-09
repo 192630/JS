@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-03T05:49:02.730725+08:00",
+  "updated_at": "2026-11-10T01:41:33.379577+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7835",
   "name": "永悅健康-創",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《上櫃盤後成交量前30名（6-6）》信昌電陶(7835)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSndsMENwYVVVWXQ5aExlOE5BaVVHVlZDeHZsNHlDZ2M3ZkNTS2VoUC12RURQTkFiOU4zeFFkdWlaZVNFT1hoSXFpaUlQRzhkUUdlelBJdEREM0NncGJOcEUwcXlUUFVUNzY5bVN0UjV0eGJjU2VZZnEwN2lCQUwxeWdabTg0RUE1?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-28T08:57:00+00:00"
+    }
+  ]
 }
