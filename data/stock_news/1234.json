@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-04T08:42:42.620533+08:00",
+  "updated_at": "2026-11-11T07:34:22.268099+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1234",
   "name": "黑松",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1234 黑松- 58金高×SNAPPP攜手翻玩經典聯名即可拍今起限量登場- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2ZWk1Ry1QSWpUYmt6QnhYU1Y0RXcwaU5jc2Y0YjQwLURjdlhWNFFFMUhuT0Fmb2tyLVRacnFTMDBXME1qYkV3MkhKMXpmeVFnZkFEQTBESHk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T07:07:23+00:00"
+    }
+  ]
 }

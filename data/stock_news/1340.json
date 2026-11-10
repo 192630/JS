@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-04T08:42:58.697490+08:00",
+  "updated_at": "2026-11-11T07:34:38.519657+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1340",
   "name": "勝悅-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "勝悅-KY 115年10月營收861萬、年增181.43%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlX0VvcGtxd0Y3dTN3TU9DY3FBbDBrcXVNd3NQZVJwZG5YbDF1MFZSSjAwd1VKU3hPQm9NNGlsY2tTZ0dPX1IxRVRWR1BSN0ZEMTFWbE1oZ2w?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T14:02:19+00:00"
+    },
+    {
+      "title": "營收速報 - 勝悅-KY(1340)10月營收861萬元年增率高達181.43％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lb3NPN0Z1ZUZjVW1nUHFpcjF3M1AyN0NBQVVEbTZWanhVa3NNaXF6SkVValZKY293X0tkNkZHRWhwRjlUZnVrQmtYLWE0VHQ0UF8zbFV2aTdsaXJMUWZxenUyVEFUUElZR0lsamUtT0hiejNkdHc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-09T11:20:00+00:00"
+    }
+  ]
 }

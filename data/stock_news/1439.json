@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-04T08:43:07.609279+08:00",
+  "updated_at": "2026-11-11T07:34:47.543870+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1439",
   "name": "雋揚",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "營收速報 - 雋揚(1439)10月營收5,799萬元年增率高達1155.99％",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1bzVTbnhIblZLWFFkaHlPZklxMkVqbVF3Vk5HMS1pQWJ5R2JWZ0R4LVBsT3Z5dXhyZFRMQnN4eEJaOFgzb2Vxb19DcE9WTWM?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-09T10:51:03+00:00"
+    },
+    {
+      "title": "營收速報 - 雋揚(1439)10月營收5,799萬元年增率高達1155.99％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhUmJnYThyeUZyMHhSTkZ2SHNjcVFYWldDekg2THNMZDhTSHFGNm1DdU53ZFh6djAzMDhtcUNZWXplMk5aQkpPSnk3WUhob1BMb2RpQ3pUSWY2dFdKRlU3NDl1UlFjdThUZ0xEejF4VWhsaTg5X1E?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-08T18:51:00+00:00"
+    },
     {
       "title": "雋揚國際股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1drbzlNczZnVEZzTndqQ210TTVGcGNBeDAySWxJcFFObzlPZEc0aTFUclB2S0s4MUJubVd3Yi0yVDFPVWROckhVVkVYenNGLWl5dTA5RDdETzZVWnZRLVNRNUExRWhPRFJOQTIxRlQwSW9ubjJncEJCSGVCbUZQbm1yZTBJS2kzbEg2QVEwaGtxcy1sc3Nj?oc=5",
       "source": "MoneyDJ",
-      "published_at": "2026-10-30T09:04:00+00:00"
-    },
-    {
-      "title": "【公告】雋揚115年第一次股東臨時會重要決議事項",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPTHZhcXJkVklxd3FQQzVyb0pQbDl5LUxLdTdNYjFGNWxpU1hWMlVtYkdKMzVSS1NlcXZEdjIxM2xRalNyVmtFNDVpemlSWkx3VEQ3X0RvQThpOUljdTE5SEpqdERPTHQ3MzcxY01lVjBDN2taQUMxdEowMTFvSVYyWC0zOG8zcGF0ZHZHdllmMXZVc3V0Ynl1VTE4WEFuNVFqeVhqZGdBQm5tUS1POHVoRHIyandRSEpZSFV4bnFPTFFRNjlBb3g4Q1FiVGh2TXhTS1dlWGxzRUkxeHo4cnFPS3hDbVoxZjU2MzZMRnZWUGN3S1NmbWM2aERGSnpFQTdpS09iY2ZhVlMtZUxYZ1Bzc0lQckZwV212QzdKbG93ODVpZ1ZFeDlPTmNXdV83QXhnUVRNbVZMcXltUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-20T07:00:00+00:00"
+      "published_at": "2026-10-30T07:00:00+00:00"
     }
   ]
 }

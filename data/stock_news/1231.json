@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-04T08:42:41.262338+08:00",
+  "updated_at": "2026-11-11T07:34:20.808354+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1231",
   "name": "聯華食",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "《自營商賣超45-45》冠 德(11)、聯華食(10)、松川(10)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUFHRXZ4dnFjUHI0Nno1UjBIUDk4RUJINXNMSmRWalRJZ1VCOXE2RFc5ZGJuTGs2ekJCOEp3dHJjSS1lYWNDZ1hPSzBHTl85alZXMWRmZXltODRjTVloS21FUjdoQWRXbFF1V0xpUmRsMFQ4UWtoeG1jR1VJM1U5bUxUZHlFdEpN?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T08:37:00+00:00"
+    },
+    {
+      "title": "《自營商賣超77-36》聯華食(54)、群生技(54)、精 誠(54)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXNXQ2diU1R4eTM1TWlUemd6T2tZSUpYSktyd2gyWGdJR2ZmY0hGc18wX0ZmdHdkSzdEanpJbXc5VmxMR2pEcjhQTWd0VGN0U1M1MHpZMDdaQ19OU0Q0SnpUcDhIakdxbGdSTkJ1TFVwckVkWkE4QVZRZVlIN0pOLVQ3X0pMUzFv?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T23:31:00+00:00"
+    },
+    {
+      "title": "價量關係不是真理，出最高量再漲3倍的聯華食",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QOFROcHpjMV95RXNxdUgwQU1LblF0N2dVTXI4N2Zzd1NmeS0zajJrRzM4eFg4TGlsR09MU2V3aXRxVV94WlRoSjN3d1hLa3BOMkxEZTRrcWk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-25T18:04:27+00:00"
+    }
+  ]
 }
