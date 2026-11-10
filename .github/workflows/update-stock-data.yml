@@ -116,6 +116,67 @@ jobs:
           if not tpex_stocks and "previous_tpex_stocks" in locals():
               tpex_stocks = previous_tpex_stocks
 
+          # OpenAPI may lag the official end-of-day report by one session.
+          listed_date = max((str(row.get("Date") or "").strip() for row in twse_stocks), default="")
+          otc_date = max((str(row.get("Date") or "").strip() for row in tpex_stocks), default="")
+          if len(otc_date) == 7 and otc_date.isdigit() and otc_date > listed_date:
+              try:
+                  import re
+                  report_date = f"{int(otc_date[:3]) + 1911}{otc_date[3:]}"
+                  report_url = (
+                      "https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX"
+                      f"?date={report_date}&type=ALLBUT0999&response=json"
+                  )
+                  report_req = urllib.request.Request(
+                      report_url, headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
+                  )
+                  with urllib.request.urlopen(report_req, timeout=60) as response:
+                      report = json.loads(response.read().decode("utf-8-sig"))
+                  if report.get("stat") != "OK" or str(report.get("date")) != report_date:
+                      raise ValueError("TWSE report date or status does not match OTC session")
+                  quote_table = next(
+                      (table for table in report.get("tables", [])
+                       if isinstance(table.get("fields"), list)
+                       and len(table["fields"]) >= 11
+                       and table["fields"][0] == "證券代號"
+                       and table["fields"][8] == "收盤價"),
+                      None
+                  )
+                  if not quote_table:
+                      raise ValueError("TWSE report has no daily security quote table")
+                  fallback_stocks = []
+                  for values in quote_table.get("data", []):
+                      if not isinstance(values, list) or len(values) < 11:
+                          continue
+                      code = str(values[0] or "").strip()
+                      if not code:
+                          continue
+                      sign = re.sub(r"<[^>]*>", "", str(values[9] or "")).strip()
+                      delta = str(values[10] or "").replace(",", "").strip()
+                      change = sign + delta if sign in ("+", "-") and delta not in ("", "--") else (
+                          "0.00" if delta in ("0", "0.00") else "--"
+                      )
+                      fallback_stocks.append({
+                          "Date": otc_date,
+                          "Code": code,
+                          "Name": str(values[1] or "").strip(),
+                          "TradeVolume": str(values[2] or "").replace(",", ""),
+                          "TradeValue": str(values[4] or "").replace(",", ""),
+                          "OpeningPrice": str(values[5] or "").replace(",", ""),
+                          "HighestPrice": str(values[6] or "").replace(",", ""),
+                          "LowestPrice": str(values[7] or "").replace(",", ""),
+                          "ClosingPrice": str(values[8] or "").replace(",", ""),
+                          "Change": change,
+                          "Transaction": str(values[3] or "").replace(",", ""),
+                          "Market": "上市"
+                      })
+                  if len(fallback_stocks) < max(1000, int(len(twse_stocks) * 0.8)):
+                      raise ValueError(f"TWSE report has too few securities: {len(fallback_stocks)}")
+                  twse_stocks = fallback_stocks
+                  print(f"Recovered {len(twse_stocks)} listed quotes for {otc_date} from TWSE daily report")
+              except Exception as error:
+                  print(f"::warning::TWSE daily report fallback failed: {error}")
+
           by_code = {}
           for row in twse_stocks if isinstance(twse_stocks, list) else []:
               code = str(row.get("Code") or "").strip()
