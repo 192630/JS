@@ -126,6 +126,20 @@ jobs:
               by_code.setdefault(row["Code"], row)
           stocks = list(by_code.values())
 
+          listed_dates = sorted({str(row.get("Date") or "").strip() for row in twse_stocks if row.get("Date")})
+          otc_dates = sorted({str(row.get("Date") or "").strip() for row in tpex_stocks if row.get("Date")})
+          listed_trade_date = listed_dates[-1] if listed_dates else None
+          otc_trade_date = otc_dates[-1] if otc_dates else None
+          source_date_mismatch = bool(listed_trade_date and otc_trade_date and listed_trade_date != otc_trade_date)
+          if source_date_mismatch:
+              warning = f"Quote source dates differ: TWSE {listed_trade_date}, TPEx {otc_trade_date}"
+              print(f"::warning::{warning}")
+              import os
+              summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+              if summary_path:
+                  with open(summary_path, "a", encoding="utf-8") as summary:
+                      summary.write(f"⚠️ {warning}\n")
+
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
 
@@ -134,6 +148,9 @@ jobs:
               "source": "Taiwan Stock Exchange (TWSE) + Taipei Exchange (TPEx)",
               "listed_count": len(twse_stocks),
               "otc_count": len(tpex_stocks),
+              "listed_trade_date": listed_trade_date,
+              "otc_trade_date": otc_trade_date,
+              "source_date_mismatch": source_date_mismatch,
               "count": len(stocks),
               "stocks": stocks
           }
@@ -760,3 +777,17 @@ jobs:
             git commit -m "Update Taiwan stock data"
             git push
           fi
+      - name: Verify quote source dates
+        run: |
+          python - <<'PY'
+          import json
+
+          with open("data/stocks.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+          listed = data.get("listed_trade_date")
+          otc = data.get("otc_trade_date")
+          if not listed or not otc or listed != otc:
+              print(f"::error::Quote source dates are missing or inconsistent: TWSE {listed}, TPEx {otc}")
+              raise SystemExit(1)
+          print(f"Quote source dates match: {listed}")
+          PY
