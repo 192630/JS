@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-03T11:31:40.631195+08:00",
+  "updated_at": "2026-11-10T09:40:17.786623+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8234",
   "name": "新漢",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收速報 - 新漢(8234)10月營收6.46億元年增率高達32.09％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GMDBvbV9SeS11Nkt1ZmNGNXRDaXNBYWJkOFhjTzZaQmJ4alVwLVVJejc3NzFSbDJndjhBWm5jZ3NWdHdiTDNQQTZFYnh1ZXZ2Y1hFbGhzVmNUNldaal8zYkN1YWhndjRmY21vZTRhZFdLYnhuZXc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-08T20:21:00+00:00"
+    },
+    {
+      "title": "8234 新漢- 新漢前三季合併獲利8126萬元，每股稅後0.58元 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53RTVQVVBFLU9jTnh0c2FiNTVPRUxSUW5mTnN3Sm9PNlhIaVQ1c3JHZzNrejFZZ2VmX1ZaVjFpNHVoWGp6WlJOdUZKZ3B0cklNVUdMTXRmd1E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-04T21:27:40+00:00"
+    }
+  ]
 }

@@ -1,45 +1,33 @@
 {
-  "updated_at": "2026-11-03T11:31:44.025482+08:00",
+  "updated_at": "2026-11-10T09:40:20.599233+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8272",
   "name": "全景軟體",
-  "count": 6,
+  "count": 4,
   "news": [
     {
+      "title": "盈餘：全景軟體(8272)股價遭警示，9月歸屬母公司淨利1300萬元，EPS 0.69元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0xzTmpPS05ZeFU1OWFSU2VqUHVhMW92OGJ5TmJMQTRQNUlZNzdyNDRPUkZNWW9vampaRVZNSjJFWHVGZ29qbHRTOVJiSjctMWsxSGpXcTlkWHF0YldSVVEtNlI5cDdJR0dGZlozbzRVTlBwcHFkYU0yY1RXWmJhM0Z0clQwUmJi?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-05T05:57:00+00:00"
+    },
+    {
+      "title": "【13:24 即時新聞】全景軟體(8272)盤中勁揚逾9%，資安族群續受市場關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2w4cGVlZEltaEVRQ05oLUpPcW5sV2FtZWw3eU5VUkZCWllQeHhwbWsyTjVMWVdrU0xWb2N4dmFCTFlVZFdpckZXYkVrSVhOSjdqS29wZWh6QlhHZElJS1hhUnluTnpjRENNOTQ5NHhraks4WHByS016RmVfYl9HVFVKekxrbFRRMXNBVUl3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-04T05:27:40+00:00"
+    },
+    {
       "title": "泰合、強新、全景軟體再飆漲停！資服股力新、精誠金融、藍新資訊齊亮燈碩網、晶心科攻頂鎖不住",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOZ3Fka1dWNWQyUkJJXzBUekFWT3JyU0lORHNqZTdTenhTenpscEVzN3JaR1U4djV4bUNhUkN4QmpFN0Q4V29iZTAwQjY2Um9EZGhydEV0V3hPZU51aGNCTVdINGVXWTUyOWFBQzE0VEZhSTlsUGFOWXdocU13MTlmbGd6aUJXWW45Rno5SjI2ellrU3lTNHc4NFNuNjRJNWFLRUpDN2ltQXJtZUoyejJjamJaZEdldUZFS2VDUHZaS2xzd2FDTG9Ed0JCRWlkN0pYQURCaVdCRDlpRVQ0WHl3NEd0MDhUa2cxajlUd013ZGJpUkxfMjJINDlYamhaN3BwVGpZLWtKSXU4SjUxY2xqZUlKMEQ3eEhmcWFBQmpodm1TNXA1RXhTcm02LWM4QV83WExwY2czWHhYcXBObmM0TDh6d0NRYTBndEhpV1FTMDA1cDB3?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-11-03T01:51:05+00:00"
-    },
-    {
-      "title": "《資服股》注意股：全景軟體 近5日漲27.07%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3IxaUFUbHpORXhQSFM2SzlBa1BBVFVnX2JRcS1WX3E4QjAwWU1BMzhmWGE4SFhMM1M0TkZWTGZHN0psRC1Ld0I0TWtUNC1Zcm1yOFJpcG9CcnFOdHNhUW0xWjl4NXdPcmRoYkFpQWZXOHNxN29QUDBDNUFBUGFlcGkyai1aZmxp?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-11-02T23:56:00+00:00"
-    },
-    {
-      "title": "91APP個資事件點燃資安題材！全景軟體、偉康科技強攻漲停",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IU0h2dXRIMGtrYkhwUFZ6UFZDUDBQMFFRSDlqMUc2MnJPSmh2V0h4eHZ3cXJfQnlnYjhqVUwtUm53eW1zVTJzcnhoaEg?oc=5",
-      "source": "聚財網",
-      "published_at": "2026-10-31T04:02:27+00:00"
-    },
-    {
-      "title": "蘇威元：全景軟體成台積御用動態密碼系統 本益比14倍",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQMVhJVl8yOGNZQnRUWUpMRU5lc2ZwODZGOTJ1RXA1bkJJSEx5V1l1LUxxME43dl95SXVpczZPdzJUSzQ0bGVLY3E1bHNlLUswRHozYlZoMmVBMFRrc3FPTFpET3c5dFRLSFpvSWptWDB1U1pUYW9XNEFDUzZ4RHJrazkxV1YweXRTLXRLQy1pcnRGR1VGNTUwQ3FxSDNqNWdDb3JleXBCekRyZW0yc0lCa3RjUDd4TEtkMHl3V3cwNExVMEREOEQwaG5QWEdReEptbzlQUXFWWmMtdTdla3E3U1otX21PbUI3RmlhLWhuelRLWmstdnlZbHdDd1c2RGZyNEFsUXlWQUtqMTNwUHNLSDhQS3B3SWVScVNiZUd0X1IxamVTLWU5OWNpcUpQbHFZeDZ0cWdpM0NHcEQ3d1JiZFV2NTJDblhxSkRLamwtNTRudEw3RUFjdGt2TzZNaE8wV29yTDE5ZU8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVVZqM2JjTDJDb2ZsNU1YN0ZlcUtERWdMZ0kxMFNiYXFZaW80SzN6ZE1FMEtYLVFfUnZZZXNkM1dyWmREa0ZyMWtYRnJQR3BXbjkxVWY4TVpneHFOeFRxWWNIdDBTeWhTMkM4WEtReVF2S1dTcGlQOVhFc3BTTEdETXoxMkljajlvZHJEOFpvNl9VMzB0ZjVfYUI0Y3ZOZERCWnpVTHByaDRDSE85U1RkbnQxUUFTdEYzR0hGY0pjZkVQaGdLNEJkOGt1ZFVacGtBVUhMbnNfSnZDZ2tnZmQteEE0VElvdEduU1QxSmpZSEJNYXkxVFk0c1JHNmw1Z3VieUs1cURlUTVpUGFrZHRKblVVYkZ6eXNfaEF5NjM2TThqTXVKdXdNd0wzWGFHVENNanFoVHFyQThpV0dUUk1ZelNqLXFlX2lUSjc3WHBOZjh3R3NfTmFkdkFTcjE?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-30T11:58:42+00:00"
+      "published_at": "2026-11-03T02:32:31+00:00"
     },
     {
-      "title": "焦點股：全景軟體(8272)H2旺季動能看增，零信任架構、後量子技術佈局添動能",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTU9sdWdCUFJOTGVnVmxCb3FjN1NuLXRMb0M0anFnTzJ1WW4zWUtGSUx2WS1STC13T0s0a0txRnpFSVhVUmVOVWQtRnRaaFNJSVk5b3dHbXdkUFBMMlFLUEJxM2RGQVdRSFJMQzBzeHhGcjE4Y19JXzBnUm15OElNLUdEMEN0N2I5?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-30T03:40:00+00:00"
-    },
-    {
-      "title": "全景軟體股份有限公司",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmFEMFo3N01ibjVjZUFXb2pubEpBWm5iR2xUMmNHT2VoMjVoOXo0UHdoVzViN0FaTjhJZzFOdzgwNVh4Vnk5cW04OW95dmFtX1pHWEJ5eXB2WHJ4RjcxajhiSDJXMHJlb3NfcGE4ODBWajhRMnJOV3NfNXk0al9PRFpCMDRveWQ1TGFwakJFT2ZOcTUyVmxJ?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-10-05T07:00:00+00:00"
+      "title": "財經週日趴（影）／蘇威元：全景軟體成台積御用動態密碼系統 本益比14倍",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vM1R5cHZoMlU3aThUNk9wY3dDZk1wSUtzc3kxU2RVVmFPUjZQSElneUpVSEFucFFld0Q1cXlGWGhOZldKTGhzc01HSV9IT3NpTHVvQ1I4UzVvNl9IZHNnc1FHNlFtZw?oc=5",
+      "source": "民視財經網",
+      "published_at": "2026-10-30T07:00:00+00:00"
     }
   ]
 }
