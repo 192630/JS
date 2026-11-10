@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-03T20:06:40.392123+08:00",
+  "updated_at": "2026-11-10T18:05:50.765292+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8930",
   "name": "青鋼",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "個股：青鋼(8930)決議11/9-1/8買回2,000張庫藏股，買回區間每股20-40元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmktRDFiVDJfMHRNRjR5MV9yYVVhd2phd2dmMnNpWmhmTHhMY01fQXk3UWp3N1VSSmJHLXB0NzA2YWEyOEdkckx2bmNscEFwdkU4RXpUVE9wZEN2RUxjb2ZRbUdLS05Lb29mUjN4MlJzd1J5LTd3dXpHYzJhb1JaSlhFYmtZOG9D?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-08T23:28:00+00:00"
+    },
+    {
+      "title": "青鋼(8930) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mRUNWaE45dXIzNS1sYVlRX1BiTlprSEYwWVZvSVd3aUFwSTNralRTdXE5RF80eWg4QnFNUm5lNXpRTGt4MEFMUlo1LXc2MGdDdWc0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-06T14:13:48+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 青鋼(8930)股價拉至漲停，漲停價31.05元，成交260張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMd1hxZkV5WFR1dEQtUDh2SGlVUHZCQXg4a3pUUndGR1ZIaWNaSk4zakZYbU9FRnk3Rmw1SEU1M1JmOVhRRnJ3YWdFb044bERpeG5URmd2RjFpTnFxV284dTFFZjg?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-04T10:16:09+00:00"
+    }
+  ]
 }

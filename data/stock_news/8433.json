@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-03T20:06:20.794072+08:00",
+  "updated_at": "2026-11-10T18:05:33.028657+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8433",
   "name": "弘帆",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-家生活》弘帆10月營收為2.86億元，年減6.71%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVZCci1OZXZFY0lTcm1CanlmbTRpYkhUQnZLS1hUOEpaNHpPT2tZb0N5Uk5oWUpyQ09kNHpqOC02YklWRW84MTdBUWFtT2JuazJORUpzQUVLZ1pKNUsxQjFHRmNCLVRBVEUwRGpqaFFaWndxb1hfQnEwUDBqUGc3azJUUkJFVU9G?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T09:11:00+00:00"
+    }
+  ]
 }

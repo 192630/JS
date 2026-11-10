@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-03T20:06:21.215033+08:00",
+  "updated_at": "2026-11-10T18:05:33.461150+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8435",
   "name": "鉅邁",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-其他》鉅邁10月營收為0.59億元，年增17.02%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWF9iUXQ5dXZHcDV2RzJMcnEtbEZsYlZtTlZrTjlnNzRiNmpydUFrZFFTbG5qRWZ0X3g1cHFPNzRlaTVuWGFpdzRvOVdhWGpoZ1RpQmZIVVlWQjJTMVZ5SnJJYzZ4ZGFxYndJb2FfVnktNTBXVWNLeFdmakxjc1p6aGhrTEFaYkdI?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T06:39:00+00:00"
+    }
+  ]
 }

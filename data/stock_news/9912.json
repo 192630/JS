@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-04T03:39:10.471422+08:00",
+  "updated_at": "2026-11-10T18:06:01.637733+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9912",
   "name": "偉聯",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：偉聯(9912)10月營收8865萬元，月增率108.32%，年增率92.49%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzBjMkJVRWRfbk0wdjYySnB5OVdzZFNnM1pzMWJTejNJV2VKVVNRSi16Q3pBb2ZpNm9ZZFkwd0FEUWZNM0UtSXVTR3phQzFRU0hjclNiaEtZV3JIWG9oQnJZV25ueEVpYVFfZk1vMklhaUJ2c0lBazZqcW9SWV9jdno0bmNUcl96?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T06:22:00+00:00"
+    }
+  ]
 }

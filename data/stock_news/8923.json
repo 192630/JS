@@ -1,27 +1,39 @@
 {
-  "updated_at": "2026-11-03T20:06:37.408511+08:00",
+  "updated_at": "2026-11-10T18:05:48.133996+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8923",
   "name": "時報",
-  "count": 3,
+  "count": 5,
   "news": [
     {
-      "title": "TWA00 加權指數- 工商時報晨訊- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsY3JHTGIxc25IOWcwTS1uem52cXFNc0VfeUx2Z1EyNnl0QmotZXdUWnFodE5qT1Eza0lIYWNrbTdlVmZEaWRCZnpNSHZHbVQwT2tuUVlkbkg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-02T23:56:53+00:00"
+      "title": "新聞驚句－請大家買聯發科股票- 產業特刊- 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfSllQc25CblJkQWNNLWptdW1PaGRlMldvRjBiOVZtc29qeUQ0RmFOSjlpeXFGM0U1Ukg1NlhPYjZIODRSMjNlaTNXZTFuYXJXSmZLSk5GZ2lGNDRSOHg2Tk5hZUdza0t1cTNR?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-11-04T20:10:00+00:00"
     },
     {
       "title": "英國金融時報：鑒於AI股票下跌等因素 OpenAI 將融資目標削減100億美元 | 美股動態 | 國際",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vRWdLaFp3Vlh1OVE3Q0xZYlkzcUxoMVdnMW5vRmp6UVhNM0duMHNINGhxbV92aUtMdk1QNzk2UmhvNGVWWGs0V2dzbHJ2aWZDWkozWDF3dE9aY0lT?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-11-01T02:47:20+00:00"
+      "published_at": "2026-11-01T07:00:00+00:00"
     },
     {
       "title": "英國金融時報：鑒於AI股票下跌等因素 OpenAI將融資目標削減100億美元",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPWG1qRHQ3ZGNoaTNsVnNJMl9xb2tJX0lsM3o0RzZyX3I2YS14aFN1MDZjYjZwUldIR1RqNzFLMU1lakxNMDgyMFFaYUpWWThGOEZESUNvSGNFWlpDYkFhaWUxbVhhU0hmay01Q19oVVNwempSaGtpM0V2dzZJMTFXdFIzZEdpMkNCOEhNQ0pybDBKTUQtb1NHNWRHMXhPeXItUlNMajhfbTFXaGpua0o0VVRLNEUxNlgzNTU5VGNvR1l4THZ3aXg1QzFWMXRBVkpIZFpYdTlBcTVLdFF2QktVOVNYc1ZjYkdWQzF4cW9RSjgwV1JWbnJNWmpDN0FBS0w4MFB4ZzkwblIzbE0wRFdodk1DdndlWUdUeVFIMHZzaTU4VmFfNndQZzdPcWpnOFBOS29pUmVsNzNfNF8yTzdlNDdSMFdJZmtHWjN6MEJudUlia2JORFNaSUhGMzhnWjI5VlFIVl9NZHZrX01TMk0zMXFsNlRoSTE5VVpOVEFUMW1SR1I3aE9TN2xZOW5QNjlsZjhJdU5RVm1mTmM?oc=5",
       "source": "Yahoo 財經",
-      "published_at": "2026-10-31T05:20:30+00:00"
+      "published_at": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "英國金融時報稱Calpers上半年減碼美股七巨頭 轉進私募股權",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxONERybHJ6a2FKNEUtUzZJVWZLbUhOdU5Calg0REZMcGt5UXhURDhoMW1IeThManFtZ2t3QWdfcEI2SnJoVDh1Y1Vqc0lXUS1fRm50OGgzZ3pVYmwwZlNEaC1UWTFTTGpZU0xIbm5MR0dlNGRXTk11VHd6TTFWOTdNeU81Z1g1eUt2Z0FPc2ozOFFEWWstYnhjNU5LU1hxb2doM2FqLTVYUWtUQmkwd3dfdmpkU3NkRENId3djU2poYm1MUWRxeU00Ymluai02LWZ0WlF1ajdwRFA3RjN1eG1hbnBQTXBYaGJ0S2h2Wk5yNFB5Q0NmT1ROTHhYQzYyRkpvSE9RYTc1VkF2Tno0TW1PZXRnT3BHcW9majRESWVzUExLZ1gxUURhRm1CT0dwNzlsZHFFckdnZFpHcFhPVHdWV2dUaGYtOUwwRWtUTF9xalo3UUZ0SUY5cDF4ODU5ek5MTDFhRXVudkZZdS0tblQ0dHh3OF92NktuaEtJMw?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-10-23T07:00:00+00:00"
+    },
+    {
+      "title": "Q3海外股票ETF 航運、生技靚- 投資理財- 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZR0xFTXJ5a096WFFydkFJS2RGNFFzWElPY2pCcG1CdXVzODNRVm15QU9Ia3JjVkFBR29mRS1TUGhhN1FtTTBGbU5aUHFjc1ZCdTNxQzFYbk9NSzZmT25Yb3ZHRHYyWXJTcU9R?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-10-12T07:00:00+00:00"
     }
   ]
 }

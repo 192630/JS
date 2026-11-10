@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-03T20:06:36.733793+08:00",
+  "updated_at": "2026-11-10T18:05:47.719852+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8921",
   "name": "沈氏",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-其他》沈氏10月營收為0.76億元，年增27.04%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOei1tWGNlck1fRXNLOElSSENaY1F1dU1EOGp0Q0dsamNrRzVWV21rT3R0aWVxa2c0VnhzODVUQkpUNTV4aGo2UzVVdWxfTUNfandZNmpZOThXMTk0RXRkZ1MxdWxWMlNZaG13UnhTaUpaZWE0NGVzUGt4THFtWkstMGFnY2RCeDRK?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T05:50:00+00:00"
+    }
+  ]
 }

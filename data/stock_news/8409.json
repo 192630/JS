@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-03T20:06:14.582566+08:00",
+  "updated_at": "2026-11-10T18:05:27.182368+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8409",
   "name": "商之器",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收速報 - 商之器(8409)10月營收2,955萬元年增率高達184.8％",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zazF0bW5fZWpRaGNhcFdQdXBHekxhSmd0VzFJTGJlTWYwWGNETzNOemJwaHNOVmNFLTNDVk5LRm9Db0xXeVB0MG9SRE43R1NfQ1pDdFh0b3pqUXQ3RDR4VUVlSG8?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-05T09:21:41+00:00"
+    },
+    {
+      "title": "營收速報 - 商之器(8409)10月營收2,955萬元年增率高達184.8％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JR1RKbG9BaVd2ektHVVM1R2RpazZnUVpuS3hsTEMyM3lHb1N0MUlBeHE2bU9iVTRXcjhHY0xkWkZKWDFKQW4xU0tvcGxjMzJCYXlYOE4tWDVVUTlZcFBRSndHbWNPd3NGb3pIUy1oM0V2dUhpS0E?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-04T17:21:00+00:00"
+    }
+  ]
 }

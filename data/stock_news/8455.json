@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-03T20:06:26.528780+08:00",
+  "updated_at": "2026-11-10T18:05:38.323285+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8455",
   "name": "大拓-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "大拓-KY 115年10月營收1.20億、年增18.46%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sRUpNRUZGak93dkUwUTVha1hZbFpFcDNPOUpmZlB2NlhLbk5zaFd2UHJDTF9Pdm83Z1FxYS1xWTVHRDZadF9qWmRWUXRxcG5kSDdDQjZPdjc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T05:48:40+00:00"
+    },
+    {
+      "title": "《業績-其他電》大拓-KY 10月合併營收為1.20億元，年增18.46%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFFMUzBybEhDVnN3d002UW80QlhQQVNjZzFOcHlxa0xiQnUwLXlUQml2R253XzJUeXBqVXVNYnpXQUtRSGszc1ZWbUgwN3EycTFUSHo2OGhjaG45blF6X1VTSGpfWDhtZnVRLTdKSURYcVZuUFpmTlhzaG1yZWx5Z2dmMzhnSEFt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T04:58:00+00:00"
+    }
+  ]
 }

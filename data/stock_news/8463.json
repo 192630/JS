@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-03T20:06:27.453054+08:00",
+  "updated_at": "2026-11-10T18:05:39.199160+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8463",
   "name": "潤泰材",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《自營商買超59-20》息等權(21)、愛爾達(19)、潤泰材(49)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2poNFpDRXBuOWF6MS1jbFBPSi1ZQ3BoWmFOSjhnVXl6VDIwM29MUklXaktubmlpeUVQeG41cTZUa19CemFVRHA2MkpwZmMzNzdfdlBKQzJCSEl0QktnT2N0eXpNNmpGbUVTdXhzSXphM1czSDd0OW50SkFRbTJFTWdFekpyeVY3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T08:34:00+00:00"
+    },
+    {
+      "title": "財報：潤泰材(8463)115/1/1～115/9/30歸屬母公司淨利2億6792萬元，EPS 1.79元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2RRUzlLVGNOYVlBWnB0QUE3ZS12VXA2RUliR3NXRTdIWDRYSzcyQ1hlZUMxUkdyTWZselpnNE5Gb2xFaEd5SjRoUlRBVWRqdWgwQkcwb1R0Q09vcV84eFNubmlMejBLTDd6d0FIczIyTzRNTjF2SlJ0X0RvUFZ5cVZ4aldaNzNj?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T07:51:00+00:00"
+    }
+  ]
 }
