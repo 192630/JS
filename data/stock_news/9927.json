@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-04T03:39:14.794919+08:00",
+  "updated_at": "2026-11-11T01:58:53.587427+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9927",
   "name": "泰銘",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-其他》泰銘10月營收為7.63億元，年增23.08%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnBJYWZDMXNIM0FQdXhoV01QVmxqeXIzTFFnWFk1VXJWNGFFQ21rRmthR3paVldmWDVORkVsMUhKTDdHY3otMC1uRjlkZnBBMlRHS2d0NjRIVnBkbDh2TXE4a2JOaGpBLUlSdmJ6a0hGR1I3dDZJWWVYczRuYkF2Qmg2aWNOd3FD?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T05:46:00+00:00"
+    },
+    {
+      "title": "泰銘 | 9927.TW 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDMks4MUlyclltQWtpd2JvdHJHTm5EV3dKS0ZEMHU1dE5kUXVobmpLdXhpMFVpWW55cVhDNjVHNXNXdlR6Z3hLQ3Z2WjdLYlFpOXVHUA?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-02T07:30:36+00:00"
+    }
+  ]
 }
