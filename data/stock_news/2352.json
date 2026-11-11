@@ -1,81 +1,75 @@
 {
-  "updated_at": "2026-11-05T06:42:22.188238+08:00",
+  "updated_at": "2026-11-12T06:51:29.758075+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2352",
   "name": "佳世達",
-  "count": 12,
+  "count": 11,
   "news": [
     {
-      "title": "佳世達(2352) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTE1tUXBqLVlRTnBJOEM0MnNBeVNEQzdXX2RsYm90UWN4NHYyZm1HQ0dYSEtyV2FTaXgwVG9xazg1UkpNbnVZSzVHZlVEMXJTODJN?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-04T11:48:01+00:00"
+      "title": "焦點股：新事業占比過半，佳世達股價反彈站回月線",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNmZDbDV5X240VWVVMWdNcm1rZ19KVE9vSHdmMHUyak5KV3NJMlEtclp3c3VLR1hzRjB2eDNBQ0ZzdUgyeE14RW41U3BHNXcwOGhMWkhLc3ZlZW9TcDVYQmFRNnB0aHpOeFp4UVc4RXBZUzBZRDA3Uk0zeTYyUUplMGpPejBoUjN5cTBZaXgzSFpfc1ltTkNjaE1vVWxHeVBWNlBVdkZYYlpNRExsTGY1OUJ3YURQbDBPLUt3V0N0WUJtWXM3OGpJSGJFVVlBRllOWGxqbm1ENWVzQmxFdDkxM2luUi1pdm9VZVJzdklEOWNaQ0JVaGJNMGpHUVFJTHhhbWlaVlVkTGZzUm9YdnFDNTl3Yk9mb2RVRWlqM3FkQlpYS05jcU5ib0F3clB1T2NHRGN2aGhsWlpXenBVOVhxY2hPQ0FMeDBnZzZMNlRrM3ZyMzRvXy02RTln?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-10T05:51:28+00:00"
+    },
+    {
+      "title": "〈佳世達法說〉Q4營運估與上季相當 AI伺服器明年Q2起放量逐季擴大",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQODNaNWk5dmRGeVNyMUdfdHVCM0JWNmd5VE5JejhhTkVQSGFfa1NUa0V0Yy1ON0xTaWhVY2Jwb1BHc1JvMExuSnpTZ1pmTUlxQkRsM2U2RmdRbnNQUnVQQWZsaC02RkpqN1kzRnNJSndqV1NwemhzOEpDVy1PVzk0N1B2VnFMMHl3QkhncWdzdWNzU0M1aGpRVnJyc21kQjNuLXk0eGI5bzFneFJObFFKRERTakdBVkhTdGc3cUtMQnV5ckxoV3VLenVwdmwzMlZiR2RZSDFYdUh6Sm10UmRwcGltNDJvZUsxNGJSaU1YWS13bHFPclhqbThaTnN0eW9TQ18xS19hZTdBbFh6LURZSG1ZY0VlbDRUU2tjYlVfNVV0bGFxYzkwZTEtUi1abVpCeDJTU19JR3ZvV2ZZbGRYcGhlNkExdmRoTmdyWUJZTmhmc0IxVXFfVHJsMndDR2pya1ZoYThRNGFPeGJSVm84ckN3T3o2cVgtSE9Jb1FoSGhYa0lockR5ZTItc040QXE3Snc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-09T12:42:07+00:00"
+    },
+    {
+      "title": "佳世達法說2》「大家手上訂單都一堆！」董座陳其宏：AI資料中心建置放緩未必是壞事",
+      "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxOX2E0a3hwazlDbEF6eVpwblUtTWw3VkF6WExHUXNSVlQxLVh6QnRXUmZTUHhUUWd3UUlBWTdxdXpJWllvajlqWklHbmRHa3VzNFFESncyUERYQlZzQ3N0NnVLWmNTR2lCWk1FYzlOQl9Xdml6Vk5Rb2RwMVhyR0ZWY0MwTUZBdTFMaUJmaTl1LVRlMXphY1hYdDJBYTBEQTdIbnk4TTJacnFSSlFrQ1F1MFdsTklZVmVNbW9PTldlUHlzVl9tdFU4bFZEQ0NrV2E4RTViMmZBVkdhOElyYU5fcUljVnAwVFdpdm9oY0ZncmFDRDVuSnBqQUFTRkJQLUtIeUo5S3ZPRW1NVnp6dVFLSGZhZ0o3Qnc3Y3NtUmJuNVRaelJWTEQ1OUx6eENFZ0s1c3diQWZtS0ktTDNfX2dYNDF4eUQ5SWFfOFpOQ3VQVlFSUXpJazJwVmVueV9fSHVWNWhBcFVVa2RDYUNUQzdkYVYzZThRb2JGUWdyRmtxUGoxZklMWkJhZm04VWwyVERaaG5qcExnSUMxTzRiOUNqMEYxbDJWQWhQendsVmExX2s1Vm5lZTdwN3F2VHlWMEhYdlJnRWhrdnU5dnVKaWZxRmFaY2s5T1l6MDJRNXFNTVJQN1pPaUYyQTJvdGVhZG1YTGJzNERzckpLX0pUcHY0OExzeTNxNWw4OWoxN1FINmFxYThNYXFiUHNfMA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-09T09:20:33+00:00"
+    },
+    {
+      "title": "佳世達擴大無人機/機器人布局，搶攻Physical AI商機",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZ3Z3di16VXNSbGd5MjQ0Rm9BSWJSYWgyUk9jWG5KbFBSMFhrTDBFaXZQclE2Uk5IeVdXanh2VF9tMF8zb2VtU0hDcEZJQmlfNUNYbllyMGxzcmVSNjJCVHhLbVgyaWktcjhYZWpqZTJrYW5WM0hmcUdSdWZYd3lmbU8weTlhYzUxXzZuZTNZRW01RmN4eHhxMzB1aU05dlIzZW9DT0tSa2RmbjAwM0QzNlRjdDdWQUtwS1ZFZHY5cGJoZHdaay1wMi1SV184UjN3eVY5Umx5QldhV3ktZklWVk0wcVdCbkwtY3FZbHpGWHpoUXhpVjY4QU4xeXFKS0EtcFFnakU4VXRKbG14TXZveWFCaHlxeUZBRi1WN1JWMUhtVTg4eFRNLXpnaGxiLWdNWnlzdFZFeUE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-09T09:14:00+00:00"
+    },
+    {
+      "title": "佳世達AI伺服器明年Q2放量，可望帶動營運成長",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORHpUOUZUSDBOSjc2dEItSDNUb3B6NzZTTWhKcmpzY1V5cnB0eFg5eXk3WHdnRnZqeVR4UTJyZ2pYYWFTTC1DVUNwdXl1VkZLT3JEb0V4YW9VQks4TS1HLVlyZFpBWE5UZVBsZTBwYjJ0Q0hyQkJ1OVVPOTZJTmluSnIzSEkwSlB6MHRrVVh1eE5ZalRYSzZPNERjTzZKa0NlOWJfOXQ4Tl9oS2xSRmtfSzIxcF9VcjdkQXBza2N0MndWN1g1djZxQWVndjZLbXRTTFdQS2FoWjZ2SWdxU0xvam9ELURGenVfSG9naXVwVlItSlhQeU56QnZkY3J1YWVjMzVsUURhTkdteTh3Wk9VZml3Mm5GaWE2TVFDMFV1bUVUa2V3MjJWcUlkQ2YwMTZmd1lWVlVoSUpFdw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-09T09:13:00+00:00"
+    },
+    {
+      "title": "佳世達法說1》AI伺服器明年逐步放量！董座陳其宏談美選後AI疑慮：屬短期影響",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPa2prVlEtRE9hVmZ4aWJxSVR1OFNoOHVxenRreVkwdnZ6SXQ1bndubUg4VThDbm5EaTA4WFQ4NXVvRlFybkdNOTFmMU0tamcxWEQ2M2hJdW9NQ1pBY3pBaFFvdnZvYy1wUTVuMmRuRHktc2JVdmRLTjQ1UHJMUF9YN1hwOWVjQVltaXNzZ0xsVUYxVTVjSnh4eG1DZFdIcllrNDZUSUlJc2Q5NGNDUFBGZmZPekVnTXg1QVRmRWdMSk92aXpKQzExZHFuVDFoSVdOd1JOOTlqdjRoX0h1Y3RWT3VLa0MwY0daR1dGT2JiZXR4NkNzdDVhdHlBN2I0Q2hTbFRSUmVsY2JiTjN2OXRNUXpMUkQ4TXQtRUlLVnItejlHMTJHT0VsQ1BEX2p4Vk00a1ExSXYzZmQ2MzNRdnRzcnZQelgzampGcDdILWZ0NjEycUhVT1czNWo2Tl9lNTZGbUJ1TFktWGQwZVlmaWgyUE4tTzBRaFkxWFN4d1BJTmdWWkhzZFBXc0JKX0g2OURRVVJQeVFDbEh4WHlDRmJYLUM0WERrTEktUkRDRXdDOXF3SkFkaXNoWlVaVmpPV1ZCQ0R3LW1TMVlIMnltMmRWNEdKckwyU1Z1SVBCUUFXWDl4ZGV4YjBubkxXN0Y3UQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-09T06:41:45+00:00"
     },
     {
       "title": "佳世達陳其宏退休執行長職務 持續擔任董事長",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNYnJ4N2luYmZqYkhQd0pRRTN5ckJVZnRXV0hRaEYyWWJWaWVfaG9LZEVGSkxGN19IckRzU1FQR0txcGRIalE0cFNnR3R5bU95Q3NwdTJWUGN0NGdINVNxbE5jbEc4bEZFaTNOWTIteTg0YzR3ZmtoZmpVRVZTVnZzV3dfMXNPcTRQMm5DSzBxQkk2MFpnZFJuM3M2MC1oRFQ4aGgxWEE5cGo2aTVfTzZfYy1qcE90UUNQUHpSLXFtS0FVVmhxQlZ0RXo3SFZQNUEydTNtOFNvRGxBR2JvWVFuQXdMN1hwNTl5NXNCME1pMk9YN1M4X1BYbVpvckVLZ1lvUTB2NlZlZ3c0cHV4MEFwVTdKOFNyRHpuRDZ2VE1xQ1l5em1BVWxDUWNzUjBYaG5fNWhmc3NvRWhJVHhBSjVZTU5lcnEwa29GQUhGRg?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-30T07:33:35+00:00"
-    },
-    {
-      "title": "無人機＋機器人皆有斬獲！佳世達飆漲停奪量價雙增王 「砷化鎵晶圓代工龍頭」亮燈一同稱帝",
-      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOak9hYkV3djk1N0xsbUxiOWpsd0lTYUpKR0pSVm1pQldhVldDRDNzdlowSHpKa3F4alRGQUdSOG44Y1JSMk9POVhBSnVZTFhMTVhpUnFpRWttSFRFc2JMYzRaelNvUE44bjBRRlVHZXQ1SHg4TlhSdzFJTXQ4elU3blBKSy1UX2JFVnRfbUo1dURGWnRDOXhFaWpLRFFraGNVSUp1TG9xczdhb3Z2WEpJcGpNLU8wN1dfMGw5R2JtSThELXJ4d1VjbVhmUi1XMkFrUlU3NHdnSVNoeEZxTzNfbFRoVkxYUVJIWFpSVzIweEdVRGxlT0tjaF9NTTNYNFVvTGQzd2FTNllpTnY2SEg5Um1FOE5QQ1dSd1JOS2V3VV9xMmhJTnVnQTJ4RGpTQldoVFdDeTZBeDdsLVhLOWJNQVFLdGx2ODd5OTNLRUs5RGgxd2tFaWZQV084azgtaF90OGZjSHd4TlhwZ21MRU1oLVZhRG5fN0JvS0d5bmhFc0gyemFMem9FeTVyMkdrc2lmUS04MHBFRV9wWVdRcTBzWGFQZThQcHRJaFR2cldkaUNTYzk4ZEVRb0lhN2YtbHBUd3dsODF6TkRYRjNSRDdMQ1dULWNlODRfTGxGcjNvZUZNaUJsNWZZcS1RSzI?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-30T00:13:38+00:00"
-    },
-    {
-      "title": "10／29台股雷達｜麗臺、佳世達、華新科股價走揚點火資金青睞原因曝- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92ckI1N1F5RjQwa256ZWx2UEU1VW9rbVU0UGVtVmlVNUJZblBXRTRVaDIyLXJhQzJFQTl3bXVaUEs4UkhwdFYwQ19LYTczS3hUYzBnOGEzdk5hVk51MnZr?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-10-29T11:33:00+00:00"
-    },
-    {
-      "title": "今日最夯股／佳世達無人機事業接單捷報頻傳 股價跳高爆量衝漲停 | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQ1RNOFJMZzVSMHc4WXg1ZFRHMldjLXBqNS1FVTczZnFsVXE1dVJBVTB4YXc2R1NWdEJ4eUt2WU9EV1dNaHozWTVlMFNqUGt0VV9JZ1FsWGFnUQ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-29T10:50:56+00:00"
+      "published_at": "2026-10-30T07:00:00+00:00"
     },
     {
       "title": "無人機接單傳捷報！佳世達爆量8萬張衝漲停 分析師：轉強第一天",
       "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQc19WVThFWWRVYUluNkVlQTVtLUk4SldWenNMdUR3dERoclpyTkRORHJxZ2tGWmthbXNGbW1rMHM1anNUU29wV1JaMmZFM0ZLb281SDRkeTEwdko0eWhaZlRxMkFSQWo2b0FUUk5TRWdndmpmX0NvY0x4TGE4MzJ4V2xvUnMwVTh3WmdWdVpGY2lJaHNpWHAxTDYwWmZkbHdmNVBoMnVfa25URmVzMkNFRlU5UXVIYXRRQXYwYm9LcmJGR0RtdkE5LVpYSE1aeU5LRS1vWE16eGtYcnk1eVNPazlHQWJfTXNKcFM2emlnczFvdUdqWnoyRFBpU1RPOFV5Z3J1SEtTY1prSThfR0ItQ09VdjItNVJObHhkbmplYzM5QmdPOTk5aV9TS1hUYUZVZFdaQTJGakthZm9FaWljbmFTUjdVOVFZa1NaZWVOaWNEX1Bld2dpYkJRU2NRci1CTmdxRXh5djk3bXJwZFliRVRZYTh1dS1XZFFfbWZJNUlwREJ0SlpWWktUWGhINHRDWE55eHFiVEZYUlgtX3lYWUtQU1JSdDNlRk5YT0N3?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-29T05:39:48+00:00"
+      "published_at": "2026-10-29T07:00:00+00:00"
     },
     {
-      "title": "佳世達無人機接單報捷，2027月出貨拚千台",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZzlCQWNTc2t4OVRFSlhMRmx1c0NOakd2Q1JBMmJxbUJiZEpuSC02Qk9WMkJOeHFWVXFfVi01a3ZrU2ZGUV8xUC1EUWYyN2VJZ1hkV2RnZGN0MXNWc1F0NFVJWnFwV1gyTjhXTjVDLXoya1FOVF9tb1Y4Ny1jYUhpTTVMa2RhZ2FYNFJuUXI0TUtxUFRJREc5X1BhUU5TSU1rY0h4Y3VUYlVCamxCQ0E5OHhpaHl3a1F2d21CbGRFSFc2Y2tOYi14a0lfNEpybmVpZlJaYnRqUE1XWGVhN0tlRENBRUxiUVZxSzUtUWRDZDJlSHEyenBobTV0MDlTNl93T1ZYWW5TTkI5d0J2MmZSb1J1V3EyTjdtcF9Ja2pOSkRtdw?oc=5",
+      "title": "無人機＋機器人皆有斬獲！佳世達飆漲停奪量價雙增王 「砷化鎵晶圓代工龍頭」亮燈一同稱帝",
+      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOak9hYkV3djk1N0xsbUxiOWpsd0lTYUpKR0pSVm1pQldhVldDRDNzdlowSHpKa3F4alRGQUdSOG44Y1JSMk9POVhBSnVZTFhMTVhpUnFpRWttSFRFc2JMYzRaelNvUE44bjBRRlVHZXQ1SHg4TlhSdzFJTXQ4elU3blBKSy1UX2JFVnRfbUo1dURGWnRDOXhFaWpLRFFraGNVSUp1TG9xczdhb3Z2WEpJcGpNLU8wN1dfMGw5R2JtSThELXJ4d1VjbVhmUi1XMkFrUlU3NHdnSVNoeEZxTzNfbFRoVkxYUVJIWFpSVzIweEdVRGxlT0tjaF9NTTNYNFVvTGQzd2FTNllpTnY2SEg5Um1FOE5QQ1dSd1JOS2V3VV9xMmhJTnVnQTJ4RGpTQldoVFdDeTZBeDdsLVhLOWJNQVFLdGx2ODd5OTNLRUs5RGgxd2tFaWZQV084azgtaF90OGZjSHd4TlhwZ21MRU1oLVZhRG5fN0JvS0d5bmhFc0gyemFMem9FeTVyMkdrc2lmUS04MHBFRV9wWVdRcTBzWGFQZThQcHRJaFR2cldkaUNTYzk4ZEVRb0lhN2YtbHBUd3dsODF6TkRYRjNSRDdMQ1dULWNlODRfTGxGcjNvZUZNaUJsNWZZcS1RSzI?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-29T04:29:14+00:00"
+      "published_at": "2026-10-29T07:00:00+00:00"
     },
     {
       "title": "台股早盤佳世達爆量4.5萬張漲7%、穩懋攻漲停 台玻、南亞逆勢走弱",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNRjVVSGdzc0ZrUW4yLUVza0ppNWk2em9xOWhfTFVOTDRXakFNakdQWVR0N1NKNTRmMWlQM19OZ2hwV2J0TkZSQXdRa1ZLRmhuZ3FPdk5jR0pEWExuTFJIWHkxVXZwYkZJbGJIX2phNVlyU0FSaDZDa1daaGVnVDAzTEFRdmpyRzFkbnZlcjFmLXp2dFZ0S0R3UVBLUG9OWVN2OGR0LWlqTEVubTBYaURjdTI0TS1kdlhPQ0oxQVp0MFBCX2dkTk1DVENYUko3dGRqdnFJdWNfbUctc3RBa25fMlpEdkV6RDZEeFE1Vi1UN1pXRTdvM09kNVlHemV4V2hoeUVrb2hGX1U3dFdod2Z2ajNMZWJVS0lqNVFQb2NyQ2JEWDhSU1Y1ZW04aWVWQVVNalUwVE15REtXR3VpZHB2NkROcHBnNGszbHZtMjNpTkplTWhhVlltUm5PNWw2OG8yd3NCMUZ2MVR0c1Y3bTBDNF9qa2N4YXNLUDV4VmN6RnZIVlJkR2J3YlVGMXVsdW5k?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-29T02:18:57+00:00"
-    },
-    {
-      "title": "【09:24 即時新聞】佳世達(2352)亮燈漲停，AI整櫃伺服器題材發酵",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWFfUDg2SGpwbkZDaFRXMk5YaExLclByLTFyYmdDN0ZjcEJIdnZpWWRsVTBlODhxMTdUNlhhS0N5MzU2cGNuV2FrMW82a01XbWl1V0RjeEZkUHU2TDJLWmVsLUVQMExvSnZKek8xcmt4TDhYWmFXOFRhTlVpMTVhWFBLRHRCdl80UlE1Qmdn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-29T01:24:53+00:00"
-    },
-    {
-      "title": "佳世達商用無人機已接單生產 將推4足機器人",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPWXZVQVA2RlRjU3NvaGRaZGV5R1I1QlBsZS01a1BnVDNjcmpOTk93WS1zMkNaR2gwbjNsUjFQUnJjYjg3c2RGWGhhdi04VTNLV2ZoRDBtOE5GaHVxRkZfaU5EdTlhSk1BN2RTQ2NvemdmQ3gyMzV3MGJSWDNHNXFCeVJYNnRhS0tEME51ZVQ5ZFMyYUxha0doTlJuQVY0THFsUFk4OXM5WGVxMFpuZnZacjhZOFlpRmthOU5DQWpZZVA4XzhSTHdETWg3dF9hb2pNOGdNN1pXNzh6Mm9FSlFZTFd5NUNiSTVCb0VYY3hmczJLazhtU1NKUVBYcmwyMjQ0NE1ORXpvaEJRNUtzUDFRdHpQOVJvNU9TOTVmT2ZCMEt5TW1neXNtOFFOUkY2QTBybk9vNXc1ZFNNbDc2XzlzRzVB?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-28T07:03:04+00:00"
+      "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
       "title": "佳世達集團小金雞互動前三季賺逾半股本 再辦現增、可轉債估募資近8億元",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPZlFxdDY4NERzMmh1czVNdnh0enJjbVZodlhodG5VN3BHZmVGLVc5b0VGLTd1eHB6VUlWaDkwRWltZTdLU2ZyYmpHS01GQzRaVThXejc4Rmo1NWhGcDBKRVJjRGpxeG96LUNfX0NCMGREVk56ODk4X3BjWndLbzJZYzFWa1hQTmRqREp0TlZPbUgwVVpTQUlNallJdlJYZ21LTzFZdkR6cHpFRmZCV0FKMzNJa0E5cFhNbzZFU00zWUgyR0tNeGItQjl0Rmk5bG82dWdlaVNmcWZvekM4SnJ3VVlTNElaSHkyQWQyOWwzVWExRXU2Sno4OXhsZExmcEpROVpFd3RjeGhSbkpidlBpal9meWJOdklheU1ra2ZtTlhSNF9hNVlGQ3B5dzRYUms1dlhFZUhDZC1KeTg3aUw0ak83UjdLLUk5Q2YyeW9QbEk2bHBleGxsVWd5YXhnbzVFcnl6Nm1KMUVWSFB4RWdyWFpFcjVxaDF6emRfbTJBRVFVTE13RGplX1FDU0pwU1E2eFJDTEpQWVVyYkdHcnJHbC1rclFlUWR0TnlZeDNGT3RyNTdVOHE2bWpfSDBuWkc3WjRtNE1VX3FkckwwOV9XQldZQ2xmNGNvdzg1bGpB?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-10-23T07:00:00+00:00"
-    },
-    {
-      "title": "佳世達集團明泰亮相OCP峰會 秀1.6T水冷交換機",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORDhkOXR3aUJ5NkhGT2l4a29WVUpyOGRwRjRUd3A2TktJM0s5NHdJREJhNG5lamFIZzd0eENzSk1XVlE5VUZQZXhEa3B2bFFKUjVIQkNhSFZmWDl4LVN4eDREWFUzeDNubjJ4TWlWLUZ2Nksyem9KLXQtQ0lVYlFMQm81bDVMLUtNaWNtMndCb2FZVGp5OTZmX1ByTVRYbmxoQXNHTnROWmV2cjk4WFRwaFM0X2x3a1ZqU1RHaG1OR1kyVVRfZEFacTJWTmw4aGtKSzlQSzh6Vnl3Ukt1c090bEYzdUVwSDlaMURxMnFFRllEZ3I2NG5TR1oxRFRlblh5akUyWnBESTFFZmFXOHB0dU9jSnhhUU5oTDVDdTNkY3JKanY3a0l0R2lZTTl3dm5WVFE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-11T07:00:00+00:00"
     }
   ]
 }

@@ -1,39 +1,33 @@
 {
-  "updated_at": "2026-11-05T06:41:58.359945+08:00",
+  "updated_at": "2026-11-12T06:51:06.372711+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2109",
   "name": "華豐",
-  "count": 5,
+  "count": 4,
   "news": [
+    {
+      "title": "華豐股份(605100.SH)取得股票回購專項貸款承諾函 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ycFg4ZnJmNjQ0Qk53Q0hVMDVHeXBIUkNXZzZHc1RqN1NtMFZKZUx3bWJ3bTR5UjdCbG5Md01Nc25FZno2WW40RVNvVzdxdENUYklXMUV4QTFDbDc1cTJsYTFld3dJN1lFQUQ1czlFdmU?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-11T08:27:39+00:00"
+    },
+    {
+      "title": "華豐股份(605100.SH)：取得股票回購專項貸款承諾函",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRkhIUTBzdHd0NXBSdUVESURQVlFWTjU3a05TSGxIcUcyWEFPTWgzcWIxMHU0Y2RKczA3Y2U3QVdydGNnRlE3ZTZUb2M1ZXlkcEdpekVUeFBEZWJlM2tOWGQ1emZZbnpfZEE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-11T07:51:43+00:00"
+    },
+    {
+      "title": "華豐股份(605100.SH)：擬斥資1500萬元-3000萬元回購股份",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lSHROU1dPUi1TNzNsOXkyUWc0MkhNNEZCamNfd3pLbmtQcDBjTGRYRTUtUE9qWjk5OWt1NGdmVUh5STlaU1ZBbG83Wk95TF9TaUhHQ2RCdG9jeW03RUFXNVJ1MloyZEN3Znc?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-09T08:15:02+00:00"
+    },
     {
       "title": "華豐股份：控股股東提議公司回購股份",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vaHFpVUpKYkRlanIwa1N3bHV3NWNqZ2dvSUFMU3N2TGpRNjlVaS1fd0RDcWRGaWNreVg5QnNka0dUcWx4cHR4WEgwQUlldnBkQm82bUZCenVZUlVldm5vUzRKZGMyRFEtMnc?oc=5",
       "source": "TradingView",
       "published_at": "2026-11-04T09:57:54+00:00"
-    },
-    {
-      "title": "華豐股份(605100.SH)：控股股東提議公司回購1500萬元-3000萬元股份",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VSkhjWm0yem9GbHY1RzV6bndHWUp4ejN5dlBiN09vUkRxb2xNelNqYkUzcEZ1X0c1T25JZHJSTzBVbmp1QnYyYl9DTEk4aHp5czh0dVRQR3hqWkZEVDkyZWJyd0oya3lxNFE?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-11-04T09:55:50+00:00"
-    },
-    {
-      "title": "華豐科技(688629.SH)：當前公司高速連接器相關產品市場需求旺盛，在手訂單充足",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnbG1QRHEzYS1yS05lR3JEa1dXeTZsYTRtRHhFYXpTazlBcTgwYmpqaXVQTmM4cVd4cVdpZ0dCWXdDellvRlZneWc3WmFkOG9zZENGNlF0dHh3TUNFTHhMRmRNZnZ0SzVHOEE?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-11-04T08:02:53+00:00"
-    },
-    {
-      "title": "華豐股份龍虎榜數據（11月3日）",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QQUJ4Zk5aOFNraHppOVk5Um5rU19aUXpja0hUd0JKaTNfcm5EQnN6RG5KTEdBazUySlJwOEdnY1VNUzdITEx4WlBGZU4xaHJmZ1J5RXR6OS11U1F1?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-11-03T09:47:10+00:00"
-    },
-    {
-      "title": "華豐科技(688629.SH)：在機器人領域沿“互連產品＋整機研發”兩條線推進",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10c29mZHBULV9wYUJkODYwMGhRaXdqSmNuQ2JRb1RpOWJUc2JXeUtpMGxocDNPOXBCbXNwaVlxV3FlLUFmQmxJMTlJcWZ2Ry1tWXI1enBWak83Y3lwd25NMGFCdFpwdkRBaXc?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-11-03T08:12:48+00:00"
     }
   ]
 }

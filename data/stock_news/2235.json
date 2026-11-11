@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-05T06:42:05.095589+08:00",
+  "updated_at": "2026-11-12T06:51:14.260568+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2235",
   "name": "謚源",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：謚源(2235)10月營收5596萬元，月增率7.95%，年增率18.26%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1N3bTYzMEdlR2FyVjV5SDdvRjk3NjNGUGg0MzdEeU8ySXdud2tGUHFlWVJ1bXF0ZnpSeFM1TS1iSjdibGNWXzhwemFBVm1KS2lGc21yUEFqaTRJNnJ3S1FNbmJqR2lfZ1RpVndOQVZMN2wyUERkUXpaTjV3NE9MaW93bmlMTld4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T06:36:00+00:00"
+    }
+  ]
 }
