@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-04T15:35:53.093938+08:00",
+  "updated_at": "2026-11-11T14:48:58.026379+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1470",
   "name": "大統新創",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-紡纖》大統新創10月營收為0.48億元，年減27.05%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMThSd2IxNUZrUlJ2RmhLYzVPTV9ucFlkeVF3NkNuTmx5cXVHaUdZWXlNclIwenNPWmRzNE1UWGpZNXoyMzNhazJxWXdjOHN4QjJ5WlRraW1fUDVEN1cyQ2pNSDZaa1ZNZlpaM1NKODh1cW95TVNwV2s2LWpTMlgtaEJjV1c5RTdx?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T07:39:00+00:00"
+    }
+  ]
 }
