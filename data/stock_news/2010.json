@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-05T00:26:10.095749+08:00",
+  "updated_at": "2026-11-11T23:27:53.711500+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2010",
   "name": "春源",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【12:05 即時新聞】春源(2010)平盤小漲，法人說明會前鋼構題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVhfczNzUGh2YWM1ckxFSlk0S09xckVBamxfTXp2YjE5Ykc2Nml6TGNYR2h2QVFELWs4eklZaEpIRGMxREpfZFBFZ2JIQlZPTERZOWo3V2k0Nnhld2NIY2d6QWFzelMzbEs0VUtXNE1lYlViODJITi1idjRRY05jaHRMMnJnYjJoNTQ3Y2FB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-06T04:05:23+00:00"
+    },
+    {
+      "title": "2010 春源 - 很期待明年的配息！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JcEZteVdVamJrN3MxWlVralJUeWE5VDJaUlBXUEF4UGFaN1B1UDRGb1ozNVN6NlNiNnFRZUt1aUlkRE0xaGMzWkxua0NHRVdybFpvYmEyY20?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T10:20:49+00:00"
+    }
+  ]
 }

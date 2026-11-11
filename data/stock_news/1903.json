@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-05T00:26:05.192313+08:00",
+  "updated_at": "2026-11-11T23:27:48.260799+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1903",
   "name": "士紙",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "《造紙股》士紙前三季每股盈餘0.21元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEhUVjZXbUswRmhHY1A4OXdHdlB3VXRFZXUzWFlwRlI5d1RGQVlFN05oRWdXT0V6YkNZMnlvM0Z5RTktekowYldFTVNsYjFway1Hc1RRU2o2M2FjZDNIY1lVcWRRTXZYZmQ5NnlLdTBLOWZIN1pHN0JrUzVDOUkxckxNaEUwbnZY?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-11T07:03:00+00:00"
+    },
+    {
+      "title": "《外資賣超32-30》普安(113)、研華(111)、士紙(110)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYll3SzlEbTQ3R0hyRVRpU2VMbDNxMjAycVZoZUJPRzRyNGtCRXV3U2FhMmpiZU1tc3VQek9oUUdaeUNRSkdNYXYtcWttM1NaWTRDVm9rc1NBUHpacFpjUjdsRUhkWk1NOWsxSDFPYzlmVzJOZTUyWWNYcFFwaHZYT3ctOWJTZk9D?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T23:33:00+00:00"
+    },
+    {
+      "title": "營收：士紙(1903)10月營收1333萬元，月增率15.95%，年增率3.82%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmxJUTVsRjFRUjFTbEo4YU9XbEZreG1TdXVaeWdhMEdxUXFGR05tT29pX3VHQVBBNzB5YUVEOEhVRXRSS2JZWlNkNGRrX25ibHoySlMyOXFjQW1JcVF2LXNzSmFwTVNPU2dKQ0hGVEQweV9XdTNCZmJDbHppTDk1VzNvTEFQWi0z?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T03:07:00+00:00"
+    }
+  ]
 }

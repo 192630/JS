@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-05T00:26:13.011978+08:00",
+  "updated_at": "2026-11-11T23:27:56.953646+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2020",
   "name": "美亞",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【即時新聞】新美亞(SANM)受惠AI需求股價狂飆20%！美股觀望通膨數據，這4檔焦點股報到",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ4eE1mc3FhbGZRMWZCWHpXU0NOZGlDVmU0OFZjMXVSa2VVR1dZVkh6TWRwMGg0RWZ5TW5WX0NyZEhveHZyaGhmSmJvNHlQNlNFZkJkajJBQ19mSDJkVWREbUoyMk42X3QxUmItaERoQXVodGNFdkxxZGtWYVV2d1NJN05BWTB1ZFE4N21IQ0Q?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-10T10:52:42+00:00"
+    },
+    {
+      "title": "AI股票大跌，市場在怕什麼？美亞股市震盪，考驗企業獲利真功夫",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZmk0Nm1tT3E1RnNHUHRnX2J0MDM5ZTdteGthd3F0dWIyMlM4NXNTWGNHODZMX3R3OTBPTzRYd0hMQ3RWVDZQcGNab1lKRzhRcVE?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-11-07T21:51:43+00:00"
+    }
+  ]
 }

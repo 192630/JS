@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-05T00:26:08.716562+08:00",
+  "updated_at": "2026-11-11T23:27:52.135061+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2007",
   "name": "燁興",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收速報 - 燁興(2007)10月營收4.10億元年增率高達45.04％",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tYnV3V1dIeTdWZUYyNm53cDdGOThzRURILTR5Z1FxcU5la09ZcEdhdW1uUF9uQnQyTEtmYmI0ZmYwQzN2dHIwaUVXVQ?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-09T03:50:13+00:00"
+    }
+  ]
 }
