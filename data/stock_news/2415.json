@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-05T11:34:33.866636+08:00",
+  "updated_at": "2026-11-12T11:56:33.429526+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2415",
   "name": "錩新",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "2415 錩新 - 2.35真假 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KQW1GVzc4ZlhzQklfUFQxMkQ3TXRPMWdJUlV4bTYzYmN6ZkpvR1AwZDNyOG05dnJaM2tFRHZORGl4UmtNWGM0Z0drSXVla28yNHNHT2ZSSFo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T09:14:11+00:00"
+    }
+  ]
 }

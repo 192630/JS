@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-11-05T11:34:26.593976+08:00",
+  "updated_at": "2026-11-12T11:56:25.672545+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2387",
   "name": "精元",
-  "count": 3,
+  "count": 5,
   "news": [
+    {
+      "title": "精元 115年第3季綜合損益表，每股盈餘0.11元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56OVktcTIwNzR3ZDNCN3VONlU2R3NsNmIxbEdKQXNjSVZWYW9xVFJVZHBUcEJra1RpOXF2dHBQS0haXzY3N1BPVjltNlkyRDRsWXRQYlMwZ0I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T02:52:00+00:00"
+    },
     {
       "title": "《集中市場券商賣超比前30名 3-3》精元(-18.51)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGRlbUpVcksyNl9Db21EWFBjMDRncGxUYWMyb20tbTRmd1BLX0xUbnh6YUJXbFZKcEhBLU9Dd2N3VWlxaXU2QldwVnZaSVhWS2NBVjN5VnZIOW5GR2xHMzVoQXIyeXc5Q0pjY3JkeUdoNjlONThDWWxkUVNta2NPVXRVZExTVHli?oc=5",
@@ -22,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2M5MFp5R3ZzczlPZFV6WEJKOV9mYnpKMHFQYTh0N0xVVmR3TXRXZThoekZrYzRjcDJXUkoya2lEVG1uWFRUUkN1M1RDa0JUMlNHSEpERkVQYkt0bE5NbkttcGlzOUlJTE9tUHlpSzFhd0ZlZWVLYnFST1lXLURqYUlmWm1JbGp2?oc=5",
       "source": "富聯網",
       "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
+      "title": "《集中市場券商買超前30名 3-3》中華電(2387)、台化(2345)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFlvTDFzd0tCSGItb1ZHRnRnVlVhU1pmbkxKcElWYk9yMFM5clV0VFc3ODdQczc1VXo5Rlo2Qm9tZUtnZWNFWnpfN0Q1UWdNbnF1U014cm5kcWMzaHkzQ09zbXJod0R3ZHRFSmFUd0xBTk9UTEQta0RDR0JmR3o1NjdYNVJyTUxZ?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-10-14T07:00:00+00:00"
     }
   ]
 }

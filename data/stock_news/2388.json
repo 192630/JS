@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-05T11:34:27.012681+08:00",
+  "updated_at": "2026-11-12T11:56:26.090854+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2388",
   "name": "威盛",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "立衛(5344) 威盛集團訂單占營收一成多！CPU 測試減少，MCU 與電源上升",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yS3Rtck1qSDNQVk9HbFQzSlNxYXhqLXhtWjQwalVSS2xHVm1IUTFEXzdzc0I0aU9GRDZXMUxrWE9qZmduLVFnc0p2V0JsQTA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T10:00:08+00:00"
+    },
+    {
+      "title": "【10:34 即時新聞】威盛(2388)攻上漲停，盤中多頭買盤回流",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU21RTDlEZE41XzA1SlNkV0pHYnp4TUVQSV91T0tkQm1Sbk5vemljZ0lpeTFIOVZtSGx6c21Xd3RnMzQ0dldocG4tUFhnVEx6M25RTDE0X2dzMFpuc3NjNFBqZ0pXLWRpemUzWXpqS014Yi1YRlhGWV9YSjQwQ0JtNUI4aVJxYUJtb045X3pR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-09T02:34:46+00:00"
+    },
+    {
+      "title": "2388 威盛 - ✨️明年起可能不再是崩盤概念骨🪎 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Gcy11SjFsVWtQM3g0Z1N6S1FhclM4NDNURzlvQWl2ZDBOdFU1UVcyZ1FwWG0wZnFWR2tJaDkwaXVFTm5JOHRHUmZNM3hod0dKTkhMSjNhUTQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-15T07:00:00+00:00"
+    }
+  ]
 }

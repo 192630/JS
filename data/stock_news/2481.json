@@ -1,33 +1,63 @@
 {
-  "updated_at": "2026-11-05T20:33:43.105666+08:00",
+  "updated_at": "2026-11-12T11:56:54.252373+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2481",
   "name": "強茂",
-  "count": 4,
+  "count": 9,
   "news": [
     {
-      "title": "一銀統籌亞洲強茂1億美元聯貸 金融業超額認購2倍",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oNUxMZDAtQlExd2JfSGVwb0pIWjNsc2NkLWY2UFZ0TUZ0dHMtUzMyZ090bGVWa0wwVjRGU2RQdEhUWUFjY3laYVItT016NkE?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-05T08:01:55+00:00"
+      "title": "2481 強茂- 強茂集團亮相慕尼黑electronica 2026 聚焦車用電子與AI - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NZTMxMDA2Sk1wU3BaV3l6anhZZ0g5QlR2TFpUcUctZlRLWHhaMy0yZlZ6c050TUlNOW9hcWFyeF9qVk1xMXNKb1g1V0lCRTBESU9XcFRRQXE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T09:45:54+00:00"
     },
     {
-      "title": "一銀主辦強茂1億美元聯貸案 超額認購達2倍",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxVlB1QktkX0ctSmhVQzNBeFBiMjhudmdrR3pWV3FTcGx6Qmt4MkpzS0IzaHU2Z2NsSENpTlVnWWc2azVDUElvcEZzR2tkOVE4SkdoVTNNeDNnb2gwaXRv0gFkQVVfeXFMTkxmQU5HMmpQOHFvTk0xRDctUThXUVMxbXBWMm1pUnpXRlJ4N1did284MG5kUWplREIzbWNzVXBCX3ZMRkZhYklDY0VqR0J0RzdrR29hMFdOQS1lT0tvNlpMS3ljag?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-11-05T07:35:43+00:00"
+      "title": "強茂集團亮相慕尼黑electronica 2026 聚焦車用電子與 AI",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aSWgwNi1hN0NMWlAwc2tYVXdRcTdsQy1SNWxiUzZxZkFiT0dodzZweFRYVGpyOTJHUlI0T09FN0lhX0tTLWdWYUF5cHZobEU?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T09:30:07+00:00"
+    },
+    {
+      "title": "強茂（2481）外資投信對作－熱門話題｜股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zMzFNdnV3MkdMd3hqOUVZODE4M1BFM0hxSFJMOTRjM3BBQjVVT2YwamJReUgyYmhFczRxMlBqa3kyaVZhMk9lZFItcEs5XzZzRG43OEtVeU9MZDAtckE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T06:11:58+00:00"
+    },
+    {
+      "title": "強茂搶車用、AI電源商機80V、100V MOSFET明年量產- 產業",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ibjF0dGJ5R3liaml1U1NaanZMcE9TWnVoSUF0cXRzbFlwMzM4bURua05HX05WM2RnOU1xb016SjUxbTFfQUxxU3RNUzhQbGxxdlJjZkpPNHhzS2dXbTk0?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-11-11T01:38:00+00:00"
+    },
+    {
+      "title": "強茂亮相德國電子展，40 V 車用MOSFET、AI 電源方案成焦點- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LQW1ycHNzbmcxM0VFM1cwd2VpN0w3R3hBZzdXMWt0QVhzNXJuWk9tQ3BYRmFXSDZKRms1Q3RDN292c0oySENwQWNkeFkxYmlqdzlhc2lTRng?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T07:06:07+00:00"
+    },
+    {
+      "title": "強茂Q3毛利率創高，Q4營運續旺可期",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNa29ocllOVTJDMURyUjVKSmZGRDFPSjIzQjhRMkpycng0M0Z0ak9rWllEMEJEaU43NWxSdnVwWTJpS1BqMndremRRWUJEd0JOQ1VhTllLcWlYbTlZTnE4NUxBTzlXZVEyMzdabnNMT3BCU0xVeDROSjNJek9Ed0lOYk9nUGxYeGhMc2ctUC1rRzJtN0Y4S0NVSXNDMkhOSVJsNXBveGdxbVJQTlhMZGJLV3BSeE5RX2NFMkkxTTRtRF9OZTZKbXh2ektUQXBxT0M4dEkxSXNEY1lXX2s0RWVRM2lCZHpzblBhbUx5Q3ZXc1QyX2VDYWxBWGppb01KUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-10T04:18:06+00:00"
+    },
+    {
+      "title": "強茂(2481) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJa0I5UVFQLS1WQTFGYy1zZGJGNFh1bVBEdzhKTTFtOE02UDFOYUkwQ3llWVRhME56ekI0aWk1NU8tb19HWmNJazlYblBpLUU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-08T08:00:00+00:00"
+    },
+    {
+      "title": "一銀統籌亞洲強茂1億美元聯貸 金融業超額認購2倍",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNWXdoRkZPTDRJYmFFLUFPYWFxNWluR040MEUxY2h3T1c0NkFOR3BOV3Rjd29WZmk4S0p5Mlg0SmNHR3JNQmRoNVVxRnQwX1h3ckQ5TkFFQXpOdmNaTlBjSWlsWEtINHR4S0IzNDhMNE9PMlhuQkpmamFQcXpKa2FOQW55U2ZMTFhBbHhGNGNTOWlEWUJJWDZxVGlhNkEwTDVFcVZJZ3dyQUprM2RiTG53TGlQOFhlNWI1THk3bW1jVkFhSE1FdjFFeFhKdElGeHl2aVNlNC1LNnZxTUYyTzhuUE00NjN3cUYtRURBalVWTXBKTUVDeEYtSU4tb3dhbEhSUGJJWnpFNUdXMk4xMHI0Z05Obld4MUQ3QU9nQ3k3ZGdPX0xKRnRXT3RHQ01MaENSWGh2cDUxSHZyMzk4MFQwYUp4NjhzNDNRZ2piNE92NA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-05T08:01:55+00:00"
     },
     {
       "title": "討論牆 | 盤中速報 - 強茂(2481)股價拉至漲停，漲停價227.5元，成交1,119張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSSGxFSkYzTmREZ3Y5ZWhGcFFXaUNOUThOMV85akdvaTlUZWNIeEtHTkNjckFnMkEzV2o1bG9JMm1rbVZCWmEtSEZDc01VTV9zTy1mc3NFeFBScmZlSU8zb1FJVGw?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-11-03T05:43:14+00:00"
-    },
-    {
-      "title": "強茂 選逾七個月",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QT0xNLThBVnlnZVhHWkdsUnRGMUVycnp1OUtySy05YUI5Smh3WXg4bG9lOVg4SFc4MTFXOEhTZmxscXVkMURxYnZIaE1xRlNjNUlSSG5uZ0dOZ9IBX0FVX3lxTE5INXdjQnlUZEFaMWthZUEwOFJGNnVDcEI2UEhvSUVPN0lFa1FVYjlKNXZDOGdjQ3Q4MU9US0l0ajRIRE9YdkdRaElESDZIVEc5TUdlVTdMMzlFdEk5azZB?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-12T07:00:00+00:00"
     }
   ]
 }

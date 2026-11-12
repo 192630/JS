@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-05T11:34:22.749529+08:00",
+  "updated_at": "2026-11-12T11:56:21.460835+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2369",
   "name": "菱生",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "【10:54 即時新聞】菱生(2369)強攻漲停，盤中買盤積極推升",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTUyaEczcUxCRE8zVHM5dE16cnpWaHc2QVhZVjMya3UtR1R6TlBYUWllWGhyWHU1UkxLQlhBMDl0Nk1DOEJpVmlJOGF3T0tUOVFqS1hCcmx5bmtEOGI5RGl3SjZNTmFlRnJaRl8tZmNfYTlrak01VFlXY1RnX1VUODlpSkYwNFJKNm0yZEZn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-09T02:55:17+00:00"
+    },
+    {
+      "title": "菱生元大5C購04 (072917.TW) 資產負債表",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRjBkMnJVc3h4c2dkQlc1MEx0MDNfSmFXSVJEU1RiRU45NnVlSGZ0X1hVS0JINklzcFJ5cUNtVk53LWF1VF9JMFRHS2VSMDV4MXEzTWctblpKQWNJaWUwRnRDWXRoR2lJQThV?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-11-05T23:26:19+00:00"
+    },
+    {
+      "title": "2369 菱生 - Q3 0.44（0.15） - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90S1p4Q3pZV1NHcXZhSHV5cHRUNHRFTGg0WlUwU2xydE5KMVRnbUxUVUJNYTVGOG9RRHRYODd4OEM3ZjFGUW9UckxkVi1VNEdCdjJleHhjRmk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T08:47:05+00:00"
+    }
+  ]
 }

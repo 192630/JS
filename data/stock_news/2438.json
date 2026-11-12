@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-05T11:34:41.442196+08:00",
+  "updated_at": "2026-11-12T11:56:41.276634+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2438",
   "name": "翔耀",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "翔耀 代重要子公司勁耘科技股份有限公司公告認購翔耀物流股份有限公司現金增資普通股事宜",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lY1VnZDRoa2RuMmJmdENPT0dXOEEyUWZoSUM5c2ZtNTBSQUFzOEFLODZsNTFJYUZoSFJNaXdtRWkzbHh2elZacG03LUhhQ0pHUVNCbWlPSUw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-03T11:14:41+00:00"
+      "title": "財報：翔耀(2438)115/1/1～115/9/30歸屬母公司淨損8424萬元，EPS -1.27元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTdKbVhaN1hFckktNUhOSzlxbGtWSjE0TlFwS2x2VHhaMFRSY2VORHRDVzZYX3dpeEFVR1B0MGRRWW14V2hBYUlJTk1RU3lMSjlaeDJWYlNPWWNOWFV0LVBnb0NZSkV4U2hmcFo1WmhJeUJtY0stME9qeUNySFBUbnJBa3dIT2hm?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-11T23:22:00+00:00"
+    },
+    {
+      "title": "共進股份(603118.SH)：子公司翔耀芯光業務尚處於起步階段",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVVBnS0taS1ZvVU9HNWZpQldObFNKNzhuWFBYZ2Yybk5GMHZ0bUh3cGZyMzhwN0tNVUdFb0k4M3V0LWVCX3J3d0pkQmVBeXozemxodHgtTWVRczBkQWluSklMMWNKSXZqWXc?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-11T08:05:08+00:00"
     }
   ]
 }

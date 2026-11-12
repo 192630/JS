@@ -1,33 +1,81 @@
 {
-  "updated_at": "2026-11-05T11:34:29.092966+08:00",
+  "updated_at": "2026-11-12T11:56:28.501116+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2397",
   "name": "友通",
-  "count": 4,
+  "count": 12,
   "news": [
     {
-      "title": "【公告】友通 2026年10月合併營收11.68億元 年增22.77%",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOXVxNUp0cmJkYVc5YXFaY3l3bmxQLVNnekVlNTdhcWtfUVc3aVBwY3hqenZPNEpZTmhHQ19za0tEZUJvV0FMemFKaXhUUEVIQjgyZ3ppUDZuNXUzT2d5RWxvM2Y5QkJKajZzaG4taENvVGpCUkd0N3BUcTN5cE00bzdyM0g3c0RNUnBQb1N1elRCdXhFQ2l0cE9oUDRLRXJfTXY4U2xnUEw5UlhCRHNFb1g1aHpPYlhwMUZyak9wNTBEQ0UzOHBqOW9mV2tzUmpydnBjLW1VT1Y2SGdRM21wbGRkenF1VUlCdmY2cEtWWTh5YVhTTFhmVXM2QWg2Q2lsN2tJNXdjUUZzNHJaWEp2WlFfY2tCU1RN?oc=5",
+      "title": "友通(2397) 毛利率連升兩季，為何前 3 季仍落後去年 1.6 個百分點？",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DeG9tRVpRT1dhOG9PQ0RZcmNMbVlZdUplbVFmbHdXU0x5VEQzajM2SkdrU0xPa3oxX1JPMjFKMHVVZDRWX1l1cTFQV2tNWlk?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T21:32:08+00:00"
+    },
+    {
+      "title": "友通(2397) 營業利益翻倍不是靠刪費用！研發支出反增七成五",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aWmhfVVBVYk5rZFROajRfVGpYYkhfRFN5VVNjRXFSZG1hNEhPVkQ4MFhhMzJfLXVaVml1eUFZYzh3bkFOZTAydk1qd3V3eDg?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T21:32:08+00:00"
+    },
+    {
+      "title": "友通(2397) 原料達去年同期 3.1 倍！47.61 億元存貨背後的交期壓力",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBacEkyMl9YaGVwcTAwZEhTemJvc0VTc3hBczl0MkRPZW9DSy1QQ1YtTnRNY2NVSG1wczh5NzVRbWZCNkpHS216N3NRbWFrdm8?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T21:32:08+00:00"
+    },
+    {
+      "title": "友通(2397) 機器人首案已出貨！第三案採 NVIDIA Thor，預計 2027 年第 3 季量產",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wT2YzVTRQUzFSeFpGUkF5YlVGWnVselBsV0Q5T0NzamtyaWRweVdDU3hPd0lRLXNhT1BCV3lqREJLNVpEUjE3RVlaN2tGRGM?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T21:32:08+00:00"
+    },
+    {
+      "title": "友通(2397) 邊緣AI 潛在商機九成集中三大應用，訂單轉化看驗證複製速度",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PUkdnYlFEVF8tTEhLUjhteHFCWng2a2hhVzB0WE9Ea282bTEzZnRXd3ZQRlVkRzVtSzRRVlpEQjl1RTdaa185dVNId21kVGM?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T21:32:08+00:00"
+    },
+    {
+      "title": "友通持續聚焦三大重點應用，對未來成長保持信心",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPQkVTc1lMZ285LWxlOU9ZN2hEY3FDWk5MbFhPZnV2Q1Yzdk5ZRTV3Yl9ad1ZOVGVXNW1QNTI1QzVlaHVNMFFkV2x6dy1VS19RV1F2QnZ3eXlYMGthR0ZmcUw4QUVvR2NkS2VmRWp2R1gxU0FKVnRFTU1ySTNJblBsenBaLXAwcHNjb3h6dXB3aE9TSzZMMzVRd21abFlfZXIyVFdtOVR3OFd3aHRqYXJVbkZYWm02czBTX3VVVXhYaEpreTdybTFPWVBBSXF4dXZIZVh0aXljalJTNWhfRlJCTWtCejlUOGlwMEFpbnliTF9rNzdVZ3NjMWphVnJoVExBLUI3cGRoYVRiNjE4U2pXZVpRcFJGQ2JGTElqbHhzVVdkMGZ4WUxUZGlRanppbkNRNHlQWE1YOVBfcnJoczhJWmJNcWszdDluTTE0OWFCZm5LWElmV3JuYQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-03T10:03:43+00:00"
+      "published_at": "2026-11-11T07:55:39+00:00"
+    },
+    {
+      "title": "友通前三季賺贏去年；新專案導入原物料價格連動",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOTW8yVFlWVXpDcGtlczBQNms3YTdSMFdnYy1UYWtvMnBCNURIaVQ3N1l0VXZIZmRfLUwxX2p4bWxsOFJ4SzlIeVVHWWUzREpNSTlXMFJuZEJOcHpXSE8tVEJ5TkxZWjd5QnJGa2xXRFh5M3B1c3F4cVFDUmdCZE44M1lyeVhLM2RZVHRjWVlCTHJKSll1Uy1XLVphLWR5OUNna3VnMFlZSWNPYXhvOWpuTjdNQ012VGxfZG9aZXc1NEJQclg1XzI5cE9USVY2TFo4RlZnVnlITzhrVG1ib0daemkxeHZNblBjMHEyOGJ5MkRkNE1zWWJwcnBQYTllOGFtM25SeHNmOTFIMlNSTDJ6UUw2ZS1QSGs2WVFMLWdKb0hfVXlQbVNhcG1NT3NieDZpeEtRZTJ5UkFNcjhOWVdPdnVLSmJfSEtnNzhJaGFWR0V4VkdRYlR3SQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-11T07:41:34+00:00"
+    },
+    {
+      "title": "友通：接單動能強勁 看好第4季與明年上半年營運",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zVHRGSmhmRlF3b0Y1MUZBTHFGc3JBMnpSaU5OdHJaSXJNRzlWSXUwNnBjTHdjenMyNHdaUkpZb2MtdjhKd1ZJYnN1VFJsWnFRc1NBUEVsNnd6Q3Jhd3lxc21MZFI2S0dDdVVpZVN5LVFBamlJVldoUGRVb9IBX0FVX3lxTE1uZHVnQWtXUmFLTkhfeGhna0FwcDZ6X0dzZ1pfUFV2WnZtXzZwdXVsWVZRcE8zR2ZRTkszLUpnbHNqMGFiSjJ1TU9KaDlyMzZwSkdzNVZtVm4tUUhVakQ0?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-11T07:01:17+00:00"
+    },
+    {
+      "title": "友通接單動能強勁 CPU提前四季備料",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95cUNuMU5rcDBZcWFrZDJaUUVSVEFkdldyYnQ2bG83b0ZNQkoxcWlBR1pEMlRaTW0zWV9mZTRkSU5uV08zR3pZZ3pTU3Z6dTJaenl5UjRQOGMyV2JaQTN30gFkQVVfeXFMUEYyWW0tR2RnblZhN2Q5QVpWcUNVQmktU0syU01RNUx4clR1QmFXSjM3c1Q2UGVlcE11eVN2MElvMzl1UXJ4TW0zNGprVllmLXh4SnNVekRUeDJtSDlmTFhxcXo1Uw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-11-11T06:16:27+00:00"
+    },
+    {
+      "title": "友通法說會／第3季 EPS 年增近一倍 三大應用布局成效逐步顯現",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nMEVKWkwyMDBMNFlFUlBOVllySmNqTWR3YXlhXy1VSWU2Qm42dVhUMndQZEJEdFJsd3RqX1k0TTFsYUZ2VHNkeTF1NjVTd0N30gFWQVVfeXFMTjQ0VTlXYmtJaG9xT19SejB3d1pMX0dELVJFUTlDVUVFYTMtVjJDWFdhS3JfUGJpV3hHVjBMY3BtVTgtbWxHWnNGMGwyRWhiRGp5X3VEbnc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-11T06:12:17+00:00"
+    },
+    {
+      "title": "2397 友通- 友通前三季合併獲利3.83億元，每股稅後3.34元 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jMFNCNm5fMXplcmNoenJSRXlBazFSbzExdkNqM1d0MTBDNFhVTk9KRFFiSkFZQjNRUDVlaVRvRHhrOFhLZlBVclVkYmY0U3I4MXlkcEI2OFk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-03T21:30:07+00:00"
     },
     {
       "title": "友通(2397) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBWjVuX2hQZXpES21PVzZDOFpJQVhYc0htNmQyMGtkSU42ZmQ4VHMwb28tSWtsazNuWThEMy1PZzF0THMxX2JLckJR?oc=5",
       "source": "CMoney",
       "published_at": "2026-10-29T18:30:55+00:00"
-    },
-    {
-      "title": "友通資訊 (2397) 深度解析：AI 邊緣運算與無人機雙引擎，驅動工業電腦龍頭邁向智慧化新局",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0wZEI1Tkx2ZWhCZTdLRTh0TjZUNnBKeGEtOGtNY3kyVy1fdjFuMmtua2YxREYyS3pIckVrZXpXOThKeDQ?oc=5",
-      "source": "913 理財估測站",
-      "published_at": "2026-10-29T17:47:40+00:00"
-    },
-    {
-      "title": "友通資訊股份有限公司",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDRoUnFDTkVZLWdwTHZ2YW5uLWJvb3JDX2Rxa1ZKVG5ZMTBibUpRMVg0cnh2TTFXeHNLZUZ2SjUta3QxZXozXzVhOUxQRHFON0JfSmxIMTBsUXlFcVlPejJFWkZBdXY3STFaUFZEdm8xTjJUWWFQTDFZY0ZHVVdUTUJKUElJcjFPNm5BR09ZVHd1NDVRNE1B?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-10-16T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-05T11:34:23.593748+08:00",
+  "updated_at": "2026-11-12T11:56:22.373511+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2373",
   "name": "震旦行",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "震旦行前三季每股盈餘2.9元 稅後淨利年增4％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXVmtwR1dPS3d1b25SSEV3aEJ1TUtxclNQQ1c4TmctZFFReWd6YlVKSWROUHpqemNsZXowSFY2eWc1eERhY1dXTjJpdEdrbVhaWWdKM3FtVGhlYURyVUw00gFkQVVfeXFMTm5uV09EeUIwSUNWSUtVdGp1RXZtYTQ0dlN1b2dQZkNzaExPMkQxcjZLbmM4Tkk2QTdLUExNa0lGNkdDQTYxTm1hRDh5N3RRNl9ERF94SVB0OC1xQm42bkdTTmtyUw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-11-11T12:27:33+00:00"
+    },
+    {
+      "title": "【即時新聞】震旦行今日宣布第3季每股賺1.27元，稅後淨利年增26％展現韌性",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeDA3dlNyVVN0UHhzX3Btbk5nZkJEYU9DVDQ4LUxvc3JRbGVkWjg5azFoemtJSmI2NTVJQVNtbU5SUjNGaV9pWlJNWmF6NU9vM3hIbkg5bUwtelByOWUySEJ2a3ZXODg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T12:06:50+00:00"
+    }
+  ]
 }
