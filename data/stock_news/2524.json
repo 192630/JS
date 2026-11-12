@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-05T20:33:54.717037+08:00",
+  "updated_at": "2026-11-12T20:58:59.672792+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2524",
   "name": "京城",
-  "count": 8,
+  "count": 10,
   "news": [
     {
-      "title": "京城佳業 (2210.HK) 股價、新聞、報價和記錄",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uRTVYbWVrMVVNMzZwTVdma25OOTFXaVd5dXF6TGtrRWUtNEU1ejRVYzhHdWJpaW1WYm1KWExYNFhINEhPb1BoM1ZRbFBubHF5ekJHM3Q0eTI0RUFqbGk4Zm1vS0E?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-10-29T07:00:00+00:00"
+      "title": "【即時新聞】最新！京城前三季EPS穩賺1.37元，豪砸91.3億布局高雄雙開發案",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wblRJR2x5Qm1NdzBVTG9tYWd3OU8tRUQwaXR2UV8ySERMMW5uTzRkRXpNbERLMFZNeXFqbEZ0cVQ3MTByMjhXZVlSelVxaDFyM08tUzZjSXBPLThmaWxCZDBTaVJBams?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T12:07:57+00:00"
+    },
+    {
+      "title": "京城銀明年1/1正式併入永豐銀！存摺、金融卡、薪轉優惠變動Q&A一次看",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3anU5elJNRU5mTk14RWRGTTlVNV9ialpONG1PRmVDVnF4WXFrNmdEa3lIYnJmbV9CRHBCTVdPeVJsWFZZWjdRRUprTkp3cFVNY19qNEZLZWcxWi1ra2ZYNFcyYVh6UW1NZ0Q5dzViMA?oc=5",
+      "source": "知新聞",
+      "published_at": "2026-10-26T07:00:00+00:00"
     },
     {
       "title": "【本週復盤】永豐金證併京城證獲准，「6檔金控股」同步轉強！",
@@ -18,16 +24,22 @@
       "published_at": "2026-10-23T07:00:00+00:00"
     },
     {
+      "title": "金管會准了！永豐金證券併京城證 11/23合併基準日",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUXZVTUswUDI2X2FrLW8zdlNmdnlLTjNaT19sSU03ZWRzQ0pVWnppTUFVZHF1NGNSMEpIUS1DVTBDbjNIOFZTdE01OU8xQ185ZGlfWVRSaEdkam5Lc2NoX203cllKVDZzWkpzS3VWeG1fc3pyM0hZLWg5UW5BdUs2M0RRdlZpUGthczVXWm1xamZfbnBDZ2ZtZnNzc2tleVk1eHNCcGdzbWhjcEJIUS1XY0pwUmx0RWF1U1NQRWZJV1lIVkF6Vkx4c2VzUWFFVEhQUGJzb0xwV0N4cHA1VXpqTmF5NnpvNnNmNXVsWEtsd2Jac3ZtVUhHZDR0TmduUm1LOVhreF9ETGhSQWtUNEJGeHlkVWotYkRTN3o2ekg4cTZNc2gtaHJPY0ZXdVVVMURCTThJdlFpY1ZiVVFrQlZxcTVRV1F5VnRrRHVN?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    },
+    {
       "title": "永豐金證券合併京城證券案 金管會今准了",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUpkYjJveUhpM2p1RVJiZlA2UC1LSWFXMlE1Qi0wcG9LRmc5eUZDMWVyamhZMTA5TUtxZzBZWmlLdVhPd2VLTTNpaVJVSlVNd3dtLWhPTE44VzhETWxTV2hNcGdLYUdoaUxhOUlweUJ1UmhQdEl5VWRJeUtkXy1QdE1n?oc=5",
       "source": "壹蘋新聞網",
       "published_at": "2026-10-22T07:00:00+00:00"
     },
     {
-      "title": "金管會准了！永豐金證券併京城證 11/23合併基準日",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUXZVTUswUDI2X2FrLW8zdlNmdnlLTjNaT19sSU03ZWRzQ0pVWnppTUFVZHF1NGNSMEpIUS1DVTBDbjNIOFZTdE01OU8xQ185ZGlfWVRSaEdkam5Lc2NoX203cllKVDZzWkpzS3VWeG1fc3pyM0hZLWg5UW5BdUs2M0RRdlZpUGthczVXWm1xamZfbnBDZ2ZtZnNzc2tleVk1eHNCcGdzbWhjcEJIUS1XY0pwUmx0RWF1U1NQRWZJV1lIVkF6Vkx4c2VzUWFFVEhQUGJzb0xwV0N4cHA1VXpqTmF5NnpvNnNmNXVsWEtsd2Jac3ZtVUhHZDR0TmduUm1LOVhreF9ETGhSQWtUNEJGeHlkVWotYkRTN3o2ekg4cTZNc2gtaHJPY0ZXdVVVMURCTThJdlFpY1ZiVVFrQlZxcTVRV1F5VnRrRHVN?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-10-22T07:00:00+00:00"
+      "title": "永豐銀拍板「元旦正式合併京城銀」躍居全台第二大民營銀行",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWVZnZkI5WldxaVFTNjg0Nm1zMEpnN1pkZlJiRzFNbFFBQWtKbDA0OFNidGtKZmk5cXBLM0xXaUdwdmNaZUJkY0RVR2VFb1dRZGdGWXV2M0lnUQ?oc=5",
+      "source": "東森電視",
+      "published_at": "2026-10-18T07:00:00+00:00"
     },
     {
       "title": "永豐銀行拍板 明年1/1合併京城銀行",
@@ -36,21 +48,21 @@
       "published_at": "2026-10-15T07:00:00+00:00"
     },
     {
-      "title": "永豐銀合併京城銀 基準日明年元旦",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTdWJZLUpKOUlyMjExWWg1M21pbGpLUER2b0NHQWt2RkdIYjE1ZjVTRFlkelBpNDl5ekp6UHg0elFSeXprdE90MlU0b05fWXhDSmd1WjdUVWc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "永豐銀合併京城銀明年元旦上路 南北分行比例將達4比6",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjBQMEVRY2dua3o1OHlpcDhrR0Z2cUh4eWhzdmNMQ0wzN0lhV29OdGVHc2JnT21tSlptaThCVDdiWHVyeWhLNmR4dXlOblhKLWN3LWRncTB3NVRkcko3QnowSjhHSXVZbVduTWd1UjBMNWVmajlaX1FLX1pPTGhJNUJ3?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-10-14T07:00:00+00:00"
+      "title": "永豐銀併京城銀 明年元旦為合併基準日",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yRWQ3d2NBM2RCZEEybDlmSDJVVVhrd3ZnTHRERnlzWnV0TGkzdEFiaDNPREdtNU5jaU9zOHRCd2JDNTVKMnREMUd2UVRqWFI0ZHJLRnZBMzBQMzFG0gFiQVVfeXFMUF9qdTRRdmI0Rlo4X2xHVXhxMHFFWWlSQVh3MWNSQ1pFY2FkQkRqWDl6c1V4RFVXeS1QWWh6ejYzWUJnXzF2RDZKdUFiSzJDbTByYU9ZakhXMGtRT1J3NDAwWUE?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-10-15T07:00:00+00:00"
     },
     {
       "title": "永豐銀、京城銀敲定2027年1月1日合併基準日 南北據點互補展綜效",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNT3VxUEhIQ1lKU3ZKS0ROOHI0aW5sN21uLXpmQXFmSTF1Z2t1NTAxRER3ZTlqdGtscmFmbjJzZVoxb3R4QVFnb09pSkZXZzlSa25sMERiMkhyVWwwN1kwaFFvdDRIX3hvZGpwX2IweWVYWTRmNFotNXcteHJkWU1qSEw3NTNUOF9xMGp3VDUyN3lpR3E4cHVfMTBDczg3cWhxSGFobFdqMTdsZHNHdk4xSEVrSXY5eGRoMVhGNkJ3bGNON2MtLVg2eUQ0TEtFMnh5VFRBMnNoYmtnWUdYOS1OV1BBUGNwU19TeHZjRFBHM2RoT0RLT2NOZlRkZER3ODdSRVV6Y0lSdWxNRGxYTk9VWkhJRVdyclktZURqWEh3TXJRbWJRV3lmdDVGR2xVZzhWQnMtd0VhVXVoVkJRSlEtYkdmMlItQlBVY1ctbndMS0dDajF4Y3ZJcjZvTTVpQV9RR2pNRXU4S3lPeFp5NWp1LUhGUUJtSXdXVW9aODBFbE12MUtyVmltUkNfcXNZMG9JbE1KQg?oc=5",
-      "source": "Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xS1NINVlNcVNqTlpHaElsWTVWOXBCRE1Ec2JOUXVEMkRhWDF6c0FTc0JtaFE1N3VySC1IUnQ2SHFQWWpDb3RqbXBfVElHTDA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-14T07:00:00+00:00"
+    },
+    {
+      "title": "永豐銀合併京城銀 基準日明年元旦",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTdWJZLUpKOUlyMjExWWg1M21pbGpLUER2b0NHQWt2RkdIYjE1ZjVTRFlkelBpNDl5ekp6UHg0elFSeXprdE90MlU0b05fWXhDSmd1WjdUVWc?oc=5",
+      "source": "自由時報",
       "published_at": "2026-10-14T07:00:00+00:00"
     }
   ]

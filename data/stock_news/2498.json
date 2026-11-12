@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-11-05T20:33:49.637049+08:00",
+  "updated_at": "2026-11-12T20:58:54.596140+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2498",
   "name": "宏達電",
-  "count": 11,
+  "count": 9,
   "news": [
+    {
+      "title": "2498 宏達電 - 宏達電HTC的發展史- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kMmIzdkV5VmJTZnJocENpT20wMVZRQVlHbWhjWnlpWUdDUDV1eW11YVNpY2w4OXE4Wmw3N2podTh0ajBVYzV1cWFDaG51UzNKMERqYjNuQlM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T22:40:29+00:00"
+    },
+    {
+      "title": "宏達電10月營收2.3億元年增2成 AI產品VIVEE年底前台、日陸續上市",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMGg3Zl9Yd1FhYV9CWm9nenBPMk5PcUhFRHNEQXQ3RlJmaHlickZseDBnMmhrM1NPX0JsS2VKWFRzeTdBLTVpM2hmZmNTdUZtcXZkOXFaUFNPcGJHOUhoYU1FOWlQSkVMUFl0eG91U0VQSzY2RDd5bU9fNmJDdEdDRlBKaEg1em0tdkw0b0xVUjJYZzJLdVFLVWhfRXB1MmRzanZMa003aFdNdTBDMlc2Z1VENE1IdTRwWkJRb3RDWDZKa1ZYUDZPeUc5YjR1bzRJVC0xU2NvM04zRkNPaGFIR21jVDl5MUZMUzBFWUdMcTMwTWUzc1lFc2xjRUtfNHBsTE9WWmhFMm8tUjJVR0c5aC1CdHAyTWwtU3ktckdudGtRMTI3anhYUWZEZVVoUHN6c3RDcmFFc25OeFRHMTNuQWxQLThKRnJ6T0NZWXl1RmVHS2hzX1E2Rzl0QUF5OFpNMkFhbE1GUFVGczJEbkZmc0lkS21meTQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-06T09:10:03+00:00"
+    },
+    {
+      "title": "宏達電10月營收2.33億元 年增21%",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2pNYU9VNVptQlg1MHA5eG9zdVVvVmJRTUVFUU5sbW96WmRYSC1MdDE3cWlBbWxsQV9ZWHBFdDdLZHNiaXQ3MTBBTVRSeFpLaS1tdmUwd1ZmMXVxV29Vc0RvQWFtOWJRTGp5UE82amNkUjByMzVxdXN4alBPMktPMUNOcVpKd2Q5NzZMVmdSN3o2Z0RvcHRCekxZUGZqQmNteFhVa1RvNkUzNGxPcVdDb0NsaUR4Z3RnYTJ0MDNRM05CcmozczIzR0s0UFJFNFIzR0prWU80U1RmWVBibEE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-06T08:14:18+00:00"
+    },
     {
       "title": "國防醫學大學攜手宏達電 探索智慧醫療與教育新模式",
       "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQQ2lTSDRQN0cyNU5hZzFVeUNLRVZTd01ZdTFpeEFZczg3alo1bmd4LXZaekt3NExWWjhKcF90TTczajcxck40SkozcWk5eHAxa3ZYU010eUxOaW1Gd243TjVNWndXOVhsVV9EcVZvMkR5aU9ISFpVZHBtaWFETnVKZ212SE9mck9DMDlKWXBqeERfV1lRTGhWajZfTWg1ZFpodG5pbjRTRTRJQzY0YTVmQzFoZ05OYkF6ZGZkSmtueUZoeGwzaGlaQmtlQWl4YkNZNy10VGNRM0drc2tKSk5lNFZFd1dVZ3pRbVk1bmtyYmlXamtpeENwTVNyai1Ba0pYRW5MX21BalVCczFmTlhPOW5mUVE3SWRxb1o1SmFlcG5EZ1BZYVlKVEw5S29yczFsQVhVX1ExNmE2TDJSdU41T2ZuR1kxOVhVZF80MWNEUEQyRENfSzB2WUFSb21UeFVaOGZIZm56Z1RmSHRPdWZiMjVubw?oc=5",
@@ -12,64 +30,34 @@
       "published_at": "2026-11-05T10:58:08+00:00"
     },
     {
-      "title": "宏達電榮獲勞動部工作生活平衡獎「員工關懷獎」 落實身心有感、安心無界友善職場",
-      "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPalBZbEZKZWRfQXJpZkFUem1IOGN0LWVtTVoxQmlQenJvdXNMU08xNEpKeE9hUWtCZzZseWpmZlFnMzJFN3JtZ0o3TnFfelQ3bjYzN3BWTU4tRFl6bVlYVktad3kxSjY4QUdsVU9YN2JucGRXdzFUelh5M1hIRGo1d1AtMVlOMWdLX1FvSmQ5THBuNzB0SnhSWXpuVHdGN2poNFNYY2x6bDdtUWttWGRva3R2aXlWVG5HZ0RYNW1kUlVRSENGMXc3R2RXbTF5aWVwRjlvbHpvd2JIeVRPX3hsU0lnRWhZMjVYeXU3Mk0tNy1tR0xrZGMyUXUtd2FFSlFPWDRjNTMtUnVhYmk2aEIwaUJNdHdSQ1VGazQybUQteUFEdDB2b3M5REQyRGxJNDc2akpRUkJnc1lzVXNIbS1qWlRXeDNoZ24zT09MM1BQcGE4MktRTVc1dXpyWmlBU2ZrMHdFNG5hazFrX2NpdTJNMjlUczhrQkl5UWt6RU03TnJtN1hXcHREd3E5cTFwV2psS2JyaHVzcWNrVHhPT0xPbU9YV0RuSkdtQ1ZXcWZHNFVDbjZDVEVsTThmV1NweEhCb1VSWnhVc2pydUNmX1pjdnN1MEpFZU9ha0JzR2t4ZXhKUlpJVUJaSHNBa2ZzNWVYUE9qREhBVQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-04T10:53:23+00:00"
-    },
-    {
-      "title": "2498 宏達電 - 國醫大與宏達電簽署合作備忘錄攜手推動智慧醫療創新- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FUXN2WVF5VGVNS3pVaHBwTm1ZQ3l6QzhsYkFXSEJUNGQ5ZFpSOXBqSHRzNlNvbjFPelRCYkRhSFFVOW1vblF5ZHFZbkxTY09qUHk3NHpvbw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-03T08:28:03+00:00"
-    },
-    {
       "title": "宏達電股價衝破40元！終結連3季虧損！第3季EPS轉正，想上車等等：財報藏「一隱憂」 | 下班經濟學 | 財經",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CQ0s2TjZiLXNONlpLTENQS3UtNWFOOHhpVFpJRDRwSThnMVlNU3ZwRy1MTWZwZzNieWJsZDhCWWlqRGZyaGdPd1dRMXVNdw?oc=5",
       "source": "風傳媒",
-      "published_at": "2026-11-03T03:06:00+00:00"
-    },
-    {
-      "title": "宏達電第3季轉盈每股純益0.26元 股價逆勢上漲挑戰40元關卡",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HYWluNE5oVUNKTW9mbGhaYzZkbWVneFB3NXBaR2RaZ3k3enozV1pKT1g4dk5PZkJVOGdnblZUbGtIcDlSTHRabHBfNEtvYWNP0gFWQVVfeXFMT29mMm5ucEJ6dzV1RU9pa0Y4R2xLLTFPSnREbnBTZTdqZWplbEdRdmpBNWxoRUNmYWhOQUFqYlFZeWFGMV9LV1RfV1VSYVZGQ1hSanZ0TUE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-11-03T02:49:52+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     },
     {
       "title": "【10:10 即時新聞】宏達電(2498)盤中近四成價位走強，主力偏空成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWRFS3N5WmVTbTJITTQ4b2FxYmxwMXU4UGhpWkNLdDVRelZEX2Jydlk3ZFduOWQ2WTZyRmsyVzk2bmo5R2F6Y0tTWUU5ZXZxWkNzRGZid0d3SlRuclVfbW5MNXJnTzg2Q2k1VjJVOUMtNzRhd1kydnYtVGw3cWtPRk9OZnVNUmNoUUd1RXBR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-03T02:10:42+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     },
     {
       "title": "「一代股王」宏達電第三季虧轉盈！今大漲近半根歡慶重返40元大關",
       "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPandRRk41UHdiZnhUQ2M4MnFtSHlPRk5pTDk3Q1ZTVEpSNTMtaHFlUmNsMlNmSjlha2NfREg2SEg3SjM5RENuUzV5QUlMSEo2a2MtRmF3REQxMmNya1REQU1WYzVWOXRSaGdXTGMtWGhSak9sbk5nc3pJWmNtOEswdnl2N0k0TzFyQ1lSa3N3bFVIQndsU1QzNUhYWEdNVUR0SGpLRk5qZU9TcXphSUs0R0dyLThrWHpzNXY4dWo1eEtzZEVFUFFmUFZBNGpNb1N2YTY1bzl1bjlmbkllSUNOTUhFRi01S245dUpJN2JOVUVteE9yZFE5bUhiZ0pZY0w4ODB5NW5ITDgtWkdqMEZsVHh6cVFOSnlHdXlxSFdJbGp2MmpvNEVHMGhRb0ZRRUJKaWlQVjFvWENOSGc3cUphNGE0Ym9MTUdkc2FZVFJwZXJsTmtIenBYa05FNGZkWFhMY3k0T1J4Z2w2LWFFdkwxUjlLSHk1MU9yY29xTUxKRkJFM2ZCMTlrTXc3U25VMk9CeU9KRmNjdTBLaTNOZmpPOFJRSjFaVU5qWnd6RVpORkxHNTMyRkV5X25B?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-03T01:33:11+00:00"
-    },
-    {
-      "title": "宏達電 Q3 EPS 0.26元",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sQ0FzY0dralAwNVVyeU9GaFBURFlZVEs2MFRtWVk5VkpxSGF4T2NhUUNKZUUzT2VnTURyZzVxVEttR1RuU3J6SGtkQl9tdzFG0gFWQVVfeXFMTW53cV9Wbm9RNHVhYmM5bnRyWTV4NTQ5Zi1FMTN3UWpyWHZLTk5nbjY5LUYtNmhqTXNZMTdOWkRHbGtSYWZqbnF3VGNwNHhNUjVaNUNvdmc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-11-02T17:03:36+00:00"
-    },
-    {
-      "title": "0050跌越兇買越多？專家點「ETF汰弱留強、散戶卻相反」：攤平抱宏達電慘賠9成 | 存股族愛ETF | 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91dGtqNVpDQms1RTJhVDlOdTViX1NzR1RVbWN3MFFxNXdqTTVMdmQtbWJ3bDQ4QnNMYlMxcmpSUFd4eURzdnNRNjBuWlJQWGtsNVBn?oc=5",
-      "source": "UDN",
-      "published_at": "2026-10-30T01:47:07+00:00"
-    },
-    {
-      "title": "VIVEE是什麼？宏達電百美元AI陪伴寵物，外型像吊飾、隨身陪聊天有記憶功能…個性像「開盲盒」哪裡買？",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXkweFQ1Q1RVZl9WYlR3M3RXdkRPNHJfaWRYenFlckVwQUcyUHkwb1dGb0N4YnFRZ3BiUzZ2NTJ5clRUeUhlZXdHTGNFSlF1ZndrTFdqZXhscU03amlUbTBZeEs0czRIaTdnS003Znk2M1EzcGUyNjlxU1hBWVlEXw?oc=5",
-      "source": "今周刊",
-      "published_at": "2026-10-27T07:00:00+00:00"
+      "published_at": "2026-11-02T08:00:00+00:00"
     },
     {
       "title": "宏達電AI新品「VIVEE」亮相！台灣日本年底上市 今股價漲近3%重登40元大關",
       "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOXzJMZnk1WFY4UWdBRk84NUpjX1RtTG1lc25jcVREaUlBNFB2eUhDdUhibzUtY3MyTDBReHdsTmdveHJaRzZZOGEwSnlQTkhHbk9QOEhBLWxESk5aSGRYMklIVjhRTWtpejZfUDJubUVzNlhMdGp1RkJDZUNUdUg1TVBIYmVlcVVIWlFnS2R3bHByRU5NejJ0WXNmUnlabTJBb3ZuSmFWRmJjX2dhOGJqamZoQWtLZXpLMTBBWkxCR1BvVmFoS09CYWV3SWRZV1Z1SDI4YkJiRHpnSm00SnFmUDl4dFM2RFBVSWJyVldoZ3VUR0psNU85SThZVmQ3TFU0elc5bEdha3NHNTZrMGUxWEtKaTVWNVlqV2NNQXlRaGk4NXhuUU1aMW9RXzZLMGlSRUtIczg4MXpxRlZBZFE2MTFsOXBSVEx1T0VJUnNMQ3EtRHFQMmV5ZTlMTkhvV3BMRDBjczZDaUZWeVRSOTk5ZVhfYWhSVVZDTEVWTEhTaVhvdlQ3SEQwSFRvYU5jbTh4cWhoYmJQNE05aWdhdkVuTU9yOWhMVGtnajh4OUlsaW01ZmVPWkFuS1V3?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-10-26T07:00:00+00:00"
+    },
+    {
+      "title": "2498 宏達電 - 可愛科技感~可惜台灣現在買不到! - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84TEk1bmpFekdBcUEtQ2k5cTNHWjdlSlVVUDJHc3g1ZFBGVUd5S0JlaFN6SkJZNUNFNHdCc2xpZDdHdHhQamhTZjN2d0wxczRVMXZ1MlZOUGU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-23T03:15:08+00:00"
     }
   ]
 }

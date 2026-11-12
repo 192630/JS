@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-11-05T20:33:59.150311+08:00",
+  "updated_at": "2026-11-12T20:59:04.270769+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2540",
   "name": "愛山林",
-  "count": 4,
+  "count": 6,
   "news": [
     {
-      "title": "愛山林(2540) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0QW5PYVVoZ05pUnZPbmh5ZGVBOHNNUmxjRzgzaDBPM0tTVUJKZ2tzLWVfekJ2NjJpcDQ4aFFKZVdLQUw5ZHNIaHAtcXZLbTdXN3BN?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-28T11:28:38+00:00"
+      "title": "愛山林奪「新店曦」公辦都更案 預計投入66億元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVFlMMDRTTHB6NldFWmlyS3ZZN1lzaU9haERKdkptSHBsZDd5aEl2ZEZxZTZ5WmZZTmotTlNlcGFod1VSSUpJenpQbXJVb3ViWENkUmZOUHpjZ9IBX0FVX3lxTFBWTjllaDlwd29DdjR4UU9mMTRRZDRPaXhZOEVNNHFHV3lHZDBjbWJMSGhfMno1RFRPZnJJa1FzV29OWUxCR2twRjh3S0tNU252NTZ5YVloZGliNFhOalYw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-06T11:11:43+00:00"
+    },
+    {
+      "title": "《業績-營建》愛山林10月營收為25.00億元，年增360.43%",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZGVndllfdy1LeWVIczYyTVUyMkYzUHBnaTZ2M09ULWNYRHE2SWxaMUNSWHRjRFRHTjd3Z3VjR19QQUZ1RXItOU9vN3JhY25xSmVqZnFTbHFtVHlmQWNfb1JycEFrdU5udkJkNlo4Sk9tUnBDaGxWcjlPdnZDcmNWOHBKVHdYakJQTlZwU0tGVndxdw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-06T09:15:00+00:00"
+    },
+    {
+      "title": "新北住都中心成功招商「新店曦」 愛山林獲最優申請人",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzckFUSlBfeVJlWnpZdXlpV2Y4Z1pDT2daLVMtalJXMUtTRXAwMHFCUGVBcDBJM3c2akJncGxtaXV3aktvUy1FeVk1WkFWUUtQN3pfSEFxMy1xdU42RkwyYnp3akdDNWEwT0REMC1lNA?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-11-02T08:18:25+00:00"
+    },
+    {
+      "title": "新店這塊地等到建商了！二度招商成功 愛山林砸66億改建",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNekhWNU9xQ1psOVI5LThkZ1BJT3lYWkNENEx4ZzA4cURDbDBqOTNBek1TNm5XTTIzOFc5YTdKZGE5cS1hZW9mT2J5N25neEtTWEhkbjR5VjJwVTFzX2RwRmd2blNUN2NHYkVfakp2amxJZGVyOTJVVTljdmVWZFRENlJaMWxoOV9QSUtjN0dTNGV5TzdaaHFBbE5UNlhXS1QzVWY4Y1NRR2k0c3pQc1JSN0NtXzNIck9xS1lSSHBKeVdTV3V1b1NCRDJVWmxnNXNNQzNqZUZkVFNsQ2dOOWp1bkFlaFRwYU9tRVV5VWp2VUhiVzJ3d2tyV05QRVNwQzJpbnhEaHBnMDkzeG1iTzdjVGZOdjNFV1F6WGVEcEV5TDdsV2R4NkI1M1JMQXhSU1N0MHpNQ3lHMDVsZTN2bTFyaC1jTHN1LTdESmtCUUJPX3ZDOVNiNk5kS1ZDSDBwelk1bnc4MzBEX3RwVl9KYXkyQ185WmQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-29T07:00:00+00:00"
     },
     {
       "title": "愛山林年底連推兩大案！A7「AI都會城」逾200億、泰山「當代帝寶」150億",
@@ -22,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPel9uVkJhWThJc1I1cS0tOUZ5cVJKWDVGNkU0bjRHNTh0aHRuYzdMc3lWRnlGODNXQTZVbnBhMDRJT0k4WUNWejhPQVUxYVVUcjRETF91Q2h3TnlpMWNJMVFzaUY1RkZNdXdzdmlwNTVoM29mZU1xVk1HWjg5TEZ0VkNITnhxUS11RXJNTThtQVY0bHM1SWFSd2VfVjducU9ocDFaWEhfSlBpUlNtQXh0WUl6LWlxQVk2QWFUelRVYmJHU2ZYLVB4NDdiX0FYVHVfd3hUWmlmdHkxcHBXdFJ3UjNfamp0VF94ZDBYUmtsdkFubnlSenNuX1VLQTgyVXNJcGpMTGkySEpEX2NfTklMMUQ1a1BtaTBNMmxJUlp0ZVBOUWRoVGgwaXBkR01JNmg2Y2tmX1RXY2lsV2JWUTFLdXBuMFlZLURva2c1UGpseVIwaTJsOXdhSmdEMzFhQjNFQTRfTmJhbEVDMGdWdHUwZ1BWUjFjRWlEM0ttTkZ0b1o1QUNyRG5Kd285amRoempPY3RzRFdZNUZFdU1FOGNFbkdDSHhqc1lQeG10SG8wTVg?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-10-21T07:00:00+00:00"
-    },
-    {
-      "title": "愛山林9月營收年躍增2.3倍",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02MzNIcm1vc0t1bUtncFc0YjF3SjJiNmpHNEwtLS1vUGJCUTRzTC1aTmhCcEpBS0dlekVMOUhFOV8ydkhQZGppRmtjQWlKQTJZ0gFWQVVfeXFMTkV4Y0lGeklvOEFqc2ZBbDNpUkZ2WGkzdldETVFGbGZudHZJdmh6WlZpd1hpNXZxcVd6aFJhWHByd08tcGpSMFJBT3UyRWE5NExjRlJqSGc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-10-08T07:00:00+00:00"
     }
   ]
 }

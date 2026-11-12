@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-11-05T20:34:17.191619+08:00",
+  "updated_at": "2026-11-12T20:59:22.405906+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2705",
   "name": "六福",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "ITF旅展這價格超扯！寒舍集團天天限量5折 六福最強優惠28折",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOYnVWWjdsTzhUR29vYm5TQ1NjVGVCdVBqX25fTURLRk9sQVdYLW93bFpmZTV3bXpLRGhWQUFUamhwVmJNZ1lXMl9wN3U0WjBCOGFRb2ZyTTBNZDFVZWRZREpvQ25xRi1pT3podzRXU1o3OFp5UDhNQU12RzhfMXBNM1l5aEFEMXhieDJSQUdkVDl5SHhQdXptcThRdnk2ZU5wTk9xRGFUMzY4dGNKNVdMXy1yQUxsT3Z5Q0lRN0hWcmNLYVJYSHA5NVNkT2FjNURuVDFwdjdyTXc4NkxCcExMS2tlRVhFVE9SQ2V3ZHNLVHZIR0xVWjBJVU52WEZKNDFZNjczQ1pUOHpGdURsS0RZMldfbDRDeFpkaEVtRFFSUkY4YjRjeHp6NDNVcTI5WHlWRVhGbk90OTh5RDhYUlg5bHJOMmpiZTZYTTRkenc0X3pOcWRRaElPdTNRdUJZdHoyUXFvdE1QZ2lSNDZldHBFenpn?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-11-02T08:00:00+00:00"
+    },
     {
       "title": "六福(00590)奪「傑出ESG企業大獎」及「卓越ESG企業評級證書」",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRXNWREx3ZHZiQnVUT3hUbXJKNU14aGlJVU9JYzJiVF9IaWVrOTVySjBiTWp6eUNrMF9hY18xckhpTDBGR0hzNWNldTZnQ2dYRERFRlVVVDJLa0NuUzZnRlFramowUkxaSkxobE9QV2JDUmluMjNDS0stTDI1djFuWG15dHR6dXZNZU45T3NyWU02ZnRKQ29MM0hNc3Q5SUp4bk04RFVPVHFjeGVPX2FpTm5BOFJtc0FzSHJBZ1RhbVJzS3JrRE1XNGZESEM2NXNCNWlmZEpBdGNQSDhFY1BRT1JBSzZvUQ?oc=5",
       "source": "Yahoo 財經",
-      "published_at": "2026-11-02T05:20:12+00:00"
-    },
-    {
-      "title": "六福旅展祭年度最低價！六福村每人665元、粵亮廣式料理千元有找超划算",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kQXdjNWJZZkhpZUNsa0xYZXMwZ0N4ZERWT3gwNmVYVU5xd2lLd1NSVUd4dUlEZUlrVXBIcmQ1Tmo3aE1PWVBmblF2ODFFMTd6UmNQeUcyc3huZGJOS0dkUXI2eGlSeDlCTko1cmhYOA?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-11-01T08:52:58+00:00"
+      "published_at": "2026-11-01T07:00:00+00:00"
     },
     {
       "title": "《大行》花旗降六福(00590.HK)目標價至27.4元 下調盈測",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMXNBYTRzbmcyZ0lHbjBJaHM0TTRyV1A4dHpHdkRlVmU0U281RGp4NVJXM3VVVGJYRS10ZU9TNUVVUHI4cGM0eXBMenZSSTVZNWIyZThsSnFLcXFhUWlDdE5Rd1FmazBVNkU0M3N2WlhxczA2ZERHQW9xQms2WDBLdkZyY2M3cFlhR3BNREVwY2h1bXpvU2dLQVBnR0ZHVU5OLVVYNjBhaFlNNDAxeEdhbmVsajFQd0RWTFRxM0dmMklNM1hoNVRZSU9sQmtjNERvN0VXVTliVzJRNTdiVHlxMkFXZVEwcDBaajRscU9vSXkzTDg?oc=5",
       "source": "Yahoo 財經",
-      "published_at": "2026-10-27T02:53:19+00:00"
+      "published_at": "2026-10-26T07:00:00+00:00"
+    },
+    {
+      "title": "六福珠寶閃耀登台 首店登陸台北微風廣場",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQOWF5dDEyazVzRnlCcGh2VTJSQkpLVjlIR05TRXBCcjlKZlFlY1dmRjN2TWhPVGx5WXR0WG15WnM3ZFVRWkk5eUw4S2YyTWM2NlpfQmZiOE9tY2FVTkgtbHItT0hqS3psODJsbEp4NVlFbl9xS0NuRWhyZ3dxMTk0OEdFYzBWS0lkUGJxTEVjaFVZOFJrOEdHME1aZTkyV3hxQmQ1c0Y1UWFWZlNFTmd0TUNBcThKanl2T0paeWxXWG5DaThpZndiMzlyN1p5NG13eU1MSmZZSTBOQWN4NUVwY0plQzRNTnZCWEhaV2hiTjlpWUJMX05jSF8xc3QwdE91TnBSYVM4MU1uaFRMVnVNbl9faG1SYXRvelpiMUJ0bF9MTThiVlBURngwRzg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-26T07:00:00+00:00"
     }
   ]
 }

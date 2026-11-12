@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T04:43:35.596390+08:00",
+  "updated_at": "2026-11-12T20:59:25.214180+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2722",
   "name": "夏都",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "2722 夏都- 夏都公告本公司董事會通過115年第3季合併財務報告- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56NHdmdmt1bkVMMDZlOTNmSFNvREFjUFZsWWpYTVJkZ3dwTkpjQ1JzVWdZNDJEWXRCYllOTjNaUU1XbkJzZ2ZETUZfR1FuNjFCSU9YNVp1Znk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T09:12:05+00:00"
+    }
+  ]
 }
