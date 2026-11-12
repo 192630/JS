@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-06T04:43:40.936447+08:00",
+  "updated_at": "2026-11-13T04:57:44.585297+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2743",
   "name": "山富",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【廣編】演算法給不了的感動！山富旅遊搶攻ITF展現品牌實力",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRIQnhiNERrWGVoSjdDeTJYZWNNNi1SYzZRQ0dhS2k0ZmdQSXFNVnJNQVVWUDJOdHF3M1V1V3JFODdrSnd2VVRYVUFzYlFMTGlPSUN6U0Q1Z9IBT0FVX3lxTE5HUWJrUk8zSEZDc0hDVzZXemhFU09kSjd3ZUgwQVZiNmk3ZmhTNGlSY01nU0VlZFdWNUpTclE0ZmJGVlNmUHJ6MklpZjVILVU?oc=5",
+      "source": "ETtoday旅遊雲",
+      "published_at": "2026-11-10T03:16:00+00:00"
+    },
+    {
+      "title": "鳳凰山富都輸了！全台最賺錢旅行社吸26.32億，遊客讚：吃住CP值高服務好、 長輩很滿意",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KS2VMVjkyQWZtLUNGbUdsQ3pydHNBZ1lydjl0M0lDU1ZEU3JaZ2RRMkwwN05fcG5xYVhhQk02SnRoUjN5c2FLTkxEbUJyY1Nf?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-10-28T07:00:00+00:00"
+    }
+  ]
 }

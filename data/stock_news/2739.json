@@ -1,39 +1,45 @@
 {
-  "updated_at": "2026-11-06T04:43:40.089966+08:00",
+  "updated_at": "2026-11-13T04:57:43.681997+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2739",
   "name": "寒舍",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "寒舍前三季EPS2.58元 看好第四季旺季商機",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QeHB3Q2xhbGNnR0N2UkJ3RUFLVm1mMS15Qm5rckwxaDRxT2FVMlJaZ1ZqWWt4QTdwNFh4SllVaEgtMXhnM096MlA0YTRlMHFtMUdpM2l0RWI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-11T10:51:07+00:00"
+    },
+    {
+      "title": "2026 ITF旅展開跑》飯店買氣爆發！寒舍開賣5小時業績破3,200萬六福、圓山多筆百萬訂單",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSml3OFlKMy1aYmdkUlZyU21CNFd2TWhHNmtWM05OeWRyM05RdllIQW5Hd3FjMm5uclRPZ0xjX0NpV2VzWV9jRENLMGlIR29yVVpRWTAxT0NHVTlWenFwb0hqeWNrNkpMNFpTdjQtTkJSaXRaWTI4VGMxYzVFQnFsVnRocDc2Mm5fLVo2c0tjSUVENGQxa093QVJKWTBsSE1LTVZvX3pINWFWbERBREVrMjZob1V1dUVQeC1VZldqU3NtaGJ6eEw0ZTY3Z1JHeWk2TENMdnlfMVBKSHJxR2lrRTExY2VIODhybE85WkhXclRmcUpDN3JKcnlidXJhUVM5UzNoZHl0ZjAzT0gxeGFqT0VKTkNDejFVcUVfSXFZa1o1S2pjS3laMmZNYW1ERjhCWXdvNU1oYnJEZERwWkNWLWJhYUlMN1FJOHcwTnFLa1F2MzY3X1dfMQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-11-08T14:34:43+00:00"
+    },
+    {
+      "title": "ITF登場「晶華栢麗廳57折、寒舍艾美探索廚房39折」飯店餐券懶人包1次看",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNWjJlcnY2ZV91SERhZDJsQW1nYkR4bXNtWThJZFdUOUhHYnpNVWtGdVNZc2JzZnpEbk0wdktqc3hXcXRrYVZDU1pDaDZuX093c1ozdm5hVXh0dWZxMFNlcjNYUV85REJBVDFOdGVRRS1kUWhyX0dMUGJEbUlwMkpjeUVuM2JMZHkzcV9OM0NvaGthV3NoN3ZHa3JPN1JBaHNwdHBqamxGTDhHNmRqcW1hRE0yOHZxRlYxZTdIN3g5OEZnMTEwWXFBeEkwalA4bFVLMU9FODZrMlV1d2xWWVVSYUJiaWlmdFA5ZDQxRnk2WWxxVWdsOXZTM1d5MXM1bTExVFVpOFZpRjZYRjJJbWJiNVVIb3hHRXlvZzJ1OVlNQWV5SlI0NHlITXBVQTBiY3hrNVh5ZXhHQVd5ZzRjSVQ1VVIyYy04WXlicFdfUXMxYjhOWXpDdERkLUtzUUZIaFNNTDNlNHhaMlpmU1NSYkMtQWpoNU9hd0UzaWRPRHNzdm5FUFVUWTF2WWlCR3FOV3JaZVpBWmpBSndEQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-11-06T06:52:00+00:00"
+    },
     {
       "title": "【ITF 2026】寒舍旅展搶購攻略 十二廚平日午餐4張2,500元等限量優惠一次看",
       "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPMnZlUURwNHZwTGswc2RfLUI0dWZlVUxOaE1wWS1kWW16Qi1tSVpZWGFrOE9majQ3ZzJNa0VIc0ozLXJNSExtdVdwMm02Mk54TWdDOXRma0tNdG1ZX29kSlpZLV8zUm9oVVNlUmlzaUNZQ2FjYXZmZXhkRUxxQkNYZUg3dGJlNTdsMFQxNzRsd05NOHhDbmdYOWkwXzdUR1NtQV9lVl9iWkxGRFNWR1NyV09hYS1BdUQzb2tZNFViZ3ZDaHpZVzY4VmhXdWJ1c1c2TGo5ZzYzNVlTcktKV2hKeDZaeG12aGF2eEtMUWpIWUJvckU2UHU3d19TdzNxMk1LaGZhbkhoZEFMNVVpbTJUMnVMVzlaMnZNeDhuNzVNbzN1QktXajlNMEFDSXppeE5MU29YZGluNkt5M0lRbHIyS1E5aV9RNmc4RFBLUjdabXgyREpBOE9NeXRPR0RVWFJzcWR5QkhSVGZkeHZjcVp1dw?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-11-03T11:04:34+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     },
     {
-      "title": "寒舍集團ITF旅展天天限量5折 喜來登Buffet 4張最低2500元",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlRKMmp5eWdOUHdwaFg4ZGg2RUF5Q2daZEpsR0VkNEhsVkN4ZUZLMlVFUkF4N3ZGbHNEdDg5TXRVa014Zk1BcFVzYXdabHJqOWpPVGoyTXVXdHJXUmc3TjdhY0NpU1p0Z2JEZ1UyMzBhY0lLbDNMQXQwdUo0T0JYemp5c2M?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-11-03T02:00:00+00:00"
+      "title": "ITF旅展這價格超扯！寒舍集團天天限量5折 六福最強優惠28折",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOYnVWWjdsTzhUR29vYm5TQ1NjVGVCdVBqX25fTURLRk9sQVdYLW93bFpmZTV3bXpLRGhWQUFUamhwVmJNZ1lXMl9wN3U0WjBCOGFRb2ZyTTBNZDFVZWRZREpvQ25xRi1pT3podzRXU1o3OFp5UDhNQU12RzhfMXBNM1l5aEFEMXhieDJSQUdkVDl5SHhQdXptcThRdnk2ZU5wTk9xRGFUMzY4dGNKNVdMXy1yQUxsT3Z5Q0lRN0hWcmNLYVJYSHA5NVNkT2FjNURuVDFwdjdyTXc4NkxCcExMS2tlRVhFVE9SQ2V3ZHNLVHZIR0xVWjBJVU52WEZKNDFZNjczQ1pUOHpGdURsS0RZMldfbDRDeFpkaEVtRFFSUkY4YjRjeHp6NDNVcTI5WHlWRVhGbk90OTh5RDhYUlg5bHJOMmpiZTZYTTRkenc0X3pOcWRRaElPdTNRdUJZdHoyUXFvdE1QZ2lSNDZldHBFenpn?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-11-02T08:00:00+00:00"
     },
     {
-      "title": "寒舍集團2026 ITF 旅展優惠曝光天天限量商品5折必搶滿額好禮、會員加碼、旅展甜甜價輕鬆規劃質感假期",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ja2pKam1KNDRTelNINDdsWHFkVDQwVW1MdDEwX0pKVGhpbjJRcHZGeFdadTc1MXBHZVdsUkRpTC1qZw?oc=5",
-      "source": "墨新聞-MORE News",
-      "published_at": "2026-11-02T12:04:07+00:00"
-    },
-    {
-      "title": "寒舍集團天天限量5折 六福最強優惠28折",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mVjJ5UlVYV3lVZWZ5VmNGbEhKTFFTcDhqdkJuUHgxSkM0dHdfR3huVG1RQmVtQi1LeHFvZExFVEl3LXJzbzFETEdNOHRuc0xvYURsaGxHdE15ai0x0gFiQVVfeXFMTmNtRWRDODB4bkFBektCTnpkSzVieFdiUFNjckdubjB6bHhqcVhIN25uSGZYaGxIMncxd0F1Y3ZWbnRaRWlWU2doa2V2NjdydTlNdUs3ZFR1cFVIZWxhWk9VMUE?oc=5",
-      "source": "鏡週刊Mirror Media",
-      "published_at": "2026-11-02T11:22:00+00:00"
-    },
-    {
-      "title": "2739 寒舍 - 資本市場服務團偕同安侯建業，賦能優質企業躍升資本市場- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fQWpUNFJxalBVZXlrZDBJbTVIVXg1VTl6dnpYQ0RVd2JKYnRJZFFYODNHeGZBcXJOTE8wcXFWcVBrdkJ0ZjNweEVVOWxwT2xtdDhUY3FsakU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-30T00:24:34+00:00"
+      "title": "寒舍自助餐券下殺5折、五星飯店住宿5,399元起 2026 ITF台灣國際旅展11/6登場",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPQkZPWlMyd1R2NXdJVksxSkg2VVlxRGl0Q1NON1JIaHFUeDU4cGxlcElZLUpWOHp4NXA4ZWNCZEZMVGUyRFh6WHJ6TUhuemdQdUFxaWNObmJwVTJMVTN5cnE0b19JYXY5ME4zOGJkd3N4TEdnUl8xeFdYdmR4S3A3aHlxNzU3eS10VVpSLU51ZEJ2ZlI3OVpUM29BeGZFRDFpd2twa3lxWTdMRnphd2pObmEyZ2l3TmFHaVI3eVZsc1hTRlh6eXpQNjd3X2ZLdlZNbUR3NVJ4N0Zzbl8tcHE2WFktYll2cG9JaEZ0bVFRWTJKQ0kyQTAxR3pYaHY0TDl1VllQZEpjSDdReXBvQlN2T25iYk5WQzdtT3Y3SzlUMmZjZW5sNFN2VmVpT2h5dllRdVQxSFNPZk5pSGRFdmJmd0JwZGdhaFRHajk2cklZU1VjZmpybDR3Vk1WNzQ4UHVWWGxFN3Q4NXpiZjB2ZEQ0dzZya05EZTBPV0I1a3NnNA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-10-28T07:00:00+00:00"
     }
   ]
 }

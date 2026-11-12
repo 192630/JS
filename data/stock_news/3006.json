@@ -1,51 +1,45 @@
 {
-  "updated_at": "2026-11-06T04:44:06.918110+08:00",
+  "updated_at": "2026-11-13T04:58:12.780817+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3006",
   "name": "晶豪科",
-  "count": 12,
+  "count": 10,
   "news": [
+    {
+      "title": "《台北股市》注意股：12日25檔 華新科、晶豪科、誠美材、驊宏資等",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2lIdnNVU2h5bmh3Q1NMM2VBdXBabksyS1FxQmc1akE0RWVXSVVoNWNTN2pxRzFnMVZvU01kS2xialRkZFZYaDZrNXBKRG9BYzREaHZsRjhLUF9ITGY3c0RFYVhxQUFhd3ZtWHJKcHBFd0Q1NUZnY0o0M3lBM29vNHdVeW9HR29a?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-11T23:51:00+00:00"
+    },
+    {
+      "title": "3006 晶豪科 - 今天投信居然買了300多張你敢信 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RekNUNWFJMTQ5SjM5bGlyUEpXZUlxUy1tcnNWRmpWYjdNRzhkVjByd0JpYkFPaFdGMGRHeUVZVUU0cnVFVzdUTF9JYkNxbEI5VnlaNVJuNTk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T09:29:26+00:00"
+    },
+    {
+      "title": "3006 晶豪科 - 外資看好、明天再攻！ 為您加油。 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IWXg3LUFsUnhyRlBiUy1UclNGSlczV0JwMlo1dWlocGl3dy16RGYxa3ZQQmJ5UlR2NHhDVVFBYmlDRnIwc191MnBVam1mOW5sQzJHbDlLdWg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T14:37:48+00:00"
+    },
     {
       "title": "晶豪科：明年盈餘配發率估三至五成",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOTmxVanF6VGVGR0UtWEhIRDNaR29xajBhdE9sZXlQTTNodEkwWXdUMmlYUzZfM19fQnZDY0hiS3pjN29RVkhzNEtaaXZxQWtYdG5uMEZuX2pQNkNGSFhnV1RLdUtrV0t2ZHJIX2dMWXRoazdkMk9XM0hHYU5ISjVaanhib3lhNTRQbHpVOVhDV3NDUHN5Tk1Pa3l0MXlvNW5pcGxuUE4xNTNCSEl0cWNKSzF0U2VNdmVCYjVmMmlOS09NOGZoZHA2OGw5a0VfdC1UbW9MaU92VUJVRTFINnh0eVp2cUoxejdfemZTaG81VS1OTjRxMm5CUlloeEFzeFRwSGhLRUdRTHJONDVzNm93UQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-03T05:44:41+00:00"
-    },
-    {
-      "title": "3006 晶豪科- 詹姆士美台股市早報2026/11/03（二） - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBX0VvejlYQm5nNzZFblhIMnBqVzJSb3ZnajZiY1VnbjZyT3p3Z29Oa2VybC1ENzZlNFJqNjJrYlpySG5rRENtX1ZBR19iUzAyNkxqQWdrbWQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-03T00:47:36+00:00"
-    },
-    {
-      "title": "營收速報 - 晶豪科(3006)10月營收65.46億元年增率高達430.06％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82aUQ0MjlJM2UxUEVKUWxTUldaVktwclVSdEtLNmZQLWllcUtubzRSRFA0YmhUa1E0UEV2elBYY09xWmY0Q2JHdjFLYWdOVEJGZThtV2xJei12QWsxU1hWNm9WYndnOWRJMDdCdTA0SGdfdnFwNEE?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-11-02T18:22:00+00:00"
+      "published_at": "2026-11-02T08:00:00+00:00"
     },
     {
       "title": "報價續揚，晶豪科看Q4毛利率有撐",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZGZBc0JrdFNxemNoeFNIN0xUZl9scm5OdUpLOWJVYTB0bEVma3hqa1k3MVJOVHpvdXRiV2FfV1VxTzRMS090cDktT0h0akhJbUhqYzJmOFBwNUtjMXJZSFZzQnk5NmNReG5CUUZ3Mml0eHZ1SkNvanBGZEl5MzNZV280VldRdFZEb2pSUzN4aU8yYXhZaFo3RGVyVFl3WnVTVzQwUmlxNXZ4Y0FScEtUcWtPYmVsOUlXdHpQUFR2M29kTUFqZUhGNUw3OXZxRTd4ZHVxZi1NXzZWLVhRRk9ud29DYmZSMDlfbXdWdU45RllYeDg1Mm9tRUdwYw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-02T09:38:00+00:00"
-    },
-    {
-      "title": "3006 晶豪科- 針對法說報告整理一下重點- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yLTNfOVdBRndHRmlJaVZmZUN1UUZjUWdIYmlaTnpPNDllWkgwakJzMlZTbzdBS0hpejUxRk92U0Njenh2c2RVNkpmaDFEUHoxdWxleFBpVk4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-02T07:32:55+00:00"
-    },
-    {
-      "title": "這些個股EPS連續兩季創新高 台燿、晶豪科、豐達科都入列 立萬利季增224.2％",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZlpvbkdwR3FLZVdCd1RrSzZ5TVpMVEtHSXJ2dUNkUnBWUU9SQXMxUnFrYzV3LS0tVXhWQlAxVkpMY2hHeWxfZnZHOWdkQm55R1hoUk1FelU4Zw?oc=5",
-      "source": "信傳媒",
-      "published_at": "2026-11-01T23:05:47+00:00"
+      "published_at": "2026-11-02T08:00:00+00:00"
     },
     {
       "title": "3006 晶豪科- 現在可以買了吧- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xQmZVb0VldC1vd0lzVjNoODR1dWRrRTROZUtHeFZhU0VOLWJCZjAyaXpjMzNaWmpOcGhQSDJDYUxmWU1DMGxXSFhuTnlyUVRlQWZlWkQwU2c?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-27T07:00:00+00:00"
+      "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
       "title": "【10:13 即時新聞】晶豪科(3006)股價走強，利基型記憶體題材續受關注",
@@ -70,12 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1pXZjRlSzRoczgxOEtUc1d1XzczZ2s0Z0hlR1VHTlBPbVZ5UFBqcUNnQlZ4aUxOdl95dFZ6ZWd2cXhfeXVnSlUzUFp4VDhyZDVpUDlMeTJtODdNM05NekpiN2drRnJsUUxBOUtNUWdYeHlPbTFIN05hcmVKZnJUeS02dFhCMU0td1dTdUdB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-10-16T07:00:00+00:00"
-    },
-    {
-      "title": "記憶體綠光籠罩！「雙雄」齊跌逾6%、晶豪科慘收連5黑又重挫7% 「這檔」成唯一上漲個股、巨虹跌停被撬開",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNUC1mM1lMUmFJYm5fd0kydF9mS2lOaktGTWxkRi03TXQtQVBGNTIwZmRXamtWNWJfRGc5My10X1ZkRVVQekZWcXI0T2V3U0tibV9fZWR6ZlRrTFllMmZrWVNJaVZueE96dWxyNkNybE05MldxLW1zVmxUWmlmVGFWOHNkV3lNdW9nMGtBVFVlVzdhSENQVGVmTnFBc0laZUZZZkFOUzdKazJxeVFSelFSdXU0Ul90eW9uMERUMW5JN1I4YW1uRVR0QUdmQ0wxRVpnMTFyeTRHSEVMVWFuVVlPc3lWU3RjYVhGWHNidXo0UDY5SThMUFZpOTNESDBNZWlqTmpQYTFBYWVjT2JvR015WXQzVTB6NTJhUklzZGRiTV9OUVpna0dkd1N6T0VicFl3MHdteHVBUEFtVmhOdmpYYWFXaGEzQVQ5WGxqTjY4ZHVEYTNjUml2LVJfTlFfXzFEblo4WGpXbEdyN0tIZkJVTFNTeFd1RVdFMkFQcHNzWDExNVAt?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-12T07:00:00+00:00"
     }
   ]
 }

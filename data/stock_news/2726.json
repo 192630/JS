@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T04:43:36.877047+08:00",
+  "updated_at": "2026-11-13T04:57:40.215440+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2726",
   "name": "雅茗-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：雅茗-KY(2726)10月營收3553萬元，月增率-12.24%，年增率-8.07%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzRlQWg2NG9aeURjSmJ1MHg0U1lSODhvZENneFdwUFlYVXRYalFUYlJnN1hXOWpnb3Y4SmV3T3dXY0dzemVCUUxDQnItNEE2TXU3c1ZDN1lSVGhUdy1xNjEtNVVJWk03QlFYSmFEMS1sR0RmNzNNSF9zZEZfVXdYZno4VFVZUnBG?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T23:07:00+00:00"
+    }
+  ]
 }

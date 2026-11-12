@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-11-06T04:43:51.458795+08:00",
+  "updated_at": "2026-11-13T04:57:56.128035+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2880",
   "name": "華南金",
-  "count": 12,
+  "count": 9,
   "news": [
     {
-      "title": "【最新消息】台股重挫1374點，中信金、華南金、台新新光金解析",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TSm9FZ1pKR0RIUWxwaUVyOWNnZElhSEFjYVpSS2pCeklVX3VLY2NXRkN6ZnNoNmtTTnpwcVozS2pucUxPSVFMY3R5dGc4dElCZ3NPelpnNGY?oc=5",
+      "title": "華南金、第一金獲利寫新高 第一銀賺贏華南銀 為何母金控反而輸了？",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTU80N3NFMTJHMTFVQ1ZuRmg4ZlZpMWQtTDFKWjlwUExfUFFMYVpZWm9xQ2lEY095R0wzZkVDb3k3OUx3UlB5RU9peFlZbW1FNnl5WVZfUGJzWlBhZENEcUVXejJ4VDMwNHBiV096UFpGSWxRdGlSY21JT00yZGgyV9IBX0FVX3lxTE1FbmFmcXZCdGh6X0tOSTVHa0RNd0J5SGl3QUZ0ZEF1N0E4cFZlRXdpaVRLUXk0clJzWmo3ajI1UGtlQ0w0MVRpaW5EZ015NUdsc3ZURHJnRHdMV1pFYlRz?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-12T17:54:07+00:00"
+    },
+    {
+      "title": "華南金3大指標破紀錄！前10月賺284.56億贏過去年全年 EPS 2.02元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FMVZHU1dpOHdiRkFoTXdnUDN3cS04OEw4Rl9BZ2VLQWMyQldCeTJSS1dyTXdzaXVtYjlvSkhsTHBNOUtmX3dFY0E0aTdERDA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-12T11:54:04+00:00"
+    },
+    {
+      "title": "華南金獲利趨緩 10月僅賺20.89億、累計EPS為2.02元 | 陳怡慈 | 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56RFQ4MnI4ZV9TNENfbzlnbjNQXzhfbHpOLXdMSWxwZXpTNDEyb202aFRnMTlYUXZaZVR4NWFuYUg2TEh0M2dLQzZNQWdOdw?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-11-12T11:54:00+00:00"
+    },
+    {
+      "title": "2880 華南金- 每股盈餘2.02 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fMlZOakxjWllqc0tpZURCdmtkR2xGY0tLUjVPWXh1Y29oOGRxLTJneHcyeWJUYnJ6ZDhCVmNzRWVwbDR4SzhtZlVhWmJ5Rkxqd21QaTlNODQ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-11-05T08:50:36+00:00"
+      "published_at": "2026-11-12T10:15:37+00:00"
+    },
+    {
+      "title": "華南金前10月大賺284.56億元 超越去年全年獲利",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JZWQzUTNOa3RtSWE2NTUxWlhFNjljSTRfTkZfdnFLTWpnLTVmZDUtcXFpaVBXUjdlbEk0NE9xSUVTdy15WG1FZlZPUFJjT200OURGcmNNM0w?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-12T10:12:43+00:00"
+    },
+    {
+      "title": "華南金(2880) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVSU85a21JckZ6cGo5eTA2SHN0bTZaUVhHeW9NVjl4a2QxNFd5YUpjMlc0eThTWkQtaUhaeEc4LXF4Y1dnUkpfZTRHenE0X3ptQ0RV?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T13:37:15+00:00"
     },
     {
       "title": "【最新消息】台股重挫1374點，中信金、華南金、台新新光金解析-起漲K線",
@@ -18,63 +48,15 @@
       "published_at": "2026-11-05T08:50:28+00:00"
     },
     {
-      "title": "【12:44 即時新聞】華南金(2880) 盤中走揚，金融股防禦買盤成焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzl3SHgzT0xNZ1FQMVNxQW5ZZF9PSkYyTVpMRHlSMG9TRkhKdldibEdxVExaemh3V3FLLU5zcEFSQm5SMHQ1TGhNWUN5OC1tbjRjVFhQU3VPek1vU0Vob3R5WG9aVXVGc0JxMFVuQ1l5eTZ1Nk9EV1JBWVZqSjVfeGZMV1Z4aEwzX2xaNjRR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-11-05T04:45:06+00:00"
-    },
-    {
-      "title": "台股殺聲隆隆 凱基金一度重挫逾6%、華南金相對抗跌",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JVFY5S01xZmFHdWdRNktmUktCM1JlVlJzeHRqNzM3M3d3ZU1FeVBFMmFOM0x0SUNOaEQtTUsyYjVISEhtUHRuMnZ0OElwQ2lG0gFWQVVfeXFMTmNtN1FfcmtQU3Y1SkJwZlM2b1YwRWotWjR1TVo3Z1BQWkdyazdBeTJMUFMyMHlFUXB6NndmY09zbEVmTERfWTZ1VHIwdWtENm42eWhUYWc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-11-03T05:03:34+00:00"
-    },
-    {
-      "title": "【12:23 即時新聞】華南金(2880)盤中小跌守高檔，壽險資金加碼成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHEyM0lHSjh4bDU1VHRtLXVNeEFyM0tEOS16SU1zLTkyaC01bG1ELWgtOGZqTjlwWDh5c1l1aEhWaDU4bVlrUXhQbVp3YWhlaUo5OG1sdHRzOHZXbEF3UEI0Mk5sOEhTTm1BcVppTFg5Qm9TQVpTN09VU0JkNGZmWVdDZ2NIZUtqc2FLV3RB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-11-03T04:23:57+00:00"
-    },
-    {
-      "title": "華南金(2880) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVSU85a21JckZ6cGo5eTA2SHN0bTZaUVhHeW9NVjl4a2QxNFd5YUpjMlc0eThTWkQtaUhaeEc4LXF4Y1dnUkpfZTRHenE0X3ptQ0RV?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-02T02:08:34+00:00"
-    },
-    {
-      "title": "傳公股打破華南金公民共治？阮清華：和諧共治多年 股價衝上公股第二",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JR1AxYlVMMmYxdHMxSmJzeUxSeFNRYlMyMG9XTWVZb3REdXJCT00wOS11RDB3dHJFUEw2ZXdjRDBvYVNlWjFubmllR28xVmI2WVAzY2JTbW9JZ9IBX0FVX3lxTE1ZNDRLdl8zNW5OMDlrLUxQdjZjbU1LZThMcGhxZGwwcWdkYXA0eDFKcnR5d3p3MUtrblRDcXVISTBMU3ZrSmo0MlI1S0RQNDRXaDR0dGJxSElnNVhlNjVZ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-30T10:11:24+00:00"
-    },
-    {
-      "title": "【11:02 即時新聞】華南金(2880)盤中小漲，市場聚焦法人與主力同步偏多",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVhnQ18wYVlXOWJlaTkwc2FnRXZCLW43U0RUVmJtOWF1TU9CQk9aWm9aYWVUanVYWFlVb3AxdzVUdnBya2JobEVZNzg3NWtvRFQwSUJzM2dyYjR0RGxKTzY3eXluaE1fYVZYa3FFdGpkNG54UTItQ0Z1MmRGYVF3T0Q3RFRHcFBjQ09WaEhB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-30T03:02:41+00:00"
-    },
-    {
       "title": "2880 華南金- 【最新消息】公股投信四合一拍板，「官股金控」站上50元收盤創高！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85TlJLcnpkQjFwRGI4SWhVVDBINS1LWlFReGVwQlZVSVptbTk0RUZGaWp5aXlyQV91Z0pZMHY5R1FseDhjaG00ZVJ1TnRJRnh5aHpOY05aV2c?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-22T10:59:12+00:00"
-    },
-    {
-      "title": "【11:24 即時新聞】華南金(2880)盤中小漲逼近高檔 主力與法人買盤續成焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWUxdFhneVk2Z19ocGt5c1pjVUhzT3MwTlR2aTR4dV9OQ2ZqNUJIaXo5VDZ4blB6NHdKeTRBMVNGWXFEbTJBc0haUjJIQ1A1WXVBbTFZMkVFWmxKNVZwcUxRUGY0MVpUeEw2WWpwYmxJeWpNX3lfbGFQQy1VM0lyUnZmeVNVMWNMZzVVXzF3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-15T07:00:00+00:00"
+      "published_at": "2026-10-22T07:00:00+00:00"
     },
     {
       "title": "公股4金2銀前3季豪賺1345億成長逾2成 兆豐金奪雙冠王 華南金逼近去年全年",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQ1lReUtPbjFlX0l1aWtIMGZaVnE2TUlHYndwZm92T0oyZV9tbFFkN3Nsd3l2aXAwLVFsTkw5ekFVQUo1bnVxS3ZURXZrM3c?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "金閃閃！玉山金破50元只差一腳 帶元大金、第一金、華南金4金控改寫新天價",
-      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxObUVhOEtKRFJaRFgwSkNLX2FHOU95d2FnUDFpSlNobEM4azhUNWtNUWtEZkRJeUlUV3dMalYxQ0VJT1NoeUFweW4wZ1VZdVY3RnhHV0U0c0YxSTlYUVJ6bGZYeERnRzB5bnoyYi1SZm9MNGNqbTdFMFRlTEd5Zi1VajhZWUo2ZHhqVmliUy1kOVBiVVoxWU9pQkVRZmlDcmt4SzM1aTA3M0JPUjNyRktmdUhzNTNNdUhwNEo1cWVYX2V5NV9GelZFWDVxRmlwczJkV1BqOWZKOXg1VEFZOUR2eEYtT2hRejIwUjZ1Q2ZGalBqcnBucFB5OEdHcFBmdWhleW9vaENjWFNKUEpscHJzZ1ZXeWQyMmt1Q0pVamo1S0pIT29tdHgtRXdkdUFtNkRvNm50TV9JZExXMFkxUll1d1Jyd09jb1RPYkZWZkxXUTZ3VWY0MW9FcDVxeG04M0lIaTNCa19TWXM1d1FoNW9UMzZFTjdKclJjQ05ObEQ3WXNZdGtNRlducWJTSzRvTUNNTFpnUGpUVmljdTJpbWxXcmpvSnFCWndwOVRJRDBmd3otUUx6RzBleVgybjFYekVfaGxpRHc3RUFDQjJFYjhQay1JZHcwZkRVSkV6WlFLTG4?oc=5",
-      "source": "Yahoo股市",
       "published_at": "2026-10-14T07:00:00+00:00"
     }
   ]

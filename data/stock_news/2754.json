@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T04:43:43.611764+08:00",
+  "updated_at": "2026-11-13T04:57:47.533879+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2754",
   "name": "亞洲藏壽司",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "亞洲藏壽司前三季獲利年增93.26％ 每股賺3.61元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fdjBTVFFmdHVkYXc1QW1Ub1NwN0x5S2FTX1NwTGhON294Wi13TUszQVE0MWswc2ptWEFEYTltZVBtWmtTdjN4blJHbWpEdWZ4dGlZM3hGaHE?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-10T08:02:51+00:00"
+    }
+  ]
 }

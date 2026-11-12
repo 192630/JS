@@ -1,10 +1,46 @@
 {
-  "updated_at": "2026-11-06T04:44:04.722533+08:00",
+  "updated_at": "2026-11-13T04:58:10.410008+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2949",
   "name": "欣新網",
-  "count": 1,
+  "count": 7,
   "news": [
+    {
+      "title": "電商運營三大動能齊發 欣新網Q3獲利年增近4成",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPSTk5NkU5MFZuQ1J4d0pWLURyZ1Fob0dsS1lGT3Y4VmdyLTJPeE5WRnJsa0Fod1lyUXZURWJmU2tDeEV0bWVoQ2pFQjJxbUNfN2YyR1BuODFwWmNKc2I0cENaYmF4Um9hYWR1aXpIZ2NCNjZTX0g3RGtua1NGdnJISDZiSFRUSF9EdVcwRW9MTHdwc2hKVnpoWmZzSmwzSWxVOUpqOWZoMDZBNG91VGktX0JuRkdQS0txZGNaSmhVcDNJbDdkX2JhVGRCblBDTGxFNU9EVGpsd1lxM2ZjbFE2Q2Q5c25FQVBjcXhPQ3prX1JlSzdNV1VUNXhpWUpFX3JJZXBVNVZZd3dEUVJtX0NZbEFRbGdfY2NwOFZVd1dIUnZHV0pBTGY3ZDlIaXViNkdiclRIeWs3c1A5LXNBU2txdW1nMFk2WFU?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-11-12T09:34:52+00:00"
+    },
+    {
+      "title": "欣新網(2949) 不持有會員資料，資安風險仍在：開店平台外洩後，營運不中斷成關鍵",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IczNTalBRR0R5TFd4d2piTnJlWUJoUkpuTkhqLVhOekcwREMyZ0FKRV9CVlRYNGFWR21idjF4Nk1TcXp0Zy0tTnVuOHdoUG8?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T20:00:28+00:00"
+    },
+    {
+      "title": "欣新網(2949) 前 10 月營收 55.51 億元，距去年全年僅差 1.65 億元！第 3 季年增 34.43%",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTWlscHBoTVNXQmpUbGJwXzhWQ2dQUEJpNHVvNTlrY2ZSSlRtOTRzdnRZQ09uTmRVZWJhQUUyc2I4YmFBYVlPbTM2bGFOY00?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T19:59:49+00:00"
+    },
+    {
+      "title": "欣新網(2949) 日本 30%、菲律賓 70%、東南亞 3%：七個市場已有團隊，海外營收仍不到 2%",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DWGk1RHZUYkpSUzJwdW9oR2hDVUNiRzlTUzJvczg5dGtyeHIwVDZvbDJkaHYxd2ttSjZBcHRMcU9oTEhzeXFtcmR6cERpcjA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T19:59:49+00:00"
+    },
+    {
+      "title": "欣新網(2949) 營收年增 23%，營業利益反減 8.97%！人力未增仍受費用拖累",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kNkZycXFEVTZKcEtXdll1MDEzdUFZNGZlZWZ2M0lYQUtDUXlqNE1qWjdWb1pzcHRsRFNabXppMWIxZUxJU3poNFZDWHJ0SVk?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T19:59:49+00:00"
+    },
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-1》欣新網(-48.32)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0YwMWktMFBseU9XNXZEQjNORWZrRWFOMlRWM254eFdMbmxnejA1N1JmU0dIOEhxWllXakMtdk9oN01wR011V3VaVDlVdVdiWExnbVpwbFdYc0hPOVhHdzFBdzlBdlFjcVJWMlBXaWRCelViZjBEdGFhdGR4UEVhZHh2SkZxdU00?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T23:38:00+00:00"
+    },
     {
       "title": "《櫃買市場券商賣超比前30名 3-1》欣新網(-86.17)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0Fiams1a2w0cWlva2kxZTlHcXF3eGc4UFYzWnpNZkFBdDU3S0gwdGJWdmNMRFpnVERUbEMwWFdmekFYMFRON09jYWd4anRkZTE3cmZieFVQc3J2QU83aHY2RDZSZFFiLXA4dU5rcm5FcHRsVmhJY1lxbzlNdEN0LU5uMld5Q2d2?oc=5",

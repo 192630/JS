@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-06T04:44:02.942794+08:00",
+  "updated_at": "2026-11-13T04:58:08.556891+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2941",
   "name": "米斯特",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "米斯特優化通路結構 門市轉型蓄積成長動能",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOVHphUTNldHRtX1B1ZVUzcS1nQUExdHdCMGhxVi1Pc2tOc1pJMXBYUUlVZWpyemJ0N0pEcUFkZWkwYTNKZF9NMVVnZ0FBbDdqTUVhcll1cE1DQ01Gb1hGa3B2dDY1SmZhY01zNmVlUHZEME1xSGxBUVplLVRFcDFkVkJRRnBWSV81X3oxQjdCdlhUZ3F1MEwxU1BzNjhjTW9yc2hiRVJkWndfM2hFT0ZXLWxIS01HYnFxRjdUS1dwOHgzUjdGU0xxa0ZEV1M4bDNYbmEycFpJd2g5NkhURVRGejJpSFVUMWVlNkxaOVEyZUY0TFE4NjJJd0RsNUJvTm5PR242Vm9KUWFMQnVMZXZocFRTM0VKcWtxVWNDS0Z1THByYnEzNjNwckt5dDB1RkVfYXVzY1lMMGtMWFhyMzRUTg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-11T19:49:13+00:00"
+    },
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-3》米斯特(-12.87)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHRiRlpFbDZOREotNkZhVWRYSnZEbXd5cVVvZWdDc3c2RzlWT3ZYZ3ZEMlk5SzNkUkxmZEdWVHJ3R2ZTUUpRYU54Zmt0R2pUM3VWNkhmWnhkYVBuWFJXZEc1NzBjRmtMUU8xdk5yZnhKajU3ZXRCa0MyNXphMzE4d0NPbi1GMXhI?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T23:29:00+00:00"
+    }
+  ]
 }
