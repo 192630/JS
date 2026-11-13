@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T07:18:51.390770+08:00",
+  "updated_at": "2026-11-14T07:43:39.462239+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4104",
   "name": "佳醫",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-生醫》佳醫10月營收為10.21億元，年增38.58%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmJnU3MtVjdleWhHaGRRVThmT1hCeEhJV0tJSnVGOEJSa21ZTVFLMEdrdUszZnRIZHMxNFpSeEtaZUw2bFFWYk5KVlBIUTFVZVRITlF3bHI3N1dtX1podnIyZk51eDJIUEEyYXB5R20zeU5PWTB3MzZvM3pCd2lHN3Vrd09kZU5o?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T09:20:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T07:18:47.391373+08:00",
+  "updated_at": "2026-11-14T07:43:35.702155+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3710",
   "name": "連展投控",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "連展投控 代重要子公司連展科技股份有限公司公告董事及監察人異動",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoSXFzR2gwS1hJWGxnejZXcmxqeFEzamZhakstVEo0LVBfWXY0cmp0cmJCUjJRdWNTSlFuUU5DTmJMYlJCSDhGdzI0V01JOVJZYWZzNGVoTkk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T11:27:07+00:00"
+    },
+    {
+      "title": "《業績-電零組》連展投控10月營收為6.95億元，年增27.81%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQay1fVm9oSURpWDJadWVJVTZjeHctV0dGNnZ6YlU5UThVbk0zNk9MOWM4U2dZQnBjSElwYnRTX0dOQmxCUVB1clZSNGJxU3E4eVJldWxfd2xNZzVQeVloTXVST0tUV18tNV84VHRtU25yV041ZVZ2RE43dzFvbFl2UXZKUWlBT19j?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T07:28:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T07:18:46.926789+08:00",
+  "updated_at": "2026-11-14T07:43:35.252175+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3709",
   "name": "鑫聯大投控",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收速報 - 鑫聯大投控(3709)10月營收84.61億元年增率高達138.82％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hMFUxdEh6SUJtaklpalJFS1FGQXVnYVRKWUFsUDA4MnRIMm4xbUd5UkZDcUNKT0stdFVmMk45UzdYdFJFdGJocndaeVh3cmVKMnR4VE9QQldYOTU1ZWhNMEFrcFBEbHFoQkpNOTZDREdwWVFTUXc?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-09T11:20:00+00:00"
+    },
+    {
+      "title": "《業績-電週邊》鑫聯大投控10月營收為84.61億元，年增138.82%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTM1Ym50YUxjRmV5S0VzSEtVVlRXbUNNVU0xUVpiLUppRk5CdEw4UTExc2FES0tDZS1LTkItR05SNjBURmpfdFAzalFlYUxxeE1KaEd4S1NQNndnN1YyckVqSS1LS2xoek1oQUpiQUFZQU16eUxoSFZUc3VvUlEyOUd1SlFtbUVu?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T09:24:00+00:00"
+    }
+  ]
 }

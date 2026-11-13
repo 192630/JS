@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T07:18:36.042444+08:00",
+  "updated_at": "2026-11-14T07:43:25.588285+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3672",
   "name": "康聯訊",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "康聯訊 115年第3季綜合損益表，每股虧損0.41元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VVmZLcEtUSTNSRjg2TU5HZHpaLURqOGxETzhCUHV4WTFkSm9iaHdSemVFcURobDl4M3QzNXpXU1pqZ3RhNURvd3ktUC1pdi1YNUpOZXlIQzQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-13T08:58:58+00:00"
+    },
+    {
+      "title": "店頭市場13:00，跌幅前 30 名：映興、富驊、巨有科技、達航、康聯訊、中茂、華洋精機、台燿、君帆、力致",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tZ2VBZVc4dV9iaFBRdXd5WWxmdmFVSXRXN29VUGRsQ3VLT1hTSGhYTW9HYmN6cW9TR2xSb0ZsVThQeXlKZzk1U1V4ajdReFdlcFBhTHg3X2pDck1nQ19hSUlUZVNDUm5ZdU8yc1ozVE1iUHJMNnhBRg?oc=5",
+      "source": "PChome Online 股市",
+      "published_at": "2026-10-27T07:00:00+00:00"
+    }
+  ]
 }

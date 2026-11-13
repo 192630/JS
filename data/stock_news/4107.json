@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T07:18:52.957629+08:00",
+  "updated_at": "2026-11-14T07:43:40.805154+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4107",
   "name": "邦特",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-生醫》邦特10月營收為2.01億元，年增2.45%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDZOV3RqTHJOQU02eFlKbFBXTzZOY05GQXk0R2I0RW1PUXZGQ0tmME9PNHE2RmE5WEJfZUxsejVLVmlTZm5JMnI1NHVoaXJuRjh2dXB4Z2VOVzJsZlBpQzdXVTc4NWY3dHM4TTEtejBlNWtEdEtBZzBrTGNxWGV4RzlPNndQa1hV?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T07:17:00+00:00"
+    }
+  ]
 }

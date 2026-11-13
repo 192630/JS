@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T07:18:31.616244+08:00",
+  "updated_at": "2026-11-14T07:43:21.539891+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3646",
   "name": "艾恩特",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【營收快訊】艾恩特(3646)公告10月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BU25xTDVVSm9lLW1qNVM3ZHFzb1lON0dJOWFfNndoOTREV3d1SUdtMTBCVUFnZ0FZU3piTmh0dVktZDBRX3dROWg4akczZXpzQml0UXB6Y0Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T08:39:58+00:00"
+    }
+  ]
 }

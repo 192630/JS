@@ -1,57 +1,81 @@
 {
-  "updated_at": "2026-11-07T07:18:48.963155+08:00",
+  "updated_at": "2026-11-14T07:43:37.142022+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3715",
   "name": "定穎投控",
-  "count": 8,
+  "count": 12,
   "news": [
     {
-      "title": "財報：定穎投控(3715)115年前3季歸屬母公司淨損4億891萬元，EPS -1.44元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXk4ekpVcU9VUlpyTXZpc1FZX1lYc2pjc1VtamlRaGMtV1J6YXlwX1E0Z3R6ZGYtMWdkSUVaRkxjQ3pQM0VxczNOaUxEbXBhUnc5SnRsbllJRi1XQ1Y0TUtCdllySWswVVBXMnp5VVl5RDRIb1ZNb2VVSTJKT0Nkd1lLUGR2QmNF?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-11-03T23:02:00+00:00"
+      "title": "【即時新聞】定穎投控(3715)獲利優於預期，這「4檔概念股」買盤點火爆量亮燈！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXZxcHZXMllKS1VDZkM2Tjdma2liWUg0X2Rhb0lobS1vVFEtUk1VNW40UHhxc0k3Znc3cm02TmUwXzJHalhDUkVBMGV3WkgzZW9kbEpqek02MDIzd19aMVZRSEdTQzVBTVNzQVQwd24xNGtudWl2cFYwSVl6SlhHbTl1Y3J0bmZxdl9HMVEyUFk?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-13T03:31:39+00:00"
+    },
+    {
+      "title": "【即時新聞】定穎(3715)最新營收翻倍，外資狂掃近3千張小心拉回！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnFURHQwU0RTN0lOTUtfZVZhUjFmN1dWSklnR3pZZ2ppYlpSZDFHT3R0dXlldmJjUjVSQlJ4Y2d0dkp5S21DdF9WaVhDNExhcXlhNUNleUdGbmRhNmEzYkNtUlVVY3ZmZmlxR3RtdTNCR0o2TEdLb1RtMEZudGk0RnN2RUdhaFJrWXpvc0pLbk8?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-13T02:57:12+00:00"
+    },
+    {
+      "title": "8155 博智- 【最新消息】MSCI調整牽動PCB，定穎投控、華通、博智成弱盤焦點- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MklUcU0tWG1zemZQSlRpT0V0X0htdk9fX0hVV2RKQ3M5aXRBS2g0ZzdLUDVTSkZ0VlRTZngyZVBEaUNtbHZ3MVJlWVlRMWczYzhnOEQtS0U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T08:52:11+00:00"
+    },
+    {
+      "title": "【最新消息】MSCI調整牽動PCB，定穎投控、華通、博智成弱盤焦點-起漲K線",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXdLcWVVb196bVVsM3ctMy1Hd3lPU3FCd3FEaTN4MVBvd1ZKbHRRMklFWTZHc29WZXhqY3g0ZFZ4U3hFOW5zblFGd1RCUVJQalRFOEdoNUJiRUFhTXlvQzlGRlVlS25EYTNUSG1zSGRxX1I1d3h3RHdERzBKQjBMV0VXcGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-12T08:52:05+00:00"
+    },
+    {
+      "title": "定穎投控（3715）AI伺服器板放量在即 泰國廠成2027年關鍵",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vbjQyNm5KOU5XMGFaVHBfZUxrcXByQXNOUWJfdW1YMHdsWE9JT19vUGVVM3h4YXhyMy1EVGVSTGJMclhnVzlfQmY4QmdwbnZYUWVhcGNmQkFmLThINTlHZFhldEE5LWQ2S0hCbU80dw?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-11-12T02:11:18+00:00"
+    },
+    {
+      "title": "【09:24 即時新聞】定穎投控(3715)攻上漲停，AI伺服器高階板題材發酵",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1RJa2pSbWpRXzZibGc5bmFUczNJX0tEb1FQNDFROE9Cb2pUOHcyc2R3RF9BeUJIOGo0NHI1QzFJQlhjbVlUUlFGb3o3UkVYOHczWVBTTDBmWFVicmgwR2ctZHRCNkpnTVY0dmR1T1VGbjFGaGhzdVhJMzZpeXBCbWVNRnpVVGY4aVNodmtR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-12T01:24:35+00:00"
+    },
+    {
+      "title": "【12:10 即時新聞】定穎投控(3715) 盤中勁揚逼近漲停，AI伺服器高階板成盤面焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWljdEpqSXM2M0dYb1lrU0VEZExpbmUyR0I3YWpSY3F4cjNrRWMzOWJsUTNOcENRWlhXZjV6UzlkdGI3bFkzemZnQkNnM05zamxkZk1kSXF6WjIxRzRFS053bExkYzVxQVh1aFNDWVdrYUpud0NFVElSWkhJZThxMnZnLUZVRXBpeF9LcnJn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-11T04:11:42+00:00"
+    },
+    {
+      "title": "定穎投控(3715) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wMktBMXBDWlBRSGFaWnhZY2VMdy1velBfbGhpWHVUWDBiWjBKSkxjWUFLNEEyTDQ2cnNMUTFQbTBUUkNLVld6c2diemVhN2c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T08:00:00+00:00"
+    },
+    {
+      "title": "【12:46 即時新聞】定穎投控(3715) 盤中走強，買盤回流聚焦AI伺服器PCB",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVoxdXhpTmZQNHhjLTg0TVYzSC1Pa25RMTJOMlAxaWE0R0ZlbDJPV211NFpLbHgyRFpfM3R1Qnlab09vZ1ZXZFBhUlV3anhxQ2FXUXdneFI4Wmdpa0VNSXhEMm9DWDBtdUtkTU9sQS1YeHEwRno4SF9ydHBGQjVIZXJWNGpoNXZoazNIVFVR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-10T04:47:31+00:00"
+    },
+    {
+      "title": "PCB載板四雄十月營收飆高音定穎投控年增121％今法說揭後市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSa0N0YWRHdE9Nb2s1MGE1VUVsUjV6OEdtdnJmTy1BZkFvUVVjMm1rZHpXY3B0d0RQeDBoM3VrTlo0XzdqSjJvM3NZak4zWVgxdzZhS2cwYnc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T10:15:18+00:00"
     },
     {
       "title": "3715 定穎投控- 2026Q3 EPS +0.11元 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OX0s3VVUyb0lZWTJsTllvZmUxYV9IbTlMeUdBb2l2aHYtWm1DaWlqTTZtTm9hYVVvNzVXUVp2ZjN4NUI1SmtFdVNadU96ejBvM3pPWVdFdm8?oc=5",
       "source": "CMoney",
-      "published_at": "2026-11-03T11:42:08+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     },
     {
-      "title": "定穎投控 | 3715.TW 股價走勢與即時報價",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ub0hLYlUxaE5scHY4UWQ2MGVTU2c5VV9iNXJwNGV5am52Z0RISVEwRGNVdGhwOGFFOEtJcnBLS3hqOXlLRmJjdmhBcVZ6a0N4UW1PdQ?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-10-27T13:04:20+00:00"
-    },
-    {
-      "title": "【09:52 即時新聞】定穎投控(3715)盤中走強，法人買盤續進成焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdFVEQlBUOTBNbUNJWmRYZmpUNGtRSjRIZFRZbnhrVXl6aG93NDJuLVFrTFcxcWRidHljN0kxdHVoSjJ4VDEwQWdrQkZFeUx5QUhMM3hTNHlwMHhQXzlYaWxEWE1reEVENFdsVGxXelZEUU9sQWpRQUhRT1RPTnhHaURkN05kVjA5d0R1dUNn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "title": "【11:33 即時新聞】定穎投控(3715)盤中走強，主力籌碼仍偏向調節",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHRfZDlSanFDZGJ3cmJKUjhFekxMc0ctdUMxOXQ2bnB6VkJJYjF1eXluSUt1a3JWYW1FS3RPRmZjTURpZ3h6b0xwZDYyaDU4emNBWUx3b1dOd0RmUHloTmh3aklZRnZoM2RmS1d1ZWVHMl9EYV91ZUxKR2Jmc0VYU3k4cDcxUTJCdXp5b1BR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-19T07:00:00+00:00"
-    },
-    {
-      "title": "3715 定穎投控- pcb女王中的定穎- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jU2ZvNC0wRWxISkJtLWk4Q29qeGRCczROQW5fWk9VckgyY3FMLTZicFFPN1ZLRl9pcWwxOFRFWE53UllkTFJJUF91NGEzOTBaRnpxbndMbks?oc=5",
+      "title": "定穎投控(3715)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwbEJnc2JWVFQzSWZkY1RfakZXNTZYVkdxOTBkODEwUlB2eXFhRFBFZ2dvMWRWNlBPQS1ialF5T1NlaUpfQlJReThtUGd0WF9VdmF3UnV5eVV3bW5nQ01CSDFB?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-18T07:00:00+00:00"
-    },
-    {
-      "title": "【13:24 即時新聞】定穎投控(3715)盤中走強，市場聚焦營收創高後股價修正",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd1RUWms0dHp1M2dYa2pTNnZHVi1pSWZJdDFnUTRjTkxSQXkwUEhjeWVtQXd0R3QzWEdnNG9kTGwtWi0tdl9RZEtBU0dFMG10aUlLLTR0MzdVbUJCUmZELXZIdmVDdlVUOW85YlV1RWx4YW9zQVlqZVNjYy1Kd0hpTWZ6ODJ6YTEzS2VyZmVn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "3715 定穎投控 - 定潁投控：就250元在賣就好“”以明年獲利的EPS／250元... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aWFNvTVVvVWh5R1pOeGMyWk5hT2szN0M3cU11dDVjMVpTdWxWaks2YTdUck96OUVLRmxYZ29mdHRyME1KdkUxajhDeElvczRWSllnZlRkMXk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-10T07:00:00+00:00"
+      "published_at": "2026-10-22T06:00:00+00:00"
     }
   ]
 }
