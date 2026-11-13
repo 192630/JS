@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T17:33:28.258277+08:00",
+  "updated_at": "2026-11-13T17:46:21.551071+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3390",
   "name": "旭軟",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電零組》旭軟10月營收為0.63億元，年減17.16%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLS1rRkktcnRNLXptdC1CX1RzOERRb0wwTlVQR1dmblBLWVRPNmgtTnBJOGFtTWtHRGtNbGpvdG5CRG4zc1FYdmhmSFQ0am4wMW1VWjgtWDBEVU1wUk10ZGNONDlZZy1GcE5IVGNxUXZvaTJVSUNvQ2JUTzhaNFRXMHJUUDdMZmx0?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T07:34:00+00:00"
+    }
+  ]
 }

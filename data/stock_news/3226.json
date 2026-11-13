@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T17:33:02.259045+08:00",
+  "updated_at": "2026-11-13T17:45:55.182909+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3226",
   "name": "龍鋒",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電機》龍鋒10月營收為2.19億元，年增103.35%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ01tejB3dnM2TnBxTERFRnByZEdIZ01BVHB2TTcwU2JGcVlvdFk0Z1NtYmNiX3dLQUhOMGZYYlRIaE5obk9acVlVTmRadndpMlVmUXpxSUwtVllDSm5idXd6N2tHdUgzZUtHN1JxREZrUHpjWXdVMlNmb0d0X1RRYmM0emk4TURn?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T07:27:00+00:00"
+    }
+  ]
 }

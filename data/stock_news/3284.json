@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T17:33:10.018108+08:00",
+  "updated_at": "2026-11-13T17:46:03.117128+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3284",
   "name": "太普高",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【營收快訊】太普高(3284)公告10月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RU1hDd1BXMW5HTWlXeU42MHlSYUVUMGNWeWkzbmhpOEpJQ0VQTV81WURITjlBc0ZuVkQ3YzR2Njlqa2tMc3daVWlPQ0ZfTUdKV1JTQ3M4c0g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T09:46:36+00:00"
+    }
+  ]
 }

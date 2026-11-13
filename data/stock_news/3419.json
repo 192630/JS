@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T01:34:51.439711+08:00",
+  "updated_at": "2026-11-13T17:46:23.681713+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3419",
   "name": "譁裕",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收：譁裕(3419)10月營收1億7593萬元，月增率-8.60%，年增率42.85%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGFXSTQxSzhHZVZkRk9lR2lrVHNyR0RwRXo5aTBxeGEyYktBQnNUU0xxalBWNkJ1NlpLY1lFUFlHMFo2NEM0Q3Q5al8tV1hJa09ma1JORENJYm5NakExUndtc2FsQVpUbVE2QmtHTXQtYUVkaDZDVWd0Y3FacGE4aV9lRC1DUGFI?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T23:14:00+00:00"
+    },
+    {
+      "title": "營收速報 - 譁裕(3419)10月營收1.76億元年增率高達42.85％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XdHdjdHR0RUJkLXZJWkt4N1BTaTJib3NuNlVDdHFHQXlVYjNoX3ZLRzdhcVNPdEdOX2dfUGxLQloxVzhaZ2FOY0ZEMWJJekV4QzRfNElJVVJjci1oQXM0MHAxcnFnYjhfNHNJSExJNjAtOWJxVVE?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-09T20:20:00+00:00"
+    }
+  ]
 }

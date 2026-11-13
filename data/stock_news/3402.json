@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T01:34:49.671151+08:00",
+  "updated_at": "2026-11-13T17:46:21.957450+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3402",
   "name": "漢科",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-其他電》漢科10月營收為6.65億元，年增45.77%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHdLWHppWVNhY1ZhNWxwRlpNVHlPQWNDeW5mRlo5MW5GdjZOeFhKcE9TWnV2WVdscjNkZ1V1bWNaVjdqNERSUXB0NnRtLTllYjRkUHR1LWNTN2RUMGlHMHUtZlh5NU1LWGN6dWwwNzJzb0xsb3h0bWduRG5jMDdYREM4YjB6NzY1?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T23:53:00+00:00"
+    },
+    {
+      "title": "營收：漢科(3402)10月營收6億6542萬元，月增率2.18%，年增率45.77%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHJBT1RFZzVZdTY5a01iWkdDMUprZUpNTnhnc3RPdm1QRF8zTFJRWGtfaXBOR1BEZ0FiSDYxVVhsd0Y3dnhJQVIyOG1CMkFwTVBja2E3QXktV0NSa0Y0UUdPZWNsNDI5SFFWdUZOR1FZdXlnZ2g4QkFENXh3Wl9uVkQwenZJd09p?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T23:05:00+00:00"
+    }
+  ]
 }
