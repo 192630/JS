@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T09:39:57.478901+08:00",
+  "updated_at": "2026-11-13T09:58:22.903730+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3025",
   "name": "星通",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "星通資訊 | 3025.TW 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HdWxuMHVHUXFoYjlYUUFvWUdGWVNZaGpjU1NJcWVSQ3hGeVVwZXQzOXNSbWpjTkJkMGN0dXM3R2Q3NUNJbG8zTUdOV3BFMWgwV2dZYw?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    }
+  ]
 }

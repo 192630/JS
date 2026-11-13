@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-11-06T09:39:58.952046+08:00",
+  "updated_at": "2026-11-13T09:58:24.303699+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3028",
   "name": "增你強",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "增你強(3028) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaWExQbkV2NFRGNWMydVU3UGpKWU9UOVl5ejNwTEtNcGJZNEp3T1plOHk0R0l1dHZfUlFDckRzR2dEUzdfeVVkUmtnNlhFMU1mNDA0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T13:05:57+00:00"
+    },
     {
       "title": "增你強前三季合併獲利17.91億元，每股稅後7.55元",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmTEJmeGktVHhwRXE5X0RkMkc5RTNHTzEzSWxhM2JxSHctTFNId1NmT0NpYzl0c0NvOWlBS3dRQnYzdXh1VnFjd09GY3dpWVFaS2VlTmJMVEs?oc=5",
       "source": "CMoney",
       "published_at": "2026-11-04T11:51:07+00:00"
+    },
+    {
+      "title": "增你強前3季獲利年增2.77倍 每股賺7.55元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wQU9fWUVFMWJTYXZuZmdzbEkzUmNteF82aVo3N3hlazFYbi1kbEU1emVCT2pYVW1MdklnNm9Ca0RWWFBoQ25IRHdRQ2xMYUs1d3l5QVNSb1VQd9IBX0FVX3lxTFByZW90R1J0ZmI2Y1NzclM2aWVEcHg4cDVKWk92X2F5c2thV05xdWQ4dVdvQmplNmEwZXpMaEZSeW9jOGs0X0JuNmozR1EzVFprSnlqMUx5VHVsbF9DZ01r?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-04T11:50:25+00:00"
     }
   ]
 }

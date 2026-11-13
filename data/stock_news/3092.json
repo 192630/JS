@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-06T09:40:19.438234+08:00",
+  "updated_at": "2026-11-13T09:58:44.846099+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3092",
   "name": "鴻碩",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【12:34 即時新聞】鴻碩(3092) 盤中強彈逾9% 聚焦新能源轉型進度",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV1YxYjZfZUZqdms5WFNweWtzQ21MWTd1U0JXeFpJTVM4STFBYkxSdlNkSlJTSmR3eVJzd0tKWklCQ09vRko3ZnJsWER5dWQzeEJKOF9QbGoyckRjc3l6SDExNW1KeERpYmV5bDFJbkNxcGRsblBudzh1X0NjVWdwVFJDZUZwYlcyci1IdVB3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-12T04:38:48+00:00"
+    },
+    {
+      "title": "《業績-電零組》鴻碩10月營收為0.66億元，年減51.43%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTZPSGJ0cmo3TGkzUDRkNk9Tdm1OQXZNTGhwSlZfakV3N1BzeW9xVEZCMDZVZk11blkwSE9xN00zZ1ZIWDdUSXkwaFpRZ3RfWnozVjctSjhiYzBFTmxJNzQtV3JxMl8tR3VyRFVoQU9TRVR5TmxMNGlzdHZCU0theUt2Q0ZXTURE?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T07:26:00+00:00"
+    }
+  ]
 }

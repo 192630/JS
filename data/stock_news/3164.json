@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-06T09:40:29.872959+08:00",
+  "updated_at": "2026-11-13T09:58:55.478054+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3164",
   "name": "景岳",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《集中市場券商買超比前30名 3-1》景岳(58.70)、興泰(35.89)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVjMtS01fV2xaX3Z2TVF6c0xOdTlxc2lvSjJ4cV93ZGwtQzNGZkZFbmgtQmJiUlZrM3NkVGRuajdsU25BTkVSSGxEMXVzS21LcVBVeEsxajUtV2lad2lwY2xFVmJxdlptQUdpSHdKX3lNOHFwVDJXVVdwQ3BjSWZZVUk4MGZJSkVk?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T23:38:00+00:00"
+    }
+  ]
 }

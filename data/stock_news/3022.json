@@ -1,39 +1,51 @@
 {
-  "updated_at": "2026-11-06T09:39:56.049192+08:00",
+  "updated_at": "2026-11-13T09:58:21.448345+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3022",
   "name": "威強電",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "3022 威強電- 超微新EPYC 獲微軟、甲骨文採用台廠搶攻網安與測試商機- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OU0czNGQwWXc3OUx1azYyT3lmekVCUnlzQnhoSEo4Y1Jma3EwMzZJVENzVUdMQVgyXzg5VFc0bWJtMHExOUlEMXAzUksybXVkeGhiTTlxbUk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T10:48:56+00:00"
+    },
+    {
+      "title": "【即時新聞】最新公告！威強電公布第3季獲利年增14.6%帶動每股純益達2.43元",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3NQcVl0TWRKSllpdmxCUTh4ckZQRjJHbTNOZFFrVHduR1BSaHdSakRaZkp5V3JvZUF0LV9rcGFjXzczenlVZ2IwMHJZUVdYaDJsb2N2dWxqcVRiU1BsTGppcHQ5WlhSeXhFXzg3enk0bHNleElTRTdKVlVvTDlxY2oxbWhGLU9uSmlyRDg4REg?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-10T06:09:28+00:00"
+    },
+    {
+      "title": "威強電財報／第3季獲利年增14.6% EPS 2.43元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UTlZVMzVCZlI0RmdVQUV3eXFocXFoMlcwR2dtakJQai1aQ2g5YUVoeGZNWWdyM3g1aFJjRzdpVk5nMEpJRE81Q0pmX1pYXzVp0gFWQVVfeXFMUE1iU0Z5dzVLTlFMbGIyTlhQMDItX0kyVGpUN3Q0ZW1qSzV3eFNaaC1IdUNiaE0xRWQ5aGdRTmMyZlVaWlNOd3Z2YWVtSE5jeDZIMm5VUGc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-10T04:14:46+00:00"
+    },
+    {
+      "title": "個股：威強電前三季賺贏去年，EPS 5.72元，惟10月營收遇逆風，中長期仍看旺",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2V1QW93amJsUUdPY0pfYlh2dERQdmY2SUVuRlNNaDl5TG1IZ2p2b01vYWFfT0dQcl81VGc1T1RINjdGVkdsZ2ptYVJkVHFscFhMVWF6TllodzdUZmVFQXVINnhMXzV0VGJRRm95Y2dBaUZuRVNGTlBYUTFJU0ktdjdOeEkxbmlS?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T08:31:00+00:00"
+    },
+    {
+      "title": "《電週邊》威強電Q3每股賺2.42元 前10月營收已超越去年全年",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemlweXNxc2tsaW9jRlNyd1FUdThScTIxWk9acy1yc2tRUTVVdnRvNWszMGlxcHRscU1zT0p6YzNWUERBRXBLc1hxSFF1SkxwMk1MQVljYjVCU21SekROekxOV1NCaDZzM25tRmZ6U2k5ekJBV2JFZUNqUkw5a0d1RWJESGxpbFla?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T02:14:00+00:00"
+    },
+    {
+      "title": "威強電Q3營收年增近8成 營業利益暴增3.5倍",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93MWJ2NUVrUkRjYVJGVWNGd002QXJuSXFLLVpacjVMNjQ3WngwLU54dnFXWF93TFBiWVR1OWwyRUpRWE9PMDczU0ZDQWRXWURFRE00SjlOWXM4TEN5cVc40gFkQVVfeXFMTnFjeWdLdTBiVm5uaDRTMEZadFV2aEtWOVB4UERLTGZlWHRIWHZUaEtTMWo1WXV5cmNSWUU1VkJPUG1GanVNRlBVM0NQM2NqNlhqTXBrUVlraXpZYW1mc3JYWTBJdA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-11-06T09:57:09+00:00"
+    },
     {
       "title": "勤誠、威強電在手訂單旺- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HRGludThWT3JnMTlGYzFFcW9BbkZKZDkzQm5xTk9uaklwdTl0TUdrcnhqd29VeTBFaHFUbDFqYjRua0tfbnI5R1V2VUxYQklicllOWl90Mk9sd2pCZm5j?oc=5",
       "source": "工商時報",
       "published_at": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "title": "威強電9月營收轉雙增；三大業務建構長期動能",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOV3o2bDJQM1ZRU3E3MnZUQjRaWDdxVnMwQm9ZMjhaZjZPTFdVNGoxUVpFd20yT25OVHltM0lpN0NHVlUwSnp2RkttUWxIaENOUnNHMUhGWWhBT3BGSGljODJqN1VMdDdTalFqamM4em1jWWhnTmVwN1Utd1lWa1p4blJaRmg2VUw2VXc5MXJtSFRqQVpHTDF4YnBQTVBldUhfcHY1LXJYaGJsbW0zTHdLeGE4V3BUdVYzQmdwQzZVT0lJR05mR3RvV2wxdVo4U3RfZVZzUkdHcEFrNjNiWWpFR2I3bDRZNGE5WFhEdGNsYk5QY3FxWlFhMXJkcjE2R0ZVZHNKQmxiYnVqeVZXMlhzenZseF93NFVHT2hPVWFncHFJWEN3WjVXTzVXTlJFUGZUOVlMNnB0b19STk5WMDZXT1NR?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "威強電營收／9月8.88億元 月增11.1%、年增75.8%",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaGl0dmlySzlMZEo2bTlNREk2QktGTERZQVoybzZUekZGTlFES0hzQk1pNWpZVUE0YXBEU1VxLUxsWDV3TjVFVDl6UFhNY1JsWlpMUFhrZWhiQdIBX0FVX3lxTE5vcFlEaldyNTBFeEFDc0VCRmdWUl9YZDJqYzhNUmF4R0UzR3J4Zy1POVJzdGVaMkoxNldfM3BKOVhtNnl6U0h3VHBjbUgtc2JkeThtSFA5U3pKSXJUcDZv?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
-      "title": "威強電9月營收年月雙增 前三季業績超越2025全年",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5SGljU29Ud1BHckZTTS1VWERPbHNFX1hEYWd6WGh5cXcxRFE4M2VuRk1iRVN5UlhhVFp3Z3RIYlVaaW40YUNRYzctU1V2S0RvQ1QwU1VmYUE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-10-07T13:31:14+00:00"
-    },
-    {
-      "title": "營收速報 - 威強電(3022)9月營收8.88億元年增率高達75.87％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZE85ZEhFTjBJVGhOZnhDY19aRGQxWXVHVFc4d0s4X0tDNEQxVUJaQ2F5ZWpjU2xMTDdCeXdFRmN1M0dCVkxUZ3RqYzdLc2xJNlVxb0k0OHlWQkR5cmMtWU80a2tBQUE4b0RxcHMxb05teDFiQUE?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-10-07T07:00:00+00:00"
     }
   ]
 }

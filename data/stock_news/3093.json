@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-06T09:40:19.955403+08:00",
+  "updated_at": "2026-11-13T09:58:45.369511+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3093",
   "name": "港建*",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 港建(3093)股價殺至跌停，跌停價48.9元，成交2,140張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0WERJU0hNbUZIakNGcG5sQU1YQkNNVndUWGRQbl9EN3NSbEpqQjU4MVRrQmdNQjk2YU5TT1p1RXFycUJ4SnI3QkNBYVZ6RnZCZVdCQm41bUpLT2JPcWxJSVRDMEg?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-10T18:56:50+00:00"
+    },
+    {
+      "title": "營收：港建*(3093)10月營收1億6147萬元，月增率92.82%，年增率94.45%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVJteWVKcHZtZEhleDcyNUNVdDlEX3lMTE03Uk9iWHZ2U2xSS19CTVBuV21iLTBUSmNOLS1LeGhWVzlVWTJqNTJ2cnBFZUowNVpOVGIzS3RYSXFSdm41Q1pfYnVJby1CalZpUWhKUEhBSVQ4MU5KWkVWLU9hTUxoSXI0MVV0Z182?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T23:22:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-06T09:40:05.430425+08:00",
+  "updated_at": "2026-11-13T09:58:30.604247+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3043",
   "name": "科風",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "財報：科風(3043)115年前三季稅後盈餘4582萬元，EPS 1.18元",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcE45X3dISGd2MFA1OEZaWFhQcV8yQ21Gb0dSSnVhSUVWdmJRZzhOd3NFb1BIOUdVMmVuekw0Q2NLNFdqVlNmMDB6UDFGd2V0dEpCMzBzV3BYWlJpbjZJckpPRVh3QVVvejBxTS04RllMWmk4T0hRVkwwTTNkaHdFVUg3Yi0waHcxNTI3c1I3Uk9odw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-12T00:50:00+00:00"
+    },
+    {
+      "title": "3043 科風- 科風公告本公司董事會通過115年第3季合併財務報告- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DTDBDNG5FZTlTT0VWYmJaYlJYUlVMczBpdlJVOFJIdHE3MFE5cUg0cUQyeUFld2tqVXpYVFU0OUF4SnhUbzRjTXJKaWlvaEhPQjFWam1qVUQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T09:12:19+00:00"
+    }
+  ]
 }
