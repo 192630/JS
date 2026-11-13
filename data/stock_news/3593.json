@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T01:35:23.572915+08:00",
+  "updated_at": "2026-11-14T01:54:34.558559+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3593",
   "name": "力銘",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-電零組》力銘10月營收為0.60億元，年減13.31%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjllX2o0dHdPMmVsY3I1VlpYSV93WXBEQ1oxUmgwZ1lkVmVpaVBYUk53WEQwcW9QZDYxenQ4OTQ0M3J5WXdHS2VnNUlNTGFBMjJjMkQ3ZktUdkFqdW1mbUxsdUF0cUxlem1DNzVkeGNxUFNXb0l5eDRWeTZYZ1dXRGpVUHV0UGtl?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-12T23:53:00+00:00"
+    },
+    {
+      "title": "力銘 115年9月營收6446萬、年減30.89%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Bd1NyV2lKVEE4VExHS2JidkU1QzBUcURDX193SlBYVEZOOTVheDBVbHBKYUcyRXdBV2pGSkNVRGMycDF2YmJxeEJmNElFOVU0S2NJRG5CZ1U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T11:26:51+00:00"
+    }
+  ]
 }

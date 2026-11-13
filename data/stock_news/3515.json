@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-11-07T01:35:04.763749+08:00",
+  "updated_at": "2026-11-14T01:54:15.137341+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3515",
   "name": "華擎",
-  "count": 8,
+  "count": 5,
   "news": [
-    {
-      "title": "【即時新聞】最新公告！華擎Q3純益8.08億創新高，EPS達6.54元強勁成長",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydXpZNkhTajNhVVhNVXdSdGJKRUZYVzhfVzRqNW41SlJDX3VMcnUybjZPZWVrdE5Gekp3YVRYbHVqX01senE3Z0dlYmE0YjlOVGFtZ1pqVUpNcjgxd2VwazJhdVROUDA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-05T21:56:44+00:00"
-    },
     {
       "title": "華擎第3季 EPS 6.54元 雙引擎熱轉",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JZDZ3c3B6U0o5R0NlUVg5cGNpbUZvTGxqSEpjOFpXUnNMNUNnRXBVQ3A0S0lfQW8ySUZLTjU2N0xXWk0wNG5YSk9RSlgtRnk5VTU5NF9wcVF3UdIBX0FVX3lxTE5MVkJnZU9VX0ZPdUFDaTdLYXhrbEptbEZnb09zUGx3dHp6cTNjcUVhVlktYmxvWFo3NW5TNWU3eWpqTlFoV0pnN2t1aUlFcnUxWGxXLW5hQ08zNTQ1b3dn?oc=5",
@@ -24,34 +18,22 @@
       "published_at": "2026-11-05T10:53:39+00:00"
     },
     {
-      "title": "華擎財報／第3季獲利8.08億元、創單季新高 第4季再戰新高",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcVhuTkZsS09xVWxZNkI1cXN5eWhCZTNJc3R1V3NhUjEtd0hzQjJJZHY2a2Y5NkR5WEpLdGtieUlpNUYxWUVuMjhQMEUzaUU5OFZLMlZn0gFWQVVfeXFMUGZxWG5ORmxLT3FVbFk2QjVxc3l5aEJlM0lzdHVXc2FSMS13SHNCMklkdjZrZjk2RHlYSkt0a2J5SWk1RjFZRW4yOFAwRTNpRTk4VksyVmc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-11-05T08:34:27+00:00"
+      "title": "熱門股－華擎 雙子報喜股價飆",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nQkxtLXhHSzhGWlo5cUFuRTlRd09ONFhrOHRNcWJ0b0RraXZvUXMtQV9naVJfTVZ0clR2TVRyTG1tWHVKRkRaVkxHbHNFYjl0M0ZCRXZNNGJEa1NmbHdHVXVJS2pTTll6QVZB?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
-      "title": "逾4.3萬張排隊買不到！這「AI顯卡廠」9月獲利暴增344% 攜華擎、永擎入列20檔漲停股",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CcmFGWE5IMWVEaUJrLVZCbWpwN1hSLXNCMER2M1oyb2tjd0hrVFpaVUFYUURDNGJQOUZJYkpmR2pRXzN1ZVhVZ3U2Zw?oc=5",
-      "source": "FTNN 新聞網",
-      "published_at": "2026-11-04T14:30:00+00:00"
+      "title": "華擎財報／第3季獲利8.08億元、創單季新高 第4季再戰新高",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WeENhcmZJeWp5VnBSbGZXVjd1TVVvX3V3X0dZTmduZGQtMVF6OXp2NmZKZmhRX0gxdzJsLVBiTXZmNEEtbmVBUEdwQTZvVEh00gFWQVVfeXFMUGZxWG5ORmxLT3FVbFk2QjVxc3l5aEJlM0lzdHVXc2FSMS13SHNCMklkdjZrZjk2RHlYSkt0a2J5SWk1RjFZRW4yOFAwRTNpRTk4VksyVmc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
       "title": "焦點股》華擎：買盤點火 母子公司齊攻漲停",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VDdlczB2UHNIQm9vT0VRZWVEMzVaa0FmS1FIQjU5RlZubm1qUDlkUmpTTE9DQ1Z4em5RbjFjdDFUOHRuRTZCblhCNEpEWkVhUmkzYWNUQmJETHZzYmJF0gFkQVVfeXFMT3NGNEc2R0pGbG1STlR1d0hUQ0dKWWNmU0V2M0VIY0FvaWtCVDhIZ0NpMno5QUVqUVFKQjJ5NDBwZFJnUHFaOW9PSTVpX2owSGhPcElwLTlxSm9jWmRYSW54NUN1Vg?oc=5",
       "source": "自由財經",
-      "published_at": "2026-11-04T04:09:23+00:00"
-    },
-    {
-      "title": "6.1萬元申購抽抽樂現身！華擎旗下「工業電腦大廠」上市啟動 報酬率進逼4成5",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNTFN4TDhUR3VJVU5vYU5rTHZ1VHpMYlk1ZmR0am9odFNxSVFVaDUteUg3cS1XNFEtQW1lQ0FobEZvTXVaRDFCQ3pQQ29HSV9kZmR5WHl0TS1wSmxVbjk3czlxc0JxWkk3VEFCWk9FaTk4b0h4V3lQdUJWcWVMdng3dDJiMWppMkFHT0NVR2tjMjNpclRZdkN5a2pMc3Ayb1RqSWxKVjRHZW01ZjRWdlFKZFI5SEhtS1Y4WE91a3cxZlNEc0FyMzFfZDRGRlI0VEpOUjN3ZEgyZW5mVlR1VHNuZVlDMHlxQlQ1N1phbnNMaVVVRjF1aGVMMThFX3RqQy1IQjQ0cEtENDIzSXhHWXk5Z2xTaUUySk9XeExWeHhJdVJfeG5nclBhWXJzQ0lpdUYxMVI5WjFiUkdIMGk2WXM0RFJlUTBSNUlvdm5pN2lOSlFmbUw3R0piQUdrV2xOVWlvNTNIXzNtSm9uejdwN29TRnQ1cVVjVFk?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-13T07:00:00+00:00"
-    },
-    {
-      "title": "缺料紓緩華擎、永擎Q3營收創高- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1acDBpUDJHY0M2ZXc0UmlEZUlrb29aWkpzVFJHLUhkTEpqcV80c1BHbU9TYU9OUlpaQ2dDX1dqRzhrVkoyNUpGemd2UHR0MWthUHpBOFlJT0Jfc0JXQUtR?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-10-09T07:00:00+00:00"
+      "published_at": "2026-11-04T08:00:00+00:00"
     }
   ]
 }

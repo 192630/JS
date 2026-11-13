@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T01:35:09.974559+08:00",
+  "updated_at": "2026-11-14T01:54:20.623888+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3531",
   "name": "先益",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-光電》先益10月營收為0.89億元，年減11.27%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3VzMF9NTE5qS2dXbFpPcWRYUkRuYkZoSjdWU2h2ZnNWbU5WdzYxRVAzWVdlVmE4MXBYSkFmblc5OHJuNmlOSHZWMVFiU3ZITmFMbnZMZTNEYzdvSDFWdVQ0bWloVEczQTZsNWx3dTE0ci13RXFGXzcyUzdiWmxRSkNUbHZmS1JD?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T07:57:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T01:35:02.190662+08:00",
+  "updated_at": "2026-11-14T01:54:12.499560+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3499",
   "name": "環天科",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "3499 環天科 - 今天都不要跟我搶 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Jc1BqTlp2Vk9UeTJnV1ZEU2JNbDJSbzFHQTJkejdSc1ZTUy1zXzdja3RJOXFaS0UzdzI2bmU4VmFlYVFpUUN4VXhiUkFrSk9rZTJtME9nczk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T00:33:29+00:00"
+    },
+    {
+      "title": "3499 環天科 - 比我想像的還要強，賺爛啦 感謝哲董 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Y3R2RVN5RUxPYmhaSVIzNndaaXJWNXdfWlJrVzFmaVgtdWFjR3AtbG9tNE5wVHc0MnlPdXBRbzFFc0VPZkVRNFMzVWRSUDZXX29SV2FXdWY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T12:40:35+00:00"
+    }
+  ]
 }

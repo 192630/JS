@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T01:35:14.266859+08:00",
+  "updated_at": "2026-11-14T01:54:25.005578+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3548",
   "name": "兆利",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電零組》兆利10月營收為6.06億元，年減7.39%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmotM1pIY3VyQ0cweEdBRWxFSC1EVFZNVHBHUlNPeURWZEhCeHgzbUd0clFRZm9sc0MwXy0xQ3dqUkMzb2NvRl9oSUNTUGRPZmtNbl9SVE9Bc3gxQ2cweEZ6bjhjQktDZ25WalZhSHpUUjF1M1h4UGF6cmItendyYUtNMWx2aVgx?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T00:08:00+00:00"
+    }
+  ]
 }

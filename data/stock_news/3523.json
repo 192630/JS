@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T01:35:07.336592+08:00",
+  "updated_at": "2026-11-14T01:54:17.806216+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3523",
   "name": "迎輝",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【即時新聞】迎輝達(NVDA)財報前夕半導體類股回跌32%，AI熱潮下面臨美債殖利率創高挑戰",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50V0U3em5kc2tqZFdqOE9nQWVBMGw5aUU0UWxGeWxJcENMLVU1aWYxV3Y5N2ROQ0tRUUxOSG9kaDVTcGlnaHhhTm9WTTVPN3FkTkhHd0FkWUc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T22:50:46+00:00"
+    }
+  ]
 }

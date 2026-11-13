@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T01:35:05.667420+08:00",
+  "updated_at": "2026-11-14T01:54:16.108028+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3518",
   "name": "柏騰",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "營收：柏騰(3518)10月營收1609萬元，月增率-31.21%，年增率-29.43%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYndCY2d4RWV5VW16YkoxOVhvUlMwMElvZjVYRHR6cFlXbU04cVRCTzZaZDltbmtLTzJHQXZUcHdXY1hMNzgxWlhYVExUWFJrUVUzV2xKdjBUNjd6MWlOMGRSN002V1RuemhWMy1GTWk4ZHZwZUZENFhzUnRYNDEtVFR6amdRckst?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T06:48:00+00:00"
+    }
+  ]
 }
