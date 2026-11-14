@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08T00:55:20.330620+08:00",
+  "updated_at": "2026-11-15T03:18:01.796016+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5014",
   "name": "建錩",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-鋼鐵》建錩10月營收為13.99億元，年增30.56%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzFrYWhROUdjUlFPNi1vSFlVV3RzTW1LS2p3NTNjd1RsWmFnUFVNU0k3UVpFcHhleXdPN01BWW9aMzZTckM0ZVczdkp2RldQM25zYnhHQ1NMc1BMSDFQRzRndzhVWVZKVWpiQUlHeVRJYWZvUDdmNTVaWU9jcVR4M0d3Sl9OSlVy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T07:56:00+00:00"
+    }
+  ]
 }

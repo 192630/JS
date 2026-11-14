@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08T00:55:21.719529+08:00",
+  "updated_at": "2026-11-15T03:18:03.090381+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5201",
   "name": "凱衛",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "個股：凱衛(5201)更正買回1,000張庫藏股預定買回期間為115/11/12～116/1/10",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3VFYTBUelFoVnpHMGV4d0Q5V0RRQzdxSE4tX01wbXFQYVAwMFc4ZTJVY0ZXMC1MNFMyaERtUzdMMjhwVFVDUENxZFQ3ek9FUzdwWVUwdUc1WkZySUVSdjd5cC1iWTdDbmgxLXhVdkpDY1M2ck9kOEtUelI1VjdrRGdmTVdfR056?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-12T23:10:00+00:00"
+    }
+  ]
 }

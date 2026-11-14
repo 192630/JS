@@ -1,51 +1,39 @@
 {
-  "updated_at": "2026-11-08T00:55:38.116813+08:00",
+  "updated_at": "2026-11-15T03:18:19.642356+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5291",
   "name": "邑昇",
-  "count": 7,
+  "count": 5,
   "news": [
     {
-      "title": "邑昇Q3賺贏上半年 擬擴半導體應用將赴日參展",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMDhjTVFEZEo1UnBlMzNqekhETHIweUljWmtPWHFfRmdzWFF2ZHgxNGlRSWVXQjlMbWw4Ym5BMndvT05JdlB2bWFGcVNFN21vZnpHWlRITGxjdUhnWldCOFl3bk1Dck1Wam1ybXpPdHcwM1lhOFFPNVVHUENwY05PM1A4MEZmZHlZMEl5VjM3ckF3ZmdWS0dJTG1OUTloSGpSYVVGVk9lVXN3amZ6ZEZmWHpfeWYzNGZMS3FXOXBoeDBacG45blVSZ2JOc1phcjlXUXJ5RHZKc19PMTJvVmhRN1BWNUpzbGVjWlFrS1NreHo4SjNSdDdlSHRueWZNNDJ6UFh6eElUcnVVRnZDNkFwc0FOR2VSdFk3eHQyNEVZenZFZ2hId2Q0TzNvdFpVemItY2JLU3VjcGlnTGdBWkpfQW0tOA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-06T03:42:06+00:00"
-    },
-    {
-      "title": "營收：邑昇(5291)10月營收1億3434萬元，月增率-5.56%，年增率46.81%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEhTcjF3QmlXTHA3YW5Dd2hleFl5MFp2eWxZdERTOHdlcnBrZFhXeTY5UFZ4bThrU1dIdVo1MkROeWszTjVtaW9GQUVaa0VvN1lkUmpjdF9aVUJIYVVkN0JWYlJUME5aUHBpcXlzSEFTM3dsc3NOTHNuVGRfOHQ5YWZ4NzR1Z2VT?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-11-05T23:06:00+00:00"
+      "title": "邑昇(5291) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuOXZoZ3lmaDh2TVlMOW02ZzdGVkhueG9mTnpwX1p5OHZsRDA0Rmtpc04za09VYllVVUJDWkQyZEZqMzlqNzB1bEpUY3RfZjlBSnlv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T02:44:22+00:00"
     },
     {
       "title": "邑昇Q3每股賺進1.16元優於上半年總和 布局半導體開發應用",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QN28xUm05S0lBSFhpNHlxT0p3Q2FQSEFFcjFEVW84XzJiTElIUzJoV0RrMUhsMVZqb2VlOUFGRWNoZDl6ZlZJYzE3WnlhVzA?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-11-05T03:38:34+00:00"
+      "published_at": "2026-11-05T08:00:00+00:00"
+    },
+    {
+      "title": "邑昇Q3賺贏上半年 擬擴半導體應用將赴日參展",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMDhjTVFEZEo1UnBlMzNqekhETHIweUljWmtPWHFfRmdzWFF2ZHgxNGlRSWVXQjlMbWw4Ym5BMndvT05JdlB2bWFGcVNFN21vZnpHWlRITGxjdUhnWldCOFl3bk1Dck1Wam1ybXpPdHcwM1lhOFFPNVVHUENwY05PM1A4MEZmZHlZMEl5VjM3ckF3ZmdWS0dJTG1OUTloSGpSYVVGVk9lVXN3amZ6ZEZmWHpfeWYzNGZMS3FXOXBoeDBacG45blVSZ2JOc1phcjlXUXJ5RHZKc19PMTJvVmhRN1BWNUpzbGVjWlFrS1NreHo4SjNSdDdlSHRueWZNNDJ6UFh6eElUcnVVRnZDNkFwc0FOR2VSdFk3eHQyNEVZenZFZ2hId2Q0TzNvdFpVemItY2JLU3VjcGlnTGdBWkpfQW0tOA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
       "title": "廣寰科、天擎、映興再飆漲停！電子股亞光、邑昇、東友齊亮燈 元晶、倉和、聯合再生攻頂鎖不住",
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPQi03SGxYQkhScGJTbGxPNjh4QVp0QlJQbWsxOXRlTGxGNHpxQkJ0dVRsSHREX3VnZEphVTRtRnlxV0xvWXlJN2tGOFFhRFdVMFRtVEJfTHV6RnRkMUdHeF9VR0pLVWVISHpMY0t6ZERmaC1RZ211amQ0YVJoZGtaT2JDZlRKZXpFWjV4OFZqQ0dNWXl3WW8wV0Y5M051dTUwZFA3Y0pFR3d5MWFseExMUWxfQjVUT2Z6VlNUanB1UGJJRTg5by10TW41Z2Q3YXJwZ3ZBWkpMaFpIUHRQdGdDcElrSUpQMUFTeHFNRkxjWGlrZWJNUzExVGpFMlNxQkhLMS1pS0lfLUJnSFlnaHRzUEczU2tVYlFsZHk4MjhrdW9IcDBiLXdmUHdtZ1RGQTFlRGdZYlBLVk0?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-05T01:46:34+00:00"
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "邑昇財報／第3季每股獲利1.16元 單季優於上半年",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfbEhRZFBVOTdXZHNPeWtlNDdTV3ZOR08xNTlZcWtVekhLYXE0UTh2bU50S3ppMUstWndPdkdSUXFydGlpYWFEaGZHUkxhRW5E0gFWQVVfeXFMUHg4MnQ1M3U1QVFBby0yUm5HZFBjTGJBcGdHMjhpNDBqRmRGUkFJaW43c1FPTVhLOXZPeE1TNzBLbmlRRnNBY0xXUWtQWm9hNmxtT1Q5emc?oc=5",
       "source": "UDN",
-      "published_at": "2026-11-04T12:39:16+00:00"
-    },
-    {
-      "title": "邑昇(5291) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuOXZoZ3lmaDh2TVlMOW02ZzdGVkhueG9mTnpwX1p5OHZsRDA0Rmtpc04za09VYllVVUJDWkQyZEZqMzlqNzB1bEpUY3RfZjlBSnlv?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-02T14:32:12+00:00"
-    },
-    {
-      "title": "【12:03 即時新聞】邑昇(5291)盤中走強，AI伺服器相關PCB成盤面焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmhrZlBSV19TcGRfZVNUOW13MWFYMDBMNGhmeW5PeHdwNFFJaEd6aVdiWjJNYk1yV0tkczNFbV93ajM4QXhGamdDc3FEaUxsSGg1cTRUNGJUSmpSekl5Z0lZdHFMM2J2TzZXNVd6TmxhZE11UVNsXzhIei1ra0UtUHB6bnIxaUtaOTE5Rndn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-16T07:00:00+00:00"
+      "published_at": "2026-11-04T08:00:00+00:00"
     }
   ]
 }

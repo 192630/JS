@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-08T00:55:41.633784+08:00",
+  "updated_at": "2026-11-15T03:18:23.205256+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5312",
   "name": "寶島科",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "財報：寶島科(5312)115年前三季稅後盈餘3億6319萬元，EPS 6.05元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnhQTWh4TEpLa1B6VDBaM3hoaUpDZ2U1ODVMaDJzY0hJN1k0RndJS0J2clRSTmNldEVpLTI2UmFRSUhGWkVvUTl6TjM3M3AxVDlqdlY5VjhTUDhKdThwV0JyY2dRZFV2c0lBM2ZsaGEzTFZQdEhycmczOUpINEhyaE11MV9OSE5u?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-12T01:58:00+00:00"
+    },
+    {
+      "title": "寶島科擬砸3.9億收購寶聯 取得寶島眼鏡商標權",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wa1ZoQjlfVGpHQm0xeFdvalFKbHJBMlV0UnZBMjRhOUFvUjZtRzdORnpCV2tSaWRiZVI1WFZkeE85VXBXMGZqUWllMDd5VFZUVTBoLTNTUE80UdIBX0FVX3lxTE5KQm9jMTFNYUFaMVpfejdKdGlYVkczaGtwZ29qWTBoLU9nbldLa1NjZ2RDdkZHWkFyNVgtY0NiTFFoZEpMbTM0eTRzREItM0hmcVdXekFGVGFxOG1IQW13?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-10T10:31:11+00:00"
+    },
+    {
+      "title": "走出掏空陰霾！寶島科砸3.9億收購寶聯光學 全面收回「寶島眼鏡」商標權",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BbGdtSklsQlR5bXM1ZTNVcFZuZU1YbzV2bDBGaXFFc09TRTNPV3pTUnl6SVRfU05pZTB0aElWU3ZhSUlodl9tN1ExOEhpUDlSdXQyYm1iazhsVHZQbEdpenR0M2ZNeVdnaWw1OWdVcw?oc=5",
+      "source": "知新聞",
+      "published_at": "2026-11-10T10:17:00+00:00"
+    }
+  ]
 }

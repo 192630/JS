@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08T00:55:31.955340+08:00",
+  "updated_at": "2026-11-15T03:18:13.271790+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5251",
   "name": "天鉞電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "天鉞電跨足居家生活 全新家電品牌 ALC Home 登場",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUWppWVdfSk16N2ZXNXBnWTRRM0F1WmR6X01CWmdJN0VraGxGQ3kyREZqNzRNcS1Hd21vRmdPZ1VkUTgzSEFXTk9wd004S21ENGUzX2lfZmV4UdIBX0FVX3lxTFA3TjMzQ1J6bDZDd2oyV01wQVc0MG1HbWZtczFNcHlpS1hDNk5CSmltSUVHNS02MlEwdjZXaTFIX3FlSU5nMGhlTHREd0wyMzNXbk9vcEwzbUwwZlN2b2NV?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-04T08:00:00+00:00"
+    }
+  ]
 }
