@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T14:39:36.973776+08:00",
+  "generated_at": "2026-11-14T22:15:24.645994+08:00",
   "taiwan_market_phase": "休市",
   "update_status": "更新完成（延遲行情）",
   "risk": {
-    "score": 47,
-    "status": "中性",
-    "color": "yellow"
+    "score": 53,
+    "status": "風險偏好降溫",
+    "color": "orange"
   },
-  "summary": "休市觀察：全球風險溫度 47／100（中性）。BTC、ETH回檔但納指期貨上漲，規則判定較接近幣圈個別降溫。",
-  "taiwan_impact": "台股大盤暫偏中性，仍需搭配台指、成交量與法人資料觀察。",
+  "summary": "休市觀察：全球風險溫度 53／100（風險偏好降溫）。BTC、ETH回檔但納指期貨上漲，規則判定較接近幣圈個別降溫。",
+  "taiwan_impact": "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
   "indicators": [
     {
       "id": "BTC",
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 67293.0,
-      "change_percent": -2.21706183978618,
-      "data_time": "2026-11-14T14:38:10+08:00",
+      "price": 66404.0,
+      "change_percent": -4.156360903397781,
+      "data_time": "2026-11-14T22:15:03+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 1904.08,
-      "change_percent": -1.5672976168958384,
-      "data_time": "2026-11-14T14:38:10+08:00",
+      "price": 1870.99,
+      "change_percent": -4.7460144082587075,
+      "data_time": "2026-11-14T22:14:53+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -134,8 +134,8 @@
       "unit": "%",
       "source": "yahoo",
       "symbol": "^TNX",
-      "price": 5.1540003,
-      "change_percent": 5.962177220394737,
+      "price": 5.154,
+      "change_percent": 5.96217105263158,
       "data_time": "2026-11-14T03:59:54+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
@@ -143,8 +143,8 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 67,293.00，漲跌幅 -2.22%",
-    "以太幣 1,904.08，漲跌幅 -1.57%",
+    "比特幣 66,404.00，漲跌幅 -4.16%",
+    "以太幣 1,870.99，漲跌幅 -4.75%",
     "納斯達克100期貨 28,034.75，漲跌幅 +0.07%",
     "標普500期貨 7,583.00，漲跌幅 +0.12%",
     "費城半導體指數 10,146.32，漲跌幅 +8.05%",
@@ -159,7 +159,7 @@
     "美元指數與美國10年期殖利率同步走升，成長股估值壓力可能增加。"
   ],
   "inferences": [
-    "台股大盤暫偏中性，仍需搭配台指、成交量與法人資料觀察。",
+    "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
     "板卡與加密貨幣概念股：偏弱（依據：加密資產回檔）",
     "科技權值股：留意（依據：美元與殖利率同步走升）",
     "航運與原物料：留意成本與報價（依據：原油波動較明顯）"
@@ -317,8 +317,13 @@
       "generated_at": "2026-11-14T14:39:36.973776+08:00",
       "score": 47,
       "status": "中性"
+    },
+    {
+      "generated_at": "2026-11-14T22:15:24.645994+08:00",
+      "score": 53,
+      "status": "風險偏好降溫"
     }
   ],
-  "risk_change": -6,
-  "risk_history_sample_count": 24
+  "risk_change": 6,
+  "risk_history_sample_count": 25
 }
