@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T10:56:39.281861+08:00",
+  "updated_at": "2026-11-14T14:46:15.752139+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4401",
   "name": "東隆興",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "東隆興 115年第3季綜合損益表，每股盈餘0.10元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6V3NIVEZaN2NQMGxQY2pMaVVERkxaRkJ4OElkYUdfMjdKTWsxOGdFNVpldEZCWW9YVGd2MWxHdFBYdks4ZEI3YXJ6clBsZ0Zyem1jVXRCNUg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-13T08:59:06+00:00"
+    },
+    {
+      "title": "《業績-紡纖》東隆興10月營收為2.73億元，年減16.86%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGN1dmZFaDNqVFpPdGtEblJXaGwyenJZZHRTbWtiWUNHb1NxWDJtQkdxRk1aUTV5cXVXQW96UDcyUG5pMGdNc0E1MlB1TW0wTHRmc2pxUUh4V010OU9BeFRuOHFMZWVuUkx3ODR0ZElXSlM4RnE0RHN6d1A3Q09JdHIzellkVDJp?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T08:53:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T10:56:55.308221+08:00",
+  "updated_at": "2026-11-14T14:46:32.352071+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4545",
   "name": "銘鈺",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "銘鈺(4545) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lS2VXUU1qUGpVcVhPVDljbTdfU0xKbVplWXJFMHBwMDg0QWlCak5DdkV4dlA4ZTJMVENkaUJBVURuRTJaZC01UldzdEtmcmRDNDVn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T06:09:37+00:00"
+    },
+    {
+      "title": "營收速報 - 銘鈺(4545)10月營收3.10億元年增率高達103.77％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xZUdJajVkbFRNU0QyUjZVQ1hCcE9aRUFob1RZdW1Cel9LRUJIV1QwM01EcWM5THB0MnFwYjAwUUcxQXFVbzNZc1dpaGMyNEc4VFZGWFJSTHY1c1QtS1dIX0lxUU0wQ1VCUUlER0xKXy1ESWplalE?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-09T16:21:00+00:00"
+    }
+  ]
 }

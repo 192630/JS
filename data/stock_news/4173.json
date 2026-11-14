@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T10:56:33.161918+08:00",
+  "updated_at": "2026-11-14T14:46:08.500406+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4173",
   "name": "久裕",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "營收：久裕(4173)10月營收1億8300萬元，月增率2.43%，年增率68.14%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQjVUQ2o5VkM4cmd5RFNyblo3RENJQWxscy12TzNtMUwwWEZiM0ljS0RXQjFtMGJNMG56M2pXYzVWWmJlbTBNX29SUjNrZ0FzbkQ1SkRDRVotTlZEREp6ekJadW1JU3FPMGdBMnQ2S05oaFpPSEF0Y1B3aW50QnNlR3J0ampnMFdn?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T23:22:00+00:00"
+    },
+    {
+      "title": "《業績-生醫》久裕10月營收為1.83億元，年增68.14%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenBBVWxCTFFuZ1FhaGJYQzNJdVVvQzVvb0dRaC1uY1dTNzNTdVlQMmZHN2dOZTJhNDBTdHlBRTlrTzJLOUhfUllWQ2x2M3RPdEpVMHcxLVhsdnljSVFGVnUyaV9FZEZ2MXdkOXNTUDdIdEpJUHk1MG5EcDZnb3dmX2V4N1ppdGpz?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T08:24:00+00:00"
+    }
+  ]
 }

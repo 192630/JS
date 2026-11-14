@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T10:56:43.107971+08:00",
+  "updated_at": "2026-11-14T14:46:19.648670+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4426",
   "name": "利勤",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-紡纖》利勤10月營收為1.07億元，年增35.97%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORy1ZZlNIRXRwMWJsb2g3REpHT242T0RQZ19fWnpIaXZiZTJJWURuMnV1MUp2OFQ0ODVGaEVqQkU1V1ZFNkJvZmVZVE1XOUpXWVJUZHl1WWNqb3hCTl80SFdvLXd2M0praDZYUk9CaExHaW9JTExBYUJUeDNXb1hZdC11R2NkMkRS?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T08:17:00+00:00"
+    }
+  ]
 }

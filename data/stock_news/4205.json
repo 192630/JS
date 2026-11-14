@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T10:56:37.314189+08:00",
+  "updated_at": "2026-11-14T14:46:13.063170+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4205",
   "name": "中華食",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-食品》中華食10月營收為1.78億元，年減0.94%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUs0aDBFeWd0cTdfRUhJT3FhaUVpMHJUZ3kxQ1dYbGNkdWdXVUJ3RG4yN21jdnN6LU93YjZtYW9tSmN5cVlfYzZ1YU9PbENRanBCamJoYU00SGlOaE5NUHd2VlNSdlBNam5JNHowLXlqNEtHOVN1YWg4ZlFGWThqUElnMXZRYVJG?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T07:26:00+00:00"
+    }
+  ]
 }

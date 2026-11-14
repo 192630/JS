@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T10:56:46.940672+08:00",
+  "updated_at": "2026-11-14T14:46:23.572545+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4502",
   "name": "健信",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-電機》健信10月營收為1.42億元，年增67.13%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWF5LXh3TFprSWt1cjVEQ203MWcwbjdsZ21yLTVCckZuSmlGWklnTjZ4MXhBOXdZVmRHX2hFdFNiZVYxMmR5YWp4NDFhaVZBQkJYN0pqSDFtLTVFWU9HZWZjMTdBeUtKMnlfSWJBM1VyNmNFSm4ydXBaZTRheWJFTzRZRHNsZUNZ?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T05:58:00+00:00"
+    }
+  ]
 }

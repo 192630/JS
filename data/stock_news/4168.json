@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-07T10:56:31.930007+08:00",
+  "updated_at": "2026-11-14T14:46:07.075306+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4168",
   "name": "醣聯",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "攜手日本三菱攻骨質疏鬆藥！醣聯送件申請藥證 最快明年底有望獲准",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKVk9MaGpOd1hhNWxIQ2tMc0hNa2h1bnc0OXJkdWpURFZod1VQbDUxN0NDc1VNQ18zeUJqM1R4dksyTklyMWhFV9IBTEFVX3lxTFBNSVE5SkJsNWF6d0hSWTdiOGRTejFkaGFCVkJCRTlVd0RENWV2ajMyZEhzbzNYTkJlejVwUVA4YUZCMF9rQkludVZvOU8?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-11-11T18:25:00+00:00"
+    },
+    {
+      "title": "醣聯(4168) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QTkhRaHZOM0Vyblg3QW5VYy1waFplNGM2QUZiWVVIUWsxenpBZUxyb0hienRaT2ppX09yNnZqZTI4Y1dSdDJKYlpaQ1dFQ3U0UTln?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T22:02:48+00:00"
+    },
+    {
+      "title": "醣聯骨鬆生物相似藥 申請日本藥證 最快2027年底上市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DRlpGTm5FVy13SldaNXFBQmN2cDNwU2RWcFVEeUw0ZWdBVU5ZZmtwdkx0MC13LUhaSkhZcHVqdkQycnlJV1lhanRVOG1DSWJXZlJBazVEOUU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-09T02:02:30+00:00"
+    }
+  ]
 }
