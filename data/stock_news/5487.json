@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08T04:59:25.543858+08:00",
+  "updated_at": "2026-11-15T07:10:21.195737+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5487",
   "name": "通泰",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-半導體》通泰10月營收為0.14億元，年增16.94%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOURwZG1lT0hQYlozZzc1VlRkY3hNbFZSaHZtcVVRZlBUZVEzRzBQUGRjMWtPUzhCVUlabnBjWWlCT1lsLWdJQ3ozckg2Mzd1bWpDdjN1QlVfTmdvWEFxRDFOVjYwTXkzdXpGdmo1djVSX0hqMF9xZzBIV2JWelAyVHBHelZQZk1h?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T05:42:00+00:00"
+    }
+  ]
 }

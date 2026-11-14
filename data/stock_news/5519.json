@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-08T04:59:31.053493+08:00",
+  "updated_at": "2026-11-15T07:10:26.434282+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5519",
   "name": "隆大",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【即時新聞】最新公告！隆大前三季EPS繳0.82元，後續149億建案蓄積強勁動能",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZUc5enlvMU05aGxXUEpPTVA5TGg4WS1WbXNSOUk5VkQ2OER4QjJLTXZvMlNFTzVqVklDZ3htMVRLN0IydHp1UW5CRmxpNkR2OE5QeDNlcUFPN0xIRk9yanh3ZjVFOTg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T12:10:52+00:00"
+    },
+    {
+      "title": "隆大財報／前三季維持獲利 營運動能強勁",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RQWhlODJNUVRGd3NpYTRXNVVJc1dqVnRFYXhYRWJYVUl2a2w0YlduaGIxbFBfRUFIckZYbFl5ZW9saVJXS3pRMjB6V2t0RzI10gFWQVVfeXFMTzZTdlBTTGZqZmk5WkJPd3A5SV9DTFdLVHU4bU5fSmZfdHIzLS1vM19yM1hIRGJGUkZqR0YycWNjWEYtNWV4dEJPcUQ4Zk1hQ19vX2tJNlE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-11T09:48:48+00:00"
+    }
+  ]
 }

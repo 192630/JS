@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08T04:59:19.031669+08:00",
+  "updated_at": "2026-11-15T07:10:14.836113+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5455",
   "name": "昇益",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "昇益開發股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc2tUSlp6ZUpXT2lid3N0RFk0VE1FLWduWEt2M2VSY1lXU1k4NGQxdUVxS1h3a3pON2VxUHZfM2E3Tnl6QTZGX0wzbllZMFpDMDRaOGRwR18xUkdsdm00UDZMOHViMW5CZV9VRUkzTnlEekNRQXg2emZ2aFdHcjJkdms1SmhnamdKdHQtQkZjbVJJMDZOVE9r?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-11-03T08:00:00+00:00"
+    }
+  ]
 }

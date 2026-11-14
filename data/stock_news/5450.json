@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-08T04:59:18.187157+08:00",
+  "updated_at": "2026-11-15T07:10:13.993121+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5450",
   "name": "南良",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "南良 本公司董事會決議清算子公司元宏(香港)有限公司及蘇州宏夏電訊科技有限公司",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82cE4wdUloSjBrMThCVVlPMEl6ckJmQjNFRUhrZWdhVnBzMXBTTUo3Nk5CZDNsc0V0RGJQNEdNdzd4TzBNY0FLYVJ1SGY2aFBqbUg4WktpU2I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T11:26:36+00:00"
+    },
+    {
+      "title": "《業績-其他》南良10月營收為2.04億元，年增13.30%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1N1elNqSERFU1VGQXBGc3lsM1p5dWRhdC1ibW96S1pFNmxuY1RZMEpOSXJGMWRwU0U3M2QxRTFBTGU4M2lPOXdaZnZtQnJVVExtMjVjazRkMkVwUFl1ZzByNVpvby1laUoyMWxWdHUwendpZ2tzX3pkWGZVc2VsS0MyVHdseVVD?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T06:27:00+00:00"
+    }
+  ]
 }
