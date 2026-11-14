@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-07T18:29:15.816789+08:00",
+  "updated_at": "2026-11-14T22:20:40.655447+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4767",
   "name": "誠泰科技",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《業績-化工》誠泰科技10月營收為0.68億元，年減5.98%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUs4UC01M1B5Uk1hcHg3dFBnWEtmVzJVbVR5NU95MEY5X3lUcmlpNi0zckJNWThyT09KNnpoZHhHMUR2eW1OY2w1YUl2Sm1SWUxoTFpRZFRhTmV1MU1XNXFlRV9QeDNiNDVZTXBScDBnSUtVWjZvLXhQNDZSOXkyNk5USjRSTFJD?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T07:08:00+00:00"
+    }
+  ]
 }

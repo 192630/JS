@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-07T18:29:01.294754+08:00",
+  "updated_at": "2026-11-14T22:20:27.061370+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4609",
   "name": "唐鋒",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《業績-家生活》唐鋒10月營收為0.18億元，年增79.47%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUpvaEhlZGtTUExrWTdMN2t6bnI3MVRBQTNCRF9XOTcyZk9DSnQxa0xoa0lPYnY2ZHl0N1FqSU5pM21xVXVmZzlva3dXdzA1LThrRFRtN1R2enVKaGxYbUFDSWhyM2RNQmsxOWF0cHVFTVJmOGlpblN0YjNidVQ3TGkzWFdyajB5?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T05:46:00+00:00"
+    },
+    {
+      "title": "營收：唐鋒(4609)10月營收1846萬元，月增率-36.05%，年增率79.47%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWlE4a2Z1MEZqRklQbDI0Y2twMlJ5cHpuaFk1UFZWS0tuMHJSVnhEUjlkZzVQX1NxM3JHUk02dEF2UUJIbnRwa0x0aldxdFB2WWZDaFZ1SkpFMjAtT0JSODJCQ084ZU5YSHdGZTVtMUdrWFNkdHVMMUxNNGswZFVyQzlWYm1oOVho?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-10T05:40:00+00:00"
+    }
+  ]
 }
