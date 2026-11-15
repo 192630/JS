@@ -1,57 +1,51 @@
 {
-  "updated_at": "2026-11-08T15:31:34.270339+08:00",
+  "updated_at": "2026-11-15T19:16:14.180825+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6187",
   "name": "萬潤",
-  "count": 8,
+  "count": 7,
   "news": [
     {
-      "title": "TWA00 加權指數- 盤中速報- 萬潤(6187)股價殺至跌停，跌停價864.0元，成交414張 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mTnZGb0tOaC05Z1B3Q0xONmlnS2JtOVJUemVhZmk4OVdaVWFmZ3ZsbFJrQ3dUV2VuZGZ1YjZqM2FEUjZPdmJtQ3JtRWlvNDRZTWxxamVNLUE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-05T10:25:57+00:00"
+      "title": "鉅亨速報 - Factset 最新調查：萬潤(6187-TW)EPS預估上修至28.77元，預估目標價為1500元",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUXzY5aXBiUUNDWWo0MXF6XzR1dnp5Slp3WEt4WXNqT2lWRDl0NmZHS1poM1hXdVhuQjZURUlNOEpVUVY2cHA1cHphbl9DRmx3ekMyaUFNcDRVVzBHQkF6SW4wN1M?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-12T06:10:32+00:00"
+    },
+    {
+      "title": "創意台達電等19檔千金股閃紅燈！南電萬潤亮燈漲停重返千元俱樂部",
+      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOZkJwYVg4QzVCR0JHZnYyQnpwVlp1OVdJb21KdTVwQ3pYOGJxcDBuZUEtRjctYk5HTTlKZldVSmt3Z1l3aU1RZFFMbGt0Q0lIV3VhQUx5MF9rLW1Cdm1lN2lKdDZ6UVp2V21kM0NZcDBiTW1RaXlNMXZjX1VVaTZVZTFoY0JtRFU5ZU5sSGx3WG80LXlpeXUxd1hwU0daVmdnTXNYRjBJMHM2Q1FqdWR4QXlINzFvMDNmLU54a3V3RWFFUWtxcFlvTmc4dU1EMkoxYTB2N0d6X2RlSk9ES0xFaWRMdE1NR3g0aUwxQnVyYmRPV185RkNFaDdRZVNhRUd5OVZzT0RRS09lWFlfT05NR3NsZGtORnItVTZoSmZpVXBOMG5yMlFUb1NjUGx0bXcyd1ZxeF91SVJhU01hdzFIOFMxdmZ5emxZVTBqdjhHa0gxWk51em9BdnA4emloNy1nMGJ4N3M2eWlncVNZY1pxckRfVDNpQUFReXpoUG1tOGFxS19LQW0xSW5uR2ptZWhKQlV3RnljcmRYbzREYkZWOFA5a2ZYdmllMWZmdWJ0OTJ1UjBmRG9RYk53?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-10T03:08:09+00:00"
+    },
+    {
+      "title": "【09:14 即時新聞】萬潤(6187) 亮燈漲停重返千金、高階封裝題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVdEaXVzdEh2dGp3U3Z0Q0ZNMFlaUEZydXZYUzlvNHlOeFlEWk5HZGprS2dPUFViaGpCSmdnREZialVJQVQ2ZFVaREdRaWdEU3pDQjJjaWhTLTluc0JmTmhaLUNTWXR5NHlISENHdU5wU29oWFVYUVl3MEU2TndwV19xN2ZOY05ub0ZPUUJR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-10T01:14:30+00:00"
+    },
+    {
+      "title": "【12:53 即時新聞】萬潤(6187) 股價逼近漲停，高價股回流成盤中亮點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR1p0dFVfa3JBVFNsbWZHRkRELU5jaFZKWi1JcmRyMDVJMUVTbUdPSWxQWVI2Q29xMzA5ZTktanllSXFXMHpJTnQ4S3N4NGhWLVRoSks1ZUx1cVp0amd2SjNwTW53bk40LXUzX195TldvaHBzbGxlT2dWM3UyN2pRSnZTczlTOV84Tnl4cTFn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-09T04:54:23+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 萬潤(6187)股價拉至漲停，漲停價1005.0元，成交416張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XaC1YajRfeGJ4UUpXek5BbjFFYWpmMGxNOE9Ec0RtNTQ2UjZCbDRCeGhUczJsVi1LMlNQZTRNbHFwUnM0Ni1IcWtycXRYQ3NROVI2YmZtcGlJY05HcjNhdzFaRjM?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-08T04:32:10+00:00"
     },
     {
       "title": "千金股剩39檔！股王信驊等14檔亮燈跌停 南電萬潤4檔跌出千元俱樂部",
       "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPbzBmYklfbDcwQmhianlldjhENGZ2dFA2eUduclluOEtmOUhjV0V2WHRieWRXalpFTlBvWWZucUhjUHNTMS1YemhwNk8yV05iN0pKMC1Tc1RqT0dQZldIYURlcVlqVThlSEwtQUUwNDlBQTg4aGJHTU1fcTB4UHdYTDRuVTRMb1FYZHozcTQ3Mk5YRVR5bmg0Z295S3pQa05WWGRPMHdRRmxva0J2dzVvMXJUdnd2SS1Ed1FTQjdTamFtM25LTmRRSVJ4b1B2RVlJUW9ScWhUQ1BYQVJ1VFQtZ2pZQWJkdzJFNTNJcFNWWTdya2F3RUstbHY4eF92cXBVRm1GWXYwalhsLWtITkI5Tm5lcTdNWnRiaV9GUVN0Nnk3YTQwQ3pVaXlLRDlXTG1zaDJlSEZqanRuME16ZVZNcUl2RktPaW92X29BUmpCejRlVEVKSExPUFVsWGVlVEc5VGUtSmZnMVlwYjh3eGo5ZE9kaUpoZm15ZVBGcFJ4UzNnT2RIN2Z1OWJidURMZUg0Z2RfeHhjb0xSVEZQbzZOYkNEc0xhX3NQNUYxTk94bXpoS2M?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-05T05:47:48+00:00"
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "台股一周狂殺2202點！宜鼎、萬潤等10檔逆勢吸金 法人喊基本面「完全沒問題」",
       "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPWmphMTFkOGI1NUhLVzI3VC11UEdpYXFZczRydm9Va1VfdVJFVU84dXdSR01rR1hYb3BvdFlHZTB5dEtIUEZwUElxZFc4dzJFWHJmX193d1lub25DaDBkdlZWRmhYel9EVDB2eEcwODhqQmh5aUpSUjNBX25MWldaelFTcEFsN2ZKTkxkSVdJYmlUWktQZkR6R2xHeVR4VXdWbnNCb1Q4dFlCQ1AyTHhhV25UbkRpZkJJdFBpSGNQSGFtU0dMd0VoaUF3cXN3dzBBbll3UjloVTJoOVFvelZUVHhBZlFHak9YTndxQVRIa0l2UHVkaC1YNU12Wk5KdFlWa2ZzX05sTG9JcHM1Yk56QVFKWEcxMUhHQnQ2aVE4MV9NWkJXTG05TEZ1ZHJ3VTRDRTFUY1VMcG8zN0xfTDBEa296NzVwdkFucVNoVVBGYjEwYjRIeGs0dWNtWDZOTURPOUMwRWNicms5SHdXWFJtRw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-10-17T07:00:00+00:00"
-    },
-    {
-      "title": "大量9月 EPS 3.82元 萬潤1.98元",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FZnRvYU5vQ2N4dXRSai16alU4M2JBQkc1Y2tUTE9hZGxSODFwSmIxZThuTDcwZTI5ZW1WcTdyU0NnRDJFVDhNYVBzX1pqckpVVG16VjdkemNCUdIBX0FVX3lxTFBsaUVZX3MwcWdhczFhUWdGODFvaWNwZG4yRjBLQS15WEEtamhVOHRkSFJVc0Nvd0sxWm9qQ1dOTlVVZm1INjJUVGY4cUFYUXQwNmw2a2NIb0xsWXRxX0kw?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-14T16:19:33+00:00"
-    },
-    {
-      "title": "雙雙被列注意股揭獲利！萬潤9月EPS達1.98元、華星光賺0.72元",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBbUg3TVZHeEZROWkxNHZVTnp5NUgydTFSdkVfejJfZVBOdElWcmNPdDhNcmpSWXEyWEUwMG9GOHVFV3lIUFlWeGI2M0hpOFhJaDV4VVVnM3FkdkE?oc=5",
-      "source": "Newtalk新聞",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "【10:45 即時新聞】萬潤(6187)股價走強，市場聚焦高成長動能",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjJ5eDdiMk9DRjZYZGxueVdEYW1kZV9GaG9JSWJyaUV5alZOcW1kQkR0Vi1yVG1iOElrOVh0dExFZ01sblFzRUFIaUNmOW9KdmxKQ21SSU90bjk4bk0xNDBCZkIxcGlJWnNhQmxob2RPOUpaWTQxbktibFl3NDd4TnQ0eG1sTHJ6UzU1UWR3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-12T07:00:00+00:00"
-    },
-    {
-      "title": "半導體兩極對決！「這檔」在手訂單看到明年Q3大漲105元飆漲停、萬潤同步亮燈漢唐挫逾5%、聖暉逼近跌停",
-      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPZF9tMmVwc0dXVjdtYUpRWlpsZWE5d2w4ZDdfQ1U4SURWOGZ4OHQ1WURtUzBqOW5qbjdJZHVza291U282bGRYSUdFZmNGakxtWGw0LV92N0h2anh0S2NWdVFBWV9FOTViWldhdWw3bjBzLUs2eGlFRUVXMTFZcTNaWkpCak14ZlpFX1Btb2loNk1xNHhYOEwyMlM2SFp0c3FsdFFkeG9kWERRRG1EOENkWXZRSFQybDRVSnRhVmxvYkdtbGNGUUZEeDVTYzYzeloycjlGQzVHWnhCVFkxTEZPOVdTdzFyVUxVMnZSYjZaRU5mY1FBRzhRSmlLYlc0eGNXekhUUnNITkxRbW1pcEMxVmRseklTN2ltMkJtTVBfX01kNmhHVTVpNTN1Y1dycHRhR1VGbzJKZVBZdTJiYmdCcURBb2hCdGMzQU1MMnk4N1VMRnFQV0p0YWE0TUkzNHZsVGl3Y1MyUmxjMHJiZ05qdEgzQm4wVTdnSVUyeWx1VzJSbmxGOXJUZEpNMHh1ckZ5RlQ3ZzJ6b1NZSUNfaXViTTJWMVBzWHN3N0ZMb2Y5bG5nVl9oZ0o3V18xaHYtSC1FZVJlUUZ1djZ0UXkybWlNWVFjQzBYUnBBOFVvMUNEZWkwOHM4SkZCdlJOdHJBTmNiM2FDWQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-12T07:00:00+00:00"
-    },
-    {
-      "title": "TWA00 加權指數- 風雨前的寧靜！萬潤再衝高，今日拉高會不會是最後的人道走廊？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zYksyb2R2N1VkT19DYjJfY0RUVS1qVGhSVjlDOTJobXhvNzJab3AxcWdfQ1hqcWhLQURJSGx0dENnMjd6WHA1SC1JYnF1UXp4NWlTREQxb0w?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-11T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08T15:31:43.313367+08:00",
+  "updated_at": "2026-11-15T19:16:24.029767+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6212",
   "name": "理銘",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "6212 理銘- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySGZ4UGlwN0VyejNvS1M2VHpJekQ3c3V6cm9wcGs5RUtieHk2aUdLQ1BQdUdEdHVpOTdBYWtOWk9XWVhEQ0RVVVd6a1RFSlh2dnVNTjJRWmE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-13T07:11:54+00:00"
+    }
+  ]
 }

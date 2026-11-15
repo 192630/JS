@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08T15:31:54.056877+08:00",
+  "updated_at": "2026-11-15T19:16:36.559718+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6241",
   "name": "鑫永洋",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【營收快訊】鑫永洋(6241)公告10月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZlVzckV4dXZFNGRPREJUUGxCT2hHSnduVUVDbXNENzJ6a0xfOHY0SmVxTE9YUWpfSWNYQjlXSjVPbGFlNVIxaE1jbkNEbUZsX3dfQUJfOW0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T07:12:45+00:00"
+    }
+  ]
 }
