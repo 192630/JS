@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-08T08:48:06.217593+08:00",
+  "updated_at": "2026-11-15T10:51:56.990975+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6126",
   "name": "信音",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "信音(6126) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NcmJibktibHhIQmlacVpaSW13bmlmcVlRdGNrUVpiM2N1M2doZW83al9IOGxxaTNpOThVRklVZThCM3BfZEdEb1FXRVJybXZ2MFFn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T06:01:22+00:00"
+    },
+    {
+      "title": "營收速報 - 信音(6126)10月營收3.94億元年增率高達44.17％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90OVljTUI4ckM5aDg1U2hxZ3h3YWJuMGlVMWNVWFZUZ2VxNnVMeFJocGJQSXBWZG1wNlByLW9fdmRnRFJHN3V3YkxCNnJ4XzViZHBaRmx5bG5VWndMckNsdXJVNXBrRDdaZDBySE5IU2IyaDhYMUE?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-09T11:21:00+00:00"
+    },
+    {
+      "title": "【營收快訊】信音(6126)公告10月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByN3pqQWdLbGdWQV94VmtCenBxRGdRS1VwdlJUWU5UNkdYTUU3MEZwZUxZREZkTDRaZ3RlSXRhMnVfUGFfZjE0dnItLUo4YlcxVnAzMHcwTmE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T09:35:29+00:00"
+    }
+  ]
 }
