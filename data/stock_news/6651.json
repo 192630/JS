@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-09T03:51:35.478219+08:00",
+  "updated_at": "2026-11-16T07:00:05.804808+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6651",
   "name": "全宇昕",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "全宇昕 115年第3季綜合損益表，每股盈餘3.35元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rSTVURVdHSlJTQ3l1a01DSklOV1hoWmtVRXFxUGJxaUltM2NJRm9PQndCVHVNdnltYlEwakRieENBLTFjTVkzc251aGFqblZQRkpMZFZoNWM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T05:10:33+00:00"
+    },
+    {
+      "title": "全宇昕(6651) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tT195X2dXcDVyUUZmcnZpZVhHTEZaQU8tTjJadEpWTWJNSUVvd25nZldBcVRPQUtEUEQ2RVowWWRETDdFYXRMbjBmU1NkMXJ6MVNB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T01:24:53+00:00"
+    }
+  ]
 }

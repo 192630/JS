@@ -1,39 +1,81 @@
 {
-  "updated_at": "2026-11-09T03:51:44.093566+08:00",
+  "updated_at": "2026-11-16T07:00:14.530243+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6689",
   "name": "伊雲谷",
-  "count": 5,
+  "count": 12,
   "news": [
+    {
+      "title": "【11:19 即時新聞】伊雲谷(6689)亮燈漲停，資安與雲端題材獲資金追捧",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWZHMUFhMFZhQklpVDZHcDdOY3ljT0dBeFlPQUZKLWN4blo0REdCQXhBV2VrVnRRSl9tRldKZ1ZHdzNIckxDOHNrZXgwTDVjWlI0dll2X0U3Zm1hc0kyYTRPcmtJN3dUaU5OMHRjQ2JoTHh4S1VGNE82aFkzc2txeHo5aTMzMndKcEJzZExB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-13T03:19:14+00:00"
+    },
+    {
+      "title": "「後黃仁勳時代」引爆ASIC商機！聯發科重返4000元、創意、世芯都漲停AI股「這檔」同伊雲谷漲逾7%",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOa0NBaHI4V2xtOUdGd3ZUQ0tIdU9Lcld4MklxX3ZoQlhqN19YNnVKQkp5YmtmeWFTX3V1aDBkR191clBTX3E3TzEzVWw2ZDFjUkNVOTBtOVZhVG9GWHF2Z09rSU1pUkx6ZHFhSks4V0NSMlJpOU9aUlNhNTZVN0dnUTQ0eDJVbjIxbWlpcTBVaUtUdUdhQTk0ZFhsSG9iVnFqSTJvVXpzMU03VDEzLWtlUzBPcUlZVms2eEhDRFc1SVZZVnZsRm5XaG1raHVDNVlnZmZELS1Ta09IeURfdjF0T0F4UWNtSVNJVFNkdjRJYmJRWUQ0XzdOY1Z4azVWWEVXSlNMd3ZSby1zaktRbEpiMzJKM1NZQmU3ZmVkYWg4Y0tXUkExNGlIbVRrNVZsT2Y1Z0pSbGx0djF5TVpYUXl0d0wweVBwajlISElLTUpobmRWZzlDWG5ETmVsZFVEMnE0ekZRVUxFWUdzS09jMGlHYUpIYl8yUnJYSFpQOHNDSQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-13T03:17:26+00:00"
+    },
+    {
+      "title": "伊雲谷攜C&R拓日本市場，Atlas攻雲端AI專案",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPR0x6cWFrWHBEVHlkZmI1cG13TW51V1hSQUF2aUFPZWZLWmFTUjVFWkV6MmhUR1JoSERfM1REZEo3TEV3Tm1JQVN2U2taMmVzdFpZUmhNVWE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-13T02:18:08+00:00"
+    },
+    {
+      "title": "伊雲谷首度合資拓展海外市場 攜手日本C&R深耕雲端服務",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOZi1KTmh3bUJqOVpZSWF3UGZIeDQwYzNDRTM5c21LVm9TOTlyUXRRVjNtanl4dE1pVmNXclhMeUFTSlJ0bzNZcDVIWVJoSlBnU0dUMnJLME9HaWZ4NjFuYnh0am1xWVBBekRqblVnYmR3RnM1NlF4bWtHaG9mQ2JDYlN1ZHNsdWJuOE0zSHEtV3ozWFNEQWlqT29DSHhZV3J5REhGcmxHejZ1bzVvc0t3d0FCUXdjY0RuMnRXNjdYS0tQLW9CWWo0c3FuSjdHSXBZbzJqSm90eE1aMi13V19JTW5XeVppaHF2c3o2djVvalUzYmdqLUs4Zi1uMlZOTFFEa01UaUVZQy1GeEREVHhISWJJakhBcjJkQkotaWtyRm5LNDZtMGVQX0c1Qkg2Ql9IMzhtdHFfMEZoRWlCWXRPQ1U2Tk9nSHlvVnhjaUQwTHkyczNuVExhemJJak9WOFQ1SXhJU1dTTE1pMEVQbGRfX1VPaGQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-12T11:22:39+00:00"
+    },
+    {
+      "title": "伊雲谷攜C&R策略合作，切入日本市場",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQ1FLQ3Nnc1NjT3B2RHg2U2xqckpxcFRSU25XZzdCNWtvRldzcHNvbkoxYnljS1dzS3R5amlDR1lUZG5Pa29jdmhXZ1RBNGlQUVJEbHpaNDNlaXVONFo3QUJESmxYZ0hMZVVBYzZGLWx2ZFMyNmNzRE9SeVlDemtEQ2dqWmZaQlQ0WE9aanAtbXo3NnVWSk9LdTRVNk5Bb0ZJLV9QVjNiV1N1UFpNMXF0R21sc3hIU1BDSEpzYWNiQWFVd05rWXJoQjJaZlhTRHNuVVliTlZBbEVibjdrbkZXX3YxOG1pZkp6Zm1ILUFBNktqS0I0dVM5MkVSV21aRlhuZHZCQWZSMGQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-11T04:40:29+00:00"
+    },
+    {
+      "title": "伊雲谷攜手日本上市企業C&R合資 搶攻日本雲端與AI商機",
+      "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxPazNTd1M1MnlaejVWNmpjeHZLRUJIRk1WZVlhaWJ4SkRvaDhSa1pSU0FwRGo3S2VUWmJCaEp6OHNfR1JfMlRJd1JDVFRpUWtVaUZUb2VMVHdxeVlUVW9zcmVfdHJHZTNUU0ZYZTdsNVQyTW96VkJMUTQtOTA3NHZyTlJBbzBSbWZ6czJGdXZ3NmIxRXdFZGRvR1NsUVBiVjNDV01OZE5pWWloaE1uZlhZbkNUS2FKdTd3SjlLQzJNeF8yM0JmeFB5aDE5ZTdOckl5MzFWdG9SVlBQUEdNTkpwcGdMMjBCbWlWUGtmbS1BWTJ1d0NuczN6dTI3dnNxLVVCbVRpYnJoaGZVSE1NOTAwd1pCZG9PV2lyR212cjlHbkVzcjZWSFRUNXNkNFA0Z0dkYndlZHh6ZEhDcDZuM21RSUdFZzdwR182eWdnd2lLT0NFdFNuRElQb2l6VEJ6WlkzWGNyOUFlR2hHQnc3cXI2Nk1UeFJQQmpxeVdIalBMUTNpSTdLX0U5ZFZIYXRBbTNiRTlkT3lpUEZEMmhrOFd5Y2lOWnFWTVQ3R3lYYTMxUU5OeFo3ZEIxbzdRSmZQRGczeHFTejhHaDZaMEdwMlRCdDRxSjc2dlFnUHBpQ1I0anZGaXZERVU4bVFhV2cyemI4QWZmQkdFdlUwRUh4ckxULWZLUlNRRU9wZHZjc1EyVFhfZDcxdWtCbTcyNDBRaElpbjlmVFY2eDZLR3FWMW9TQ0NrQ05yTUpMVG1pZnlscUYzcWp3SllRc0hyeVFqVXltOUQyOWt0S25qc1UxN3NoYjVWN0FyYWdwVWdwYTVNQmNtdXZ3QWdiWkhSMWxwb3hSOUNHc0hNMG1JQzluTzc1M3JPY1Zld0FDeHJvVmY3Wlkyem5tZXBrcFRpU25JV0JFc29NUEFwbjk4VF9aVk1acWN0ZFNpY09GZkdMY25SWmExTFZBTkhDNmg2QjFwa2c1dVE?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-11-11T03:46:13+00:00"
+    },
+    {
+      "title": "【12:38 即時新聞】伊雲谷(6689)小漲整理，資安題材續受市場關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0FvYVRHSVRSWnBLWkhrNWxuT1FxcXR0Tkw5ejk1Mi1VY1lxUTBsb0ZISUhMREs1S29FakNNZl80eThVZnV6NGluWnRMNThCSGlmWE1ScnVMN01nY1lERV9JdEZNRmxFS2V5S04zWnU4UHJrUUY4NjdoYnVuel84czFwU3lDWWx4azBfcGNB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-06T04:38:35+00:00"
+    },
     {
       "title": "【10:50 即時新聞】伊雲谷(6689)股價走強，資安與雲端題材續成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeEM3aXFOZGVWTFExMnl3MXl6UmNUSGZyNkk2ZnY5Sk9JZC00T2Ezb2xfSzkwTEdQMTdybHhCWmI2Tm53WHV5dWNnSU5lWTJiMzF2YVRoRkdfaWtITTZ5TC1BR3lUTnhaUloxUzBqMHdNbC1ESk94REtVTFA5RjRjaXowLVBFbDZjV0dqSUd3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-04T02:51:19+00:00"
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "【11:05 即時新聞】伊雲谷(6689)股價續強，AI資安與雲端服務成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3UUFBZlYwV3F4YzJLd2h5NGZDWXJOaUlDTXV1bU1hR3RzQmoweW9peWs3QXl4eVVzQk9qaVBwOEZudlp4QXEzWmk1RkxPcWFhejJMak1FUUo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-02T03:05:47+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDhhZUlHVnZuLVNKRnJKSWxRRXNvVGlCVlVBcnZDQ0I4bHR6VXlnM3dKaUM5RE5ScE43dHMzNTJNY1puV0hWOHYzYnh4ckE2MEM1X2xQRHg2aGprMUhhU2dsTWdoQnVkalBQcmQxcW9TMkp6ZTJ5VDZKSFBLWmNPNmg0RGdFdWItT1ZnUmpB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-02T08:00:00+00:00"
     },
     {
-      "title": "伊雲谷(6689)-同學風向與貼文摘要 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tV3U1WmxDWG9vaVEyVHNXdnR6YmxGbFZValFzMjA5bEg2VnBmQ09vMmV0ZTlBeTlRYjNjRzRiZEF4Mi0yYmJBQ2w2d1ZydkMtaHFhQXdUS0FlbHhOc2tqVlZB?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-30T01:57:29+00:00"
+      "title": "AI股走勢兩極！「這檔」萬元股預定盤中仍挫3.67% 瑞昱、宜鼎跌逾2%、伊雲谷大漲9.53%撐盤",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQZDU1c09oVndlVU5aNFJiYUVDY0pxNUlDWDRpTkJVSnJVaktCeHhYaGlVSWdIRUp1dE1BVXl1TFpBT2NQUWRrc25fVzJPSW9OM1oya0phYjU3UHZhWlk3cU5GazZtSWhCclhwSWhWd2hRdURTS21mUEZIekpFN25uUlFLaGZqbE8yQzJyWmEtQ2ZDY2RiM2F0WUdKWTJxcGtkZ3BFeFpsLWdYX1ZYUUlwV0RudTFPYThybnFwamxTSm1jc1E4SjR3ODZSTGVFa2xMMXZfNEttRnNSMk12ZHd1UjlfQkMxSnJfODlSaE9xYy1XbGxPSXBxTkVXWnNCcURVaVNhMU5vTnRzVkVhanAza3BtTGhzejZjb0Z2RlRVdDhvcG1pMlRTSzZjaDJGWGEwdF95VWNIbzRNNTIyNkZr?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-01T07:00:00+00:00"
     },
     {
       "title": "【10:30 即時新聞】伊雲谷(6689) 盤中走強逼近八字頭，資安與AI雲端題材受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0pkZTdVUkJpZXNRX2RVYVI2VzVOUmt2d1BacW0xMDd3dkxjTzVuUjNIRzFTcHpqb2hqWXM5SEJCN3pGZWlHUXJIOEU1NkR1amMtZlgtWldKbFhUaE9MNVFOUVZwZTk5cGp0SkhmV29KX25kOEwxSUlhcVNFdXJqbnpZQ3FOSk9vQ2JmWG53?oc=5",
-      "source": "CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZVXM4OXdqSFVXSllkdlRNcEFqRGhDT2tMcXItZ21zVUk0a3JfZDNieHZSVWxzY29DNS1FTmNYbHNoRzhUenNwbm5LTktTUDJ4ZVN2THlMWWNNN255R2FPdWhsWmJoVTg?oc=5",
+      "source": "CMoney",
       "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
-      "title": "伊雲谷加速服務產品化，拓日澳市場並瞄準歐美",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNRElDWS1DUmxNODg5SDBfekVLa2N3REFBZ1VMTWNmQXRvbWJ1bFBSSlhRTEJzeUhOZ0p4QWdLaVd2U3ZMS2xKbFRNRnhWWU1zYzJKN0psWUNJclJIak51Q3FEY3ZKRUFHR1p3WjJ2d2pYWE5fclJ2bGs1MkRGUThMbWo5bnBPVEM0NE9pWnNOOS1UMFBNaUR2WUQ0b1FxZjVCMVFjY05VQTF4eFlSLW9STEE3ZEQzV1VPQnhZVzhBeUhVRzlzaEppaV9ZTVlwc005alJJMEUxVVZmcFFJVG9rdl9sdHo1clJ2V1JZZVVGME5mWG5Jd0k0TG4zeVhGUmhaT09sRTJoZzI4TDg4YjNPYk0tSlFTbmtfWGdtR1ZuTXM5RkxjRllJc1NKdUo4Vlg2X2VVcm5LRmNQS01icEEwRlM2dXRYckhxRnY1eg?oc=5",
+      "title": "AI股多檔回神！「這檔」目標價上看3200元、領廣達上漲2% 川湖漲3.53%、緯創、伊雲谷漲逾6%",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQcWY5Q3ViYlJ4dUZsRktHamVsWkRTTGJJUk8yc1I2c0dNLS1EZ3hUdjVBUHpCTG56bmY4YmY2Z0NUNHd4dHNOUFQ5a3ozdHlURTFUaUhIeTZ4WmZTWlMtZGxURlQtdmNIQ2EwY0JhNkFGMVZYRjFVQV92T1RQUFc3NlJVeTd1M3gxajM3MHF3R1pmUnNMZHREbHNsR1ROY1hBSXVoVXNoY001TkdMSVQzM2VpWkVnLWQ0MVJUQUtfQ2dNOEVRZGo2VnBVMnozS0djdlpvRUVfWVhVZHkxblhnWkVrWUg3QTYzNkFfS2cyTFNvRTJGdEt1TC1RaDhSUHJKdS1ONWE0RWZoOElZeF9FMEd5TGJqajIzZlk1bnJkdFFCY1VvSUxadUtkNFN3MkNvRG9xZHFfOHlqN0syODhYbElqaFB2ZUF3YmFWUGhWT25tb0pMNF9fU0xFRE9fYWMzNElYSVNBQQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-15T07:00:00+00:00"
+      "published_at": "2026-10-19T07:00:00+00:00"
     }
   ]
 }

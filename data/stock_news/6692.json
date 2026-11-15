@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-09T03:51:45.357952+08:00",
+  "updated_at": "2026-11-16T07:00:15.905581+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6692",
   "name": "進能服",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "財報：進能服(6692)115年前三季稅後虧損6406萬元，EPS -1.10元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam8yY3hRdnVld1BPTEJPYUNkMkJhRE8zajhOcHNqYU9UUFVPbHdfSWNpWWJSWjhmTmJMeGJEckdBd3JYRDFUZjQxOHU0S0h6bjhralJ0VDNNMllYWWFIWWljcU0wNXBCTEM3alZuSy1tdzd5TncycFVDNWlMSjdDR1JLLW14M3lJ?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-13T03:51:00+00:00"
+    }
+  ]
 }
