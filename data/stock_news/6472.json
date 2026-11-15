@@ -1,51 +1,81 @@
 {
-  "updated_at": "2026-11-08T23:24:08.776978+08:00",
+  "updated_at": "2026-11-16T01:52:30.630629+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6472",
   "name": "保瑞",
-  "count": 7,
+  "count": 12,
   "news": [
     {
-      "title": "【即時新聞】保瑞受惠美國藥價政策有望鬆綁，外資連買帶動股價逆勢上漲2.7%！",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUTB1c0p2Si1rZ2hqQ2FjUlRHRzdXQVVaWkpxdU4yLTlwQWVOMjFTQ29Ya2lkWENlcDJvMnF0cUFOZ2VhMTdpSDQyVXNOZjNyeElZa0FoeG4yOHNYY1RSS0pvbnJEVEF3RGg4emh2YVFhZk1nNC1mbmhocmVncTY4R2tHckl4NV9PZ3RSMVljQ18?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-11-06T12:50:05+00:00"
+      "title": "保瑞藥業第三季營收與淨利持續季增",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13OFM4Vl95Ny12RHdfdzB4eGt6QjNPcmpHM2dsMnJOdHQ0UjRaXzJFVXRmelJVaTZITTdjd3ZTVzFDRVVpeWlGZ3NSclJ5UnlSbjhxWGZIdzV0NWpqSDRv?oc=5",
+      "source": "大紀元時報香港",
+      "published_at": "2026-11-13T14:16:00+00:00"
     },
     {
-      "title": "今日最夯股／保瑞為何逆勢漲2.7%？美國藥價政策有望鬆綁外資5天買超近千張| 市場焦點| 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wV0ZkanhSQXFzMXhoay1NbVVFYnQ3ZE5BbUFlOTR1QWtmM2F6UVlSR1ZWZ2xGMHJVWGlfZ3AwNUVteVFHcjVDNDNxLVBtX3hZSzJPU2tCaGVOZw?oc=5",
+      "title": "保瑞公佈2026年第三季財務報告 | 國際現場 | 商情",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5OVRhU0V5V3RJMGF5MjR2SmRKS0FFYVZNem5HTVoxYmxzcllYdF9jR0hLRnZsMGFIMk5Pa2RQTmdnUGY3Tnd1NnEtR1YwS2tSTC00UWdFdVAzV3M?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-11-06T11:08:25+00:00"
+      "published_at": "2026-11-13T14:00:33+00:00"
+    },
+    {
+      "title": "【即時新聞】保瑞最新發布財報，Q3獲利成長一成，CDMO新簽約達4.37億美元",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEU1dHBwZWNXdGhLU2ViUjBCREJScWU2T2xVaWRqSWo4NXd4OWxKOFFfRTh6MXUtcFRsUXl6a1hVZktGRlZvdDdoV2tfb01sVDhoWk5pT3NvTXktb3pxWTFUMnlnYjYwd0JUckJrMXFHQTNKS1c4T08ycXptZmlyT3IyalZMaHliMExmZm92TXM?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-13T11:10:32+00:00"
+    },
+    {
+      "title": "保瑞專科用藥全球市占目標提前達標 Q3獲利6億元季增1成",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQZXA2VjNtTE1JbFVfT3l6SE1XX3hieEhPQXRuUkdOUEh3TUFTREtwMkJTLXQzRmRYOXRWNlVVZUUtcXVIREpkU1JXYmZwQ00?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-13T10:51:19+00:00"
+    },
+    {
+      "title": "保瑞第三季EPS4.79元 前三季CDMO新簽訂單創史上新高",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1QVNvdERjNmpWM0lRVzAyUGg2c21jMXVvZU9zMDBPM2tRbWd3Z01MbHFfMjJSZVA5Y3FmbTExX1BHdXFCT1l5eEkzRHIycW9KTTRic1BWeWo?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-13T10:03:32+00:00"
+    },
+    {
+      "title": "保瑞前10月營收182億年增1成 Q4營運可期",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSzNhUmJVOUNKZEd5bDNUWEQyeEdJSm5mcGVpeHJjaDZvYUJnLVUzRVNtV2RlTVBkTlBhQkFpanhuVXJSNXFLd29oTlRIWXJ1cGZHN09aWWlkSUdKVlFkc1lCdVFqbzhmdEVyeGUtemllUm9QenJxeWNSZ1cxU21UdU4wYWxtY0hsOEtCQ0o2ZmZHa3E1eTYwY2pfb2FMeHFrbVZKRlNUZng4QTBsLXVhWmhVVjFuRWdhd1U2engybGV2OFROSWo4UVphVkhxVzUxdHVTbEFXdUNQOFE0cFZwQkgwalFidjFGT05XbVZZTDJuTTRLRmd0aG5vQ240UkMyWnBSU2JFdFd3bTNvckdB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-10T07:59:53+00:00"
+    },
+    {
+      "title": "【即時新聞】保瑞10月營收19.9億年增15.9%，第四季遞延訂單出貨將帶動營運成長！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2NUV3pfcEV5WmZrYm12TC1FWlRMVFZKQzlkMm00cUowUWF1Q09PMExTeXFEOTItX1ZyT1FSZDhVWmZaTUU4VEJ4cW0wdHIzY2wwWkc3dnJYSDhJNFJ4RmVZTjFwSFd1N0wwRjJHdVRSODgtaElVQmRha0tBYXBpSnZEVkZHOGN5enBxbkRDdFo?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-10T04:10:19+00:00"
+    },
+    {
+      "title": "出貨遞延 保瑞10月營收月減14％ 仍看好第四季表現",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FTmxlRHRwN2x6NGV3MWQ1VkFMajM1ZzQySTdqcGt5dDBJN1NkZVF0NTYybVJvTW00ZENMT1duN0VZWENuOE80aWZIRTgzNFhlWUpxY3cwamc?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-10T01:28:10+00:00"
+    },
+    {
+      "title": "保瑞營收／10月19.9億元、年增15.9% 第4季營運可期",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0teDJQeXZBTmZHX2hXak1BanVqakE0QnF4eVlSNzdPT1otblRVMEUxMGdUaDZic1dNWWtTYml6cVZXbzk2SjBHMEt0c3J4enJv0gFWQVVfeXFMTURSZE51bWppaS1oNFR2aWF2RDhrODJFLWJwVUR1TmJjOTNSYmRsRUNsaVZEZ2N4RzU2a0hwRE1tMjRBdkFIakVTU0U5RlZJWEhOSVc1QUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-10T00:57:09+00:00"
     },
     {
       "title": "【10:48 即時新聞】保瑞(6472)盤中走強，生技防禦與法人買盤成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkhVU0wwRS1ST0FVcUN0eVVkRHVpQ1VsbGRuMmhFbWFVZ0JINmtIVnVJV2lfenhFamJnWkdiaUFuMEt6MjFOSVhkNWYwOFI2dHdtX0RuMWs1dDgzak5CUXBsMExqeG9USjYtYWlocG5uTm05cFdXRmRXV01zZ0ZUU19ubHhHQVFrN2RDTXlB?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-06T02:48:54+00:00"
+      "published_at": "2026-11-06T08:00:00+00:00"
     },
     {
-      "title": "重塑大分子藥CDMO戰力，保瑞打造新三角平台 | MoneyDJ理財網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5la08xX2NfMGtNdjFyVDlqbWlzLVRGRHh6MHhnSlhZLThaLWlMZnF6LUZGYkNZVEtBeG5UUVJfMWJWN3RsZC00RXhpdjZVSGVxQmY2U01R?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-11-05T03:15:02+00:00"
-    },
-    {
-      "title": "焦點股》保瑞：民主黨大勝 醫療保健類股受惠",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4enE2NmRXanc3UFRPbmlMNFJnUWRnR2h5dTZoZmozcmdTdm8tRUtobFVzM2t6THREem42cXZaT21RS3FBMEkxQXRhaWpySDczWGI4dDFFYTdSOExQdjY40gFkQVVfeXFMTmpZX21EZGR3M3BIWlVERzJRb0EyZHM5STBLY0hNdXU0VFpZRGk3d05qZVQta1FLY2RlQ3hhWjRWSDE0QWpFZGY2YTcxZ0pub2Fyc1JFYUZvWG00M0YxcW9oSjBzcQ?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-11-05T02:22:23+00:00"
+      "title": "重塑大分子藥CDMO戰力，保瑞打造新三角平台",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNc3lhSVYtWUdYS1Q3LXR0QWNxQzFhY2dmbjBYTlkyMmlVUkFESENySW5MeUtTeE1ja04tbVRWSUh2VFIxVG05a2dKTm5YX2xEWFBJa0MtbHpCOURYZWJma1YxN3ZSMXhuZ2JIczZRMXdxSE1Oc3VnOVdVa04yUGd2c29iVjBMVWJrNXhPU0dBdVlneGR1U3p5YlRTMGlwbWxkMTN5cEhtMDVHYVlRd2Y3Q3hTeVA4Nm9RcDktZzh1a2EySWxrQW84N3IxSVZBVlNMT2lWdFVpVFFFQ3kxZFNFWkxTSndzTlVkZnZBOHdGZ0dLeFpjVDUteVhtLUZ5SkVaSDczMXVST0I4RU9qVFV0VTBRd250UWlaZDBRU1NiQnh6MmVFandPNFh5OWctZw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "【10:47 即時新聞】保瑞(6472)盤中小漲，主力轉賣壓成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDBsa0pXNllCZGRpbFVHWXNDSmdVaUhHOHZwZ0ZuSkZkQ3NIcGZYSEgxTnI0ZkRpODRFamdNZ1Fnbm5aQXAyNmJRVzk1dFlIbVV2Y1VSdWZJLXozZmc1dkNxSkZWc0xmRGZOcWJlN3RZM2V4eXZYVGh1NlYzYTB4QXZpU1N3bC1nM0gwb2l3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-03T02:47:18+00:00"
-    },
-    {
-      "title": "保瑞建立橫跨北美與台灣製造網路 9月營收23億元創高年增逾3成",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ta1FIWnN4U282N2FfLXFLam1odmNmRExVbmZ3ZUoyMDlPTzFmNV9CdWRDSUFvS0pXU0E0cXdIOFVfRGxUTVZsX1FWSEczb2M?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-10-12T07:00:00+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     }
   ]
 }

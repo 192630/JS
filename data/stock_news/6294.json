@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-08T23:23:53.933906+08:00",
+  "updated_at": "2026-11-16T01:52:16.476185+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6294",
   "name": "智基",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "6294 智基 - 毛利率下滑、本業轉虧，價值陷阱要小心- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZ050eDRKVGNvU1NuTENDQ2VmV0phNmVGLXpqTTZVa3h3MVptQXFMcmdweENRSk1pNVlIQTd2cHVVTVg2eEpmYzRvU1ZfTEhUcTZCeFdQcDY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T09:24:17+00:00"
+    },
+    {
+      "title": "財報：智基(6294)115年前三季稅後盈餘4732萬元，EPS 1.82元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2xMNm1kalBHdU5GVDJaSU01OTRVMy1vRVIwX1FDNGdYaExFUDJxUUJtak1kRlVYRkw1aHN2bEF6UE9pYzdfUGNFeEJ6WTA2NF9ycElwcEhmMmE4NmNsdDRSU1pVY2U5WXQxdHRWcmFIa0pVQmtiVjBjWkZQa0EwWk9uamF2Tld6?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-09T09:04:00+00:00"
+    }
+  ]
 }

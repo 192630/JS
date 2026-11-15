@@ -1,51 +1,81 @@
 {
-  "updated_at": "2026-11-08T23:24:05.044784+08:00",
+  "updated_at": "2026-11-16T01:52:27.156274+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6456",
   "name": "GIS-KY",
-  "count": 7,
+  "count": 12,
   "news": [
     {
-      "title": "GIS-KY(6456) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DQjFHMGJsTkVfOG0tNmJkTkFQY2FFNGswdmdNT21hWGNKSGNJQ2hLN0xMWXFxREM0b2lPM09FOFlZUDNpMDYtOXhJZHFPV2VsQXhj?oc=5",
+      "title": "GIS-KY(6456)漲停站回90元上方，轉型題材撐得起股價嗎？-黃勢週期經濟學",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVhLa2dyVDA1TDZjVno1T3pMMU1WZEJURVRhdGNwdXV4UlZVc1lVRmJUZjB6V280OVItWmpjQVdNdE5OaFJTaEVvMjYzR3QwTUZzeVllQWZta3VJSi1TQWl1a011d1JXSXZQRGVGRkhYNFZUbi0yd2t1OE9SczJSMkpLWkI0ck0?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-13T02:03:06+00:00"
+    },
+    {
+      "title": "《台北股市》外資12日買超股：台玻、GIS-KY、元大金",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTlVc043dXpEQVRKWF9zREE3ay1xR3hLTm00NUdqYnA1UU5QbEVZcW8ya3JrSHdJdE81REFJdE1aSWszT29INWM3TW1sb2ZGYXZlMXVTS0UwLVZNNXU1VE9JWnlHR0VLV0VWZ3d6NVA1Z2tvd1lvRkdQdGdmd1dETXRxd0tGV2ZT?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-12T23:32:00+00:00"
+    },
+    {
+      "title": "熱門股》題材先行 GIS-KY連3根漲停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OdmY0dmFTUmRoLUFXVE44Q25oTWpmSl95aWdCTG1FM2U4TzdOQlNXdHZ3Z0ZnN2FUSEItRmREaERsR2tPdDlBTlNSN0lpNHRiS0FkUm40bjA?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-12T21:30:00+00:00"
+    },
+    {
+      "title": "今日漲停股｜大盤重挫1165點爆兆元天量，PCB與矽光子逆勢突圍，GIS-KY、敬鵬、定穎投控強鎖紅燈 1112",
+      "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxPbzJxcktCOXBFeXhLc19RNVdKRzFCc25TeWJRVXFnUzZzVVNKYU5TMFFFLXBoWUhNNWkzWlVWaVc1Z29LTHVoejJsNUtwaEtxdVViUE5pVldHR1VuWlJ0TG1FOXJrZHhuSVFaV2M5N1NHMkp5UlNGcFR4WWlPcFVGeVhUVWlDd3hrT2dQUjVTVmllUldaYWZqN0l1QmRjdWthQ2duNlJUM1dyN0FrRGZKRURuc0p4b1JUUGJLNmIxd0NMWFJ1SXc2ZHVFa295UWJPMTgtV3ZaX3V4OE04ZmMxclo2NV9SNkIwWEl6X2F6UXJaLUczejZraFBkZHEtX1dnVUtLOWJoa0NubTVqUnZzTDlMWHZoWmNOWllwNkNELWZfa1VGYS1MNl9kSy1NSFNsVkVSRGtYekRyUFhQbTRQMC1hUEFuaGNIZXQ1SDF5cUVSdTJSR1JoNUdjbGZXaXBlc2RwQmVGN1RCUThzbkVseU1URE1zWGdWNDBQQ09FdDB1OTZxMHlxZGY4MlRPa1RSaEp6cTNLX0NQQlFWQ2hlQVJ2WDBWS3NtRU1Lc0h0NFdJNVMtRFNqM04wcG1lSDRVdHZUZFJXd3pzZGFOSnEtNVhyX1JHT21nelVib3BEVWFscTMyM3UxTjIwZy1yMm8wNEUxRUNaRDVGS3cxdjgycW04aUxoSUdWOWhOaFRXWlViRHkzR2t5NlBOTldPY19KQVc5SXJOaGFuanpV?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-12T06:52:40+00:00"
+    },
+    {
+      "title": "【12:45 即時新聞】GIS-KY(6456) 盤中漲逾9% 量能配合法人買盤成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzNiVmJHLTRYamNGTkstTmF5eDhWdVZxN0ppNTZrd256ajZ3SjB4QW9DaHpIZm9wakJWUEp1S1BFb0Y2TEVNWEoyUGc5Q0hYTHpuTkRZdWJHbnB0c3F5RTJiME9DWmdmV3dvckJ5YmxsVjl1QTk3N2o5d25RSzhrSGZDRGQ4b2hBakRNWG5R?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-12T04:45:28+00:00"
+    },
+    {
+      "title": "GIS-KY布局MicroLED連續拉二根漲停",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pdDl1SnpEcGhxd2Rad1hTellRVW1zdUJYbDl6cnNwcWVaZGNiSUEzcC1fenhXMTNxeW1ObVJFa3AwNWFHLW1fX3BIckltRHRTOGV5SFJ3Z0xJSkNGelVpUFRMbG16a1YtaldxMUlxYw?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-11-12T03:39:45+00:00"
+    },
+    {
+      "title": "摺疊機＋光通訊雙引擎噴發！GIS-KY今開盤秒漲停 10月營收暴增168%",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJSW5abHZHSGh6bTU3VTFMdkVFdjl2QWdrY3RPSDAzMEFfM0hnZFZNR1ZJMWNOcDNYdzlmT214SWVLUV9HQ01jaVdUMWc0d3M?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-11-12T02:17:00+00:00"
+    },
+    {
+      "title": "GIS-KY高功率雷射封裝本季量產明年中滿載 手機關鍵製程助攻Q4向上",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qRmRkSjZJbnY3bXMtMVFYbFRLSDlOb1psSXp6c3pQcVVKQnYyeGZKRGhWbmxSU0ZTMVh0cC16Z1lwTFNYQW9IOTNYNzl4ZXFxVjRRWC1oWms?oc=5",
       "source": "CMoney",
-      "published_at": "2026-11-07T15:14:24+00:00"
+      "published_at": "2026-11-10T05:36:45+00:00"
+    },
+    {
+      "title": "【11:22 即時新聞】GIS-KY(6456) 股價亮燈漲停，市場聚焦短線反彈契機",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzgteDVOUThNWmUybTB5SFpONlRkaHliMkcwWlJkakZhek4wMzBBQVdzQmY4NUdmQTVOa2ZCSktxcGFfMU0xYkVLeVlldWE0UC00SGNQZ2Y3X2dRMXhrMmsxc2NSd3AwNFZPOU1GMEhmWHlpNnNjaW9NNHU2Z0I2THB0cHJrTWFWRnNvcjh3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-10T03:23:11+00:00"
+    },
+    {
+      "title": "GIS-KY營收躍升，惟獲利仍待改善",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMTh6SGd2UEhYb3laM1VHX3lvci1vR2hJS0hGcl9BS3VzQUIzMFFoLWR5RFNnb0xON1o5VG5zMUk3cGtpWF95QklBY3dLS3lYYVBIYW91UkhkQnNSYzJvdUdTOVlsazNGMUdHWmFtaUttTGNjTTFnVWo5Z0pmcEdvakg1dVJHVFR4UDZLdVNPY3pXWldfSUZheHRUaHpqSVJNZEpndmtzV0VzUW5nZGhCMUQxOGExQlVMVkJyY3ljOXkwT1Q1LTdXcEU5Q01PSGZpei1oRThyLTJrOFpZeF84dXRsd3I3R0JP?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-09T08:40:00+00:00"
     },
     {
       "title": "【12:47 即時新聞】GIS-KY(6456)股價走強，市場聚焦觸控模組布局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0hNaUpGaGJMNlUycjF5d3R2TXlwT0ZmZGpxMlpDQjVUdHpzVWhSMkY3X05EWWtKVVVsUDZ3UDJPUVY0UmNCZTV2NmI4eFYtcE9qd2piMUc4Ym9wWU5yRWNIbFVJeGtqYTFsUW5PLVViYWx0NERKSmZJVUZ2VUluQkc4RUVUb1hnUEhOUktR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-04T04:47:39+00:00"
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "【12:15 即時新聞】GIS-KY(6456)股價偏強反彈，市場關注法人與主力動向",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWFoUHI1VERwRW10MUd1bVpkZzBRSWJDUHI3NWZjS2lOcnIxVnJUNnBlNEZVX0psTXhVZmRtbXMxSHA1NVVUZFNJbHdjbVhJaEoxQmtJUWRtOHhPUUhoRmxySnJJWlJIM1lnWWM2UHZZU3NQWEpacUN3QnRJYjktbTdWNENIRW9NVjhQWkZB?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-02T04:15:37+00:00"
-    },
-    {
-      "title": "討論牆 | 盤中速報 - GIS-KY(6456)股價拉至漲停，漲停價69.9元，成交5,984張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xVzBSMEQtaU1pLVZVckR5NTIzWWxGS1RrVGdEVlRERV8tclRPM0xrdlJoRFJ0M211ak92MVFvVEVUSy1CcWRSOXBnSkd4T25YNmYxT2VDQXBCT3prblpjS1hfeWw?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-11-01T03:51:46+00:00"
-    },
-    {
-      "title": "摺疊機急單＋光通訊助攻 GIS-KY爆量飆漲逾8%",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01NS14dlczVE0ydEczdTAwNDlwTnM3bllZS2t3U0JBVmhXalNKM3RMd1Bnc3RJbkgzN2Z2Qy1LNmlCcWxzSjJ0eWIzZGZVbUk?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "title": "【09:29 即時新聞】GIS-KY(6456) 早盤接近漲停走強，光學與光通訊題材受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFBnbUdDT2JMbm51ZFF3bTFsejQ4RFhGdS1xVmppSEduSXlWaHU0NkFVRm13dzNtTEFMakxBc1ZiSzA1RVFSY3JLcjRieEFxcFhhV0VXci1leklwWjdEMmRhal90anZjZlVYRE1TQjZJMlRLWnFzZG9UUEd4Zzl2LTcxeTV6RnVySVNINUhn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "title": "今日漲停股｜被動元件與AI封測領軍，華新科、精材、GIS-KY強攻亮燈1021｜豐雲學堂2026 年 11 月",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOdHBHYXh3UlFCNE1lemwxOGhTS1Y2dXFVTFJyZnJMSDg4ZG53ZDUxWi1UZWtNLVBSajVuWmt3a29YbkctaUtNblA2Q1lHbW4xT3pXVTVSa0g1NTNKaWdMYzZUTmVPUDhVN2dWdXRxak5BVHFvcnJ6ckNpMXV2eUhDVUoxVHdyX2ZpSjB0Zmhua0djRmh6YnRXVVFBWnhUM3pLbnBoX2xUWWtuNXg4cFNEZ0xfSjhpNDVkNENaS3hjOTQzQjBzclF4NGJyZm55WEFSZEdEdTlZYVhrWU03Y19wV2YtYmhpMTl6aE1PSXBPM2NCSkhtaTc1MktFc3pHYklWcnY4OEp6b2c4MWFZcndCcDl2VHNVeUVLQnc5NFVMcE1kQ1dJamhnMDhoQ3NpUWRFcVQtM3BKVlpUN0NFOU8xWV9FdzROOE05Sk9MRzNKMzlOWllrN21FV1AxRFNYRzRJTEMyLVFjRjlxWWxGQmtmX3VYYUxFQlpFZXVpNE9BNTdmRkxmQWM5bW9SX3k0emxNZWNDYUZaVThFWUlHM2FNeHZ2bHVxWXUwZ09aXw?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-10-21T07:00:00+00:00"
+      "published_at": "2026-11-02T08:00:00+00:00"
     }
   ]
 }

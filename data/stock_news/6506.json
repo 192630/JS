@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-08T23:24:15.747356+08:00",
+  "updated_at": "2026-11-16T01:52:37.029569+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6506",
   "name": "雙邦",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【營收快訊】雙邦(6506)公告10月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xT2ZOYXJYTHFRNmFmeE9fMG5YR0E5RWluNDNndFBtYTRCaGtYSW5uOEN4N2p1YzFsaUw4YUR6RXd2aGYxaGxKZ0lTeFljdGVPSHNqcGN6WjU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T06:56:22+00:00"
+    },
+    {
+      "title": "6506 雙邦- 正好藉機學習一下，時間拿捏得真好，不然等漲上去越多就要繳越多... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11dmNKR3M0X040bEltN1RfdWQxZi1qSEg3ZUV2NnkyV2dlWnVkMWQzaWxrakVCMi05N0xMclg2ZUUxY0pKRTdJSG40T1dVdUhjNGZyaU1KczE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-10-23T07:00:00+00:00"
+    }
+  ]
 }
