@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-09T14:55:10.301543+08:00",
+  "updated_at": "2026-11-16T19:47:38.154681+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6971",
   "name": "惠民實業",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【營收快訊】惠民實業(6971)公告10月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUEZTUnhLUDF3SngyNENlMW9rNkFzTzVVSVM1N0hXX0NXWThwaEJDRW03aHhHeV80X2Z3cHlVMkRUUVIwU2RJZUtIbG1XOFRubEFnTm14RUg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T06:39:28+00:00"
+    }
+  ]
 }

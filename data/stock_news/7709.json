@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-09T14:55:18.613250+08:00",
+  "updated_at": "2026-11-16T19:47:47.490584+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7709",
   "name": "榮田",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "榮田前3季獲利勝去年；明年營收增長可期",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZVZiS2NOWi1KVFowTy1TaTRBejZlWDlSS2ZCRnlTZWRKOGNhaEFrNTdZczVoWWhUOVV4LXNaSkt4Sjd1MUN0SHRfbEhKQUx0U29oa2NDb25FZklzYUs5TkpsbGJxS1MzdW9HVUZzUXNwZURxakhOc3ZWQlpNeHZNb2NOb1ZDcGRkU0hIUGxrSzdDemwwdmFvdDFfMG5wUTY2Qmc2dHlHTVRRdHlQcUtBbnJVaXJ4VXlGVkpPYTJnNFlvS0M4WW1DSDUyWDludTQwb0xucXhnMjBkNVp3cW9SanBLZ2NNa0t3UkpQWWkwYkRPeDczOTNGb0VGeWV5QmhGZkdDQTJlVjRtVzZTdjg4TU10eC1Ea1lRbmNkMU9DcGlhUGV0cGtaWERB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-12T04:34:14+00:00"
+    }
+  ]
 }
