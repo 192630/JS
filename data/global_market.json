@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T19:39:54.734569+08:00",
+  "generated_at": "2026-11-17T06:16:37.219774+08:00",
   "taiwan_market_phase": "盤後",
   "update_status": "更新完成（延遲行情）",
   "risk": {
-    "score": 62,
-    "status": "風險偏好降溫",
-    "color": "orange"
+    "score": 88,
+    "status": "高風險警報",
+    "color": "red"
   },
-  "summary": "盤後整理：全球風險溫度 62／100（風險偏好降溫）。加密資產與科技股同步下跌，規則判定風險偏好下降。",
+  "summary": "盤後整理：全球風險溫度 88／100（高風險警報）。美元指數與美國10年期殖利率同步走升，成長股估值壓力可能增加。",
   "taiwan_impact": "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
   "indicators": [
     {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 64625.0,
-      "change_percent": -1.3243444901149914,
-      "data_time": "2026-11-16T19:38:59+08:00",
+      "price": 65396.0,
+      "change_percent": 0.37463256430543657,
+      "data_time": "2026-11-17T06:15:39+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 1808.56,
-      "change_percent": -1.4788035311623373,
-      "data_time": "2026-11-16T19:38:45+08:00",
+      "price": 1833.62,
+      "change_percent": 0.5743901604641978,
+      "data_time": "2026-11-17T06:15:39+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -43,9 +43,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "NQ=F",
-      "price": 27797.5,
-      "change_percent": -2.373280184032381,
-      "data_time": "2026-11-16T19:29:46+08:00",
+      "price": 27285.25,
+      "change_percent": -4.172337193681789,
+      "data_time": "2026-11-17T05:59:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -56,9 +56,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "ES=F",
-      "price": 7558.0,
-      "change_percent": -1.0797722662129443,
-      "data_time": "2026-11-16T19:29:48+08:00",
+      "price": 7438.5,
+      "change_percent": -2.643806033636542,
+      "data_time": "2026-11-17T05:59:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -69,9 +69,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "^SOX",
-      "price": 10146.323,
-      "change_percent": 8.05168126514204,
-      "data_time": "2026-11-14T06:15:59+08:00",
+      "price": 9610.652,
+      "change_percent": -4.218466742343232,
+      "data_time": "2026-11-17T06:15:57+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -82,9 +82,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "^VIX",
-      "price": 19.94,
-      "change_percent": 2.4665981500513894,
-      "data_time": "2026-11-16T19:24:46+08:00",
+      "price": 22.91,
+      "change_percent": 17.728674203494343,
+      "data_time": "2026-11-17T05:15:01+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -95,9 +95,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "CL=F",
-      "price": 88.32,
-      "change_percent": 2.068646712122954,
-      "data_time": "2026-11-16T19:29:48+08:00",
+      "price": 85.06,
+      "change_percent": -1.6988327747601975,
+      "data_time": "2026-11-17T05:59:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -108,9 +108,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "GC=F",
-      "price": 3877.7,
-      "change_percent": -3.0696162979627593,
-      "data_time": "2026-11-16T19:29:52+08:00",
+      "price": 3859.0,
+      "change_percent": -3.537057867766529,
+      "data_time": "2026-11-17T05:59:58+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -121,9 +121,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "DX-Y.NYB",
-      "price": 103.522,
-      "change_percent": 0.5946943931590798,
-      "data_time": "2026-11-16T19:29:53+08:00",
+      "price": 103.575,
+      "change_percent": 0.6461957049849444,
+      "data_time": "2026-11-17T06:06:34+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -134,48 +134,35 @@
       "unit": "%",
       "source": "yahoo",
       "symbol": "^TNX",
-      "price": 5.154,
-      "change_percent": 5.96217105263158,
-      "data_time": "2026-11-14T03:59:54+08:00",
+      "price": 5.121,
+      "change_percent": 2.7694160144491433,
+      "data_time": "2026-11-17T03:59:53+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
     }
   ],
   "confirmed_data": [
-    "比特幣 64,625.00，漲跌幅 -1.32%",
-    "以太幣 1,808.56，漲跌幅 -1.48%",
-    "納斯達克100期貨 27,797.50，漲跌幅 -2.37%",
-    "標普500期貨 7,558.00，漲跌幅 -1.08%",
-    "費城半導體指數 10,146.32，漲跌幅 +8.05%",
-    "VIX恐慌指數 19.94，漲跌幅 +2.47%",
-    "WTI原油 88.32，漲跌幅 +2.07%",
-    "黃金 3,877.70，漲跌幅 -3.07%",
-    "美元指數 103.52，漲跌幅 +0.59%",
-    "美國10年期公債殖利率 5.15，漲跌幅 +5.96%"
+    "比特幣 65,396.00，漲跌幅 +0.37%",
+    "以太幣 1,833.62，漲跌幅 +0.57%",
+    "納斯達克100期貨 27,285.25，漲跌幅 -4.17%",
+    "標普500期貨 7,438.50，漲跌幅 -2.64%",
+    "費城半導體指數 9,610.65，漲跌幅 -4.22%",
+    "VIX恐慌指數 22.91，漲跌幅 +17.73%",
+    "WTI原油 85.06，漲跌幅 -1.70%",
+    "黃金 3,859.00，漲跌幅 -3.54%",
+    "美元指數 103.58，漲跌幅 +0.65%",
+    "美國10年期公債殖利率 5.12，漲跌幅 +2.77%"
   ],
   "rule_signals": [
-    "加密資產與科技股同步下跌，規則判定風險偏好下降。",
     "美元指數與美國10年期殖利率同步走升，成長股估值壓力可能增加。"
   ],
   "inferences": [
     "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
-    "AI與半導體：承壓（依據：科技與風險資產同步轉弱）",
-    "科技權值股：承壓（依據：納指期貨轉弱）",
     "科技權值股：留意（依據：美元與殖利率同步走升）",
     "航運與原物料：留意成本與報價（依據：原油波動較明顯）"
   ],
   "affected_sectors": [
-    {
-      "name": "AI與半導體",
-      "direction": "承壓",
-      "basis": "科技與風險資產同步轉弱"
-    },
-    {
-      "name": "科技權值股",
-      "direction": "承壓",
-      "basis": "納指期貨轉弱"
-    },
     {
       "name": "科技權值股",
       "direction": "留意",
@@ -204,21 +191,6 @@
   ],
   "commercial_use_note": "目前免費來源僅供研究站原型驗證。正式會員制上線前，必須逐項確認商用展示、重分發及即時行情授權，必要時改接付費授權 API。",
   "risk_history": [
-    {
-      "generated_at": "2026-11-10T02:53:48.137337+08:00",
-      "score": 72,
-      "status": "高風險警報"
-    },
-    {
-      "generated_at": "2026-11-10T10:14:09.431449+08:00",
-      "score": 55,
-      "status": "風險偏好降溫"
-    },
-    {
-      "generated_at": "2026-11-10T18:01:02.693745+08:00",
-      "score": 55,
-      "status": "風險偏好降溫"
-    },
     {
       "generated_at": "2026-11-11T01:55:56.198049+08:00",
       "score": 77,
@@ -328,8 +300,13 @@
       "generated_at": "2026-11-16T19:39:54.734569+08:00",
       "score": 62,
       "status": "風險偏好降溫"
+    },
+    {
+      "generated_at": "2026-11-17T06:16:37.219774+08:00",
+      "score": 88,
+      "status": "高風險警報"
     }
   ],
-  "risk_change": 21,
-  "risk_history_sample_count": 25
+  "risk_change": 26,
+  "risk_history_sample_count": 23
 }
