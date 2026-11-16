@@ -1,27 +1,39 @@
 {
-  "updated_at": "2026-11-09T07:50:16.214314+08:00",
+  "updated_at": "2026-11-16T10:53:23.952847+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6874",
   "name": "倍力",
-  "count": 3,
+  "count": 5,
   "news": [
     {
+      "title": "AI Agent 跨系統整合 倍力打造企業智能新中樞",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4eTQ0RnQtZkNsUzN0al85N0o2MEx0cUZMTEtyQ01tdVNOTW9lR0hTMzQ5N3o5dXJORlNzeE9OX28yQTN5QlBZRW9GMnBPZk5YQTgybFdKdWRyQdIBX0FVX3lxTE1KSzI3a0FXTmRGRFdZUE10Wjl2aHFTZU9LT05JVUVZTWlpby0tQXJoZG9oZS1tVHRDRTFKUldNaXBnX29FLUZVcFgtanFSN21GejhtSFlGeFU4cEZMSWlJ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-13T09:59:58+00:00"
+    },
+    {
+      "title": "AI軟體股賺翻了！倍力前3季營收、獲利創史高 新產品「S管家」添動能",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sRndlV1FacWNKNi1KWGp2cmpqTnYtdncyalZ4NFk5ZDNBLTZuMnVNNGQ5MmtRN3ptbTF5WlZkbHY1RUpoRmVOaHF6UQ?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-11-10T17:23:39+00:00"
+    },
+    {
+      "title": "倍力資訊財報／今年前三季獲利賺贏去年全年 年增逾七成",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HV192anl4dEVCYkszNU1NX1FyV1VBZEJBZ3I0eWhZc1RDZnQyVWREbHdjMHN1WTk0QXhZbnZxNW93X2hxcFIwcGhWWVZpaHBZ0gFWQVVfeXFMTzh0VlJGN3Q5d1ZsNjEtbkplZFlYRzQwMWRrdmpBLVhkXzVkcWFZaXdIVnViVy1wQVBLTGNPa2YzNWJNQTYtaVpQQkUwal94dlpWbGtLN0E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-06T08:00:00+00:00"
+    },
+    {
       "title": "超微半導體Q3營收創新高 資料中心業務成長翻倍力抗遊戲部門衰退",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EQzl5YWpoZmhfSmljQ0xjNnlFLV9nWkJMV1p2ZktmM0JIUlR6NWpoSE5qRnp6eDRiV1pyUlplUHJaRTVNOFprT3N3Wi1iNWpfeXZCSkRPbDFxZ1NMZmppM2x1bmo0TG5hVEVidW5hRQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-11-04T23:19:24+00:00"
+      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOVHZDeUpINERjMTljd2pqdWNVV01BOVk4UlljR1JNUUxkMlg2SE4zdjRkMWRMM0JRVXV4bERvWWl4bnpzVEh3NzFSVGNjZUVBTFBMQUxRUW9INHZ3RDVnQTBWQW03WUJwM05hdFhtWnFWb0VSX0xUZi1rb0xiSTY3WXVDYmNlUjNKMjhYUDAwb1dWSnpGaGpWdVRpeFJFY3ZRZHVVSk1kNHpUSGF2WWNWQ0tTQ1lvT0l4Tnllb0lkOEFXcUdGenIzMUVIdUM2U256ZThTVFJHYVNiRjkyMU0ySDUxZnhGZ2Y4dWFvM0JIOGk5bWRtV2pxOUdjYU05YUJOZERQUTlXUlkxaEVjQ0MtVE9JdkxiUHM3VmI1WFZkdXdJUEJfczFraFZZUjc1UkMtSmx5YUg1ZFNHZGVUZjJBaGxZUzlELVNrNzIydHcwZ21xSHVCdVpvblpVMDVlYy02M0xMYUQ1LVpxM1VKR0JBbWIySEZOVU1ic3k3TEF1Zmh3SWRtZF9SR1VZUERZczVGQ2pJNno0X3M3WGRHTG0yb2ZJazNLbWpNaEtsc3M0UQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "財經週日趴（影）／陳建全：倍力資大啖AI商機 今年獲利增5成明年拚新高",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJTW5ZZm5COExROUtDQmxEb09YTFNodmNiNXlEa2JlTzd4bGZoUGJpQmtYb2w0cGRuTXhON2dDUW9KcUdnNTFZMmQ4MVI4TXdzZENrclo0SHNBSjBXRjZ6Sw?oc=5",
       "source": "民視新聞網",
       "published_at": "2026-10-24T07:00:00+00:00"
-    },
-    {
-      "title": "6874 倍力- 52賣家獲蝦皮金選獎在地品牌、無包裝永續新亮點- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJajNHRTBMTVI5ckc3Q1dmUFg3NkJlVlptNWJOcnNHWHBqOUxQbk16MFd4S05XclJnSjBJNVpfOWxXOXBwZFFIMDZVX1JLemJEMDlRUUZRZmg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-16T21:48:42+00:00"
     }
   ]
 }

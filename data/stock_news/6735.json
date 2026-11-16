@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-09T07:49:50.814859+08:00",
+  "updated_at": "2026-11-16T10:52:55.653514+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6735",
   "name": "美達科技",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "美達科技 115年第3季綜合損益表，每股盈餘0.21元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iajJrU3FDY3FtaEpNaVFUZ1ZuckJBamJmOW1WcVRadGNsSms0bXU5eUViVjR3dU9PRktjUVpJY1NzRFZ5RmxzS1FzcGdKLUpqS05Kd1VSRW0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T10:49:51+00:00"
+    }
+  ]
 }

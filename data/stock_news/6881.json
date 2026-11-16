@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-09T07:50:17.519456+08:00",
+  "updated_at": "2026-11-16T10:53:25.311630+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6881",
   "name": "潤德",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【即時新聞】潤德最新10月營收衝上2.51億元創單月歷史新高！",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4WkRJSWc1UWhRWnZWVEhkRDRBd0liRjJWMGlyMXhSdE1sU2lqbm5HODY5X0l2b1NkV3p0VUNzTTg2N3FSS2pocFpxWjRvb2lqWVZfSkZxdmw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-10T23:16:42+00:00"
+    },
+    {
+      "title": "潤德單月業績攻頂",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2OXFIbTF0QTItcENub1VEcTdSUTY1X1owTmJvSkdidzdvdzVCbF92VEgyVWxIekxRQmhxRGlRUnRxX0VMcDVkcDZJejV2eTk4ekQzQjVMVkxOOFnSAWBBVV95cUxPXzBUU0JpUGpxaHFXN3RxZTBtM1Q0T2s1Q0RPTkFTSEV5R25vRkNULVNEZDRBWHRKZFNwZjNDN2JGNU9LT3dQc3lLaEFkOXU0ZFFiUEJiZXpLakROZGFETDk?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-10T16:53:06+00:00"
+    }
+  ]
 }
