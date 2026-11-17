@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-10T09:39:55.161669+08:00",
+  "updated_at": "2026-11-17T12:39:27.944080+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8071",
   "name": "能率網通",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "財報：能率網通(8071)115年前三季稅後虧損4467萬元，EPS -0.74元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTNHM2xKdTVCSTZPN3Z6TXVNbmliekRIUXBsT3V0S1JMRzVNVnpseG82YVpOcVRMUDRmUlVmXzBuR0h3R2VkZzRfb05OS200dHBvUHdmd3ZhOWRRTmVEYjBfMkxiSzFlblJzb0tJbmRvc1NaMmxqaExhek52RUxmaEtkTUsyRVNw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-16T07:26:00+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-10T09:40:03.542653+08:00",
+  "updated_at": "2026-11-17T12:39:36.034225+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8097",
   "name": "常珵",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "常珵 115年第3季綜合損益表，每股虧損0.36元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YZTRmVC01Y3BzTGVCMGFhNm9XRDBaUXR6Z0QzOGczNVV3cHpnd3lETXZCSjR4TEtKSjZoelJhUlJ3MXdycFFtN01rbDN1dE4yNGdaeUE3cE0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-16T06:32:54+00:00"
+    },
+    {
+      "title": "財報：常珵(8097)115年前三季稅後虧損9174萬元，EPS -1.52元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEk1TUZ4LVBwVjBicGtFOW9ELVJYcW4wem1wdHJ3bGVrRllQNTQyNWdaRk1WMnFWZ1VzOXZqWThHc1p1anFtelhXZ3hYZGl0NmJNcVpmc3dnbC1mWXQxeUozbzNxU1FyRmpoRHZtbUxidWFXWm45Q0pVX1RhVnZVVTRXaVdsZFRY?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-16T06:11:00+00:00"
+    }
+  ]
 }
