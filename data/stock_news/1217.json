@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-11T01:59:24.200106+08:00",
+  "updated_at": "2026-11-18T07:00:53.114803+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1217",
   "name": "愛之味",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "愛之味(1217) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzSV9jVGJsVGs5VUc5VzIyRkU2TjcxN0N0cDEyb1hyZzktcnEyY3Y2R3ZTSWNPenQ4SDVCY3JkTXJfaElDekhHekx4LUFZRWtGNjdn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T15:49:20+00:00"
+    },
+    {
+      "title": "愛之味 115年10月營收3.98億、年增9.04%",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWUZBY0tJamZnblZMRGkxTFV2ZFhKVDdKaHluN3ZON0xtZzMzY1pSMzdyMnlkMGN5cV9DUTI2ZDg3eFdpd1YxX0ZDVWFUa1ZHeDVtUF91a0dFeDMtT3N0Nm1tM1Zxb1ctOGtSMldUNDRkZy1nT0tYdXBibzhNNFFTaTJRejlJMFk2WXl1Szh6X1BVUkhmb1VFaXAxb2ctaE9aS2xrVy1ZaGZjSW9BRDNqY3JSRnB6VTRCTzNuekk2dGNKckJjOG0tRElzbkVxeURHYVNydlU5LVVSSXVDbnFCX3JIc1l4Tms?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-09T08:00:00+00:00"
+    }
+  ]
 }

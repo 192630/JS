@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-11-11T01:59:13.819269+08:00",
+  "updated_at": "2026-11-18T07:00:41.324126+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2345",
   "name": "智邦",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "【即時新聞】智邦(2345)營收創高卻重挫近9%，這「5檔網通概念股」同步爆賣壓！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd1lHZlVfblV5QUg5ZVpyaWdTa3RYRmJOQzM1VVpTZVV4dmh0M1M2ZTFaU3NwM0hNYnJNMDdsTHpPR0NWS0dzNlh2NURxVmotcnhNbm54V0J6cmh5VXAtMTdZWlYyTUhyNjZibEFjM0oyVXpXQnVSYy1RNzd2NW5PaTNpazhuaXUtcndWbWdpT0s?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-16T03:29:39+00:00"
+    },
+    {
+      "title": "2345 智邦 - 2345 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41OWN2WFlyRmtGS05BVDcyRE5jZHRrSUtBV3dfNUs2RnItSmhSQmlSQzJqb1JWTEZIYW1PREF2V0UxSC13YzZ3S3hCdFdfUnlPUUdmU1paMnQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-16T00:21:32+00:00"
+    },
+    {
+      "title": "智邦期 動能轉強",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93UVRFeWhOU25wV3NTaHpNYWhyZlAyazhGNENCalBfNklZQWZhLXc1LTFDdEVTWV95enNKTEcxNFBCZldNR095Q3pMbkRKQzdj0gFWQVVfeXFMUEx6b3p3YzhoR2NhcHNwWjN0NURUaVF3ZExIdF9zZ29lSHFqb29ZWHFSckFGV21sQ0M5TFQtYmh1YWt2M3kyUElUXzMwWGpqTHBZLUdIc1E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-15T17:03:48+00:00"
+    },
+    {
+      "title": "【即時新聞】智邦最新公布第三季每股大賺23.39元，海外擴產引發市場關注",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMU9FdEQxWVV5VVBmRDNFQ19GYndodnBHb2VlOVdKaHFvOEp4eUNfT2tETXA1NDU1eHpUbVdySHE1M0toZ29oRFN5T1M3RE1XQmEzMEZqQ2RYQzQ3Y29WQWFpRXBDMDdGU3FaeWNrZEJOWVlXekF3Y2pZT0Nha18xeC0zX2NhQzliOUlEWm45VGo?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-12T22:10:19+00:00"
+    },
     {
       "title": "《通網股》智邦從跌停到連2天漲停 股價強彈逾2成",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HVkpIdUFOeHd6dHFjUGZrQWt2bXFtRGlxMkdNbmYyY1RHOWN6VEtnc1J6dDZBVWFXUFI5Qk1DYTRqbHlqOTNZc2tUc3NyZWQ2djM3ZGJ5cHBfRkRWcmIyYmRXOTdHVElGdWc?oc=5",
       "source": "旺得富理財網",
       "published_at": "2026-11-10T03:20:16+00:00"
-    },
-    {
-      "title": "【10:14 即時新聞】智邦(2345)亮燈漲停，市場聚焦10月營收創高與AI網通需求",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdE9fME9GOEw5a2NONjFFeTVjUTR2Wlg0WDZtbnhXN2x2ME91NzhVa3ZtRFUwYzhiT2ZOS2N0b2c2NzFoTk9yTHlYYUpaYzYzbHZxVXBOeW5aMkxsbjhjdmcwOGQ5VGJERGJCN0hiT0RsMmtSbXJpeDlhTXMycnJ3dXVVZlRXWllJeUhfRFFR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-11-10T02:15:37+00:00"
     },
     {
       "title": "【即時新聞】智邦10月營收446億創歷史新高，今日股價強勢攻上漲停1405元",
@@ -27,42 +45,36 @@
       "title": "智邦營收再創新高 激勵股價亮燈",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1dV9CdlhUT21Rb3VzRDBDNXlJX043bFExM2VCeE5vTEY4dmZVVk1udWZwNU83dThRSHkwZEV3MUplUTVqVG5SNnhHb0NkeEpSMHdLX0lvSVk3d9IBX0FVX3lxTE9NMzVMUGtrZmxTcGZ1amprYkhZd0JLNWFjRlhNODRyb2YwbF9EODVVMWh0VmRpSTQyekpPa2tab3UtbUsyRl95TDlLZnF3Q29uUG9kMS1zT1ZPVnE0ZFUw?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-11-09T06:13:18+00:00"
+      "published_at": "2026-11-09T08:00:00+00:00"
     },
     {
       "title": "焦點股》智邦: 10月營收井噴 火速攻漲停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHOURCekhzMEtKTkV3R19leE93aElXY1RqX24zc29xOHYzZEFaTUtPUU9iaFVTUUpHWE5oZnYteEYtWTJJdDc0dEU3d2VfQVZoYUlsNW1hbEg?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-11-09T01:30:38+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zdUM1OUY5OWxzOUFzZ0lwbUtEWGRJZ2d6VXpIYnk3Tld6dUZ6bEt6RndrV2FLUDRKaHpWQXdXaVJwR01qNTlwcmRjYkpZSU80RVhHTzM5MS11cWdUaDdn0gFkQVVfeXFMUGVBV2xZU19EV2FzVkRFR3dBMVdCWVpLUzJEakRnVnZzUUQzaTBlZzBiUHd2RmI2dEJBSl8wLTJNRWdoQWVXa2NxRnVyakw5THA3RTRWYWVDTm8tV09CZmo5dVJpOA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-11-09T08:00:00+00:00"
     },
     {
       "title": "智邦10月營收刷新高 股價今跌停打開",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jZkJOTjFEcDlEZEJFRmV3SWM0SW96ZktlSFVxNXl0OTlkMUtRSjlkcUpSeVItMmNQZnRPTVJFN1g5MDRKd0hwbnBZQzNOcFBQR3l2WGlIMGUyVjZZakNV0gFkQVVfeXFMT1lDbFd4aVhVcXZibHN4RE1jLWNHRFVNN0dhUVgwYzZjS1RMV2ZzZThDY3JqbWI5Si1saWtFbU5DWTdQcnUtekY3QUVDVXFmbENKaF9KYnJFRDZWMFN2Z0I0b2hiYg?oc=5",
       "source": "自由財經",
-      "published_at": "2026-11-06T08:15:59+00:00"
+      "published_at": "2026-11-06T08:00:00+00:00"
     },
     {
-      "title": "智邦暴跌千元能撿嗎？億元教授鄭廳宜：別急著接刀！算準「這半年」進場勝率最高！",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94QUFrR2R4T3ptLXIwRTNPQUtDakRMRklnc3pLQXEybzVZUTVzUmtzblFaLU9YQ1hjNHllc0xUWGtpOGgtQmNWaEVrYkNfZTJ2TjhXU0JB?oc=5",
-      "source": "優分析UAnalyze",
-      "published_at": "2026-10-31T07:00:00+00:00"
+      "title": "台達電、智邦都被盯上！「這檔千金股」6天價差1550元、鴻勁1200元 27檔注意股一次看",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNN0hjOTNjeVFhdjFWRnlmcG9TOC14dmc5clBvaW5VRHVOVmc4TThMTDlCQVRKN3RwbUZDX1dIRWQ4eTVDTE80ZkNkazRvYTFnYXBHTmFCbmxTWmhnRVk2NURUR0llOUtKRGwwYzVLZUFMZm9ydlB3VXl4YzZOU1dRWTYzcE02MFo5RWdEd29rTF9jbXhVdzZ6aGkwdXZXVk1CZ2F3ZjUxVjRZaXJtNEF4YWE1Y3ZWbEQxQklvNEw1amd0RkZNQ3dPQmduRjN5QkNEa01pb3djYnBRSURmZGRtSWFjQ3hCZE84d1JxRG5oa0xoMGdzU2tLeUU2NFlKTTk2ZGJZMWRoaVFqWlhWSGhUMzJrM2tqSzBpTEd5WWwzcFh4dS03VWVNR1ZFNkVEckkxbHcyYjg2M0VULUVNekpfMF9WR3pfWGNfMVBzRXE3dTJfWVBrQVVDbnJma0pPYlVDZlFBd0h2X0c?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "《通網股》智邦股價重挫別怕？外資點名兩大利多、目標價3500元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVpuc2hBTlByVW05b2tXQWs5MW1keUMxS0ZyQkpReFBHbUY4cUxObG1ueElIRzc4eml4clBPS0NIM2tqSU9nWml2a0ZBWjZPS0tVMVIyZnZabUpkUER1OXhNX2VIXzhzVVl5WnVncWlNbDAtTUNaYVVuMWk3WWEyZndWX3QzcXJm?oc=5",
-      "source": "富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rRmVRYm1nWFQwLUlyekpoYXRqQmdUdzFjMG5pX2J4ak02RU1Ca0hHTWFVeFBES1FTUlV5Mno1Y0NFOHFlbW1zUE0tWndvTktEWUNQc3F5UEYzQzBJRnVoZmNaWkV3Q2RyWGc?oc=5",
+      "source": "旺得富理財網",
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
       "title": "「網通股王」智邦要辦現增1萬張 募資上看140億元 股價寫6個月新低",
       "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOQTJtSlpydzA5UkNKSUtyRW5pZGVtb281WjB0dTFKRGlmZFBidlBlSTJFLXBpUFJMZmR6TF9aaHlfUEVmdWdsWExqTmt1cUFDQzhlVEhqcFBCRGFMNVIyUEhGTHpndnBiQzNTZWpTLThzUXhadC1YVmNMWUd5WlhJcTcwRXIxS3JSOEdOMXpPSFJZdGhPMnN3S1diZXZoQnVPbU50bklnYVdLVWgzZWlKMXJ6alBKckhYYmtiQzFqakYyT2pWWjZuQ3JZcTZJOXVhMEpEVDB3V0FYUkwtYktVbllwSHpVS1dBSGI1T0Y2YnpiS3QzSU56aTZNMnIybmFMUEVHV0J0SG5qX0tubGxEMkVXMHR4LUxQakQxUmJYQ3JnVWM0NTRWNE8wbWtZRnI0dDB4UktPaEFNREg4RHk1aFRMWmtJQmZNVFNMa3Y5b1NsZXBDdjRQMlBSeEc3SUFLMlRrdTlhc2lTRmpnbnVCdWoxYlM1S3lUOS05cFNwSlEtZlhmY25YV1B2cTAyY0NEUWRWdlFabjZWb1BWWmctR3oyV1VEOF9V?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "title": "個股：中環(2323)10/6～10/21取得智邦股票170張，每股均價1,908.71元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3VYN2tGMG1lV25ob011MkZmQk1QQTctUTIyZkVkenNUYnZXOWZTdXFkakR4UFM0RnRpR2VBLVNSVW9yWVY0bVpKTEJWbnljSER6WFlXY2RqRHFEdDVJaXpyVTFnMGNuRGRHNDZlT19UR043TWo1UVUxNUU2UW1odW9CZmt4OVRL?oc=5",
-      "source": "富聯網",
       "published_at": "2026-10-22T07:00:00+00:00"
     }
   ]
