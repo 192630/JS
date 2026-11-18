@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-11T23:27:59.711925+08:00",
+  "updated_at": "2026-11-19T06:09:56.936383+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2027",
   "name": "大成鋼",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "2027 大成鋼- 為何外資一直倒貨...? - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fYXE0dzZZenFpVDU3eHpIYzRCLVJNXzlxRGNLWF9ydjBWMzV3ZVV5WHlTa2hSZDBPaGVwVU43bHIxcTNEYVFCMUlYZVF2c0ZhRnBrOEQ1cTE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-18T10:06:50+00:00"
+    },
+    {
+      "title": "2027 大成鋼 - https://stock.ltn.com.tw/artic... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hcjdmVGtsa3ZqWFJKYndBbEx0azI3T3pRZkFENnY4UC0zRzhyS2puVUIzSTJtQmttWWtoUlZZbDBzc2hTNV9iRVpoWV9qWWNWbHRwUFFtQ28?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-18T08:27:23+00:00"
+    },
+    {
+      "title": "大成鋼(2027)主要產品與營收占比 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MTTk3WmIyNlljQUEzbFpwaEhMdUFzeTlkT0tsNkxIM0owakt3OEhlVDhjTzlnNTBIWW4xTExKc1hQRzRSaDlQNHFuT3RDbXJPNFFYNzE3SnB2WkF5VEFfSDF6VEdPdw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-11T08:00:00+00:00"
+    }
+  ]
 }

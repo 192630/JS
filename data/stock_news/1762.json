@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-11T23:27:37.391061+08:00",
+  "updated_at": "2026-11-19T06:09:34.743033+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1762",
   "name": "中化生",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "中化生前三季 EPS 2.01元",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNFlFektZU3UxcXpET0FfMEpURzV6UnFPS3BfMTF4aDNwNGlzRHhOeHFwb3J0QXdIaF9UZWlkZnFodzJZV3pVVUpBLUt5YWMyQWJzZEdPcFh3M2FUd256SDRzaXFudFVHMk81MXNubk90eDFFakc4UU1lVzhuVEtfUNIBX0FVX3lxTE9jbFFBUmRqa3ZQaHNmRWVlSm9vTXpjZXpFWGFPNHVNY3g1R1Y3bjlIdzVzcE9aUm9hdWUtcGRSUGxiSmx2ZmRIQ3AtQzhJQUVVNjdHbDNNelNhcEJUOC1r?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-16T16:21:12+00:00"
+    },
+    {
+      "title": "1762 中化生- 中化生前三季EPS 2.01元轉盈持續深化原料藥與CDMO業務 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuc0ZDSDJWZnBXcVl3aWVqdXZUNXIyNzFKamREQWQ5eXNyVDBOLVJTQkVJVWhKOTVzR2c3ejE5bXVJMWwzZVVwLUY1VzRMdXlwT1RsRVV1LUY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-16T05:49:29+00:00"
+    },
+    {
+      "title": "中化生前三季EPS 2.01元轉盈 持續深化原料藥與CDMO業務",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PUHFQdTFKak42QXA5N0JqOGFVQThJeDVsNWRIRzR0RDBkckFPd0RneTQ1a0Q3NG0wTENSVHZHa3VoWmw4Z3lFLTNLNA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-16T05:30:46+00:00"
+    }
+  ]
 }
