@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-11T07:34:54.605737+08:00",
+  "updated_at": "2026-11-18T12:35:37.667890+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1455",
   "name": "集盛",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "中石化停產CPL，集盛:影響有限、已改採進口供應",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOZ1IyOFlKb3p6QlRSQmcxTWhCNXpScDZHY1NONDJJOVhlT1VKeVd1V21QRUpleUszMHVKdVFqUEx3NTEtR1V0cHFvdm81aHBPYzBjUEowdkRYeHdwZ1ZvRmkybGdpeVJVMnZNQmJJd0MtWm9LNEJtTWtpQTZKRUZCaTM1UkoycWVlV245bURvLUtnTWxIYklMSl9GQXlIcW1pYkducUgzSW0wR1ZoVGxMRktZMkl2djFBaE5qNE5DNEpKdUx5Mm5OVktRRkY1YWdKZy05aVQycFR5RU5hWEhPRFJGU0NsR3QxUG0xMHVqY2VLTi1uR1hqSUF4YnY2S3ZnZWVpaExLN2hEYjc2dXh4a1FKcWJqM0VBa1RsYjZMMXVOclN2T0ZuajJJakF2RFhMNzI3Z0R5U014MHc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-13T04:14:14+00:00"
+    }
+  ]
 }

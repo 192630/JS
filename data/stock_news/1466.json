@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-11T14:48:56.690432+08:00",
+  "updated_at": "2026-11-18T12:35:41.312030+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1466",
   "name": "聚隆",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "南京聚隆(300644.SZ)：截至11月10日公司股東總户數為15354户",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjU3hEektVNHVDVVpJWVAtSXZ6bmhmZWhVUnhaNFhfTnJtb0tlSWlpQ3JOZ3E1alg4RjJoLW5SRTFOcDY4Tlg5RmU1LURfY0NMU2xGNnluRlBwTWFBY1k3YmczSng5UndSMlE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-13T05:04:41+00:00"
+    }
+  ]
 }
