@@ -1,33 +1,51 @@
 {
-  "updated_at": "2026-11-11T14:49:01.329205+08:00",
+  "updated_at": "2026-11-18T22:20:00.294612+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1477",
   "name": "聚陽",
-  "count": 10,
+  "count": 11,
   "news": [
     {
-      "title": "〈財經週報-台股熱點〉AI跌倒紡織崛起 聚陽、儒鴻強勢表態",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yRnBsWTVYRUxzMzZUNXBOU3RtbTV1emEwYUF2ZEprZkNWdlVZNXdDTkhKbkhqbTRiSnRYWndXbjZkanZrUFdYbHhtWk1nVlNBUUhacm83V1Q?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-11-10T06:26:45+00:00"
+      "title": "今日最夯股／聚陽爆量漲4.64% 訂單增溫、外資加碼買超 | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80blRTcXM3RHhUOFNGZkFTdUxUU2JmYmVkQlVZR1ZUYW51U1hZTGVLVGZ6MVJsOW1VdlE4dVZqck9OWl92LUQ4eFU1TWZEdGFXR2pIMkp3ZFJwQQ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-13T10:51:27+00:00"
+    },
+    {
+      "title": "回歸美國經濟基本面 ——儒鴻、聚陽價值浮現",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmYwRkh4bU1PSjdKX3RPWHRLamRERllCNGFieGhCdkRHYnBWZ2c4Sk01YzhpOVNwYkgwZkxpMDd1OGZHWjkxUEV6RmpMdHFOUllfdGRHU3JzOVVkM1lYdFItbXlmSmxDdXpta1p3UzRCQlNqZEoxUnlLMlUzU0lZVw?oc=5",
+      "source": "今周刊",
+      "published_at": "2026-11-11T07:23:00+00:00"
+    },
+    {
+      "title": "最牛一輪／聚陽報喜 中信64威風",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kMjNob2tWelF6SU1RVHQ4bEhWV0plVzFTWUJ1WmhzRkxKaHEwOHBSZWE4MzNRN2g5bGU0TmhidzdLamI4VmlxdnpFeXpwaFBMRWtzSThBbGdiQdIBX0FVX3lxTE1IelhEZGdtWi1pX1VkZkdPSDZCeUxVbjNnZkpUbm1LUzdvY2dWODdLai1SaGVkRU16bUlUSEUxcl9mbkdMbWhwQjhUT2U1V1JMTWpCVmthdkY5T25GbWFR?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
       "title": "【11:22 即時新聞】聚陽(1477)盤中走強，市場聚焦連兩月營收雙位數年增",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVY1T2tyNFRES1ZtblZpX1Bfa3RWTVJ4Rkw4T0VzWF9IMDVUaExicE9ldkZnclduLWRZN25jXzBibWFmNk5NMkdBeXk1dGNYVTJKUGgtYk03YmZtS3B5dGpRSy15S2VXc0dwX1puaW9ZRjk0Tkw0S3pBc3pKdDFPUVFrRjVma1d1YUtmYXln?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-05T03:22:56+00:00"
+      "published_at": "2026-11-05T08:00:00+00:00"
+    },
+    {
+      "title": "聚陽雙位數成長 延續",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QSGk5cHJwQ1M0dGZVYXlyT1d3R2tvMzFLRlpGMF9ZcVVaQWNsa3ppaUFlQjhGZktGeDNjSHhtWDFwSWZEZ1hPRURQSVFCdncwT3FUNmFud1lLUdIBX0FVX3lxTE9JdEdsa29WZWYxMW1jS01WMnFoRlplMG10djFGSU9uU1BWUFVOaFJBNldLX081Zk1uUWZXWktGR3pZb0xBc3BVVUR2LTJ2ajFxdXBwQldMVzB3VWxPQ1lB?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "聚陽今年營收/獲利雙增；隱含殖利率逾7%",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQNURhX0RlYnNwbkRoVkFjRTFpTVU1ZzBUci13Slh4R1luUWpoLWlaZm9VREQwZVJzOUR5Q3dIeDFkNExWcDdOZ0dFcWcydUQ3VW5xdHdNR2lpUzJFcWM3Tk5Gc2Y0UU1jdDJLWDNzZHpqZVFOWFAxand5UkRtNlpCR2E5WEs5R3VoYVBWU29rcXVlQUI2OWdFSXIxN3hkYThFMXNoNTNpY01rQnBzOWVjQWpFSWpzS2dLMm5WQU96UmlCUy1xMkxibDIyMDVRQ3JwUzh3TG1nZzZmQU1nQWU0UW9kQXZsNlhiTnBZenMzR2Y4dzJIUmdzNzVWRVZkcTJkdkthTFJKUVJISE5IaHRqaDNhYzlfQmJidGpvQVRERQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-04T03:03:30+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     },
     {
       "title": "【12:03 即時新聞】聚陽(1477)盤中持平，市場聚焦運動服飾毛利延續",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUWw4em9JZ1l3NGJxUzU5bmpmUGtOb2ZHMWNEMXd0aF9VWnBGbHBOT0Z2emRDXzlpV3lueHBETnJwbms0NzhxVEFWZkFrVmY4dG9wbmlUQUpEZUNOOGgwZzJqU2d3M1k2ZlZGRHJwQXpHVU9PU0JsYTU5WVRqZ3psSE5nNUx2dmY2cmZvYjBn?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-03T04:03:51+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     },
     {
       "title": "聚陽Q4啟動篩單策略，急短單反成毛利助力",
@@ -42,28 +60,16 @@
       "published_at": "2026-10-30T07:00:00+00:00"
     },
     {
-      "title": "聚陽擴產鎖定印尼/孟加拉，中東先採委外試水溫",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPZWxVdFJXMnFleW9jcVRpUFoteEN1cHVWYmw4LWo1NnVDV0Z0ODhDN0sySXROckw2NjNxV0lyMnYzWURnNzNLZXBHdDh0bWI1alJMS21qN2lBRnJwOW5qclJtV2Q0eG54cEpXMnZGSjQ0NVdYUmtvS1ZPOURXbTRCcXZ2T2hGRzA2cnZ4d2dpVVZiVGpKZE4tTF9Gd09yUURMZHpvTm5keElrX3V3NGVMVy13Mm15NnhHRGFGTmtEa011bHNiU1c1Znh2SEdIbkJFMms1cUQyNUZXNzhGVHVpaHl0TXhfVm9qWnp6WC1RTnREQjV6R2pmLXRfbkUwS0R3bnNBNDBhcEkzcFI0UHNsY1pMOXZ2QmtxWVVRZXF1Zl9UYVBpdlJTbGFOTUFtejBFbHR1VWp4ZC1sLS1zVzRKX3RRU1BnZ2psbDU4NkFn?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-15T07:00:00+00:00"
+      "title": "【1020台股盤前】台股下影線狂拉650點！外資轉買櫃買中小、投信持續買超，巴菲特護城河鎖定【聚陽】、【聯強】、【儒鴻】",
+      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxNeVVlNkVuZDdvVUFZRC1ZR0F4SWtiUExnUElSck9oRmdsdWlSdFZjT0hPakQ1NFY4LXdrWmJXQ0Nlby1oRkJyRExpaEgteUdVWko4VUNmOGxpZjRKT0tMRjVHTGtXc0cwNjh3Y3dPWFJxUWlraDZtc1FaMEVFOERGNm03WTA3eUw0ZkhWM2lLZFpNQ1MzXzJSWmN1Vk03eGJvcHN4RUVtTFp5a0hlX1NSdXEyVkxSSzVESXVDZ0t0QkdOVlBjS3lWVDJoM18ySGcwSUNTdW1ELWxFT0JpdEp2QXdxQTgxRDlPTGV2MzZBT29Tc0lTQ05GZkpWUlRrcjNuV2tPZ3R5eElyYWlUS0hWVUhuSUNoRlBvV2hGQnZrWlU5MXRLWmNrdXNuV3F2MVMtczlqMkhJWGFLc25wNk9selhqZW90QlhCbjJrNVRtZFp0akJrUHZjVVN1OFpmZmhEcE0wNEhfX2x3bGN1NWp0UE9pYjAzOWg2N1BSeUM5NnNLbWNXcGE2UXFpNk95UEtkY1c0MVpIa3RnSWtFVElNMEtnXzI0aTIzTDcxTHRlQWQzR0JCN0d2bEdBdXNRVUxuQXdIU2dxdFVZTmdpNENnRVN2YXJ4a1RrYlhZSi1lQ0ZDMTljOV8zeXJmeHpRVW9oZ1VJUV9Fc1U2U2xELTJyYzRPRVlUWko5TzBvX21COVVEeFotOFBqVXNNNktnbWNBVFVmbUltQy1zZzdaX25fbWlpOEVCRUVNNWVWNzVtaldtaDhldHQtODFQMFcyTk9GUU1PVDBFUnkyMzhmX24tWlVNLWtvNWZvRjVUMFdKYlYxQzVLX2hNaERTTHM?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-10-20T07:00:00+00:00"
     },
     {
-      "title": "【13:23 即時新聞】聚陽(1477)盤中小漲守高檔，法人買盤續成焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0ZXNlZLT1pBYmstbWs0a0hpU21ZVzdJbWcwakpNWDlMQ2FJS1hwWGJKSi1zbUlac013T1N4VnNMbFdwWWFTNHJKdzZlOUx5LUVOdGJlOS16TEs0Ynl4aEhuMmcwOGxsMF9MMGxoNU90bEw1UzROTFEycDJ6QjQ2ODYzUDdmcFNNZkFDM1Zn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "title": "聚陽Q4看正向，短單增、有利獲利動能",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPM25xcDRCSllVaUVjNkNsdVBVeWp5RlRva0dxSXI2aDJBdmRpemUtSkx6cEEzMmhsMjNyVGxtOHdsMXZNYUdVU01VZTFGYUhkUE4wblZILVI1cFlRcXoyU0JCZGM3Y0tRYnZyVU5GT3ZXMVMtUkFXQ3g5WEdNYVkwY05RX1lIbmRCbWVYR0kyNTd3d3lLQnpYbDBiaWFvX3dYVFlwX3dIaFVFU0ZsSUxYWWdzM3lTUHhOaXFudElBTURoaVNVeGdqaTBHRERscnk0WFltV1VPdzBvaFhWdXF2SE9Jd2J4UmNZQUxZY1R0WUxfc0JyS0hSOTlaWjJibU02SktoOU5xOFo?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "《證交所》今日單一證券鉅額成交股票：聚陽、台積電、群創",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1BlcU9CVW1reXBLb3I0cVJLajgxdVNjekpGV3dqS25SMVpLOVhTanBKYkxZT08yY2xkQk9ScE1jeHp4aTFzRE5kckFJZWNDdkU5WTczUnY4bkdKTnhkVDF5MHU3SE90bjA5UkZhMDJaWk9ub2tYd01vQURKU3RoVmRGUVFhcS15?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-10-12T07:00:00+00:00"
+      "title": "【1016台股盤前】外資爆發史上天量大賣超3000億！台股跌破月線尋求支撐，震盪盤勢中巴菲特護城河鎖定儒鴻、聚陽、聯強",
+      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxOSV9mVEVGbEZscFlQaHZPcUpId1hOb0k0VFpuVVQ1T1pNT2QtVTdmVWxjMW90dmhQNXNlVzRUX1VnamFzSUlndm9CbHYtUVk1OF9WUW5VQVVLTmxmcndwdGNCLWU1d0dENUdtSC1mdDY2RkxnU1JPb3VSb21JTnZuVXY4dFRvZGNRVFFtOS1nTXFLY0gweTdXX3RSeE83aVF3dHRzLXY0RERmMVN2Z09EWDg1emF6dXhlUFNYRnVuTnF3YWRBXzZrWDJYdlQyTUZqbDkyWTQxeUEtMlJ3QmNyYlNzMFNJXzNkRnRJSjdjSXBZYTNPOXU2dmFMQWpGMXJmVDJkTE5pOUd1TnVGbVlWWWhWeWUwcjE4XzRROFJOOUJCZUE5cTYtYjRHUUYwNG9JZUhLTVVTbmhpdUd1eUpiVmt4b0JDMWFhdFBPWXBIcjVEbnYxNWg1WDNNd3Zick8tRUIxamt0TWdGSkNMbnZnTmxST3hBY1llYWJlenU2eU1RRnRwTDBFdVZ4WHNESlhPRVZmTU1TUFJRaWNWU1BrRmIySDc5YVlBUEZSMnpCZlV6bjVLR1h1RHdWTGxGdURhLWV2YU9OQ2psekZ6Z3FmbS1tQmNZdGVQRUFRV25oWm9wSDRlV0dON0l1cUFILXpXYTRSMVV4R2xSMHBUM01BR0JDTEN0c25OWk9ucC1MZEl2NWk4dGw0TWdXUEtVNjFTTTUweXJhR2tUYlhha1M3SmxBcVF5MUFzMmQwWDkwcWdQM1F4TGhXTmNPbnZicVd1aWh6UjJBUXRSLTRDcmVvZndGQUo2T2lxRkJjaUloUzNGVmhKODNmXzh1OTk0UTdtZDV6NWNnbHFvcEJkLTVyakQ1UXQwREVVYnZhS1BvNVo5TUkwbE9Jd0xUUHZLRFdK?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-10-20T07:00:00+00:00"
     }
   ]
 }

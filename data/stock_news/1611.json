@@ -1,51 +1,33 @@
 {
-  "updated_at": "2026-11-11T14:49:26.842287+08:00",
+  "updated_at": "2026-11-18T22:20:23.149418+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1611",
   "name": "中電",
-  "count": 7,
+  "count": 4,
   "news": [
-    {
-      "title": "《全日速報》恆指跌315點; 恆生科技指數跌76點阿里巴巴跌逾3% 中電、晶苑國際、太古創新高成交暢旺",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPMk5aUU5WZUxENnRFMVI1ZERmRDI1MEhQWWp0NWcxVFpJVXlSZHJMVWhNZzZxa1ZaVmhqa3VzRVZxd0NlelIzam1TdzVBWVdZaHVqRFZBSHozdC1Ud3RRaVhBQVRqcWY1ZkhUOE5uWDZuSGZtdXAyeTIxdTh0clJfNXRGLW83UE9rR0FhbVVveENtNURLdThjQ0NCN2VzbVVBbjFaUG81a1lJUkwwX2pIRnMtNmoxSGo2c1N6ZWdnVktvb2JRV2NzV1EyNGQzdVNJMDdpQ2w5NGxEOVNqT0FfeXlfampGNUIwOGtGcHVHb1VWZ18wRnZIUi1fcFhrbl85NnkwaG5Ccm1DcHdzVFgwLTB6T0JjbC1RNUtNOW11Z1JhWDE0OUttY093RG9xS1ZOamJpWm1VVTk5N3c0RUlaUHc0MGlmQThZTWhSeF9nejNxZEN1TWp6SEEzOVkzbGRQTmR1Nl9HUnAzcEJ4OGZLTmp0bGI3WmVxalE1ckJfenNYUFBlOVRGT3Jwdw?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-11-06T08:12:03+00:00"
-    },
     {
       "title": "【12:13 即時新聞】中電(1611)盤中小漲，電器電纜族群續受市場關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkxCLXFRb011elNNYzI1Sk5XRmJ2bGNFdTFJLTNzcVdiVDZkRDFaUUgxLWRRZGNNU1RwRXZGNEdQY2ZJUUdJaExIZnRUcE1rVU5QZFVXRzJxc2NiMWR2ek9nT1FtUTdqT01OVDJ0bzBCbTVsLU9XOGRRWDktek5JWTVsT0dfcW8tdUdFeXlB?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-06T04:15:22+00:00"
+      "published_at": "2026-11-06T08:00:00+00:00"
+    },
+    {
+      "title": "《全日速報》恆指跌315點; 恆生科技指數跌76點阿里巴巴跌逾3% 中電、晶苑國際、太古創新高成交暢旺",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPMk5aUU5WZUxENnRFMVI1ZERmRDI1MEhQWWp0NWcxVFpJVXlSZHJMVWhNZzZxa1ZaVmhqa3VzRVZxd0NlelIzam1TdzVBWVdZaHVqRFZBSHozdC1Ud3RRaVhBQVRqcWY1ZkhUOE5uWDZuSGZtdXAyeTIxdTh0clJfNXRGLW83UE9rR0FhbVVveENtNURLdThjQ0NCN2VzbVVBbjFaUG81a1lJUkwwX2pIRnMtNmoxSGo2c1N6ZWdnVktvb2JRV2NzV1EyNGQzdVNJMDdpQ2w5NGxEOVNqT0FfeXlfampGNUIwOGtGcHVHb1VWZ18wRnZIUi1fcFhrbl85NnkwaG5Ccm1DcHdzVFgwLTB6T0JjbC1RNUtNOW11Z1JhWDE0OUttY093RG9xS1ZOamJpWm1VVTk5N3c0RUlaUHc0MGlmQThZTWhSeF9nejNxZEN1TWp6SEEzOVkzbGRQTmR1Nl9HUnAzcEJ4OGZLTmp0bGI3WmVxalE1ckJfenNYUFBlOVRGT3Jwdw?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-11-06T08:00:00+00:00"
     },
     {
       "title": "《全日速報》恆指升877點; 恆生科技指數升218點小米集團升逾8% 阿里巴巴升逾8% 騰訊升逾7% 百濟神州、中電、泉峰控股、太古、太古B創新高成交暢旺",
       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNYXNCNDl0ZEJFSjhRTXVaMHNnTi1Cbks2X2V0czN5Ml9iVzBFbDhpVWFaUlpZazA1bHl4WG1OXzl2MHZRcjJxcDllaXJhdUpnYjJtWFJlQ1MyWnhxb2hjcGtaMmFEcnlZdjVEcjNvZG9ZQy12SU4tdVF3ejZoS2RKS2piWVVLMXFoX2pCaHQybldsaDExemJQWUdaMV9taWU0MWhQelllLTkzWU1lVktrMTNYdHRlY2dGbkF4OEhkMjlTN19idW83YUstUFZfSnY4WjBfRDhFcFZMUkZOTUpRbkdFcndsRnE5aFFKY2YzcDdIUmRiamx1bEN0d1p3MllhN1J5RjAtVGxfQXE1TGJfMHdwZ3pPYTg0WE1OZVM4Nk1DcjBPVFAzZVcyVmFydkppcF9zQzFFdkpGT3ZUQi03blg4d0tvSFFGeDVzSEZOSEdBS2dxTlJWQzVnM1Z2Yk1jOG9fLXRyZFNGTHQybEpDTVkxTHgxZW15ODNYS2hmOVpkcTRsLUV3VmZ5QU5xZWpKOHpnWkY4eHZrWDhvam80SHlBclAySllLTjdhdVRGX3lReDZYVGVFWXJ4UG1DUQ?oc=5",
       "source": "Yahoo 財經",
-      "published_at": "2026-11-05T08:12:02+00:00"
+      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
-      "title": "【09:43 即時新聞】廣寰科(3287)亮燈漲停，量價齊揚成盤中電競焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmQ5cGtYTmtTb2dkU2pjS3RlbmJsTzhBU3hRQUpmZFQ1dUY4TnVYTTVNV21ZcVBFZ0d3Z00xNzktbWZiWDJ3Y1VBamhQdDJObGNQZi05TXZIal90Qkdza0F5ejFObTE0YXdST0U4ZDN2SU82RTIta3B3a0lMczllYzBDd0NSYWFSdG1iUnZR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "匯豐給予中電(00002)評級為「買入」 目標價為88元",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNMXRQRjRwZmQtc054Uy1BQ3Q3Qk9abi1mc2pCU0lDMnB1d1JNT1dNWGVQS2ozNlFfZk1SbWVWbGpSMHR4bWNwV0lPOEE5UFJvblUwOEpjcDZnODNyaUxHbmdoZFNiUndyUE44TGI5QjVMLVBzT255RW9NMjNvUEowVTJBc25mVlU3Z0xwUTMtVFBzVUdwVUFCOEREMjlzNXBHS2h4X2c4WjNoNm1PR28tWG9LdF82MWxCMEt3Z3M0eU5wSXdfeXpMb3JvY0VLR2NCSDJ6bllza1pKbkZERmRrNnRBcXZWdHhqV1prdFdteHpNbnEwZmZ2WUwzTkRVRzFtTHVkc2V1dnBteXFsSzN1N3gzOUpndVZUS0FlaW1kTmFRVVY4eDVzZWlEVVk?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-10-12T07:00:00+00:00"
-    },
-    {
-      "title": "【002】中電首三季香港售電量按年升2.5%、數據中心用電增近13% 季息維持0.63元",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPbWlJYjZIVjVoZng1RU13NmtoUUpTeVEyU3hzYnBMaFZfVmlYS2JVWS0tc2lHWXdsWi1EWHpyd0JmMGFLa2hnbjNzNFgtMEZnNXBtZF9nZEFMbjBnZ0FWWG4zSllwV3FJLU50MXJxcm50NDVETkJoVGdZZllZQnNvUjd4QVlRU2ZpUWlBUUhvOHgzMGcxdGlOVXV6eFoxMXRIYmpPdlFSekU0dGxPTEJBMjhLUVFGTHVqX2FSSjFZLUpjMV9NSF9BaHZCUFl2YmlVWG5LbHdGLUR2TXpxWXRST2tjeS1sWk9ZMkRPLWhSWWZGYzlOY1NncTJsVFg5SC1IaTNGc3BtV2UzN0tsZXZCcm45X1V6YmFOYUxkSU5TV0pPRWNuYmU1TVE4SHFXMmNKTUh4OHFhYmd0UFRzb1ZUYnlZSGxZZ3BrT0c3R29VcGd4Ylg2TUlORTRpbWttUlE1eFZ5LWN0S3RMNkJjWUc5SWVLVXpHUHVVaWlaMGY3VGc2Y0tMc2k0TzVmRWkyUTFCLVJlTVNpT0pDYnRBSGZ0YmFWZnBlTHd4TjYyWUlvSW50dzJrTC1LSWtGeHZNdGZrc3AwWmtGcGtLX3M?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-10-12T07:00:00+00:00"
-    },
-    {
-      "title": "港股｜中電(002)首三季港售電量升2.5% 季息維持每股0.63元",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnlyVUtvb0FLbV8wczdzMzI1TEJ6RjFnRTc3OE1lUUtCQ0RmS09NRDhUR2FvX05pb09aOXFweUFROG1GaDZCOTE0MlZPNG9FeXZEWm9vWVJuZ3ZNc2xLWU1SeVZNUm1ObURrTFI3WmJOVXd3bFVCNGlPRVF5d25vdHk2empjUFA1S0ExZzlIQXZ3dnBuakhvSlBpVjd2eHIxS2g4U0VHU2o3OGsyc3lDODcteFVFak1TMDlrY3oyZnltLUlraUhlSk9GUTlKaU01UUJCRl9tZm01b19iUGlKWnh1MmJIVEZQQnJ6Q1lRS0lNaDlrdGx2WHBR?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-10-12T07:00:00+00:00"
+      "title": "中電電機(603988)9月30日股東戶數2.16萬戶，較上期減少1.08%",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UTBFdEI0VDQxVXJ5Q2JHc2haR3BnWTIycUwweFQxX0lBN2k1eUszQUZ6bTRKXzdzazlxVEpEQWRRdXA4bEJ6UU4zbjcwekFBNXVPYg?oc=5",
+      "source": "富途牛牛",
+      "published_at": "2026-10-31T07:00:00+00:00"
     }
   ]
 }
