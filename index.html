@@ -6795,12 +6795,24 @@ function normalizeHistoryDate(value){
   return /^\d{4}-\d{2}-\d{2}$/.test(formatted) ? formatted : "";
 }
 
+function isValidHistoryBar(row){
+  if(!row || !row.date) return false;
+  const open = getHistoryNumber(row,"open");
+  const high = getHistoryNumber(row,"high");
+  const low = getHistoryNumber(row,"low");
+  const close = getHistoryNumber(row,"close");
+  const volume = getHistoryNumber(row,"volume");
+  return open > 0 && high > 0 && low > 0 && close > 0 && volume > 0
+    && high >= Math.max(open,low,close)
+    && low <= Math.min(open,high,close);
+}
+
 function getStockHistory(code){
   const key = String(code || "").trim();
   if(!key || !marketHistoryReady) return [];
 
   const stored = Array.isArray(marketHistory[key])
-    ? marketHistory[key].filter(row => row && row.date).map(row => ({...row}))
+    ? marketHistory[key].filter(isValidHistoryBar).map(row => ({...row}))
     : [];
 
   const currentRow = stocks.find(row => String(getStockValues(row).code || "").trim() === key);
@@ -6816,7 +6828,7 @@ function getStockHistory(code){
       volume:cleanNumber(values.volume)
     };
 
-    if(date && latest.open > 0 && latest.high > 0 && latest.low > 0 && latest.close > 0){
+    if(isValidHistoryBar(latest)){
       const index = stored.findIndex(row => normalizeHistoryDate(row.date) === date);
       if(index >= 0) stored[index] = {...stored[index],...latest};
       else stored.push(latest);
