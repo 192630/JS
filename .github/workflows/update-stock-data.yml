@@ -7,7 +7,9 @@ on:
       - ".github/workflows/update-stock-data.yml"
   schedule:
     # GitHub Actions 使用 UTC
-    # 台灣時間週一～週五 16:30
+    # 備援時段：排程曾延遲 8–10 小時，較早提交可增加收盤後更新機會
+    - cron: "45 0 * * 1-5"
+    # 主要時段：台灣時間週一～週五 16:30
     - cron: "30 8 * * 1-5"
 
 permissions:
