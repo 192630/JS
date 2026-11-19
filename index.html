@@ -9989,10 +9989,8 @@ function getActiveEtfHistoryDates(){
       ? marketHistory[code]
       : [];
 
-    history.slice(1).forEach(item => {
-      if(item && item.date){
-        dates.add(String(item.date));
-      }
+    history.filter(isValidHistoryBar).slice(1).forEach(item => {
+      dates.add(String(item.date));
     });
   });
 
@@ -10013,7 +10011,7 @@ function getActiveEtfRankingByDate(date){
       }
 
       const history = Array.isArray(marketHistory[code])
-        ? marketHistory[code]
+        ? marketHistory[code].filter(isValidHistoryBar)
         : [];
       const index = history.findIndex(item => String(item.date || "") === date);
 
@@ -10026,7 +10024,7 @@ function getActiveEtfRankingByDate(date){
       const close = cleanNumber(current.close);
       const previousClose = cleanNumber(previous.close);
 
-      if(!Number.isFinite(close) || !Number.isFinite(previousClose) || previousClose <= 0){
+      if(!(close > 0) || !(previousClose > 0)){
         return null;
       }
 
