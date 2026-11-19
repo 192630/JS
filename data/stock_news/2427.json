@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-12T11:56:37.392462+08:00",
+  "updated_at": "2026-11-19T21:34:41.905108+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2427",
   "name": "三商電",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【11:53 即時新聞】三商電(2427)盤中走強，短線買盤回流成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2lGV09sRmg2T1BTTGdOX0kyMHJIb3N1RVlZMGpzOWJzUXFCaEczeDBhYkZocGozdFJPRjlITWhlTG5ZQnc0NWw5bWhGZDAtMzk4Y2FadUVyZWhlT0NXSmF3U2U4SzI4NWxGR0RtRUpLM2NKRU5tR0NMQlY2M0g0Nk9CbS12TnFsZEc0UW93?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-16T03:54:20+00:00"
+    },
+    {
+      "title": "【12:52 即時新聞】三商電(2427)股價走強，金融設備與系統整合成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkE5cU5taHFTT0xYeHR1ZTdCRUJWNEZDT1ZoUmVWTDBnQ0ZLVS0yY1c0MmkxLWJ3NV9DdTQwOS1DOU5JbGVmb09UUV9uUE9TOHdBUmZFVlNDbC1LT2Q2bC1XU3c0NjdzUkR6cFZ2LVhDXzZjWE9YZGFXQ2c4emJwTVdodEpoQ1NhOWJHWENB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-13T04:52:43+00:00"
+    }
+  ]
 }
