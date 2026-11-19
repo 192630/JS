@@ -759,6 +759,17 @@ jobs:
                   )
               }
 
+              prices = [record["open"], record["high"], record["low"], record["close"]]
+              if (
+                  any(price is None or price <= 0 for price in prices)
+                  or record["volume"] is None
+                  or record["volume"] <= 0
+                  or record["high"] < max(record["open"], record["close"], record["low"])
+                  or record["low"] > min(record["open"], record["close"], record["high"])
+              ):
+                  skipped += 1
+                  continue
+
               if code not in history:
                   history[code] = []
 
