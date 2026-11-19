@@ -155,9 +155,19 @@ jobs:
                           continue
                       sign = re.sub(r"<[^>]*>", "", str(values[9] or "")).strip()
                       delta = str(values[10] or "").replace(",", "").strip()
-                      change = sign + delta if sign in ("+", "-") and delta not in ("", "--") else (
-                          "0.00" if delta in ("0", "0.00") else "--"
-                      )
+                      closing_price = str(values[8] or "").replace(",", "").strip()
+                      try:
+                          has_valid_close = float(closing_price) > 0
+                      except ValueError:
+                          has_valid_close = False
+                      if not has_valid_close:
+                          change = "--"
+                      elif sign in ("+", "-") and delta not in ("", "--"):
+                          change = sign + delta
+                      elif delta in ("0", "0.00"):
+                          change = "0.00"
+                      else:
+                          change = "--"
                       fallback_stocks.append({
                           "Date": otc_date,
                           "Code": code,
@@ -167,7 +177,7 @@ jobs:
                           "OpeningPrice": str(values[5] or "").replace(",", ""),
                           "HighestPrice": str(values[6] or "").replace(",", ""),
                           "LowestPrice": str(values[7] or "").replace(",", ""),
-                          "ClosingPrice": str(values[8] or "").replace(",", ""),
+                          "ClosingPrice": closing_price,
                           "Change": change,
                           "Transaction": str(values[3] or "").replace(",", ""),
                           "Market": "上市"
