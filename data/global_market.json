@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T06:14:54.401609+08:00",
-  "taiwan_market_phase": "盤後",
+  "generated_at": "2026-11-20T11:31:39.735236+08:00",
+  "taiwan_market_phase": "盤中",
   "update_status": "更新完成（延遲行情）",
   "risk": {
-    "score": 78,
+    "score": 84,
     "status": "高風險警報",
     "color": "red"
   },
-  "summary": "盤後整理：全球風險溫度 78／100（高風險警報）。主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。",
+  "summary": "盤中追蹤：全球風險溫度 84／100（高風險警報）。加密資產與科技股同步下跌，規則判定風險偏好下降。",
   "taiwan_impact": "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
   "indicators": [
     {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 61774.0,
-      "change_percent": -0.8805076942055567,
-      "data_time": "2026-11-20T06:14:02+08:00",
+      "price": 62086.0,
+      "change_percent": -1.2722654981473922,
+      "data_time": "2026-11-20T11:30:35+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 1745.71,
-      "change_percent": -1.0102768648727434,
-      "data_time": "2026-11-20T06:14:02+08:00",
+      "price": 1743.93,
+      "change_percent": -1.8677841886271762,
+      "data_time": "2026-11-20T11:30:35+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -43,9 +43,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "NQ=F",
-      "price": 26505.5,
-      "change_percent": -2.85421076261946,
-      "data_time": "2026-11-20T05:59:59+08:00",
+      "price": 26438.75,
+      "change_percent": -3.0988573994154134,
+      "data_time": "2026-11-20T11:21:37+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -56,9 +56,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "ES=F",
-      "price": 7182.5,
-      "change_percent": -3.4480440919478426,
-      "data_time": "2026-11-20T05:59:59+08:00",
+      "price": 7175.25,
+      "change_percent": -3.5455034278800914,
+      "data_time": "2026-11-20T11:21:35+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -71,7 +71,7 @@
       "symbol": "^SOX",
       "price": 9419.723,
       "change_percent": -10.345304458977013,
-      "data_time": "2026-11-20T06:14:51+08:00",
+      "data_time": "2026-11-20T06:15:59+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -95,9 +95,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "CL=F",
-      "price": 83.16,
-      "change_percent": -2.9864675688287474,
-      "data_time": "2026-11-20T05:59:57+08:00",
+      "price": 82.76,
+      "change_percent": -3.4531031264582293,
+      "data_time": "2026-11-20T11:21:36+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -108,9 +108,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "GC=F",
-      "price": 3627.9,
-      "change_percent": -5.842200882429274,
-      "data_time": "2026-11-20T06:00:00+08:00",
+      "price": 3525.3,
+      "change_percent": -8.50506099143524,
+      "data_time": "2026-11-20T11:21:39+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -121,9 +121,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "DX-Y.NYB",
-      "price": 103.931,
-      "change_percent": 0.36793819410912626,
-      "data_time": "2026-11-20T06:04:43+08:00",
+      "price": 103.854,
+      "change_percent": 0.29357798165137816,
+      "data_time": "2026-11-20T11:21:32+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,25 +143,37 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 61,774.00，漲跌幅 -0.88%",
-    "以太幣 1,745.71，漲跌幅 -1.01%",
-    "納斯達克100期貨 26,505.50，漲跌幅 -2.85%",
-    "標普500期貨 7,182.50，漲跌幅 -3.45%",
+    "比特幣 62,086.00，漲跌幅 -1.27%",
+    "以太幣 1,743.93，漲跌幅 -1.87%",
+    "納斯達克100期貨 26,438.75，漲跌幅 -3.10%",
+    "標普500期貨 7,175.25，漲跌幅 -3.55%",
     "費城半導體指數 9,419.72，漲跌幅 -10.35%",
     "VIX恐慌指數 28.44，漲跌幅 +47.36%",
-    "WTI原油 83.16，漲跌幅 -2.99%",
-    "黃金 3,627.90，漲跌幅 -5.84%",
-    "美元指數 103.93，漲跌幅 +0.37%",
+    "WTI原油 82.76，漲跌幅 -3.45%",
+    "黃金 3,525.30，漲跌幅 -8.51%",
+    "美元指數 103.85，漲跌幅 +0.29%",
     "美國10年期公債殖利率 5.05，漲跌幅 -1.98%"
   ],
   "rule_signals": [
-    "主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。"
+    "加密資產與科技股同步下跌，規則判定風險偏好下降。"
   ],
   "inferences": [
     "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
+    "AI與半導體：承壓（依據：科技與風險資產同步轉弱）",
+    "科技權值股：承壓（依據：納指期貨轉弱）",
     "航運與原物料：留意成本與報價（依據：原油波動較明顯）"
   ],
   "affected_sectors": [
+    {
+      "name": "AI與半導體",
+      "direction": "承壓",
+      "basis": "科技與風險資產同步轉弱"
+    },
+    {
+      "name": "科技權值股",
+      "direction": "承壓",
+      "basis": "納指期貨轉弱"
+    },
     {
       "name": "航運與原物料",
       "direction": "留意成本與報價",
@@ -294,8 +306,13 @@
       "generated_at": "2026-11-20T06:14:54.401609+08:00",
       "score": 78,
       "status": "高風險警報"
+    },
+    {
+      "generated_at": "2026-11-20T11:31:39.735236+08:00",
+      "score": 84,
+      "status": "高風險警報"
     }
   ],
-  "risk_change": 23,
-  "risk_history_sample_count": 22
+  "risk_change": 6,
+  "risk_history_sample_count": 23
 }
