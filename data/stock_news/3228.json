@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-13T17:45:56.041950+08:00",
+  "updated_at": "2026-11-21T05:20:05.690352+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3228",
   "name": "金麗科",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "3228 金麗科 - 大盤不跌- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTVFNoMkZISzQzT3EySjhKb1dZMFl1TUkybmszd2dWOUNRNjlRMkRfZVNjZVF6V09vZkhEU1lpemhzNTBRWHdFUmJjZk1XZHNaaS1pR0UxZUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-13T02:51:12+00:00"
+    },
+    {
+      "title": "3228 金麗科 - 早安阿麗- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5meE1wa1JsYnV2b20zRjhnd244MGUxSFpRN1kyTlRnYklQYUNHdEhFbGxtTFRRWXQzM2hNOHdLaHN0aXlDckRUVnlicnpTNHE4aVMwczZnaVE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T02:52:17+00:00"
+    }
+  ]
 }
