@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-13T09:58:36.324155+08:00",
+  "updated_at": "2026-11-20T21:16:01.486238+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3056",
   "name": "富華新",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "富華新 2026-11-19 法說會",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUlWcFVEb2pQOHhqTURHSjVRaVRUalV5bm1wNEFMeE5vX0lLNXlZOVlKOFYzWUw0emQwb1d1ZzNWX0ZJOXF3NjhfZ3YzMGI3dEtnNXVpNTRnRVhtejFjTmxESnAzdkhqWjFPWG1HR3RYUHBhNlZGaG9oaU80S3dVbzV1Nng?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-19T08:39:32+00:00"
+    }
+  ]
 }

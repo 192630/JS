@@ -1,38 +1,44 @@
 {
-  "updated_at": "2026-11-13T09:58:31.585623+08:00",
+  "updated_at": "2026-11-20T21:15:57.327640+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3045",
   "name": "台灣大",
-  "count": 8,
+  "count": 11,
   "news": [
     {
-      "title": "台灣大(3045) 持有精誠 61% 股權！12 億淨利貢獻為擬制值",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HVi1JQ2F0YUwzNUk2RC1yckFXQlNpaElRX1JhMjIwLXRMZkFoZGVSMGt1QXZVRVlvdFhlOTZEVFIxWjZNb0Z1dHY5NmlCWnM?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-12T18:29:55+00:00"
+      "title": "【13:02 即時新聞】台灣大(3045)股價壓回，法人與主力動向成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejBEajl0dk1NQ0M1R0JHQmVSOGZ1VFY3cm5mS3hYN1NEaWxzZUpGQlU1Tk9RN0g4R0hqZW9RVldGQTZTenBvOFUycU5ZYS1UZzRKYlNQUVBoVUdFSFYyZE5PbG5GdS1GTTVRSS1mYjhkQjlKRFdqZWJ2ellSOUNkMm9MM1RaQlJWbDJKMGlB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-20T05:02:51+00:00"
     },
     {
-      "title": "台灣大(3045) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jalVKS1llMTExRnFaT083SEo4SlFwSnFzUVNKM05WTzluSUdnaGpSRGFlZmlSMERCZUhOZzFLSWdKaFp0SWtocllKSkM4dGVpbkhF?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-11T01:55:29+00:00"
+      "title": "中華電166元守紅，台灣大、台達電在大盤跌1768點下分化-起漲K線",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQi1RQmtyZHdxOGhnRTIzbUpNQnE0ZUtlNVNIWDlWcG9xYk85MzFET3hmOExNWFM4ZzFYUllMSWtqYXktNmVla3lXUzJoVEhxWTFCemgwVDI4Ukg4cDZ2d0YtVi1HN1RZTW1KZVgtMnhfNTRqeElfM3BORVRaM0hJSExUYWs?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-19T10:28:44+00:00"
+    },
+    {
+      "title": "【10:11 即時新聞】台灣大(3045)盤中緩步走強，外資買盤成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVQ2cFhJVGpLSjBmVWxFYkVrS2J0cTVXM21oSy1JTEt2S2wyRWZRMkVmZHFYTG1GbWJUMkFVdDdsNHZrSV9ScnFiOV8tWFN1NHQ2QmxqYUFNVllxWnFMdVRFUkw3Y19GRG9aeGFDSFpBMUlPcWpFWFJZcnBiSmpLQkR1b19EOEp5QW0xM3Rn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-19T02:12:01+00:00"
+    },
+    {
+      "title": "安聯台灣大壩基金-A類型-新臺幣 的總覽 | 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVmc3aWY4Y25LM1VwQ2ktV0pDaGtmZ1lmX1R0V29yV0lnMTZReHhpRWhlWmY2UlN2Smw0RzNZWnRfWnhhMmxNdzd2SWpubS02aUp0WW1uTHlzVGVxdEhWMUhTWGluYzFIWURKdm51WVQ3T0hOVEFFSW03ZWxsSzM5UERNS0R6Q1kzRGJuLVBMVDMzTkZFaGJtWk9fZmU3WFRyb2RENTliTDhoNzFnb3pFSk04NG90cGJmbVVSMTZCRGpBY2RhVVJuX1JBZTZZTklWRWZSMzBDUFlnV3hlWkNmRWZZUGJ4TFpMbGtaY1VB?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-18T08:00:00+00:00"
     },
     {
       "title": "台灣大收購精誠 跨越門檻",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TTWN6U3NCZGdUU3JCS3F4MWJXcE9pdjdrQWlfU1ZWTjRoRjNiWEI1aHBJVUp4cVNlX2lXdDFzSVZLNTlKcnlqQ1E0SnBNQUcx0gFWQVVfeXFMTXRIWHJpQzgyTjBIWGlFdmVtb2JrSjZZLWx5RlpzMUFSbXlwWVB0T2ZITnBnXzFVOUJmdDFmLVY2LVhfQ0twOFF2dkFGQVlUZXk4NkplU1E?oc=5",
       "source": "UDN",
-      "published_at": "2026-11-04T16:10:51+00:00"
+      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
       "title": "台灣大已收購精誠1.11億股達最低門檻 公開收購兩成就條件全達成",
       "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUFd4ekRDZWZvSGUtOUExWUpkX2Zkb2RkbjdERW12MzRPejJYZzFMQ3ZIeFluSlp4MTFkcDJHSmJsUmtKWXZpblktYXdkUk5qamFyRGhaMjhNcWxvbVRuYW9fZFp0Mmx3SGVVZTY0MGJPOEFXNVNySVI5QlBPRlcwT19rWXRFQm43TUgySUNnMEhucUdSX2hiV1Z0eFYtR3F5Nkxnbk1JTDBTVWszY1FOdUduQ25QblBFSENfU3UxaTZOX1Rqbll1aU1PUDBzcm4wc1VjdXJtSGFreHdBSkF3b2tmY2doVWFFaGdUb0ZVa0gtVzFFdkR6dFVEWHhGS3lQZUV0azk2b0ZkNGd0TmJCdlZTUTFHR2ZYZ0wyOFFmZU1Qa1R6ZTRjR0l4ZUhYaFB2QUY2blF2VGQxN1RQdnhaS01hb044U2JDaVBhZUh5X3ZCUTUzT2RDTXJnOUMzVkFOem15RjdMT2ZwRkl1TE9lNW1VV3dFOHVMb2dDeEN2VjlBbUxoNHZwamZLcjllZWs5QzFkY1JUb2l1eXFpc3cxemdVN3NuQQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-04T08:00:00+00:00"
-    },
-    {
-      "title": "台灣大收購精誠跨越39%最低收購門檻 兩項成就條件皆達成",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XSjFjTFJTa2NSVHN6UGFpS2J5YUJ3M2pQZ1NVUlh0R2FVUXV6T1NmTVNtaUNnWVpyOEpIZzJTYW1uN0VJejdfOVVaclRHSG8?oc=5",
-      "source": "鉅亨網",
       "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
@@ -42,16 +48,28 @@
       "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
-      "title": "台灣大收購精誠突破39%門檻 成就條件全達陣",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wTmoydFNuMzVpRGtBVWNScjhnSUROdVFaSjFnNmxRVzY4ZHVZOHI5YjFFV3Rlekt4bldhZ05ZZGhhQmRncUE3YnMxZFBDMTR5ckpUMXpWNm9nUdIBX0FVX3lxTE1iUXkxS2NBUmloYVNoX09SRWdoM1czdzB1Tm5xa1dJTk5mNEJDb2FkTXJnSU1odUFtLW5RXzA1TEExaFJ5b3hiZXBlMVgxV2hpcjZDLVFLRTY4VzhuUUFB?oc=5",
-      "source": "經濟日報",
+      "title": "台灣大收購精誠跨越39%最低收購門檻 兩項成就條件皆達成",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81T3BqWERGVzZiOTRCUWt1cTZaMklIYk1qMTNPQzdkS3R5czZCQ3QyQVVpdmFQbWplVFZXVk9jUW5TWXNyQks3ZWQ4Z1pFbGxBZVdxRFJ3?oc=5",
+      "source": "優分析UAnalyze",
       "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
-      "title": "台灣大為何收購精誠？企業AI這門生意，電信商打算怎麼賺",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FelVpZmpmTjd6SXMyS1RHejFGdWZONGY1UTZmUndUMDNDbEJjVnNldzBCT1RaYnU0eThVM2pBZ3ViaGVFdXU5ZTdzUzJuR1Vucmp1WUVYc1R0Ty02RlNROFN1dWdTQQ?oc=5",
-      "source": "口袋證券",
-      "published_at": "2026-10-22T07:00:00+00:00"
+      "title": "兩項成就條件達成！台灣大公開收購精誠資訊 比例達40.89%",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvbkU1SUEyVERWSFU0OGhYMWVXNWJydW53ckFuVmtUV0ZleFhKSE1LM3ZkcVFDOFB5Q2FXMVNBalFxZEJxZVZxc19RWU7SAVJBVV95cUxPUGs4T2NCalVXVURQSjRpZk5ITVk5ejBYMjFTQUtMNkM4dFV2aDJZMnR3bXdaTVd1Y3NrcENOMkZ2V1NOYlB1LVlUbjNsWUNjRkR3?oc=5",
+      "source": "NOWnews今日新聞",
+      "published_at": "2026-11-04T08:00:00+00:00"
+    },
+    {
+      "title": "電信股王爭霸戰開打？ 台灣大總座林之晨：股價超越中華電僅「時間問題」",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOTkRXMXNkbFhQclVRMVU2b1FnME5WRTJqcEdLUzRfZ0R4aVhSOTUtOG41VGNIaDNqX1NVbXdnWGdHaHRLVDhuZ3BPQlBValF2OWVjWTRibksyUGZjcFAxMXhKNnYwamV3MVJUcVFhU0k3Y0RGM3psN0JjUEp4Q3lWTEdjRDN5SnZIVTFPZlM3NjZtMTg1UTdkN3dnTkVRblI1RFNRR0VGZ2VTY2lXOV9FcW14WFpwb2hCaXI1ZDlfcVV4U0JCSjVWMnNaZmxubVc5WDdtXzJUWGNiZWRnN1NQTnEyendjaldMZ1RCYmVwOGgybGw5YnNXRzFvQmozLVhLYlpKbDlnYTFLVzBRVHl2X011enpYZW5DbWE1OXM1dVZBT29tSUNmZU9ka2dSQi1RRlNpN1JvOVhya21VRW9IUVlSMExaazZmVk5ZMHM3dDkzOTBMV1pQNUtsbXcxWmFLT2RTUlEzdEhYeVhELVNxbnV1U056elhkZWJqRG1EQnFCNWFRVURKUzNRWnhtOS1GZ0tXZ2RFWHQ3OUZXSkROX0E4WXk5SG5udG80ZUU2dTFrdzFyM3l3OEpyUkl5UWRfX3dOTzh6WU9sYWJJR2pSYTJjdWVkaldpZHhSazFiSV9ndmFRcjBMUg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-10-27T07:00:00+00:00"
+    },
+    {
+      "title": "何時拿下電信股王？ 台灣大總座林之晨：股價超越中華電「只是時間的問題」",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tMjN2VnJGT1dUeUxzQTVZMkl3d1huSXh0QlJ3eVdKSjk2cGUycG1MTUMtU1RwaGlfcmVBeUxrb3RuZDkweWtHRmtEVWV4aTR20gFWQVVfeXFMTVFCUi1nLS1jZFkybjhCQW02U2hVbVkzWlZFaFljU3lMZVVaNk1uZG80azg0Q0hELTY2al9lOUo1VzZkaUxfU015d0RzMWVidUxTR1JkVkE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-10-27T07:00:00+00:00"
     }
   ]
 }
