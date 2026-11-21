@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-14T07:43:51.228019+08:00",
+  "updated_at": "2026-11-21T19:28:28.145424+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4153",
   "name": "鈺緯",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《集中市場券商買超前30名 3-1》台玻(4566)、友達(4153)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTJBYlZYM3N2MHNVem5FQ28zeUJyRm10RjBfVlo5eUJ6U2RORnJUeXk1a0RWbW5XQTQydG5ZbHo1VHpkSDRBeWxwMl9nQU40NE51ZmdtQ2pybFpFaXhJTm5VX1M3OEtVelFkaVlyaDcyZjBpVkthMHVmMkN5TTlTT0w2S0g2dEhz?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-16T23:30:00+00:00"
+    },
+    {
+      "title": "鈺緯(4153)董事會通過115年前三季EPS1.45元較去年同期EPS1.04元增加(10/27股價31.1元)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkbkgzNndqRUdRSUVGaG9RWGhSRHlKeXVfajRDbWwtQUtMbFdlbDRSaGpCbngxM19vbTBLZklaTF9Rb0hDM2pzN0xmSTlpVDVmVkhaeXZGRG15N1pDbjdzUVpNQnJvdXp3SHNHNk5fTWJnUFk?oc=5",
+      "source": "生技投資第一站-Genet觀點",
+      "published_at": "2026-10-27T07:00:00+00:00"
+    }
+  ]
 }
