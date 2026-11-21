@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-14T14:46:23.572545+08:00",
+  "updated_at": "2026-11-22T03:32:18.154475+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4502",
   "name": "健信",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "《業績-電機》健信10月營收為1.42億元，年增67.13%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWF5LXh3TFprSWt1cjVEQ203MWcwbjdsZ21yLTVCckZuSmlGWklnTjZ4MXhBOXdZVmRHX2hFdFNiZVYxMmR5YWp4NDFhaVZBQkJYN0pqSDFtLTVFWU9HZWZjMTdBeUtKMnlfSWJBM1VyNmNFSm4ydXBaZTRheWJFTzRZRHNsZUNZ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-11-10T05:58:00+00:00"
+      "title": "健信超導(688805.SH)：低温超導技術在風力發電領域的應用在原理上已得到驗證",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOWGM2N3phYjRkTld5TWJ6dG5VWVJ1ZnJJUUdmSV9GeFVNeWV5VFh2XzNKN19KXzlOcGlkeXdYYmJ4QUhJQ2ZlekZ0Z3FDV2ZSTFhQc09SbFduZW5GM2V5d0V2cVo2Z25NQ0dB?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-16T13:05:31+00:00"
+    },
+    {
+      "title": "健信超導(688805.SH)：3.0T零揮發少液氦產品未來有望成為零揮發產品中新的增長點",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJZk1CZ191TVBhMjNINDh6ZGNzS2daOVZrTTd2Wm9kSldYS1lDMGRWRnhXUHlXQlUxNDc2bU9TMVphMlFtWXJZbndHUGFjYXBwXzVmTUp4LWk1Xy13U09UdzNqTHhFYVZHRE9n?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-16T13:04:17+00:00"
     }
   ]
 }

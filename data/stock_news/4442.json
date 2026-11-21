@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-14T14:46:23.154739+08:00",
+  "updated_at": "2026-11-22T03:32:17.785908+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4442",
   "name": "竣邦-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "竣邦-KY第3季獲利倍增每股賺1.79元 全年挑戰新高",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kWFlqNEdFZERhUjBMVXRkeW9rS2xSa0VkNUJBd3U0cVJoQ01IbWUtYlpSUlo1S01zakhVZ1NWWXZab0RuR183VF92UTc?oc=5",
+      "source": "聚財網",
+      "published_at": "2026-11-16T05:42:45+00:00"
+    },
+    {
+      "title": "竣邦-KY (4442) 深度解析：機能布料設計領航者，乘風破浪拓新局",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPWGk2WkNSMHV5aUJmZGRjVjlJV2lkMU1lc1JrYU1aRHRHeXJTZTJMZE1IMGJudlRsTFVOdkdoOEQ5T3c?oc=5",
+      "source": "913 理財估測站",
+      "published_at": "2026-11-13T08:00:00+00:00"
+    }
+  ]
 }
