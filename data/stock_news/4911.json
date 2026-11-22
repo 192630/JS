@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-14T22:20:46.973030+08:00",
+  "updated_at": "2026-11-22T08:30:12.283307+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4911",
   "name": "德英",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "歐股走跌、德英殖利率攀升，歐元貶至1年7個月新低，美國升息預期成壓力",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCNDV5V1UzN0FZeThmS1NIbko1YVRYd3Q1SVFNUXFCSUlDVnlWSTFHMmRpaE1lRzNMVjg1Qm8wYkpxTXVPM3Z4MC1OTGJjWllsQmIwT1pySVNvLUJCYUdGVUQzazR2eHdOMjBtYlpacDJodGp5TGQ5R01B?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-16T18:55:00+00:00"
+    },
+    {
+      "title": "法人觀點：大摩上調2027年標普500指數目標價位至8,700點，看好美股與德英公債",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0pxUXozYi1GblhhbWxOSHc4VVdhMVhnRUtmMmc0alJvZFd2aEhOdUd6d2lFZmdaWUNISE1MNmZtV2dMTFhKQS1Gd0pCZUttal9DRGpyQzFDQVBjdWFrc1pkeEFrS01EdUNJMG9QR3BMMlVpSVdsdXNmU3lXeVEwbjM3MnN5cmxL?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-16T03:30:00+00:00"
+    }
+  ]
 }
