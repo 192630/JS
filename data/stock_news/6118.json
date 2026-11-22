@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-15T10:51:54.140087+08:00",
+  "updated_at": "2026-11-23T06:36:41.060553+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6118",
   "name": "建達",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "英偉達醜聞引發調查：民主黨質疑盧特尼克利用職權為建達謀利",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56TjVkY3pqeVpWd2NXb2h2WkRZNUcxMC1Wd1dHZ2dJaEdwVlRpWjRXclBueVpZeGNLTlZ1a0JnXzFOWF9yaWFhLXphWnEwNVIyLXFRQ21GSEthVUVoemZZbTQxQVBfQTNld1E?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-18T09:53:45+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-15T10:51:45.163051+08:00",
+  "updated_at": "2026-11-23T06:36:32.004039+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5907",
   "name": "大洋-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【09:09 即時新聞】大洋-KY(5907)盤中走強，塑化族群題材持續受關注",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GRG9CenNjSGExYi0xTmJuM0pxM2NKLXM3TnYzY29XMWxyOUlaQUxFTG5SNmk3WUJpalRkVHBCckFHWjV3MWZsbVJITzdEQ2daSHRqN1Y5WmQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-19T09:13:27+00:00"
+    },
+    {
+      "title": "【10:06 即時新聞】大洋-KY(5907) 盤中走強，低價題材成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXNVbFZueUJMWXlrbm1CSWlXXzFRTGJEOXRueGllQkpzOE1uRUFmel9MRlU3RDNKOHB5VFVrVUhHbmFteVNyNDlhNWdwOFFkeDhWQy1CQWNWc04yVk1hbWh2VVF4aWQ5OThOYUpsQTBlSEp3NXNaUUpPY0xxdl95NlpOZl9pUTdDUG5SVlNn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-17T02:07:14+00:00"
+    }
+  ]
 }
