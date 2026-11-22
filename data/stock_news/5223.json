@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-15T03:18:08.797104+08:00",
+  "updated_at": "2026-11-22T16:14:34.243468+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5223",
   "name": "安力-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "安力-KY 代重要子公司昆山廣禾電子科技有限公司公告董事會通過盈餘分派案",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mT192RWFfQjQ3WFRxZnItUWhVeUZZSlZjaC1hczR4Z2hBWG8wRFEyNExmTjJVUzJkeXlUTDZMUjRoTUJnWXhJRDQyczl4Wk9jUk53RUNlaGk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-16T09:22:12+00:00"
+    }
+  ]
 }

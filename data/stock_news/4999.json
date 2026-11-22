@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-15T03:17:59.568840+08:00",
+  "updated_at": "2026-11-22T16:14:24.855264+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4999",
   "name": "鑫禾",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "4999 鑫禾- 鑫禾11/19參加兆豐證舉辦之法說會- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kYTN0WnZpeFpjTWI2ZkhWUi1WU1VYRjc3T1dNNUNxMU0xNG5lVTJnS29ENDlqSjJlU1RRcTBtWldyUFB6SlJRMTVpS21XZkNycExubVd5anA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-18T07:14:51+00:00"
+    }
+  ]
 }
