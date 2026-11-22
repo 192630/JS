@@ -1,63 +1,39 @@
 {
-  "updated_at": "2026-11-15T07:10:36.175480+08:00",
+  "updated_at": "2026-11-23T00:28:37.037018+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5609",
   "name": "中菲行",
-  "count": 9,
+  "count": 5,
   "news": [
-    {
-      "title": "2603 長榮 - 航運股》中菲行第三季稅後淨利成長32.4％ 前三季每股盈餘6... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Eam9yMk5IT2ljcnpXNjNBdFVkcHl4eXNXWGVIRkx5YVA5N2x4T1JPNmJDSHpWalh5SVlPcTc3X05YNTdZOFBGWU1EZE1GY1VPcHotYWhxajM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-10T16:25:12+00:00"
-    },
-    {
-      "title": "【即時新聞】中菲行(5609)第3季獲利亮眼，稅後淨利年增32.4%達3.48億元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0TTYxcXBwdTlRYXVCa1RPQnh5cmRvd0dnWGtaSDlaZHRHX3BvRlVkTTBIWjJqLW9XX0JYZVVHM19NWWsyUGRBYmUyZXRMdmdiMkhrXzAzZ3M?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-10T07:11:35+00:00"
-    },
-    {
-      "title": "大航運-115Q3陽明 & 中菲行財報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LLUxMRjlpWWRqNVY1UlBVQ29uWlY4RlF0RlVWa2lTMXU4c3JmcnBGLWZFRG5FVnJ4QU5oWngwQ3RVenFJWXRfWURtOEVqRGNmaUVfMzVJUGs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-10T07:11:13+00:00"
-    },
     {
       "title": "吃補AI全球大遷徙 中菲行前三季賺逾半個股本",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWDdSVU13X2NZbXZ4ZjFHOUlrdW5ieGpxRkVQc2FlTTBIM3JKSnVhN2NxaGhMZGRRX3dPaEYyU1RSdTlhdHl4Y3o2cUM5anYzcUJkYnRURXM?oc=5",
       "source": "自由時報",
-      "published_at": "2026-11-10T06:23:25+00:00"
+      "published_at": "2026-11-10T08:00:00+00:00"
+    },
+    {
+      "title": "中菲行營收／第3季年增46.8% 稅後淨利年增32.4%",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zLXkyN3duRmlWYlliaHlsem85RUFoVU15aS1RVkNJZFphZ3ZUYm0wWVdtWkpUMjZ1V3owSHhnUzFYMXFHaXRnMHZrbkRuUU83bFhQcVEzZ0JPc03SAWBBVV95cUxNS0lnN2NXUUVNX1RwaUdaMG1Ub09CZF83WndOLVhXOG1nOV9IendZaXc4TXlvb2dBbjk5U2MwdXk2aXhuWXBnTUZ0QVdJQ2stUDdYOUJmWkdwU0JETkVBTzc?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-10T08:00:00+00:00"
     },
     {
       "title": "中菲行Q3 EPS 2.48元；Q4旺季空運續看好",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2trVkNfRFF3Vmk3YlVnUjRMNGFKanViUXR1TTY0WjhON3pnQm93VXdIbDlhcnFQb2N6dVpLOUZqQzRySmxxQ2lmRjMwNDJoMFd2a3FDS1lQUzZ4OXVoSmx5R24tQmxiT1ctSHRKSGN6UXNZZFVaYkQtc1k3WWh5RDdONkJpVl83WTY1WVNqc1ZRNGJwTWlxWHNvb3dHT3ZuT3dmcld5LV9iLUp3MUVCeTdxLUpXWjNVa1dyWExZcnFYSFYyWDUxRHlZSFlSUXBNYUNPOEQzbWdxRm04alhDcTBtSkhvY0dab0dVSERUR0E2UQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-10T04:38:16+00:00"
-    },
-    {
-      "title": "中菲行營收／第3季年增46.8% 稅後淨利年增32.4%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CMjM1Y1otaU94bWwtQzh6Vk11eXZyNEh0Qi1vZjVSdE9lejZXNFhrdVFWangxY1dNUHp2RUpVcXBrbXRTUFRKMGlvV2VyYk9n0gFWQVVfeXFMTkZobms2eHFjUlJkbE9XWjY2RTdIUGV3Z0xoUjlfZ2JucGJ4UldQUFJacjBtYUExNmoyOVZqeERBVW9mdnlhNWNFQkwtNWpGYlhMWG9UQkE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-11-10T04:18:41+00:00"
+      "published_at": "2026-11-09T08:00:00+00:00"
     },
     {
       "title": "中菲行上月業績大增",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96WjFNMG9nWUE1NHdVVzRsQTVKOE43ZUdZZ1JQRVBwc3dtSHZzMkpFYXlDRkRseW90dE9uM1NKYy10S1BwUXFYYmhvTFNGdHlm0gFWQVVfeXFMT01XVXBjdmZadTcxOXdBaS11alR5X0hiMmJpYnR2bVd6a1Exb0RLZVNaS0VlTmlPWW5KMkxkNGg2a2FiU1RJUHVuOFhUcE1pNzNVb0w1MGc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-11-06T16:17:39+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCTUpPOHRpT1NPU1pzTUREVWl6R2UwVW5sMnJHaTItMVEwUURXTkx2RWItZjJxMWExeUhqa0J5emNuVGlRRnVGZUg4aDhpcGpfdmVCdjdCTXVHWmfSAWBBVV95cUxONVg1T21tQTIyRVMtTFdJZ3dpTnJOc0hUaTBOZzRjaU9pdTRqMFBteHkzT0Vpc2xMOW9vY1IyNDF4cGVyNXF6VVpPTWF1c1Yta3JnQ19Gei1rZ0J6OUdfRmQ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-06T08:00:00+00:00"
     },
     {
       "title": "AI與旺季雙引擎催火 中菲行10月營收飆65％",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSd2RMQWY2Ukx5RXdqeHd2RnVRVV9WSS1FVUtDTmJ0VEZXRW9YMm50RW1LamNMUEZ2ekhzMl94b20xc2FtUzVDU3ZWZExfY3dObDZ2YlBiNmE?oc=5",
       "source": "自由時報",
       "published_at": "2026-11-06T08:00:00+00:00"
-    },
-    {
-      "title": "中菲行10月營收亮眼，Q4空運旺季看好",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYmVkM2NtbDVERkZnZ1VIbGZMdGdBSjVJQkk0Y1dWNzJFdWMtYWgwV2tCbjNpYmJKNkdYc0xJR2NhZGpxSXkzOGhJMzN2NGNEVmN5Rmswa1k3M2RpdjMyLVFCZ0t6OE5oN2cyZFktWDFBLWdSZlJMQU1LeF9nSmFSWVBOOWVOSzA1OW94RzNUX19Hakw1ZkwyTXliMDRCN0dLVXNPaFBneWtBX3gzd1drN1dGVlVDYm5scnpoMWYyVUFHSGdpdUtMQXFOQk10NmhpOWRGQTBMdllPMER3YV9nOUxSTzlucWN3TzUyUmd5WW5DVGFOZ3V6X0FqVmdPWFFPdTlIM1l2T1l3dw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-05T08:00:00+00:00"
     }
   ]
 }

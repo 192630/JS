@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-15T07:10:29.040627+08:00",
+  "updated_at": "2026-11-23T00:28:30.459234+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5529",
   "name": "鉅陞",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "鉅陞 更正本公司108年私募期別1之10802~11101及110年私募期別1之11002~11101私募有價證券資金運用情形季報表",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56WHpmcVFSVGhwbm16cnltQ1VMb3Z3N1RWUmtUejY2dFRORjJDTENHRDBaYXlXODZpRnFVNVNBbzE2NTB1Ul85cHpWTzE5OXFHV1ZzVkhxbXQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-18T07:14:35+00:00"
+    },
     {
       "title": "鉅陞國際開發股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWJfN2Zab3lFYlkwYzFqNGE4Um13Q2xVb2JJdVB2cEZ3RzQtVGlqcWR0ZnU0R0tYRUxPWHRUNUNzZl93ME5hR1VobmNTN0Nha1JGMjNPU0MtYkRTeXlHdVVSbmdBZGYzbHFfdmJLbEl6bUV1YlVuQlVMeHVNbDlOYmk5U2t4VFF6Rmw3YnBHVDdReWc3MlhV?oc=5",
       "source": "MoneyDJ",
-      "published_at": "2026-11-03T03:51:00+00:00"
+      "published_at": "2026-11-03T08:00:00+00:00"
     }
   ]
 }

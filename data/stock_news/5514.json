@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-15T07:10:25.139052+08:00",
+  "updated_at": "2026-11-23T00:28:26.795778+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5514",
   "name": "三豐",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "個股：三豐(5514)11/23受邀參加台新證券舉辦之線上法人說明會",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUU0Ynp0ZlV0WUVQSWRtZmx2SnMtQXI4cE56VGFYYlZHWFZBYXNBcFpIdnYzc0dsanZSRWlOV1RPVFFZaS1jZC1lWWczcS1ZZzNSUk0wMEhTS2UyWVlBeWUwM2dkOEhRaGNUeDg1TW82RGpWYU84bklQOTNJVGkwemtYV0RGWUZG?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-20T06:05:00+00:00"
+    },
+    {
+      "title": "5514 三豐- 三豐本公司受邀參加台新證券舉辦之線上法人說明會- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wZ1VCRmhET3lQR3RPRXJwMWtYdUxWc01JWnAyMXNHZHotNmlXeHZCdGltWkh3RGI3RnY5bHhGR3JRQ0VvUFczQ0JaSjlNRzBkZC03VUlheUY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-19T07:00:17+00:00"
+    },
+    {
+      "title": "三豐智能(300276.SZ)董事吳建軍被立案調查並實施留置 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zVXY1Z0NNRklyaXpxdVNGSzlPbUtYejhzNjNUZzB3U25EX3JtM0VzTWY0LTRQTTR6ZUxOLUxMWjBkZ18wWjNJWkNYdWlweFc2WnA5NU9JZHlwWTVLcWhaa2JLNzMzV1lwWTBwczFCOFc?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-17T09:46:04+00:00"
+    }
+  ]
 }
