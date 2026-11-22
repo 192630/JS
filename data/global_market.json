@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T00:22:30.307850+08:00",
+  "generated_at": "2026-11-23T06:30:54.361367+08:00",
   "taiwan_market_phase": "盤後",
   "update_status": "更新完成（延遲行情）",
   "risk": {
-    "score": 73,
+    "score": 78,
     "status": "高風險警報",
     "color": "red"
   },
-  "summary": "盤後整理：全球風險溫度 73／100（高風險警報）。主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。",
+  "summary": "盤後整理：全球風險溫度 78／100（高風險警報）。主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。",
   "taiwan_impact": "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。",
   "indicators": [
     {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 60940.0,
-      "change_percent": 1.930041839827223,
-      "data_time": "2026-11-23T00:21:49+08:00",
+      "price": 60693.0,
+      "change_percent": 0.7685083073046048,
+      "data_time": "2026-11-23T06:30:21+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 1715.42,
-      "change_percent": 2.3185717090377462,
-      "data_time": "2026-11-23T00:22:01+08:00",
+      "price": 1710.31,
+      "change_percent": 1.736116158727816,
+      "data_time": "2026-11-23T06:30:21+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -123,7 +123,7 @@
       "symbol": "DX-Y.NYB",
       "price": 103.84,
       "change_percent": 0.33819692723935507,
-      "data_time": "2026-11-21T05:59:59+08:00",
+      "data_time": "2026-11-23T06:03:42+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,8 +143,8 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 60,940.00，漲跌幅 +1.93%",
-    "以太幣 1,715.42，漲跌幅 +2.32%",
+    "比特幣 60,693.00，漲跌幅 +0.77%",
+    "以太幣 1,710.31，漲跌幅 +1.74%",
     "納斯達克100期貨 25,126.50，漲跌幅 -7.20%",
     "標普500期貨 6,935.00，漲跌幅 -5.76%",
     "費城半導體指數 8,408.59，漲跌幅 -17.13%",
@@ -279,8 +279,13 @@
       "generated_at": "2026-11-23T00:22:30.307850+08:00",
       "score": 73,
       "status": "高風險警報"
+    },
+    {
+      "generated_at": "2026-11-23T06:30:54.361367+08:00",
+      "score": 78,
+      "status": "高風險警報"
     }
   ],
-  "risk_change": 0,
-  "risk_history_sample_count": 19
+  "risk_change": 5,
+  "risk_history_sample_count": 20
 }
