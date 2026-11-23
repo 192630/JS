@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-16T10:21:40.761886+08:00",
+  "updated_at": "2026-11-23T11:01:54.127479+08:00",
   "source": "TWSE OpenAPI / TPEx OpenAPI",
   "count": 1996,
   "sources": [
     {
       "market": "上市",
       "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
-      "count": 1099
+      "count": 1098
     },
     {
       "market": "上櫃",
       "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "count": 897
+      "count": 898
     }
   ],
   "profiles": {
@@ -1794,19 +1794,6 @@
       "listed_date": "2018-04-16",
       "address": "(52861)彰化縣芳苑鄉後寮村工區路28號",
       "phone": "(04)896-7892",
-      "website": ""
-    },
-    "1589": {
-      "code": "1589",
-      "market": "上市",
-      "company_name": "永冠能源科技集團有限公司",
-      "short_name": "永冠-KY",
-      "industry_code": "05",
-      "industry": "電機機械",
-      "founded_date": "2008-01-22",
-      "listed_date": "2012-04-27",
-      "address": "台北市內湖區新湖一路93號4樓",
-      "phone": "(02)2791-7198",
       "website": ""
     },
     "1590": {
@@ -24457,6 +24444,19 @@
     },
     "7842": {
       "code": "7842",
+      "market": "上櫃",
+      "company_name": "",
+      "short_name": "",
+      "industry_code": "",
+      "industry": "",
+      "founded_date": "",
+      "listed_date": "",
+      "address": "",
+      "phone": "",
+      "website": ""
+    },
+    "7848": {
+      "code": "7848",
       "market": "上櫃",
       "company_name": "",
       "short_name": "",
