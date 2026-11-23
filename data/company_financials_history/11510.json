@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-21T01:05:52.868723+08:00",
+  "updated_at": "2026-11-23T16:17:55.719184+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -12628,7 +12628,14 @@
       "cumulative_revenue": 166553285.0,
       "last_year_cumulative_revenue": 87402036.0,
       "cumulative_yoy_percent": 90.55996018216327,
-      "revenue_note": "本年營收淨額增加係手續費及佣金淨損益、兌換損益等。"
+      "revenue_note": "本年營收淨額增加係手續費及佣金淨損益、兌換損益等。",
+      "profit_period": "115年第3季",
+      "quarter_revenue": null,
+      "gross_profit": null,
+      "operating_profit": null,
+      "net_profit": 58668887.0,
+      "parent_net_profit": null,
+      "eps": 3.96
     },
     "2886": {
       "code": "2886",
@@ -12715,7 +12722,14 @@
       "cumulative_revenue": 200009853.0,
       "last_year_cumulative_revenue": 164191863.0,
       "cumulative_yoy_percent": 21.81471684744816,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": null,
+      "gross_profit": null,
+      "operating_profit": null,
+      "net_profit": 64678841.0,
+      "parent_net_profit": null,
+      "eps": 3.18
     },
     "2892": {
       "code": "2892",
