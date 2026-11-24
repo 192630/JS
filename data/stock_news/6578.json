@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-16T06:59:49.051261+08:00",
+  "updated_at": "2026-11-24T10:23:54.180108+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6578",
   "name": "達邦蛋白",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "6578 達邦蛋白 - https://www.ctee.com.tw/news/2... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdFlaZmhnbmxLZE9TRTRVM0RfSGZMc0pfM0tnWlItVmRJUXV5T25tUkdSdFFOQ1FEdDM3WlJLY1Jndm9Fd20tOXU1N3REdkItTk1fT29KUl8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T07:14:34+00:00"
+    },
+    {
+      "title": "達邦蛋白生技股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlNlSFQ5Y1I3VkNuMkZ1angxaHR2dzQxbzdSNUlmcDAwd1hTay0xTlZOSDlRU1BMOUpTM0ZlQnEtT3lZMHkxOU4yTVFWTUJrcWVsMml5aG01TkZwUkhhZTYyWmJXdENDcTFhZ0dlaWNxdXRlaDF6M1RaRW13UWN5a0hieW90QVg2RnA5dld6ZjNOQ20yQnBj?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-11-13T08:00:00+00:00"
+    }
+  ]
 }
