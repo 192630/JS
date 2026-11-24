@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-16T19:47:35.497274+08:00",
+  "updated_at": "2026-11-25T07:07:58.998084+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6961",
   "name": "旅天下",
-  "count": 7,
+  "count": 6,
   "news": [
-    {
-      "title": "旅天下法說會／加盟動能全開！2027全台門市目標「突破百家」",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ab0JVM2c5cGx3MkE0VWxiUEo2b3VNZThuY1F3ZjlpUlVVQUVBNEp4QVNIR2NTdHRIeUgwVGlJbERfdjJPUEtvUzhmTmg5cENYWjlsWGZOalNKQdIBX0FVX3lxTE5qUGg0S3Z0LWRxWVFoc2NmRUdhSVowQ1ZMTVZHbmtBN2VYYUhINl9XOE5JRm5CVlZ5SEs5SU1pU2lwdThoZk9vdnJVY05lRnhId2NEN2FNOXZSREpDdHBZ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-11-13T08:00:00+00:00"
-    },
     {
       "title": "旅天下 2026-11-09 法說會",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObG00WlYyQjdBa3FVUFVMT0taQ1hNOEowcFJ6SngyNTJ6VU5pWjdpaEJRWlVYNGlQblZta0dRcE1zTjd6eGNXMkNkVk5vbHM0NkdPaVRteGRSSjVfM3pqSFdlODNYTDg4Q1FtU0hJLUZWMldscXRvQ2RldUtONmstWTIzOXI?oc=5",
       "source": "BigGo 財經",
-      "published_at": "2026-11-09T17:25:24+00:00"
-    },
-    {
-      "title": "【旅天下FY2026 Q3 法說會】走出美伊戰爭虧損陰霾第三季EPS 0.65元轉正明年加盟店衝百家、長程線佔比拉至30%",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkeGZ4Tmt1eTNyVU5YMkIwdFZUWG81M0dCR1NqYmM3UzV3NkJjT0QzbDFQLThaWXNaUjBjWWpJbnE2SFhsMFotR0NOTk9PODNzdEh6b1FLbUZleVF0Rkk2LWp1YUE1dw?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-11-09T10:54:00+00:00"
+      "published_at": "2026-11-09T08:00:00+00:00"
     },
     {
       "title": "旅天下法說報喜 明年全台門市破百 中南部設旗艦店",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOTG1NVU82TUNxV0ZLcHk1Z2JZVHg2d3BRTDhDeU1YSlhuRU8tc0cwMGhGcnZwVGNERDdVNEotTEpJcnJpanI3M1ZxRExndUoyZzhuSW0zUTVNMEo3d3R4ZFFFU1hNZHRiQl8tNE1R?oc=5",
       "source": "中時新聞網",
-      "published_at": "2026-11-09T08:34:33+00:00"
+      "published_at": "2026-11-09T08:00:00+00:00"
+    },
+    {
+      "title": "旅天下法說會／加盟動能全開！2027全台門市目標「突破百家」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ab0JVM2c5cGx3MkE0VWxiUEo2b3VNZThuY1F3ZjlpUlVVQUVBNEp4QVNIR2NTdHRIeUgwVGlJbERfdjJPUEtvUzhmTmg5cENYWjlsWGZOalNKQdIBX0FVX3lxTE5qUGg0S3Z0LWRxWVFoc2NmRUdhSVowQ1ZMTVZHbmtBN2VYYUhINl9XOE5JRm5CVlZ5SEs5SU1pU2lwdThoZk9vdnJVY05lRnhId2NEN2FNOXZSREpDdHBZ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-09T08:00:00+00:00"
+    },
+    {
+      "title": "【旅天下FY2026 Q3 法說會】走出美伊戰爭虧損陰霾第三季EPS 0.65元轉正明年加盟店衝百家、長程線佔比拉至30%",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkeGZ4Tmt1eTNyVU5YMkIwdFZUWG81M0dCR1NqYmM3UzV3NkJjT0QzbDFQLThaWXNaUjBjWWpJbnE2SFhsMFotR0NOTk9PODNzdEh6b1FLbUZleVF0Rkk2LWp1YUE1dw?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-09T08:00:00+00:00"
     },
     {
       "title": "旅天下看明年春節旅遊量增價穩 ITF 旅展業績拚成長兩成",
@@ -39,13 +39,7 @@
       "title": "旅天下上櫃後首戰 ITF 旅展祭好康 指定行程買一送一｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCcnphdjNHQkNhUVNudVNjZmpHRl8zcU5LUm1WYmVmQUNFV0J4aGRqTHFET0hYRDlrS2t1ZVZteGdGbVNxWlZ3SlBDT2p3S3VsVXYxWDlUYkVYdXA2R1NqVzEwbDhGWVRUaDhYUDhGQVNiV01EY3c?oc=5",
       "source": "永豐金證券",
-      "published_at": "2026-11-01T23:13:00+00:00"
-    },
-    {
-      "title": "連假泡湯了！鳳凰、旅天下29團取消或延後 可樂旅遊近百團行程受影響",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOaFNCQi1paFpOQjMybFRMWElZQURxek1XUkIxVUQwRHVpZkZfanF3a2h3REFiNXV3ak84MUYtZG9CVmVEUlVNSGJIRFdEdGluWVhfb0o0VjdET2hHdjFPRUxJYmw0UnJpa01lTjBRNTZXanlsbjJ4aVRMaHJnRkRDQzk3Sy1XNi1lQ2l0T1ZiOTk0NVFJZzY2R3BKb0pWclRBZ3VWWUNHaTBCNnNMTDhGajU3WG5LdDFMbnBqbnhTVWpnUGlzZ0hWX1A3OTJtYmVYZzJNenRUUC1tRVhKeHV4NUxwTS1TY0FETFBmNkg0T1JESTFKM3A2OTFBRzZENWt3bDh4Qk1sZk5wYkREX2FkUmU5cndGMjhCR2NaOGdKOFgzV0ZLNzFubUI3bk5nbzFZcUNzR0Q3cjE3MHVuQnVCTUtNMGhKS1hPaGR5Xy1fb1Q1YnUtSmR2Y3NlRWN6ZGpXVGh4TjloQVFMdmlJMFdhb2E5RnNIdFZvSHVmeDdPNnU5cHd2SHRydGoxeTJuTjZkVkpiYVRJQ2tNTEU4NUtxTnhYQm0wM2xOemJ1ZkZtelUyYmZ1Rkg4cDVMQm5yMTN3TGtaZFJrdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-22T07:00:00+00:00"
+      "published_at": "2026-11-02T08:00:00+00:00"
     }
   ]
 }

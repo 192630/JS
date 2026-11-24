@@ -1,57 +1,45 @@
 {
-  "updated_at": "2026-11-16T19:47:18.794031+08:00",
+  "updated_at": "2026-11-25T07:07:43.410381+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6903",
   "name": "巨漢",
-  "count": 12,
+  "count": 9,
   "news": [
     {
-      "title": "討論牆 | 盤中速報 - 巨漢(6903)股價殺至跌停，跌停價309.5元，成交772張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VaTdMWm9DcnFMeGZxdVFIRDFILUlrcHZpcmc4ckI0TjA0TjRlcmN6UXNhdmN6NlJxbmNXVld1aDZIWnNBT0JBWDJUdW5qb2RFT1pfMFhTMGRtcnNSdnRPZU90NUI?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-11-14T01:30:05+00:00"
+      "title": "6903 巨漢 - 老黃回鍋輝達~ 明天應該可以沾一下喜氣~~ .. https... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zR3NKY0lxcVptYzZ2a2JfWjBZaWh2bEM3Z0dCa1lsQUozU1dBS1dJMHRFYWtIa2pON3NCSVdwYWZSUGZqTF9fdVBQWHhjQ0s2cVZsX29Temk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T14:59:34+00:00"
+    },
+    {
+      "title": "巨漢訂單滿檔拚精實管理，人均產值朝六千萬元邁進",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNSHlILTkteE14ZjlCeWdGclVzNU1fZ0xURVJSb09pLTViUnFqdkFMUzM4cXVzX2dPMk1XRHZpNFRORF9OZVNNRjBSVGJwYW1HSUJHNGZEcm9LRFRNV2xWdlpHR2t2Rm1iRVFYUG5NLWFJVnJzWHprODVpNUpidTB5ZUgzQjdJQXNHc3FwQWxJQ0RkdldtM2RWV0J5bGhsOGtxMll1UWE5WHM3X0RJd0FxYmZsZG9KbGpoSlhoUGNPcFZkZmtRUHVscVFad2VfWS0xT2ZmOFU5dTRYc3RNZzZHYnVvczlQMXViOXprLXJzX2MxLWdXSC1rc29jZHdGZ1FKUF80RHI5VkxGQTNmem1TUE5VM296c0xPdklQcW5RQXFwYl9vVmtQa1dmRVZQRVdZODBmZ1JiTnNRbG4xYl95bWtTcEdsTVlwWVM1SkFnTGhndVluNmQtMmF4OEVfM2Y4Ym93Vw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-23T04:29:36+00:00"
+    },
+    {
+      "title": "6903 巨漢 - 巨漢訂單滿檔拚精實管理，人均產值朝六千萬元邁進- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQa0lGRFhhdzJmM18wOWxBQWRkU3QwbUtEdzVrVFFESlBwMzN0bmt1RVRNbUpDMHB2NFFlU05TT05ydXEyN1ByZVlsdzVFYVppbmI2ZmtHWGY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T03:49:30+00:00"
+    },
+    {
+      "title": "飆股幕後》在手訂單逾百億 巨漢今年大漲5成",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Q0I0Sm52NDdJd29PTmtzUWY4RFY1NFJoeW8yanBBSVItWnlleXZpbGw0aXQ5amZOU3didS1sOWlRT2RoMWRqU0dZcXY4V0RnZG1rZUtuVUw?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-18T19:36:30+00:00"
     },
     {
       "title": "巨漢(6903) 改建案半年內完工！新建廠要 2 到 3 年，先進封裝轉向既有廠房",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpNmlFU1hhUk96RlRxWjlGM1paSmRiNThoSXJBMFNBVmxFUThQSDF5Y0RKODVsN1dkQ0hGZnRxRjBGZ0tEV05sV0VVSzFfa2M?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-11-11T12:00:13+00:00"
-    },
-    {
-      "title": "巨漢(6903) 新接訂單是認列的 1.35 倍！每月淨增加 2 億元，在手訂單緩步走到 108 億元",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UTEtFVEhlRUEzZEk1dlk5V2hLUTZoNUJwZzh2SndUamtneFp2blNTU3BPVmEzMnVROTJRU0cyMWxObGl0dkpVME9FRkJ3OG8?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-11T12:00:13+00:00"
-    },
-    {
-      "title": "巨漢(6903) 百億營收有信心提前達成！下一個案子規模上看 50 億元",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rd0FPQ0NoNzUtU2VDakNseTBGQlVYdFNuajlPYzNJV0l3cWFhM21TeVZGcGJER3hPWlRDZ1RyMFdPejFRcmNvd25aQUJWRUE?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-11T12:00:12+00:00"
-    },
-    {
-      "title": "巨漢(6903) 單季毛利率掉 1.8 個百分點！毛利率在發包後大致底定，成本在投標前先議定",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VQnc1ZUJNcDlEWmJGTVBCWmpDV0JVOUpvekdHWmc2U0VsYm9CTThnSERxVlc1R2ppSXFOOU1oVTNCUS1kNFMxYnVvTHc4ZTA?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-11T12:00:12+00:00"
+      "published_at": "2026-11-11T08:00:00+00:00"
     },
     {
       "title": "巨漢(6903) 公共工程毛利率 25% 到 30%！2027 年中央公建經費擬編 3,789 億元",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfT1c0MkR6VnJOTTl3bDBVLVZhLVlUTmJ4UDJLWXVHS3ZPT1UtSkFvY01MX29fU040azhtMzg3Y3NoV2dKSkdHQnVpS1ZtY2s?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-11-11T12:00:12+00:00"
-    },
-    {
-      "title": "6903 巨漢 - 法說會~百億營收有信心提前達標. https://www.y... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ocHlnOFZLc2IwVGNJeUNXVG9kbTZYeklmdURSNldDQTQyVXpfdFZFMFNUb0ZLSUpfY1Q4WnVSdWJMRmlZdXRvRXV6ZWNXTFNRaW5SVmpNVGg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-10T11:27:52+00:00"
-    },
-    {
-      "title": "巨漢在手訂單暢旺 2030年前營收百億元目標可望提前達陣",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14NTF0bmdpM3p1TFd4ckN3U1BlcE92MWpVVVZxbm9fOENhMDlrTl9XaDJLd1R2V3dzUURVMVlKUDV3QndqNWJtNXR4Vi05c250VlY0dWtZTlk?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-11-10T10:36:39+00:00"
+      "published_at": "2026-11-11T08:00:00+00:00"
     },
     {
       "title": "6903 巨漢 - 巨漢法說會／雙引擎發威前三季EPS 達20.92元 - 股市爆料同學會",
@@ -60,16 +48,10 @@
       "published_at": "2026-11-10T09:08:12+00:00"
     },
     {
-      "title": "巨漢前三季EPS 20.92元，在手訂單108億元",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON1JsX2VrYjVMTXJIRXVieDB3WU03YU9aOGh2cXF6aHEyWUpCd0MtWnVGY2RWSE1XOHFLc0RpdmJDaWZLV2U2MU1JQ3FqMmw2ekxIOUxiX3hSQTJKV3MtTE5Ec3ZvNnRMYWtXWW5XSzlTa2tZcTBtTmphQ3FlQ2tPQkhmVmgtcWdLWUc4OEpzUEtPWG94cUFmbVVGQU4zakZSbFRuRWRYN1AzYTVSSDhYU3FJdXlGcGJPbk5rdnpXR1k2MFlWcldEdVEzZGRBNUhORjdvWFNsYkEzWk01dmtQaDQwcUEyRzVsdkt1b2tIX2Z1NjNQLXZOZ0VYTk8?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-10T08:47:00+00:00"
-    },
-    {
-      "title": "巨漢法說會／雙引擎發威 前三季EPS達20.92元",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSVVBxS091M1dLYUdYNF9qd0g5cHkxdk9rSmlwOEMtRkNHUVBlRFdjZGNUblhaRHRYSXlhYnZnQXowaGVrVEgwa0V4LU5ORlJS0gFWQVVfeXFMTi1BRlY0X1p1ek9VclI2aVZ5TWpDMGpRdTlza0xiMFV4eTF6N0xrbTV4bHFsTk1FMnVaOFpHcDJZSlcyZWFqSFJ3Y00tYkNoOFJvVEFEQXc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-11-10T08:15:26+00:00"
+      "title": "巨漢在手訂單暢旺 2030年前營收百億元目標可望提前達陣",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZkhvb3RzMjNQUkxwNzUtNDZOd3hKZ3BQUUJFN2FFTjl0dHVxYktYYTR1SWo2WnFIekxibkRuX0F0M2NycjQ2Sl94b0xINzBNaXNJYzM2WFdqOGNNeUpv0gFkQVVfeXFMTlpmQy1yaUs1WmRzQW5CSUFNZ0JqcTk1QzFoNW9HWWFFWWNmNExnMkNLdE9OZm05ZXVUZ0VfT25Udmpzai1GV1NVZFVxaE5fNDF4YnVNbnJfVzVubk9PNXdtUUxFeQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-11-10T08:00:00+00:00"
     },
     {
       "title": "大盤波動大怎麼辦？巨漢、華立、大聯大解析-阿格力",

@@ -1,27 +1,57 @@
 {
-  "updated_at": "2026-11-16T19:47:26.254045+08:00",
+  "updated_at": "2026-11-25T07:07:50.447727+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6925",
   "name": "意藍",
   "count": 12,
   "news": [
     {
-      "title": "6925 意藍- 強大的《意藍系列》六檔股票今天亮了四顆紅燈- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SM3lpVHFqMzdCRXlkQnFxSUw1dXZHelZXb2RtRW5rTzdESWt0Z0tXaEdUWkYyWFpzNDREYW5WOERsMnRZVHNZZjFhVEszSjg0Z0RSQUMtbGg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-16T10:02:59+00:00"
-    },
-    {
-      "title": "【1116台股盤後】美股費半重挫與通膨升息夾擊！台股狂瀉2,635點創史上第二大跌點，主本比策略鎖定【華經】、【事欣科】、【意藍】｜豐雲學堂2026 年 11 月",
-      "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxOWmtVd0dDV1lJX2xnZ1FaLWE2T2hWVHVFZ2tvbFZQVXRKU21qVlZWaUZOYkM3eHNWQi15dG15MW1rZmFiSTVpdEI4cFdwSWVDX1JSbEMxOUlOb1NuVEhLUXl4UUZrUmpidFlBYXlQV2hld09SVmJPckFtcnFjWjJkQmZrdVFVVTkwNUxrNzFmdWN4bmFQR0QtZkM1ajg4UzRaal96cmdDNzNnSXlPVzliMDZocE42Y3dSMmlTMHZWT0hUNzBlcTNmODFjX0t1OEhZeTZSOXFQQVYtaHBYZmZSeWVnbDFSLXJVOC1uVVo5V01xWFF0OF9wYko1aGRzbkNMMU1WdE5MdHJRYmNQS2FMLXkxRFRjSWg4UGZuM3Iwd0RlRndQdUdpZVlZaGpURTU4UGQxRGIxamg0Y2U0NDQ3NkltS0NaalVWY0R5NnFJV1ZrUnc2UDBEbHNlWE1LS2dwTWhHcDdRQm1qWGZycWlid2pzVExFTnQzcEUwdXdWOFZvYnEwNVNuMUtYTTdja1E0bUVhNVVQN2F0UFRqbFd0WmFWanZfa2hZRU5zQTNBSjVaaDVqcE9weVJrOVRXTjN4MEpsRGo1enEzNnNDLVgzYUJXWEpRY3dWWDB4NjcxS0thUTlQbHlRLTNSNV91ZmhCYWZ6alRQck1NQU9sUDRCelltY2ZTTkhTa2VHcHNoV0Q1LWtXVVhiRWFhMDJMcDBYXzZTa01keWFWcUIyZktQdkRSWG9ZUnVaX2JjN191bmtqM0xIQUQxVXVGZ25TazV4V05GUnpMUVlRRzZsSDI1dGxKbUZOeTFEb2RMWkxGeTZGOVo4dFlJZmpZbGJtNTVYZmZ2WjhTREdLTTBpcXNZSmxhcHpIVFdiUDJMREI2Nmp2dUNyRXVJUDhDcXI2dw?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-11-16T09:21:56+00:00"
-    },
-    {
-      "title": "意藍、樂意再飆漲停！資服股華經、驊宏資、資通、訊達齊亮燈 天擎、智崴、台聯電攻頂鎖不住",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOLXEyN2RMbzZuUF82UDNFRjlLSl9oRUlJTElwQkRLcXBrdjJSN0VqNVdxdVBYMXZ0UHlaVDFDR2NGN1B1MmdIZEtqM2hXN29ya1Z5X0h6dl93S0hablliYms5dWRwRWFxSm9DZlhjMWNBeE5FV3k1RHBYTHVBMWVySTd6czd6V3o0SW9XNE9pVDM5U1dUWkwwSFhRaTlfMTE4bzNlWk5RMlpZblE4TW1ybDN5cUM0T1lZZ1NmMHNqSjZFVGpWamNaZ1BQQVViNklheU9mNlZmM0k4ejhmb1FNcmdjakxNbnJwblYzTHVDeUlmbFk4T3M5Z2tnUVhvVGp2RTltaXRCRGpHYWpjb1ZYTTZmZC1qTDZIUklFbllQQXljN1dZN3lBSU9pQTRBajEzWUtqR0ctQmM?oc=5",
+      "title": "意藍前10月EPS 2.49元，明年營運再向上",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOUJKcjlMaHN5TVBGME5kZFE4WkdPc3hiTWp5NTJ5R2tIQjRSZEJCVWl4bVBIcWg1cTY1cHlZelJKd2xZd2pNOFZhRGVoR0haQllNN3BmUUZCYXpnUWRzb2FVYVlMUHR5d2ZVdU1peHh3RVZyY3BTeWRrU0JNVFNNYzZfQVhFRDl1N0M2TmFDeGZEOVhwXzhwWGp5emRJR2tSYld2WnVDMlNhOXExWnczNExNaFpxemRaUWpiMVFUdDZSOGRGT3E2YlhkYTRIM3VWVEkyamtEbU85WTRKVUNDd2NOV24xV05WQmRHdFFKQ3F4d21VR0JjNklR?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-16T01:54:31+00:00"
+      "published_at": "2026-11-24T04:14:03+00:00"
+    },
+    {
+      "title": "盈餘：意藍(6925)股價遭警示，自結10月本期淨利812萬元，EPS 0.41元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzJqbGpuRHIyazd1RUl6SkVrcm5FdUdwbkF3bFdUMVdWN21ZU2l6Z0twOFktWm5MZXdHMkRuSElCUDA4ZnZQMlNmV2hBZHBMN2VkSlJSMVJYRnNsTFRWQWU0cF9xZ3pMSThZR1NIdzVZOXZVTnNFenN1ck9UaVVURnp2aDR4VHRj?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-23T23:01:00+00:00"
+    },
+    {
+      "title": "意藍獲利／近期股價大漲 公布10月單月每股賺0.41元、淨利年減4%",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PMkNkQVBMaXF5eFctVTc1RklXWEZ6NTRsMUd0ZVJUS3lPQTAzb1gtdjF5bnFLeTZ3SDM4SjRQZF9Gc2M0bG81NXVETDcxRms40gFWQVVfeXFMUHJKUWlNSHdTd2F1a1R4MzhHYjZud0JWcWUwZXlEa0gwU21pZ3VKNkF2dktwLXA3cEFsczAzOWVEZzUzRkhZVmpzaXRtUkl5dkJjQ0RKMEE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-23T09:53:37+00:00"
+    },
+    {
+      "title": "【09:20 即時新聞】意藍(6925) 逆勢上攻逾6% 資安族群買盤續關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXFuZ0xfUnRqb2ctTTRtdTNoMFZsdmdiUkMyWm95Z19XcFFrMkNvQWVlMXBqX1ZlOXROMkQ1UzRLNnlnbnB6VWRhXzB5d0NFZVlZLXBEUGxLT081VDhncmpIZ2ZJcGhTcVZZN0JJZDZieHowSFkzeGg1eEZFNlk5V1dQYXp4dU9ua09wdzJR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-23T01:20:53+00:00"
+    },
+    {
+      "title": "【09:03 即時新聞】意藍(6925)股價走強，資安與雲端需求成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaFF0dm5OWHF4VVN1WUx5bmtmeVNHRkZkWWtIMEF5UmVkN2FSaVlUbjhTQjJ4NWFIQno0UXVaaWxHRVA2Y3F4aEgzWmlhaXh6RHMybS1QYmZuZUVlaUpoUEZFZnJ3RnZtamtzZGdkNzdERTh1YmdSeDY3cDBrQy1SX3lqREdINmlzd1E5MTRB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-20T01:03:22+00:00"
+    },
+    {
+      "title": "【09:08 即時新聞】意藍(6925)盤中走強，資安與雲端題材獲關注",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aeDd3bkoxZU5WTFotbVlrN2VabHZocmVDejE3WERGR2hXbkRFSU4tb0ZYVEVneHI1Ykw3UzlScW9wRktFWVZCQjRXMFVsNjZkcGFnVGNoVFA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-19T01:08:38+00:00"
+    },
+    {
+      "title": "美股費半重挫與通膨升息夾擊！台股狂瀉2,635點創史上第二大跌點，主本比策略鎖定 華經 事欣科 意藍",
+      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxQSjdZR0ZaNFBtN0xOQ3ZpUEVKSDVITVJSV0MyXzAwaDc3UzJZa2hLRFVmdUhqdXNQSTJqNjZHVzNWNlFEaWlSSDNPbVVqWThfTVFudTZ5b3ZrelIyMTlZR1BPdDlwVFptbkpyUDdHalQ0RlFCTjdTMDRLNFFVYUp4cjRQRTloS1VTSmFMa0F5YXlSdjFCcDBLeG5PTkdNQmhBVnhNamNXY1dwNDBTVkplZGUtcDJWNFQ2Q0Q0Wldsc010aHhjWlNQNWZwdkVVcFY3VUdJeGNBVmlQMlVmcklrQmZ1OGR3eFgtUHdYd2RQSmRsLXBJdFRQS1V6NF9pbGFnaGFwdmozYUc5SFRlZ2Z2WWdkN0dUd1dFY0UtUGJKbEhSUVBJeFM3aThwQVZJLVdQOG9sNWRIS0pCX0tpLUZiUDI0d2Nad0ZYRFRQMDNNMnpTakRyOEhsclJPUlIwdEhRaWdSSTVsOEdObnFycTZ2ckZfNFM0eVhOaE9jLUpMS0JPcm8zaUVQdGNOd0NfdDR4RTRncThvLWY1OTJSUE0wVS1YNWpLRmlyUWVRT2loZ1lXZ2RqTENzWmFxeXllaUhSVndLckJmNXBuOXhsUXhVOXZIbUVCV2w4bnE1cDdzYzRXOE5xRHdLY1BUVGVuT2swQW1aamdOa1lyaV9KX0FyZ0I4VmVaS3A1bks0SmpJV2VtbWJrb0piRy04dnN3Yy1fNllHbGtMdHRBZjFCZDVUelM5NFJvWk05UjJTTm1rVmtKZVZNMnVyNHJ1emFTdHFrYk1iVVFaVU1nd05HNGZJaXB1MW93ZVZ2N0Z1Qjl5aU5pUXlhbldFd2FqM20?oc=5",
+      "source": "永豐金證券",
+      "published_at": "2026-11-17T08:00:00+00:00"
+    },
+    {
+      "title": "6925 意藍 - AI駭客攻擊 漲嗎？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44MzZYdkZvMEpzbGFRQzhzem53U0JrQm82dVM4WF9SNW94c3BZeTQxX054VFpRTXdJZWN6cWlHbGRtNUZ3TVF4cXB2OTZKQmJlcGEtMzJtOVY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-16T17:44:21+00:00"
     },
     {
       "title": "【09:34 即時新聞】意藍(6925)股價亮燈漲停，資安與AI題材成盤中焦點",
@@ -30,52 +60,22 @@
       "published_at": "2026-11-16T01:35:11+00:00"
     },
     {
+      "title": "意藍、樂意再飆漲停！資服股華經、驊宏資、資通、訊達齊亮燈 天擎、智崴、台聯電攻頂鎖不住",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOLXEyN2RMbzZuUF82UDNFRjlLSl9oRUlJTElwQkRLcXBrdjJSN0VqNVdxdVBYMXZ0UHlaVDFDR2NGN1B1MmdIZEtqM2hXN29ya1Z5X0h6dl93S0hablliYms5dWRwRWFxSm9DZlhjMWNBeE5FV3k1RHBYTHVBMWVySTd6czd6V3o0SW9XNE9pVDM5U1dUWkwwSFhRaTlfMTE4bzNlWk5RMlpZblE4TW1ybDN5cUM0T1lZZ1NmMHNqSjZFVGpWamNaZ1BQQVViNklheU9mNlZmM0k4ejhmb1FNcmdjakxNbnJwblYzTHVDeUlmbFk4T3M5Z2tnUVhvVGp2RTltaXRCRGpHYWpjb1ZYTTZmZC1qTDZIUklFbllQQXljN1dZN3lBSU9pQTRBajEzWUtqR0ctQmM?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-15T08:00:00+00:00"
+    },
+    {
       "title": "【11:55 即時新聞】意藍(6925)股價走強，盤面聚焦資安與AI數據題材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWlBeVJQRURzLUhxdkVTdzF5bmxFZXZUNU0xOUdkNU40X0cxTERkN216UDM5TFBvcFdOSTYwWVU4X2xWUUhpUDhKc0JIWmV6c0RSMmN1SjlseXFKbkdkcHJjTkE3aEpPalV5bUx0Q0lWNFBCOWZHaHFlSURvaVpkTVZIM3k1R2phd2J0MHR3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-13T03:55:55+00:00"
+      "published_at": "2026-11-13T08:00:00+00:00"
     },
     {
-      "title": "意藍(6925) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fY182aWZfQ050V1RoV3ozNG5ORUMzdkZGZ1dFdnIzUVFSaTl5U29SU0JtZ0UySEpxRkg3RnJ1Tk8yRXRLZDVtZWx0MHJyU1dYd240?oc=5",
+      "title": "意藍（6925）跌停後又鎖漲停－熱門話題｜股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqR0FyeU5YRmxLMHJsQXNsRHZqVzc0SEVmTndfSXdSamJadlFPNVhIRlNMd0ZQY0dFMFZTeHdTSkgzYW51TDdoQVUydFExNWEwNWtkYmlRbTkxazVfMGc?oc=5",
       "source": "CMoney",
-      "published_at": "2026-11-11T01:48:30+00:00"
-    },
-    {
-      "title": "6925 意藍- 出掉漲停股，接回翻黑意藍！明天指數又要上下震盪了，意藍明天必... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dFpJR2pTR2REYlhiOFMzcnVaajlQZThqZnppaU5QQzRDeFpyZnQxaWZwVU9GczVDQXBsMmV3VlU4RmxkM3F2WXQ0NVVpdEtxMDhLdWdxVzI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-09T05:26:16+00:00"
-    },
-    {
-      "title": "【09:55 即時新聞】意藍(6925)盤中漲近一成 資安題材吸引買盤關注",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRlE4VFVrcGNLeDZfWXd2ZlUyZEdSTlZqR05yMDQ3QUMxQkJkZHdUbW9oNWJ0S0c0OEdLUV9xQl9fbTZCVXEyRHJkb0RHTzRCSGNmNGx5X0c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "title": "【台股10月風雲榜】大世科狂飆87%列注意股！AI概念股意藍漲逾7成 上櫃20大飆股出爐",
-      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNWnB6UFRaSzRwZW1PTGZ2M0NXZG5xV1NNUmRpTlRyY1Z6aVFGeEh3bGlJZm1tNUhlOVVpVDFqYkswMXJZeHRzWFh1ME9sYXVHZUllc0lPeUFhMlZqNFpHLURhWDNuMGlCWW80V1d4eEdFdTkzNDFIT3J3a2puSU5MTXBqY1hVd3prSTdOT00zTGtoc2Jaak9LczhXOE1QY0d0Z2tTMXRqOTRVdzlpZ1lBaUFHLVR3ZV84WmpHNWV0VEpxU3JhNzFiNkV5UnpSX1BjaEtsdnBDQU9uY1JSS1FaOHNxdjZlbE9EV19lRUVWNHNPS2djeFhOcXNROHRfTzVwVlhxQXp4QlpKRGgwZWFYaVoyankxYXZKT0RpMU5iVlNhVmgwa3p3eHN2NHRWcFVpYzI3RERndWRRRVY1bF81S3dtdEV1dmhnT2dQNlRjZkt1TEFaT1hVZ1BSa0FPZTVPd1NXN2oyZFNlYUJxMFJQUjFoblhwWU5hQ3Jyc293Mkk0azNZNHhicHppR2V3Y1ZVajZ2YUVDOHgyWXNROFYtYWV3OTFOM25RN2VMbXdONmJKTjBtRDM5QmNLZ1hOSFRwZmZ3eDJjNmJMU0dvSHRHQWVZaFJaMVNDVHluSE1zdndnZU9OLTYxWHI4REFwYm10akZGSg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-29T07:00:00+00:00"
-    },
-    {
-      "title": "【09:50 即時新聞】意藍(6925) 股價走強挾資安題材續受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGMwM1pUbGREQTlyWjNJSUVhZ3lIbmhGVE9ZWEhWSVRmd2ZkN3ZyY2RUbVJkaWtJMWo1ZExwUzhvSTliek16M3pwamhuWXUySE5fU05GcDFjRXV1OTdrclJZbi1KTlNwemY1dDhtaEFleUxaT1hFMWlVaV90MzEwakQzVWdkaUFFUlZmenVR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-29T07:00:00+00:00"
-    },
-    {
-      "title": "【13:14 即時新聞】意藍(6925)股價走強靠攏120元關卡，資安題材續成亮點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2tlVENrV0xpcGYwVnhvNzRXZjJYa3lENWxOTWU2Sl9mOW4ybW9ycVR4a3ItS1J5NmJvYjhFTWJZYVAwd29aZzc2X1hCT3pLVFNuNHV5Y2RWcVFYWHMwdmlMUjVlOHQ4cUhRdjFzN3BuSFQ3T1llYWxhT1ZRS2tlTlJzb2s0NGNGQTk5OWtB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-28T07:00:00+00:00"
-    },
-    {
-      "title": "6925 意藍- 這個跌停也太快了！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yY3ZUUnJnZkNsaTJGcU40R3V2RC1BRXhDOWJPb19OWWhmZ3dzY3lBVjZvUUxEbXRJTFdaZm9QTEZBcGk3ZFRPTy1lUEE4d3pUV0tZWjVMWlk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-22T06:37:30+00:00"
+      "published_at": "2026-11-13T07:54:40+00:00"
     }
   ]
 }

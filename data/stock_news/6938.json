@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-16T19:47:30.439291+08:00",
+  "updated_at": "2026-11-25T07:07:53.912606+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6938",
   "name": "藍新資訊",
-  "count": 10,
+  "count": 5,
   "news": [
     {
       "title": "〈焦點股〉藍新資訊Q4迎專案結單認列高峰 亮漲停燈",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPLWlMZHMwS2g0bkFnWjJnTzVmaGttakJDeFBCV3BMMTE0SW9zbnRUOWQwMEtnYUdDaFZLLU5STmI3bnRtdUpKVVhMSHZMODVmdFdNZkdYWnhFaWdHVVE0TGh3ZGlsQmZkZFlEdGgzODkxUEZFWHB4ZDJ2Y3VPb3RSNk5felBWRVVPOTJDMElQRzFaLVdwV1JqZzkyR3pSNVV4bG5UaUpfOGxacjZUQVRWam9rMVJIaWc4QXktUFIwd3RfakR6NXlqaFc1TG93N0VYQ2dOdVRGYTZNTjZ4VWJWNUZDQ0F3Qjkyb1JWU2RUTGVjeVdTY2o3YkxwS1Y0N2ZqaGJBMGVzUDVSTWc4VEtfdk16YnRWQXhNQWdoN2dmZUhpaGtFYVFWREtnQjdrd1REbjZnZXA1MkFTTmlpTEJpWUhTQy1tbzBpb1dYbnhNcGk?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-16T02:26:59+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hQ0pGRmtxX1RXNTVoSzVkNFdGMGVPcE1oTFl5RlQtbFJ2OHNIZVhNanVIZGRsa3RvZlBwZllKNWhwSDB3bDdEbE9WNHk3dGc?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-16T01:37:47+00:00"
+    },
+    {
+      "title": "藍新資訊(6938) 基本資料 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDTGlUZlpoNkU1Mms0WG9ZdDJrSDFxQnVIcTBLTVlDUnpMY25tSWRFbWZvT3FCcDh2QmRVaUVKTUk1LWJhRnJ1VmRRdDlnNEkza0hJ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-05T16:41:40+00:00"
     },
     {
       "title": "【10:11 即時新聞】藍新資訊(6938)漲停，法人與主力同步偏多",
@@ -18,52 +24,16 @@
       "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
-      "title": "AI/資安需求增，藍新資訊今/明年營收看增雙位數",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOUtHU2tJT3VCMkFSMG9pcXpWcWpCNzd0dXJIT3Y0SkhES1huVXZ1dUhTd1ctbDdNTU1IOWc5RXhCeW4xTl9zR3k3bThVM0NDX1RGUFc4bVo5ODdFRTJwWk00SEh6cEdoR2VsUGVCUHpDc19VMzY4cjk1RDVkYVliOEV2OUFhaThZUkNldjg2TWl5bDJUSU14dmlKT3hHRmk4QndxdEI0V1UtWEpubVByWmpWdVpwbFR4X0RHb19OTEF2VVlvRWdGM3NHMlE1X2JJc0xaMXBRX2RFRVFmS3NZVjBFOEJEd1ZfUEd4YmtTZWpXZldjSEpodjNUVXRzamJmdFMtSEZnd2FkSlpjd0o2T3U2OVpEczQ4d1hSa3NoZGp6TEFsQTBQbkFaNEVmQTFEbVNzdm9Xb28zeWRzd3MxSWc2VHlodw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "title": "藍新資訊上櫃蜜月行情延續，明年營運正向看待",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPNjhtcXh0dUx1enEweXN2aW9Uek81dTEyZlI5a0xDVWZvMXhpNTdvTzRFS2NQOGhnYk5DZ0d4cEcyTDNXeFBadXV2SWotTnJoclBfeHJZcHJLamVIWkVObEUwSFpCN1JYOUs0dXgtNEI2SzVwUDBIdXFDdjZ3VFIwN0d2czdSQ3ZZaEFya2I2T1dxa1ZUODBvRkJOV2hzSnhyZlFUY3paM09pNmNDUmRxNkZqNDNIWFU3Uzh2YUxNM2hqMnNWcDhOQlM1LURsenpJa3JFYkVReHA4emo1cnVsVHRHRW5mZGRPajlmQ2FpenFiVldLWmdOVmZEZDhfeUYyUjVFVTRkUnNBR3NwcEZ3TjZGYkFzaEFfWDA1ei1IQTVwZDNqa3hCRDJkbzNVdWtud0pYcG9BWEROUGFPZ1FZZHAybVNwYWJmaTlhRg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-27T07:00:00+00:00"
-    },
-    {
-      "title": "藍新資訊(6938)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVGZVTFVTVzlDLVotM0xjMlNzRktocWxlSjJJdGJkVU85NjVTQUNkZC1zaDAyRHdmVGl0T3NMVGFzWkEtS0VDMXpUNnZlMlU1VEtOSGUweHREcmxFY1E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-26T09:00:00+00:00"
-    },
-    {
-      "title": "藍新資訊(6938)董事與內部人持股｜監察人及關係人持股變化 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ianRHc3FTY0ZRMVBCOUpVaC1JTE1kYnJ5YnpfVTBXOWVzY1dEa28wZFpZTFVmR1VKM1RXSWJvQWtpLTdlcGVJeWp3MmlUTDNEdFN1SFBCcE1odk1wb2ZUT0ZTS21sYVE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-26T09:00:00+00:00"
-    },
-    {
-      "title": "藍新資訊(6938)含藍新資訊的etf與基金成分股比例與變動情況 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95Q25wQVNfZmdKM3FjNnE0Zzl3aEF0VHpQNzQ3b2RjZGZLUEsxaWlHVmpteHF3NjhBMm5nWWtvcXVISTR2TVIyTUFGN2t2cjdtRmN2NXZROTBDbHJoc0kzSDhXZG8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-26T09:00:00+00:00"
-    },
-    {
-      "title": "精誠資訊小金雞來了！藍新資訊正式上櫃 首日漲逾8%啖蜜月行情",
-      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOdXJmWG8ySWFlYUpfbVRyS0dwRVAtcmpKWWU0eW1VM3ItNFNHUi1xZC1HWWM5WGluenNSNm9TZU45dW9Cb3J4dTFRNTlyYXQ5ckJ6OXRZS2l6a2tuczNMMGNCcUk1MzVUZFI3VzM5c0dBNGttcjU4VnZvMTh1THFjM3dFcFJidmM0WnVGMTZxdjdTdEUtM3hOSkxtQko2RnB1U2ItX3g1QjY0ZE53bGNSY3pISjRJbHI0SFNneHpVQ2w0NVBERWNLNTJ1djFld3lJZHJ2MGczaDBoUmZVYWllZVBLeXdtUWtWUUQxWldGd2JlbVd1dk9aTXNZZFRaeE1WYkNPdnUzVkg1MjI4ajNMdjl1cUIwaXotNzBNMTFkOEJOekx0Qk81bkppdFlUYVFYcW9LZkxScWhGbGZydDZFLW5QREJCWkJaVkhIZjhLaU01ZWhncUpBdmJ3ZVBJZE5QWkMtbmFnWHRHbTRmMmN1LXhlZm5QV2pXYS1lcFhodGUwLWh3d0NMeEE4VThsWTItcTlwU3JObVpZcEJFUnUwWVp3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-26T07:00:00+00:00"
+      "title": "【09:26 即時新聞】藍新資訊(6938)亮燈漲停，盤中買盤急速湧現",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWcxNTZTSWlxWURIVVdHNnV5WGwxMVRGN1lDOVBDY1UxQ2pGdWlOZEVYN1c0UEYxb0llT2hLOHdJSnZJVHBTeXVkazFlUjdHNXhCZjgySVJ2YnphZGIzNGxGbTE5UmNnWEVHZUJsVFU3VG8zd3Yxdmp3VDBMUmdCTi1jb053NUFLMUJ5ekp3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
       "title": "藍新資訊68元掛牌上櫃 搶啖代理式AI加速落地大商機",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdHVUTWpVbnlWNmc0MVo5a3U1VUpoWmNSSzZZcFJyc0I1SE5fRktTdXgzQWxiVENSZHVKbk5PT2R1alU0eDhUcVBEa1NkTXdwYnBvTmlCVDRWcXBsdGM1ZEY5dmVTeWVtRG5xbGJ3eDFtR3Vhd0VUSXc2ZUJKRFpfZU4xclZqN19mZVp2Z0JqTEp1TDRCcDI3ZVZFUUFpTHA2VzhpSDZhejJoTXVJaEFvTGpmXzVYNGhNZGlDeVRMeWgxcG9YXzRvMy15bW11VW55YlBrekJ4NnkwVHJucWtWdXhjY3hDTzU4MmpmeFh3cHhNdzM4N3BCR0Rkc3RVd3U4ZlRfSmw3eTVmRWhFeFBtYnR4NnlHbzF5dDlfaTB0VFdPc0d0eHBzamczS3lqTFFsMTRHb0g3QTNoYXRqQnlqUEk1SnZnWE51NWQ3bVFGTkhGQ1hJZlNBMUY3bkJ5dw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-26T07:00:00+00:00"
-    },
-    {
-      "title": "《藍新資訊專訪1》AI應用落地/大型專案執行，營運動能增溫",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQbXM5UXN1bFhKQzNwWFpwbzBNYUVRcldWZWpOQXc3bkFNTjF1aVplRFdmRWFkT0VfRXNTM3pNS2dlNExpaHBFNnJTd2Z2b2RxRjdnUG9vMy1zVWpJVUJzMkU0RGNvTnNlSzBwTGZEQnAyUkhrYllONFFSRU5ocHhBdTFiWTQ2bmNJZDU5YW81bG42VGRsdDdMQjRWZ05uVGRkNndJalhsSDJlbi1QT0hfaENFS1Y3TkRHLWUzR1JtdXRScTJsM3g1OGt6Yk9Ca1QxQW9VN1JlQmY3cG5Ob0NCWUFyeDA1MVZJeHM0ZVRneG5UN0M5U1VJV3VtVWc4eUpPNGFLZmFfTzg4TkhxOTAzNHNIbTBFek4weGdSVDd5a2UxRkV4MlpMc1NZeVkySkY4NHJRZWV2ZmFBMVQ5SlBjM2I4STJNXzBiT3ZSb0dwUG1Mdl9DM0pCZXotUGhwVGYzbDQtbTJiYWF4bTA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-21T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zU0ZNS20xbWZXN3lRUlFkdjdnLUljQUhCazFoYWxDMDlDVXE0MGhfNW9XcXp4MmljampjUDZKb2ZpWFZ4aXRxZDA4b3hocTg?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-10-27T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-10T01:41:11.966892+08:00",
+  "updated_at": "2026-11-25T07:08:16.694449+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7732",
   "name": "金興精密",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "金興精密 115年10月營收6297萬、年增7.62%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12VF94ZHdsSGZKbTl2Sk9BT3FsNjhVV3RBcjJ3U2sxMVUwWjUzVG1NZ2NYZDZmeDNMOXJ4aTJaNnNXcEh4MFUySEJycVBzQWVMOWduWmZJR3U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-09T08:00:00+00:00"
+    }
+  ]
 }
