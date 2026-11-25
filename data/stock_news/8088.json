@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-17T12:39:33.471516+08:00",
+  "updated_at": "2026-11-26T01:27:09.367012+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8088",
   "name": "品安",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "盤中速報 - 品安(8088)股價拉至漲停，漲停價32.0元，成交283張",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SamJqekRhMnZyN0lvSmYyTFNkRDhVYlVtOTUyYnNmeHJMOUc3T3BKemdaWThGSURONWFtUFBlcGpFb1Nncnc0ZGtuR1g2cHRTd253UmRnY0VWT09XcU8wUWlGbkRSZw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-24T01:55:00+00:00"
+    },
+    {
+      "title": "8088 品安- 【11/23 產業即時新聞】記憶體模組群體走強，創見強勢亮燈領跑模組廠- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vVW5vTmR2bGpGSXFGLTVhT2NSRW1ZWVplOG1zX012aFFMajk1SURfaF8ybXliZWowMzY1dzF5SFdsZHpZVjhFOW9scHdmMDJEY3pnYjlWWkk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T01:30:36+00:00"
+    },
+    {
+      "title": "蔡英文召喚\"實實\"挺品安 雨中造勢催票拚翻轉苗栗",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQdHpYWVA3VGwyc0Y4UlZBcGhDc3drNmpuYTY5Z0lTWWJ6SVFhUVAzYm1VNWVOUW11eWZRSFZoRHg2b1g0SjlxTGNsdHBrMkZraDFNclhfX1NmallUTlVaZG9tOGpxLXFKanBqemtCTXdjMVI0RE5pTVk0ZVZXM3o0TlpMekdrVW1GVmF1Ri0xT3I0ZGlMTGNGaTJiVXhMclZnZVBZTEdZR05GdkVqZnBydjBvRmkxc3hsYzdRdjFSLTR4QUdOWFFGZmVfODgtRE45bURieG9mV21DNkljR3BzZWw0dUlRQkpoTVhCYTAwZlExal9YLWpXbmRxakRqekhXVGFsYmVQTGFydGZiczl3SGp0QUFXaUR0SnRjeENyNnVoMndqaTRTczhNWEtVUm1XRzJYeW1JT283MEhHOTdPMnMzbjhFOVh6NW01NElTUGdPYmc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-11-14T08:00:00+00:00"
+    }
+  ]
 }
