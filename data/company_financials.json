@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-25T03:38:09.061816+08:00",
+  "updated_at": "2026-11-25T17:12:08.287595+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -12596,7 +12596,14 @@
       "cumulative_revenue": 97245644.0,
       "last_year_cumulative_revenue": 41696227.0,
       "cumulative_yoy_percent": 133.22408523917522,
-      "revenue_note": "本月營業收入較去年減少，主係投資相關淨收益減少；本年累計營業收入較去年增加，主係投資相關淨收益增加所致。"
+      "revenue_note": "本月營業收入較去年減少，主係投資相關淨收益減少；本年累計營業收入較去年增加，主係投資相關淨收益增加所致。",
+      "profit_period": "115年第3季",
+      "quarter_revenue": null,
+      "gross_profit": null,
+      "operating_profit": null,
+      "net_profit": 38940435.0,
+      "parent_net_profit": null,
+      "eps": 2.26
     },
     "2884": {
       "code": "2884",
@@ -12706,7 +12713,14 @@
       "cumulative_revenue": 91165761.0,
       "last_year_cumulative_revenue": 62550354.0,
       "cumulative_yoy_percent": 45.747793849416105,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": null,
+      "gross_profit": null,
+      "operating_profit": null,
+      "net_profit": 36948576.0,
+      "parent_net_profit": null,
+      "eps": 2.49
     },
     "2891": {
       "code": "2891",
@@ -20200,7 +20214,14 @@
       "cumulative_revenue": 58862309.0,
       "last_year_cumulative_revenue": 51567471.0,
       "cumulative_yoy_percent": 14.146200809421117,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": null,
+      "gross_profit": null,
+      "operating_profit": null,
+      "net_profit": 20249284.0,
+      "parent_net_profit": null,
+      "eps": 1.22
     },
     "5901": {
       "code": "5901",
@@ -24939,7 +24960,7 @@
     },
     "6949": {
       "code": "6949",
-      "name": "沛爾生醫*-創",
+      "name": "沛爾*-創",
       "market": "上市",
       "industry": "生技醫療業",
       "revenue_period": "11510",
