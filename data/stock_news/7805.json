@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-11-17T06:22:27.353715+08:00",
+  "updated_at": "2026-11-25T13:31:43.386026+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7805",
   "name": "威聯通",
-  "count": 1,
+  "count": 6,
   "news": [
     {
-      "title": "7805 威聯通- QNAP 推出 AI 代理 NAS 管理平台「QNAP QuAgent Beta」，導入內建AI 助理「Aina」 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VcVVtQV83VnNiM0JZeFlvOGdpU1R1Wlc0S2FqNlFHNU9Fbnc5bm8zNWxGTFZIRDE0bWZReWxodm5GZkFhMHZpZVoxc0VyWWNhQUFiaG9mYzA?oc=5",
+      "title": "DEKRA 德凱攜手威聯通科技簽署策略合作備忘錄",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZkxNUWxKTE1ucW9va213cml5LVdHdkg0RFdSRERVaHZ0YmdFNjNFM2lLQjVkRUptQnM0THRwZVV6c0ZaaFRqeHlhUTdPSXJIdzdMNkNOdDYtUXBtWVo5SDhwZ24zaXdNbU9xSUNSeDc4QnVmNmdGM0h4Y1JiUHNrb2lESE1QZE9XbzU0ZDQySjM1MEtKSlFvRVcxRFRuOXpJN2M1SWRZcnZiaDNxWDRMT3pSYzdySEN3VS1XRWx4N0Y2NkxHVHZKbWprUTR1Z0UyQUlxVkZDU04wZEgzVlJiWmpZSnJHczNJWDMzazlSR0c1YnA3MVdNc1VMcEN6UmtlMnlSXzN0V1k4dGFmaVUwcG1OT3oxSHN6bUJ6cDhDbWZCajBWTllvYngxcmU3YnJrVTlBa3QtRUt3YW8?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-23T05:58:53+00:00"
+    },
+    {
+      "title": "威聯通毛利率拚回升 預期明年有望回到60%水準",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HR3VFNUFWdHpka3l1Y1J2ellCcjZHczU2bktJSUpDR3AyWDUzY2lzRWdLc0VHMy1tOHhqdC1VWUxySlRFMWVKR2VZV01XMDM2Zk1WcTE5VXRPUWvSAWBBVV95cUxPWk5QdmxTQ1BBRzR5ZU80OTNLYUZpelFQeFZhcE5oUV9zMHZrU0RxWWhSRzdzZVNhX24xVHpkeGVZWGxFUnQ3TUV4cWhwSmc3aTlQdWFkMGlRa2ttQWxlOTc?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-22T17:14:46+00:00"
+    },
+    {
+      "title": "威聯通(7805) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0YlM2bGE3M0pRYkhvcTZQUG9sdG1uaWdpU2pLd1I5S1N4UHl4c3p1U3d0SHFER3hWbEg4c2I5ZC1heGx1cnYxWmNJOTA1ZE1pWDZF?oc=5",
       "source": "CMoney",
-      "published_at": "2026-10-28T07:00:00+00:00"
+      "published_at": "2026-11-21T12:27:43+00:00"
+    },
+    {
+      "title": "7805 威聯通- 本益比不到10倍, 加碼買零股- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aMjFnVkdYYk1SY0RuNm4xZTRLaVZIX0g2SHV3QzRFZ0JEQlJkZ3QxVnFkUkozdkVONFk3SmtpWUptd3l1eVN0WkpRSjdubGtLUTl1T1RQb2Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-21T11:43:09+00:00"
+    },
+    {
+      "title": "威聯通搶攻地端AI商機 明年毛利率拚6成以上",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6SFlINGxXTl9GUWR3Z3VXb28tYlpTdG91TXItOGJNM09QSjVac0s4Y0FqTFhuWFhBZ3BQME1icW5PQzZxUjcxUUJ2bnhRWHdoeHZsRGU2eVg?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-11-20T13:12:41+00:00"
+    },
+    {
+      "title": "【11/17 產業即時新聞】電子中游-磁碟陣列族群大漲 4.75% 威聯通強勢亮燈帶動儲存需求回溫",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHZfMVF1bGJhcW9ZN09uamVIUC15SzlVREJGT0Qtc1pGa3E5VnU0SjhuSkU0ZmszWlI0Zmp6QXY5MHRSOGlKS2NVVmdVLVVzdEpSM1dLMERRVmd0UllmdzBabWF1MER0NGx4YkZ1SERydmdDNzJfTlRMTXpVak5LdnY3WnVqMUwxMEJfVGhn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-17T01:30:02+00:00"
     }
   ]
 }
