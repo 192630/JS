@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T02:45:06.389551+08:00",
+  "updated_at": "2026-11-26T16:58:10.139140+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -12697,7 +12697,14 @@
       "cumulative_revenue": 11911971.0,
       "last_year_cumulative_revenue": 6922516.0,
       "cumulative_yoy_percent": 72.07574529260748,
-      "revenue_note": "本年度手續費及佣金淨收益、透過損益按公允價值衡量之金融資產及負債損益及其他淨收益較去年同期增加48.46億元。"
+      "revenue_note": "本年度手續費及佣金淨收益、透過損益按公允價值衡量之金融資產及負債損益及其他淨收益較去年同期增加48.46億元。",
+      "profit_period": "115年第3季",
+      "quarter_revenue": null,
+      "gross_profit": null,
+      "operating_profit": null,
+      "net_profit": 4939123.0,
+      "parent_net_profit": null,
+      "eps": 1.01
     },
     "2890": {
       "code": "2890",
