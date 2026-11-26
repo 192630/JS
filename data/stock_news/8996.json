@@ -1,63 +1,81 @@
 {
-  "updated_at": "2026-11-17T22:43:05.669817+08:00",
+  "updated_at": "2026-11-26T09:52:12.653434+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8996",
   "name": "高力",
-  "count": 9,
+  "count": 12,
   "news": [
     {
-      "title": "《投信買超4-4》致茂(132)、高力(127)、聯茂(122)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb29WVlBUaENwT3NMOHprN3ptZ1h3VHoycEh5TkhwYXUzV2RaYzhtZFFJeUR2RzdHVDVzZ3hTdHE1dTlTTnhWSWNfOEtzc0EwSFdXUWJGamRNOE9tLTJTbnJoZ3FTb0VqOGtkX0kxY0dvYkpCT09SSlRwZ0VvYVVDV1pTQno5eEtJ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-11-16T23:36:00+00:00"
-    },
-    {
-      "title": "高力EPS衝歷史高外資20日卻賣超1,656張！400張大戶降至五成以下散戶接手背後藏什麼訊號？",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RUGhlSzJmbjhyblN2MEF3UTVOTHVPcWwwY01vRnVqT1c5aHpZQzlGanlJNVVMUGY5UGNMRVJqSXpZRi1vZElSbl90cW9lZVBWMVNwYy14STRZUmFUdVQzNjItcnNRWVNmeXp1OENVWQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-11-13T10:22:45+00:00"
-    },
-    {
-      "title": "8996 高力- 【盤後數據】 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QNzV0bDBTdGhBdURaR1F3cGtOZTY5bW5QVTRYVVBFQ3o2OENDeC0xODd5VC1HRnZ6cldMcmo5QWZPaFZieHM0Qmd4a0tERHUycGhnemRWYnQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-10T16:09:17+00:00"
-    },
-    {
-      "title": "高力基本面未壞 SMR再添第二成長曲線 1270～1320元成關鍵布局區",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwemJhMjNVYVVNajktNjBRajNOLUk5QTNaWUx3YTh6ak1UUS1aQTlBWlAzZnFRZksxdjBUcTdCdE5yb1lMcGZINkJvVjlBUFJvbElCQ2ZsQnZqN2U1ZGlsVzVKOXVULUlZTjJEbzVkMA?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-11-04T08:00:00+00:00"
-    },
-    {
-      "title": "高力合資跨核能，評估SMR熱管理產品",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR3dfbVJpb3pxN21LLS1MRGtJUVZGNzl2cklmWTJ4VEkxQ1BPVnRHY0hHZ3FNNG1ybXhOeW5kSVRkTWxBS3JzTnJaT2tvazBYWkwxZlJNZjJzRDhTUWVJQTVmdVlpZkV3c3RXS252TEg3SDVZMmRlazhtcTV5dk5YdUlHb2p1dzVwYi1SbllHSElyQzltOWtNeDFPcW11blhjaUxpU1Bna3BHTm1RUUJlTC1xNUo5MjdvZzZ3b3RWcG9IWldma3lZanRKbUkzZV9GX09BLWZTX2hqVkh1bjkzWThVcUpmbE1fUU1TbVo3Q2JwQzdjVnRyVkpMNWd1QURnMGpnX2d0Tks?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "title": "【13:05 即時新聞】高力(8996)盤中走強逼近千六 AI散熱題材續受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlJ0ZFZfbElHaS11Zkw5Tlk4STk3cmxJcFgyS3ZIZGs2Tzl5SE1IblQ0UHhibm5ZOVVnVnV6R0tTQW5YM0g0VktKUUE1Q2xGaXVWa0d4b0M2TzdmaDB3SnViSlVQVHRudW5EQWZNWTlPUG13UVVNRzdpcHpCQTR0dUtxMTlpQlRXLUtTYjln?oc=5",
+      "title": "【09:14 即時新聞】高力(8996)亮燈漲停，AI電力與散熱題材急攻",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXMwTXVMYk9KZGxjeFpVaHBuQkozQ1pwQlJIVlZUaW5NUlBPNklfTGlvWU9TOV9fblh2clZVVy1qbDFLSXVTMHRCaXFBd0xQaE04VDNxMEp5TGs5TG5vQlZvaUpRcENKWGFnOGd1bTBGNkRIeGZBVnhPalk5TG1kazhKNmxKb3dqTVg5U0Rn?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-10-28T07:00:00+00:00"
+      "published_at": "2026-11-26T01:15:11+00:00"
     },
     {
-      "title": "《台北股市》注意股：28日42檔川飛、玉晶光、高力、尖點、中茂等- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIYjJ1QkpmQjdXbEFKY2QxaXpld1l5MnpxQzQxdzJOLVU1VTdMVXhKQ2xuVWtFWDlZMlEzSVRYZHFhYnN6N0sxb1lvV3ZibXptQUwtLXo4cXlwUnpoZG1uM0U3cmE0bGh1YXc?oc=5",
+      "title": "高力(8996) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCd2NFT2tPSXJfTTIyRDJuRnpvbmwxWTJjTWtFX0RxZ3AyOVQxeFZQSWdoeTJlSWo0LUdvZnE1RGxPMUhDX0Q5MWlQcjZvN0pNUWVZ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-25T03:59:29+00:00"
+    },
+    {
+      "title": "高力(8996)搶攻 AI 散熱與電力商機，雙引擎驅動成長-不敗教主陳重銘",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjF3Q21jX3dfaG45RWtPY1pMeDlZZTM3MHdkVG1sSWRMZ2RneUcwenVYRHBzYkVCNS1iaHdmT2VvSEdBZGZ1ZDlIeDJHUEVKVVFjcGF5N3FqNG9jWFJsbURmUE5lVWVoNHlWMGFOdUVnOGNaN0NiOXNuNFgwdVNROGdR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-25T03:27:10+00:00"
+    },
+    {
+      "title": "盤中速報 - 高力(8996)股價殺至跌停，跌停價849.0元，成交488張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZQWZjc3Jmd0M0TjFVejFHcFF5UXJ6QmNFN1JjWXpTdXdHZG1zWnBGTmdRTlE1NUdTeEZZV3lNbzhtY2QtcWZxanM4S3BJRl94ZFNHRTFabXFuUDJMWm92Z0NTeEY?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-25T02:53:37+00:00"
+    },
+    {
+      "title": "【即時新聞】台積電(2330)獲利創高力守兩千，這「3檔概念股」迎資金爆量輪動！",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaVTZ5UmR2SE5UWmdmT2pwQWNJdE83dmt4bGFZSDVFdGRuaEd5TTFiMUZXS3ZiTV9LaXFCVGNNUm9mdEU5OGZ6UENrbnhNaHdONTBRbHZDMkV2Yy1EemRUM2RZdk9MR28?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T03:03:18+00:00"
+    },
+    {
+      "title": "散熱族群賣壓沉重！健策6天重挫38.99%、高力狂跌41.30% 「這檔」價差835元也遭列注意股",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQcVdWQkIyS2pjY0ZFZjBnRDRjZ2ZOdjdkZkNsZlM2VWVieUpKOUx3SkVvb3RjUE1mZTFCSExnV3Y0ZnZvZ29qRU9wdV9TUlhYOEtNZlRzLXF6X2xoZHNHVGUyZGVKWVpjS1h1Y2lWRnBJbk5VRjlMMXNHcFlmU1ZxeTFQU2lpVHFiOG5hdHpNNHdDaVF6VXdaZ3NXUWZRVlBzczBRWVBpT1BZS3RMZEV0TzFEb0d2bzBfR2xKTXFTWGJwaU5qcjJHbGtnWWtxQzJ1a0ZBUmRQNTh4ZGdjNFdacVpZX1RaVGJQenRkQm50OXFvNm1fOXhZZWdhenh1dGJUWWs0T1dIMDdkQy1vTUdUSUIwZHNWZ1YtMFBBWG51Q05iU0tOa053VXc1UVJvQjJCd0hxMllZM1Q?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-23T00:05:17+00:00"
+    },
+    {
+      "title": "週一開盤健策、高力與訊芯-KY 等十檔接近處置股門檻，台股流動性拉警報",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybWtCZmVGcTNWbmhFQlFDU2VRLV9ZaThXY0YtTzczWUsxVDBVcUlJdmtLdVFpNTNvQ2hVTlo2X19lN0xXSGNTSWVoUjVGRnRmVk5FdzJLVUxNMzM5aEE?oc=5",
+      "source": "鏈新聞 ABMedia",
+      "published_at": "2026-11-22T16:21:00+00:00"
+    },
+    {
+      "title": "【11/23 產業即時新聞】核電與SMR族群盤中下挫，高力重挫拖累，重電概念股短線面臨籌碼修正",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkSVF5VTFma0FZR2dSZFY3N21mdndEaFFBbURZRFJzUnVlSFdpLTYyZExSUm4wdDdlbHBrWEdETVpTbnNHMUJUWWx0OGREbE52LXRrUVNTTDI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-22T11:11:08+00:00"
+    },
+    {
+      "title": "高力（8996）外資投信買賣不同調－熱門話題｜股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSVlVzUk8xYldib0JwLWlROW9SbGdsU3JMaGxVbEpnQl9ybV9VbDNYZnVBbVU0dFVYckE4M3R0UjIwV3JybW8tWlliVTRIQ3Z1LWtjLTdRX0VLS09ReFlqd0Y0X1JqWWh5RHctd09oYzNXZWhYSGRz?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-22T00:07:42+00:00"
+    },
+    {
+      "title": "高力（8996）營收與出貨前景－熱門話題｜股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5X1ZxM0hndlFNeE1RY01SeE9aUEFjYVhxNUl6aEljZ0dsYk5Jd0FPWVFkb1l2bnJ1a21QUXE1SjVacTJQUnp5YVQ3bk84UDhJaldidjVPZ05UVllqa1FEOElYWVJSamU5MjFWSVpNNWhPVHBxdjlz?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-22T00:02:39+00:00"
+    },
+    {
+      "title": "高力（8996）融資斷頭出不掉－熱門話題｜股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94YmpUN1d6eGhGdGluMnB2MWg4aUV0MWhvb3VBVXpNcGx0NldzTWNPTTNhNlMxTGtaSlVhcWI5b1VNaUpNU3hZclFLUXlvb0EwWmNiTDZjbktHaS1URmc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-19T14:47:40+00:00"
+    },
+    {
+      "title": "《台北股市》注意股：19日27檔大立光.漢測.高力.聯亞.眾達-KY等 - 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUk1XTUZTNm5sR2ZlX1ZjY1VOQ29iTmUwQnF5cjU0UDBVbVhidFBZZlZ6ZExDTnpVUXR2YWNQZWJvRGZHMUVyeU1uR3Z1YXhWYnpkNXdlQTI3NlJoel9tbjlqYkwwLXppMVE?oc=5",
       "source": "旺得富理財網",
-      "published_at": "2026-10-28T07:00:00+00:00"
-    },
-    {
-      "title": "《台北股市》注意股：22日38檔高力.南亞.金居.台燿.中茂.富喬等- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ja3c1bzg2d043V3dmQUtfUzFNMjVMTG9CbzhNMzBFNW5jT0c3S3BDdjl5RVNYX1hFV2dvUnRKNFVCd09zVVpBaG91VjRlaVNudFR6TFdRTG41ZTB6SWZubVFfNThKc0VHSkE?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "title": "今日最夯股／高力積極發展散熱業務 股價逆勢收紅 | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR1BQTzg3bG9VbC0tbE42Snk0aEcxc1ZFSTNha2tiZGpQMnJWQ042N0p0ZU1kLXpWbkJGX29jM2NkNTczOGV1VnhvY3JrZ19LMUh1SzJ1YXg4QQ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-10-20T07:00:00+00:00"
+      "published_at": "2026-11-18T23:52:55+00:00"
     }
   ]
 }

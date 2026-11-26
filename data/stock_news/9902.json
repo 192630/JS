@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-17T22:43:08.619859+08:00",
+  "updated_at": "2026-11-26T09:52:15.128925+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9902",
   "name": "台火",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【台火開發FY2026 Q3 法說會】營收年減34.7%、本業轉虧1,529萬，靠金融資產評價利益1.32億翻身，EPS衝1.29元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wTXhQQ3lnZHFPcDVDUDRxQmp5VXVDUWVLUllGeWtfUDFuZ19ZSkxkZDcyWmU5QU54Y0JRcUpRcFpfbnoycWt4SHdWc0RyVElPZm9Cci03MThuX1dvaUFyMVVadVNSQQ?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-18T08:24:00+00:00"
+    }
+  ]
 }
