@@ -1,69 +1,81 @@
 {
-  "updated_at": "2026-11-18T07:00:39.412711+08:00",
+  "updated_at": "2026-11-26T19:09:07.672368+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3017",
   "name": "奇鋐",
-  "count": 10,
+  "count": 12,
   "news": [
     {
-      "title": "奇鋐(3017) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSlhXSVE3N250NW1kSVFqUkQtU2FodlF1WEhxcUgwQm1nc2txUHFXSU1IRXFYOXJmY1BPdzgydTBJVkVCdGlZQ1FCckhxTnE3OVgw?oc=5",
+      "title": "台股強彈逾千點！散熱族群同步升溫 健策處置中仍漲停、奇鋐也亮燈",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04X1FlU0RYbElPMWxqNDh3UF94ZFJoQzFPUEd3alhBRGlEcjdCaFFzanR6OUMwMzZqRVVJa3VTOWQ4dFQybW5JLWhucTVkOHVT0gFWQVVfeXFMTVYxNUxWOTZadXZyTVdwdU9zaVRQcmphczVrRkxqbHZuWElPdzBoOGFOZ0JoX2kyRjhrc1AwdjhUb2p4THNCOUY1aGI5ZU5raUotYjRyWmc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-26T04:28:46+00:00"
+    },
+    {
+      "title": "焦點股》奇鋐：明年AI業務正向 股價強攻漲停",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WVVVTOTZZNlZ6Z3RKdUhPZHlfY2dtLWZKbFA5em9ZVlF1dVprZjRzNFRZRUhad0pwUk9WWmpWWWRuaG12aWdTeXFpLTY1TUxpSC1uVTFkM3l1UDJTcUtn0gFkQVVfeXFMTnJGNnBrS3U5bjZQUFAzeko2UTZWdjVTcjZyUVhON0xPalFaUlF6ei1XV09Ma2xDT0NkS1ZFejllanpxZTNYLW1mdFBlbGE1Skx5TDJUN1JuTVpFUGlrOWd5bTlZQg?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-11-26T03:51:19+00:00"
+    },
+    {
+      "title": "【11:06 即時新聞】奇鋐(3017)亮燈漲停，AI水冷散熱題材續成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON09ySzVHRjZjSE0tYVV6Mkd6OVFQX05aamlXQ2pUQy1QNFhIU3lWNjRaSmo2cFBxeHBDbm9nTGhvU0hteGZkYmpRM3ctclJqcDhmRXVTb2p3Xy1sd3NPUTBuTmpKa1FqbUtPVDlnMm1SRjhLMU1SVFlqa2lHZnZQaGxTVGF6MlhDemVDN0pB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-26T03:08:16+00:00"
+    },
+    {
+      "title": "【即時新聞】奇鋐受惠AI伺服器散熱升級，第3季每股純益達29.32元創單季新高！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHpyeElZT0dRUEhBV25QNE5qczk4R29jV3JCNjZYT2RuRnVRZE9jR0dxeHZxWGRQSFZLbmwzSlQ2NXhJN29qeDJIdHA0MDBzWG1oUjI0RGduRkppeFhyM1F0cVdoTmhDdEt0WGxUNmY3MUJXT3pudklnWjZReER5ZlJSaTZtWnQzTDJvSWtBUHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-24T22:02:18+00:00"
+    },
+    {
+      "title": "奇鋐犀利 權證挑逾四個月",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tSWdLUDRDQ2xFTlFzSDB2djR1YmtGMXpEVktBTXFhTW5vSXZ3emZrUEY1SmU0Y3N5Qy1reTNVZzJpOWpuWTM5LWs2c3A1R2Yx0gFWQVVfeXFMTjVuVi03WllEeGEwZjV2MWpDVUpHRE4ybVJSSjlCMnUyVFRsU3hYeWZKeXNHS0h3eUpXbmRXTUtEQjJSLV9XaHE2YTNwRHppODh5LTZXTmc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-24T18:34:47+00:00"
+    },
+    {
+      "title": "3017 奇鋐- 外資-131 投信-2 自營+17 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zRjFkMHZyVXhtMVgyc1JKQk5kdmRXek1adGZwVDNJMEFlWk1rWlpBZDB1MjBFd28xZGVpSFJNa3RMbUZBdWpWc3A2ZHVVZU50c0JkcWFGT0o?oc=5",
       "source": "CMoney",
-      "published_at": "2026-11-17T14:32:32+00:00"
+      "published_at": "2026-11-24T09:33:34+00:00"
     },
     {
-      "title": "低軌衛星整片綠！「這檔」連挫5根牽金像電、奇鋐、台燿、騰輝跌停 大眾控、精測跌破9%",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOWDNjVWdfWC04MFNuaHdDZXhwOHdheV9tN1BfcHJsU2gxSjNiMjRydEl5T25pbGw5ZHRGT3gzekRFbTlEcjRXbzIzQjVCM1VRbHNDUFFaVmJrRTg2WWFSaVFIOExGZzBEVEZMaGZsMERqWHBQbEUxSy1tWDFFQi1Gd3ZtbWVFSFFzMGVKVmlDOFJ4bEdkSUo5WHpMTFAyZnlZSk5IWnNSWUdudEQxVDRWaTRuYnBJMGJhRFMyVzJ5ZEFOeXBpejRRWERwZktFYnBVdnJEZWxOV2M3a3d4cVlJa09XWHEyMVRQdHZEX2lfZFo4MVdTakp1WVd2WlZqdENOclJMWGliY1BYWVhYTk5TYnJFeElUMHlJeTVZM3pZMWdvYVotLUoxWV8wT2Q3VW93ZDVkQ01WRmcyR2x3bzkzcTlmUzkxa2xRbFltdHVLLVV0Zw?oc=5",
+      "title": "奇鋐、緯創 四檔馬力夯",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52SjFKVE9iWTdBWWhneWI1QzhXeGtZb0ZqWTNjWXhCM1h1a3ozanZxNjQwT0JiNXFxVFlGQVNraWFPZTBha3hHbzF2aTY0dGkt0gFWQVVfeXFMTzFPRHJHNWZaTU1oVFVtZ0FCNzlyaHBPbHRBUjhHek1EOXRIQ0JSci1TM2txYmd0REFHbmI1OFFIb1Zoc1FFaWJGdUNyRFNfY2ZheVYwclE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-23T17:03:03+00:00"
+    },
+    {
+      "title": "【12:45 即時新聞】奇鋐(3017) 盤中走強，散熱族群賣壓後買盤回流成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVByN3BZdGhnVUJERkc1ZnhKVXM4OWpadnRVdWcwT3VuSEhmZGxvSmoxaUtOUEMyWWRlM0RhN2xlbG1BTFFpZFR4dkpjYlBvSERVYWZoRjFoNmlOcURfbGNyYUNiZnJLZUhKRl9wekt0dGItN3pWRjVUaWZLcmt1MF9YemRWRFpfSUloakZB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-23T04:46:12+00:00"
+    },
+    {
+      "title": "【即時新聞】最新財報報喜！奇鋐Q3獲利創佳績，單季EPS高達29.32元",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmt6Y3ZONkRBZDVUNy1jdTRtdE9tei0tT3BUYWViRXRhSFJ1QkYzVDRQMWhkNWRTdkg4SDFjVTRzQk1ucFF6U2VMOGtsbVdGcGlJajQ0NVhwQ2I5WjZUMFJnZXBvVEctc2NuT1R4Q2M0SDk5NHZUaU5NWUFHSENMUF9NMWM0RWtnbFhncTFCc3g?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-21T15:38:13+00:00"
+    },
+    {
+      "title": "AI雜音難撼基本面 聯發科.奇鋐樂看長線動能",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaG16Y2VTVF9mdFVSblNmVkdLTlZiaEtVMzRkNG5ZX2ViQkhkazkyY19fNF9RWXNXUkYtX3NSQ1Uzd3hLOENZX3c3V3Z5YXVsR0xxUTVVMFRpaXlRR1pMUExNdG9ldWJ3LWRGSWY0QTIzc0F1dGo5bGdwRTdxSHQ0WG5RTHREVzNFdEZISmhsVWNRZVFwQjFaaktSN1NXMFRoMjVlQXFiX1VkZm42UmYySjJ2RTBhUVNIVC1nZ0YxS1k1UE5MY3RFQ2dzVUJEaFI1UWs4TXJKRVMyTzRaN2J1eHpEbTM0RGxFSjB1eEZoMVpzU0NLUmRZNDJWTEpWQzlKTVlfODRwa182dWlSNHBNT1NSYVVEZ21UNEo4ajQ4SmxHM1p6RF9KZWg1MVlhYmc4b0ItREUtT2E?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-11-17T13:15:00+00:00"
+      "published_at": "2026-11-20T10:00:11+00:00"
     },
     {
-      "title": "馬斯克AI算力送上太空！1萬座機櫃商機爆發 外資點名台光電、奇鋐等7檔台廠",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQUkRvbmk1QzlDVUJCZjlNRHMyamVyeVJGZTZ1cDNza0diRjdHNkxEc09WN0RiLVVfX3ZPSlBqbk0xNGJqNEd3Wi0wUmxrYzFqTkJfNHFSRV9pRUtkbTdaMkpaWXVEdF9Va2gwd09VdjRidkRrVVdjVlBWQXZmcE02NE1tZVJXR3U1UlZjT0poOUp4ZGxhZ3lXVHBPRGdXTE5MSDJxNlN6d1loQUJiSTJuX01memJYSDItWW1uZ25aTDZKSG91YXQxS0tNUDBPc1dDVFRWOTRVdFJ1dkVlTE1BZXpheWpWRUhZQ0FyY1Q4b1U0MlBOazlGQ1k5amotb1FZRm5FVHNZcnJWaThXTVBCRFdSdGxYd2ROTEh1c3A0QnBtcmR3cGxxd3BGYnBjX2lkeUdKSmV1U25yR240d2ZMSnROb3hkTmpiWUhFR2ZBWTF4WDc1bHlpNWRXOVpZdGQyVzRsWXRRWHUxMkhTSGh6Y2tEWkdyZTFwZVB5ajliMHY4WVJ6b0tLdWR3OG5xZ2NLT0JJUnc5WVZuTDZFelVpWlNqMXp4czBTdHNEQ3dobkJGN0RQdlBFT3FvMWdXRFF2Q1VZYkF0WkRFRTM4?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-15T04:01:49+00:00"
-    },
-    {
-      "title": "〈熱門股〉奇鋐水冷產品展望正面 周漲逾3成收復月線",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQb3pEbGVTYU9FRXl4cVQwdzUyZE1Hd1ZLa2k1dXl6NHlUREUyQ25LWF9sVW1rUzl4bzlaa01ZbHN4VVZQWGtEaVJYQ3NkTTRyRUNjamZEb3B0LU9rMnh1N0taaV82YjFES1RGQjlFbWxlUjk5cml0anlhUEVZeVoybm94Q3VwcEE3YjdhSW8tWFBfczJPNlp4VXN2eDdEZUFWQXhXcHhhd054dUtic2dfby1nOHQ0YW1zSWlyaXphRGpxLXlmbE82UHVxb0s1QkhWaFkwQjd6SU1rTklQeUp0VEVqdVlsUkpBeVpOSEZaTWgtb3BvUF9LVGhORXJDZE5iQnFoLUFwcnpoV19yaUxMVktRdW81MDI4T3dGMXJpTVMxRjNxaXJweGxfMXRiVHBuUzdsdWlLekE5UHN4c0ZvaUVOWXl1S0Vja2ZrSGlTV3A4bVl3TnVaZnlLZw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-14T01:05:09+00:00"
-    },
-    {
-      "title": "三大法人買賣超 – 外資買超(2454)聯發科、(2303)聯電，投信買超(2330)台積電、(3017)奇鋐，法人合計買超439.66億元",
-      "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxQdWJqM2d2THJIMllITXZqY0RNODA4dXg0WjhWVm1VME9MOFl6eHhBVVJqUXE3MkcwYlJFV0VpME5IcG9tMkh1ck5SaFNrcXdPMEM3WVVrN3o3d2RudXNSWGYwS2xFSXJqd1Y0S1FHcFZ0dTk3NXVDTERRSjh6TlJsMUFXR1U4aC1GXzVfZTJwMTUzZFNDRDVhbUlZdHdvSnRraC1VdDVsNXZ0VkVyaDlyRGdKMkdzOXQxX3lsdzZ0bEk3TVhfQ3Zhekdleld4NDlzLVVxdlZ0VHpSLUxocHZDT29lbGpQdW9MQjBPVkR1STRxbmtsRW9EbnIzRkk5ejdRekhIWllZQWJKZVBqSDdMTG8wd19hbVR6TEk0Z2J0TGkwY2dPTDhvS040T3ZvbHA2TTY1S0d4ODNqeGpaeXFTa0N2TEVtMzFrYkc0emVXcU1Ob0g2Z3IwQkdVakpkeHFreE9wZmd2SGtKV2dLNEJSV0hKVEptRm84MW1KVy1RNkRzWEpDRDJDeVJtWG14M3QzX2EzV1hPbFJSMDlDT3FQb3g4WmFWWHB2Q1BzMnpLWTZVWUJGVWsxSXViS2d5YkNWb3V4QWpQRU9yWTlHQ3o4eWJ0eERsQUY5OXFuaUNfRFo0X09FcFltTXdNbEN2YjlTeGV1N1hVU3pyczB0VXhhLUNKeVdOMUNSME5GNDlsaXhWZjRVWnNCU2MwTEstMjVGMDNDVnlqSVlTZzUtdEcxUC12Q0pFNmFrTUhKWXRmc1ZnZlhzUEE5d296a1NsNDBYWDZB?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-11-13T08:40:50+00:00"
+      "title": "散熱族群兩樣情！大哥奇鋐漲停帶隊衝鋒 「它」掉隊獨自飄綠海",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05bEhmWGNKYV85aHFZaF93cEVOSzl3am4xTlJ0am5PNFUteXpkSWlyUUlLZ3RFNXlnNTZDc2lLbTY0WFloRVhQMW84NA?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-11-13T08:00:00+00:00"
     },
     {
       "title": "【13:22 即時新聞】奇鋐(3017)股價勁揚逾8%，AI水冷高成長續吸資金關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHQ4LU8xbFZiNUdVRldVdWFTb1A1a2dsLTZPRWRQUU1TdmFqT2pld1E0dy15MGx2WHprQnRPT2lCaHg0a2xiek1rNm90RnB3cW5ZNWNSeWszZ21LbGxGc1NnTGJIQVVCVmx4OGRZMUtpVXRYS09VVDlYRThsRTFhcURzS2hzTVVkRWdzZ0Fn?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-11T05:22:13+00:00"
-    },
-    {
-      "title": "奇鋐（3017）創高後回落，賣太早好心痛？又怕抱太久回原點？「移動出場單」幫你把獲利鎖住！【大戶投APP智慧單】",
-      "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPLU1ZUDdzRDBhUzFhN1RiS1VrQXB0OEsxWHYzNDhjV0cydlQ1SGNzcVdJaGpjcHNuUF9zUG1Pd0hnOFdPSzQyN2xxLWlLWUYwdlF6TDFKdXhhRW0ycGxiMnh1RkVmYW5MaHVzZ2xtU0laUGpVLUp6QjVPNGF6QWh0U2xmY090aFhUamRKdW1fektuVU1DLW5DejFiUlluajZ3bk52ZEhkcWVnUjBSS0NfNG9WWkZsdk9oR293a3pHTWdKSjdMc2ZjY3M3V29vblVmT3lPNW44aThkMWxsMjN1aGxadzBpSWVmYURuQkEyVlZ2dHJ5VHEzWmlTN3habEQtUEJ5YlEyV0FPZU9NaWNQUUVCc3gtUnpDV0JvTFA2bEVsaW5SY1V2dEFOenJYRlFPcFVDOElGSUpPUDBud2xLQTFKTERNZFRUaWR2dWNPN2NNNExnUUF4SzNlTm50OTFCcS15eFZ0R0lwWFJuYldYTUdrVTRrZTZWbVRNbWhQTzUtTlNoWUxkSGR0RFp1WEk5aFBqNzFLOWhjcWVucnk4MjBEbXRTTW91NFd5TWlTeWdYS25MTHppZkJDZUhVdXdvZWhiQ0tybHQ1Rl9ncmRTVnlfQ2I2U0E2d1Y3VF9xZklCMlNxUk5DSDZBeGlKUGNYRUhnTWR1OU93MHJBS084cUI3MDRJZmRsVGhfMDZhSmtJRmJibTY4U19CRDRLZVVxel9MekZmYndYYjBkd1B0OHRMVlFLWG1CVDc2TlF6amVhYWtUZ0lXU2RBZVNZN1ZDbkN2UGp5Uk5VaEFwNS1MbnhmLV9qNndrN2Rv?oc=5",
-      "source": "永豐金證券",
-      "published_at": "2026-11-10T00:50:50+00:00"
-    },
-    {
-      "title": "AI散熱還能旺多久？奇鋐10月營收221億連3月創高、年增逾34% 坐等法說會揭後市",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOY2hqSXoyTnZWc3FKWnVqdzBLNVpSNG5IM0tGaXZzMm01NGFuVWFzU09ZUDY0aklqOGxhZ01mTm9QS040UDhyU3B1eGNWSzZUTnhqUUpqNmJGUjhkNzVMOV9VcHgyYjMwN3RUaTZmYnRTd0FSbmNYZEhjTnlpNWpRNTA0Q1JsMkFGbER1TEVsSFYzaU1iMXAyazVBSFdIX2Z2WDBGUVBvVDZJQm9CY092Q1Z0NzFTbkFSV3YtN2JQeWMta1R4enVyUm45OHNTVGtmRjlTbWtoV0pHUEVNU2NvbnZuUElnUEx3MzVxSl96OVJnS0ZkZURIWE9GSUptZ0R0WkxwakpseW5KY2lWM0tDOFVCelhxdmpDUmRKUVAxY3N0VS1qclc0Z09XR0hzNFlQU185c1RmT0hjcGg1SGtmWHNac1c1ZHJIeU9hY3F5d0pGQUV3cXJHMjN0RUFiS1drYXJqclhDblJPdzhHaEhhOGVmRExGS0dXWVN5V2had0dQMy1Ibjc3TmcwODg1eV94QlVBdFItZTNnTEhLLXJLTTJCclFvSVIwTFlmN1N5UGJRTXVjQUVHTGNSNVM?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-08T08:00:00+00:00"
-    },
-    {
-      "title": "擁聯發科、南亞、奇鋐都亮燈！00406A爆量80萬張強漲8% 2檔槓桿ETF齊噴13%衝45萬成交量",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQcEx6emZIZkdrS05UZEdNaUJUZU9ackIzVmpLUjJHRW9NbkwxVFA0VE1HOW9xcVV5blBRcEctSzBIajBDMElsS0oyWXpiSHFESlptdkNOYU9KZzU1MFVZYkliQzczRl8zcjJ1UUpfUk5IbVpubTRjWnc3c1lmZmgxTVJDRXlTNjJDZEJlTV92V0p5YzdFck9rUjktZDZETGJmdlktR1hRR01qYkNoWmpEQnRvTlBVWk5nWTdVN3BZbXZYUk5tZTRyeDVZaTE3ZFNqZi1WRWVqWjdXdVlPdTJqcndtc2dfZ2RGWGg5TEdpS3R6dUp4VDVBd2NzeExnVHVxeGpRbkZUV0MzZkc5Mmo3RDYzaVpvMVZoaTYya2wtd1p1RVllU0ZOME1tTkVfWHZxUzgyUEJXX3F5c29heVNFdjZVUDJtaHNSZW5CSkZDQXFyZE1CMHplNkJ1VkMtd2t5MnV5cXV0NlI4WGFfRWNna3lfMENWMHdMcXV4Mg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-08T08:00:00+00:00"
-    },
-    {
-      "title": "奇鋐重摔3% 散熱族群一片綠油油！「二哥」逆勢上漲成紅玫瑰",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IZ1FhbzI4RFpMOTZPcW9jRTdTNm9hd1JuMHhRNHE0aENZRG8yYk1ObUlrc2dVUURMdktlQUN4ZmtLRjRubmdIWEI3QQ?oc=5",
-      "source": "三立新聞網SETN.com",
-      "published_at": "2026-10-29T07:00:00+00:00"
+      "published_at": "2026-11-11T08:00:00+00:00"
     }
   ]
 }

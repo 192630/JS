@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-18T07:00:26.087021+08:00",
+  "updated_at": "2026-11-26T19:08:53.570628+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9944",
   "name": "新麗",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《集中市場券商買超比前30名 3-3》晉弘(13.95)、新麗(13.64)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTS15bUNHb0N6TVFibmFUWXdZcV84T3hnVHl6em1LSWFZcU5RSHVON3ZzV2ZDeTd3akZkTDNkUkJqaTRVRXF6cGNBUkZwZUExTmhpNHZ0N3doWGtwdlNmR0RnRkNXME1EYWtOaG1nRGxrVy1LM3BZN1VrRVdiS3FoY0thREVpWHNf?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-18T23:29:00+00:00"
+    }
+  ]
 }

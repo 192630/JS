@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-18T07:00:44.629445+08:00",
+  "updated_at": "2026-11-26T19:09:13.382124+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0055",
   "name": "元大MSCI金融",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "元大MSCI金融(0055)持股明細總覽",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVmd3bVZqN1pjTXctR0tfWjY4blk0dVVDeW8wWGxSV3BiT2ZQcjdCTUNDTHFjV0RrT3ZuZVA5M1owWmR0Z0MweTdtMzRndWtqX2FvQ1ZvS1Jsdw?oc=5",
+      "source": "口袋證券",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "title": "元大MSCI金融(0055) 成分股、配息、折溢價｜台股 ETF",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uQldJeUE0b3ZRWEQ0Nk1CSFpQQmdSTmp5OFVRTThPR3dUam84b2l6aWpXc2tiZEx0bGRqbFFlOGZxQ2dPYjE0RXE1STl4ZkNRRUp1NmhfY0V2SjZhTW5n?oc=5",
+      "source": "口袋證券",
+      "published_at": "2026-11-20T05:59:59+00:00"
+    },
+    {
+      "title": "0055 元大MSCI金融 - 台股連三漲後急殺千點0055、00713逆勢收紅展現抗震力- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42dnRIdnZGV3FaalZMbU1rcFBBYjM1TkVhZGhmUHpKMlotOVVFLVpFS2xKUnRaM2I3bFZ2VTJZejdtM05XZ0IwNFdRUXpub2Rzck4zaGtOd08?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T08:00:00+00:00"
+    }
+  ]
 }
