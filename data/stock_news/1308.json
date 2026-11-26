@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-18T12:35:16.524751+08:00",
+  "updated_at": "2026-11-27T04:18:55.575139+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1308",
   "name": "亞聚",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "亞聚(1308) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ua0lCcXZpbTR2dUFKVWN3eHVqTFRDeVg3dkh5UWw3amdVYUtNREZzUFpLTEljN0MyRFNYVklTQUtHZm0xaXBCMlN0RWxlbUJsbVRB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-20T21:26:05+00:00"
+    },
+    {
+      "title": "台聚、亞聚法說會／乙烯供應偏緊、跌勢有撐 聚焦差異化市場",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VRWFfYnJJb0pLRTRIVVh6T2RjT3RiWDhSbXNnVFZHQmtJTmRTQktDbmJOYngwX09rUkJsMmFaYmlkR2NkR2twQ29kd1pWZW5L0gFWQVVfeXFMTzUtaEJWZXdoaU9VMkRFaG9zZVZsSWNtb3psU2hjU1NOWnVmMVRNYU5PRmtxb2lRb1U2ZWN6SXUzNkdydGFQZUJUSVhOU1UxRG41dVBiaFE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-20T17:24:01+00:00"
+    }
+  ]
 }

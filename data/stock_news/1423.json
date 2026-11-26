@@ -1,39 +1,51 @@
 {
-  "updated_at": "2026-11-18T12:35:29.007373+08:00",
+  "updated_at": "2026-11-27T04:19:10.299705+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1423",
   "name": "利華",
-  "count": 5,
+  "count": 7,
   "news": [
     {
+      "title": "英國監管機構稱，味好美出售科爾曼品牌或可消除聯合利華食品業務并購的競爭顧慮",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1idzJuREJtemN6enZKQzJJMmhDdUR2Q0twNTRyYWNaWEFGV1NUWnUyLWFDZGk5djN4LUE5WDdveXRiN0R6eW9sXzZqTjNfTmlKMEhsSHZTMVE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-25T11:38:10+00:00"
+    },
+    {
+      "title": "菲利華(300395.SZ)：首次回購8.25萬股",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RGRvNV9WOExON1lNZk5hQVlLeHl5NlpQVFFtekYtX2ZqaFQ0bVJhb1lLTDZnYk5BbDQwWXF0N3FMRnk2VGFZU0NSZHdJVzRfRUhpcVJYeHR3bTU4cEFmaFljYkJrY1M4aVE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-24T09:46:46+00:00"
+    },
+    {
+      "title": "贛鋒鋰業(01772)委任傅利華及劉明爲執行董事 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odDhScmtsNnJpMzlUYVlVYU0wallTaFU4ZmdYTUpVN3dpMl9Wcklyb1FZM1hkX2FwUlI5QlVjVlB0a1RfOUJpRUo4RHJlTG9qclFOYzFIdG1UQWZ5bGp4OEZGSTBrQm16cTY4MVA0V1Y?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-19T16:22:09+00:00"
+    },
+    {
+      "title": "味好美與聯合利華擬組600億食品巨頭",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOW84TlhsTXBTaEYyNzluMVRyNDJtODRDRDB1VlFySzVPVTVIeXl0XzZRUXNCQ2dCN1FCTThodEduaGtyX3Qtc0ZiZW5jcF9ZXzRRQUtBcWtvaHExNXFfRkFaU3Bpa05XcWZBcU1iRjMtRENUTlVoM1BtelVWY29JbGlVS0RTdkJkWWxndGc4dzg3d1Z6NTlDZjItUzF6YS0zVUR6M3ZBMnBXeFppdVVnNGFpWTJiUjRoY1JEYnpTQThPQWdhbnZOVW5UX25LbF90ZVdzVUVtSFMwSmNTR3BXQ2NKbWNrVjAwTlFRVERaSUVXeWFfNW5vdENGWHNaV1VZRlRjZXhIeTA1NUZLY0E?oc=5",
+      "source": "NAI500",
+      "published_at": "2026-11-18T03:25:13+00:00"
+    },
+    {
       "title": "德意志銀行升評聯合利華 看好其在市場動盪中展現防禦性",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPczZ5LTF6Smg5U1JXa0dhOUg0ZlF4eFdwWlBSSHJZdGRucmx6N1Y1a0NBeUczSUg2aGs0NkdEY3d0Ym43b3RKZXkxbkQ4SFlGZVZTUEEtS3lvR1B3djZzWVBOcm9WVVJEMnJqUnZ0TWxONzBHSGVRUTRNRnNlQTd1N3VyMHZBNG9JVGRJYmZ6WVIwOHoydlNrdDdDWUwtVE5PY0NtVnJfODBxVDJsUnR2bi1rZ3liN3UySlBlRHhjRS1tOHNuWWlKQ294RVFvTGxlbF92eWJsWkJFeGlMWDBWdVlzOXgzT2p0cU9kSHJWV0kwT294c0tMdG1pN1VQWGV6YTd4Z1ZXSUZEV3ZXYWJzRjF3Q3JiU01BT0ZfWkdaOE5GX1luY1NGOE1xYmEyRU9NUnVBVG9LeWpnM2RLbWcxbFNZWWVSdHNCTmN5YS1FZm5VcUpqOS1MNzhKTDZYWEFiU09sRlh3YVVDbi1hanhWUGhDRzlaWEt3dDM2blJEMEZ6TUFiQ3piMg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-12T03:27:48+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPb1JSM2VxazRBQ1RYMGpyeHRsalZaemZ6UUw3a1lqRE5YcVdKOVZWenJGWHpIS2RPU2lrR2xQdGd3bjNZOG1fWlpOZVZrcGwySzBtUkcxZEZqYmJRZ3F1SEhibXVWUVNoU016VDNyWEhaVkN4V0d0SUtZZ0p0ZFUyMXZnVkV3emFqR2Uzc0hYdnlxZnJsUUFJRkJCcTFGWTZXQ21QUnNQOWc4Qzh0TzU2ODVTV0RxMG5oODNBdFc0cHBRa2ZOb3RRZXp3by1VaENDYUMtQ2dwVWgtSVVvbVdiLTNxOUtuX0xQRGJWSG1rc2Y4QmNGbXBNSnZxT2Mxa1pqZUlielQtQlBIaXdDdUNkblljaW9zU040RFB2Y1lWdC1oM2VCUWJ5cWNhOEVCdzYxV0o3b1BWUG1wRWlHTzZyb1VLVWU2MkFhTDR0REJsbzA0a3U1SXA3Zzg2Q3RwNm1US3dtNzJ4WmZwZ1ZGTVNWZFdaNWFicXN5dWZHbHpCdld4eVg3M3BGUjdwTkl4bzA?oc=5",
+      "source": "商傳媒",
+      "published_at": "2026-11-11T08:00:00+00:00"
     },
     {
-      "title": "辦桌文化為主題 聯合利華連續8年力挺同志遊行",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVVVYQmJrU3RhY2F3cVcxYmJwLXU3NkhSNDFnYjhJSndqYjFraktiUTB6Y3FmaEI3cGN1bUdlTFA0RjIzdnlwMTh1R2xqdVBHdmtsVENJSjQxNGtlNVRoUlJkZ3pqZFhNRDJQcUhjYl9mNjZ1REZzQlA4LTJvcmt1Tk5CMjU4dVBXbGd1OVVraDZLUGh3SVVjdlcyNmx5aTFJUUZ0SHhITDd0aXpSclVWLWEwWVRLRUdFelR3TVI4eXRnNjlMaVp6b2o4d0pMaU1nVWpJQ0t1Y1laX2VBNkg1d09UUmUxNnhrZnhORUZsMklYSk9yUlB5ZzRlSjJwT2NTZlRzTVNSSExPZnlaM01sVVhUV0hWYWRIU1ZCNkcwaXhuRXEzRHVBZkVxSHN1LTZnWnp2bXNLN0szc05YeWFUZFltVDdtQQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-10-31T07:00:00+00:00"
-    },
-    {
-      "title": "民生用品又要漲？聯合利華預告明年漲價力道更大",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxORDlLeDRKcG8xMWNrRUxVZmlPNXR6Mm5xY1V2bU1rRzRhQ2U1ejRsakRjWXhvMVBQdnNUVmtWYV9YbFF4UnZOQUZSNTlRb0FYQ05pWFZ6Vmd0SElqN0x2MjYzQmIwaVhKMXFMdFlyQ3VVYjNRNVdENVdUNndJdTBYLXlDeHNvWHdSY01pc1IzY1pDanVUc3NJVHhnM19WZnZhZkNVWjlXU21oRFZucWJKbHhrWmxLQ2ZoREx3NzRlaTRGLXpsbGZsY3NFZmg5LVdzN182SXRtMXRuOXUxVDI4bHA3RkRJS0VTU0s0ZWNHeEhSSml6cVhuSVZtRXRRazY2MTkzUU1pekRCVVQ2UFZpNWZpcFNrR045V2hXc3VsWko0c1RBR0N1RVp4ZWw4aFFDbXVzUkg5MGtSUlZWS1pzWXJSVG5pX3hacUIxUDdrdnZ4dlR3eERHYUR3cw?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-10-28T07:00:00+00:00"
-    },
-    {
-      "title": "財報電話會議紀要：聯合利華上調2026年全年銷量展望，第三季表現穩健 作者 Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tVWRiOU1ZSVA5cHlhbkxvcURpdUotbUlHdmN4MFZVYi1SMGRYNWRHVXVWU2hXVW1MRWw0N2gtUE5lOEk4VFY4TFJ5cWNFOUozTVBwUE9USVpKNW44OVF1T0RvYVF2QU9FMEFRRmNBcw?oc=5",
+      "title": "聯合利華第三季銷售超預期，但成熟市場疲軟拖累股價下跌 作者 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yRWFNX3lOdkJValk3UzVuVGJxYlpBNGJwX3RoazBXUURqdU5ackZKUS0xWEhaX2pfWlVMN0xrajBYNWFHZlZpelRHREg0ZU81aWRBMHd6eWExbm9jWEdNbVdFdnA?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
-      "title": "味好美448億美元聯合利華食品交易 掃除美國反壟斷關鍵障礙",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPQzhIRWhHRWNlX3YzSkhYeVVMdmhWa0pndkU5Q0hiQm9JNzdXQThxOUpoNndFZGhFTzVVZWpmS1RSb0NCT3JvY1VfSk9QeURxS2ZYOWdzaVVPekFGYURsdEFfYTBZYXJiNkIxTGFqSWtodHUzVkN2bWRKM0psOU5FQXlFOWlWZjU4OVduS09SV2xqOG5MejBVSGZfandJd2xVeTdHa3lfTGRmUGpIZkdEaUVZVnRBTkFoa0J2eGR5NEtXcm9INnd1OHc4V1lHWTY1YXd0NXFud0g0SGo1bmwtbllDYTBzMnREZHBBQUlvak02VUVkMEg4eTU4T0Z6NDNrczFDSzdFZDdicmNoREpYZmxlajJhU1I2Tm5pbzZsOGE2empMbktIMmtKWjA4NWNjRFNvV2FDOXc2ZThpYmV5ZlpRUVhRVG00aVJva2N0RndoRVlQaUQ2SnVvbEZ3bGhsbVFYazZtSzU0dVVKWkhvY1VoQ0J2RmVma0hlYkxuOWdEanZUTnBhWXpzdlc?oc=5",
+      "title": "民生用品又要漲？聯合利華預告明年漲價力道更大",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTG5DUjFDdnZwSmxIei11SHlqdHp6YWV4dmlXbUQ3aENGSWdDYnBldEtHNl9xOEV1ZE9hcVR5Q0JlMVRaOVJnV0VhYVJfVW9MLWZwWlctQkhhZlhUZmJManNRWVN0Mk5idTZsMC1pV0JMQnI3V0V5VkFPSmdWX0tab1F3N2JpUEtPVy11YkdhZFlBU183UmFZaERISjVzaUxQQTkzT1J1YVNmdXBrSnNacFFBRjVHb1dvVm9xWVlPbDROdE0zUTBUcnE1ME55TktycmV2UFVGV3VldldKSDFxb2pCUVFNX25uWkxMbUZOUGRreC16akpUb3NXY0ZNWjdSZmsxdDNJSDhpY3p1LUpwQzJTdlBlLXF4alVCV0tNeFRBN0hzaFpPR00yVE56bjdycm1PVHpWUGU1UzJxVFRPaDU5VUc2VjlYdFpZOXU5RzhtQ0ZacWNzdA?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-10-25T07:00:00+00:00"
+      "published_at": "2026-10-28T07:00:00+00:00"
     }
   ]
 }

@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-11-18T12:35:17.361685+08:00",
+  "updated_at": "2026-11-27T04:18:56.541868+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1310",
   "name": "台苯",
-  "count": 1,
+  "count": 6,
   "news": [
     {
-      "title": "董事會：台苯(1310)決議辦理私募普通股現金增資案，普通股15,000萬股為上限",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEQzQTJ2eFM1TzZHV29HVmNXTE1ILWVsZGlZTktWQUlkTEstek96NlVGa0RBekJudHlieTAybHJPVHQ1NUROVzQ4d1hkUVllVFhzNkZxYkVCVHNYUFJWM3ZVekdnTXFKRE9VeGtvczBJR3FXZGc1NEw5NEltbm9GNDhHX3cwajA3?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-11-11T07:38:00+00:00"
+      "title": "1310 台苯- 【即時新聞】最新公告台苯每股淨值跌破十元，24日起暫停信用交易！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oakNTZS0zTER0czhrQTQ4cU5VNVlmRUZLMGtyMUpGRUFjUzdpc0tTS0hVNkpyS2pHNjlTcnR4VDgtNVBaUVFlVEZaRTRRWHRLQ2UwVkFKaWQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T12:52:36+00:00"
+    },
+    {
+      "title": "【即時新聞】今日最新宣布！台苯(1310)淨值跌破票面，遭暫停信用交易影響4檔個股！",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QMkFsOVZWME5QZmdvLVhzWXhBTmNqQVgzcHQzMXdtMTZwOU1PdTdNVFlKVndJVHRUMThhY0hFVjJDTXRmNDJYWFp1NGp0MzBmUDdxUy04bnhmVGtSb2I2OWVnblkwRFk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T11:52:34+00:00"
+    },
+    {
+      "title": "1310 台苯- 快訊／台股11檔Q3財報欠佳！ 明起暫停信用交易- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TZng0bTZoM2lvV2FzeFlxcnFGZl9xbVRUckIxeXNTRG1KaEdtamg5WXZTekZYU21RRzB3aHJiRXhPOVBjSjVHSFkzV0U5SFJMNXV0QU1qOVY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T10:47:19+00:00"
+    },
+    {
+      "title": "快訊／台股11檔明起暫停融資融券！台苯、基亞、浩鼎入列 完整名單曝光",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOczBJdjVNd0lVMTNhaUtUN3BGQ29UanZSTlZsekZ5S0h0VGhjcmVlWWdYN0tqSko5SlBiS0VYVkNmenZQanJRV3c4UmtTR2RTR0trc0FrcnBmMzBVc0Q2MW4wdFJqWDdBdktzSXJ4S1l1QWtDN3VXQ2tocFdCNHBvZDFscDVFbTZoUE10VUZlbE1LSzZud0QzM0ZpMUxTME5qLTQzc1NyT2NKRVJmU3NkakI3bE50QkJVSk1WXzJmRkQ4ZDA5bFhpUjRsVTdYaDhPQl9ONUV4YW9admNLdVpiNTlLNVl1NFFNOGZoYTVKV0N5U2RWNzBUUzBldFl3VkFsTzJKTzg2amVVQ2NLTnNfMTdyWDBZWk5wVWRsZU1XazBqZFBhckx5QkFjOE45cmlvZWRZc2xkZ0V5enYzSjBSblZFRll6OUZBMjhrakFSb0pCSkdxTWszZUJoem55N1U?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-23T10:44:00+00:00"
+    },
+    {
+      "title": "淨值低於票面！台苯、力麗等5檔明起打入「暫停融資券」名單",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TYV9JWERtTThTOTNLbHktY2I4SGQ3Qi1CQS1aZWV0RG0wNGNJcGVwVG5rQ0Q5NTFsbzRKX3FZdjlLX2JmaHlqZDFSRkg1UlE?oc=5",
+      "source": "TVBS新聞",
+      "published_at": "2026-11-23T09:51:00+00:00"
+    },
+    {
+      "title": "營收速報 - 台苯(1310)10月營收7.48億元年增率高達25.59％",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yZmh4TFNfSExPZ1Z1bFBvR2JNZThoMDNjQkhSRURYc3FGdXRJdkg2T2N0SWY5OUVaR01mRWt5RkctQTJMZW9zeUs3aHdMMXc?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-09T08:00:00+00:00"
     }
   ]
 }

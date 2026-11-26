@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-18T12:35:23.727825+08:00",
+  "updated_at": "2026-11-27T04:19:04.083715+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1339",
   "name": "昭輝",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《外資賣超22-6》國巨*(1384)、智原(1339)、滬深2X(1334)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3hZLTlHXzhuMU52djZLNG1xSHFQcm9sYUxhXzk3YVRrcWRnWnFGN2lYZlpTd0VSVWdqMnh1VExqN3ZZUFo0anF2aEZSbmpLeXNkUWcxQXdrTkZYRlNnZmh5azByTkRYXzZCcGJKQ25YQjlkbTI3Szl4NUtRNHZzbnpJTkZoeGt2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-03T08:00:00+00:00"
+    }
+  ]
 }
