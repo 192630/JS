@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T02:32:49.326836+08:00",
+  "updated_at": "2026-11-27T17:07:52.011583+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -12548,7 +12548,14 @@
       "cumulative_revenue": 68112495.0,
       "last_year_cumulative_revenue": 55376975.0,
       "cumulative_yoy_percent": 22.99786147582095,
-      "revenue_note": "-"
+      "revenue_note": "-",
+      "profit_period": "115年第3季",
+      "quarter_revenue": null,
+      "gross_profit": null,
+      "operating_profit": null,
+      "net_profit": 26367296.0,
+      "parent_net_profit": null,
+      "eps": 1.88
     },
     "2881": {
       "code": "2881",
