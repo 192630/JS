@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-11-18T22:20:22.726307+08:00",
+  "updated_at": "2026-11-27T10:58:44.593770+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1609",
   "name": "大亞",
-  "count": 4,
+  "count": 8,
   "news": [
     {
+      "title": "盤中速報 - 大亞(1609)股價拉至漲停，漲停價28.35元，成交3,444張",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WbVd4QlpFZ1hBeXdXc0pFcEZOY05ZTlVFTjBsaksyQWFhVTlBTlBtZGllOFVwY3ZpRjhWcWhvUEpLRmR5M1ZDOFpxS2FDZTFhcEVPdXFMRUQ0b191QU42NVN2WnNhUQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-24T05:23:00+00:00"
+    },
+    {
+      "title": "大亞 | 1609.TW 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsUUxtb2RiU25Wa0w5YXREM2g5OFdsT1lzbGxUVWhHdVdMWUFHeXJDTEQtU2lPaWN6NEw4S3Fac1pQcjlBUDNyYWYyalVEeF91ZlYwQw?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-19T22:25:19+00:00"
+    },
+    {
+      "title": "大亞續推太陽能光電、儲能- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3TDVudlNnQ2w5a0VWOEVWZkozTG51SDlZbC13dVRwT1FOWGNoMTc5dUVPX21GcV9OUlRPS1M2LU1fLWpZenBqQ3E4dmltbC1xLXJMSEd3X1VvbkRhWVRj?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-11-19T19:00:00+00:00"
+    },
+    {
       "title": "【即時新聞】大亞受惠台電訂單與科技建廠潮，前10月營收突破311億元創同期新高！",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02X1gzYll4X3VCYXlZVHVmYlRsUmVPUnprYTEwanZHSXg4WlJ2RlNOcDlPQTQ0UFVUcTFjTnZfMWxQYUdWNm5OOTZSSVFicWk0OU1EdDRaUjZiVldTVHRoUzFHTi13WnM?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmdmRklWaE9SMVJUSnh1aVdfc0l6dW1SLXBQd0dMdEpyd2liZ3FibGpLV2lLUWkxUzhuVkNkREVKSmEzdmJOQU1kMnoxc2VKbmhmdm1lQ0NTdENVQTRXYkhza2RXUzRfUE5ZLWtqcFJ4dmJfWm11bGZ4ZUJPaUY3MWR6dHAxbVhBZlMyTUgzdjU?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-10T08:00:00+00:00"
+    },
+    {
+      "title": "大亞營收／台積電建廠商機太香！前10月營收311億元 創同期新高",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUSzY5bTUzdkxLMDJuT1Z6UUhRVTM4azhjMC1Xc2pRZ1NiNk9BQUxxcUF3OWlDMnFvUGotQnVjdG9BMnhiMjF0aFlMVzJmNG9lbkZoMjQxYTBMQdIBX0FVX3lxTE1zSFBNQXRhRG1pc3FXVEs1dERNQWhEcHY5NG9QOE1BVGdmUlZaRUctR1hKb1lrVGUwY28yQVIwLTZyZE1ZM0RBaHl3WnB6aWszcm5iVUxlVDhka3R3VGVB?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-11-10T08:00:00+00:00"
     },
     {
       "title": "大亞前三季 EPS 2.61元 訂單滿手",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CNjZhcGxJNEMyWUNZZno3YktWVURWZWV4MFhFUkQ2VGEwSFdBbDZ1MXVJU2FKeHItNEh6aW9pQjJJbzc0R3NDdG5YWURxQWFWM3F4M3pITV9ULTJJajJZ0gFfQVVfeXFMT0I2NmFwbEk0QzJZQ1lmejdiS1ZVRFZlZXgwWEVSRDZUYTBIV0FsNnUxdUlTYUp4ci00SHppb2lCMklvNzRHc0N0blhZRHFBYVYzcXgzekhNX1QtMklqMlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmNHJIQzNQek5xdmpkY09wVWdYT1pYVVoyaktTRW9ESGlWcnRtZTFkcHRfTklSZXc4TEx3ZW5zSVlYNS0zNVdTdVlmSXU0bVRWc0lpSDduRHBFd9IBX0FVX3lxTE9CNjZhcGxJNEMyWUNZZno3YktWVURWZWV4MFhFUkQ2VGEwSFdBbDZ1MXVJU2FKeHItNEh6aW9pQjJJbzc0R3NDdG5YWURxQWFWM3F4M3pITV9ULTJJajJZ?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-11-03T16:41:56+00:00"
+      "published_at": "2026-11-04T08:00:00+00:00"
     },
     {
       "title": "大亞財報／第3季賺2.91億元 本業超旺！卻因「這股票」拖累第3季獲利",
@@ -24,10 +48,10 @@
       "published_at": "2026-11-03T08:00:00+00:00"
     },
     {
-      "title": "台電訂單需求續旺＋銅價漲，大亞Q3獲利看俏",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPNk12NW5tVElBcTAyOW9xNmo5UVdFVXVLRTY3RFRIc25BbUJpSUhYWTZHSHFJLWFsMlczXzQtZWVYUDA3M2dHQko5TGQ4ZVlhV1BtWWZ1cGhGMkhEVU5rczB1dm96Mzk1b05idUlkUVZYTVFRVEJ1WUhSeXpibDFaZy1FVWZCdjNuYjc2NHZmaWNfdHBOWl9XWWVIWl9QRDY5UkViUzZCd09JbG9ESWFpTC1sMlNjaFRYUEVYcFlVanN3U1lwSnI4QWFFdDFIQkxtSk5ZZmZLWTRRN2R6OFNmSW94azJiVloyQllMbzdtd2FsMFBTaWw5d1g4cGdQOUQtcmprN1pNRlpBZVlqZ1ZKSzR1T0VBTkxaRkhZbHF3LW0yNDk5amRrTFd6M2Y?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-21T07:00:00+00:00"
+      "title": "有AI伺服器、沒電線也不行！缺電危機浮現 華新、大亞走強",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yanpyRnp1VTY4b19fN0M1bUpydXJGbUo4dG5YVUNlWmlDVVZZU1RJVDFHRm1fUHdtcnZaU3lya1hncDdlaW1wTFZUaTBuQlQ2ZzVtVlNBbkJtQdIBX0FVX3lxTE1mM0ZTTkZvZXNaNnpUUzlKSkNoTUMyTVJsby1ub1BGM0JmLThEWG5Tc0hoOFBJTU9RbVNOREFBWWFXSHpsdjRxSVY2QTd4dWNzSHJPUG5RdGQwOG9sckp3?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-02T08:00:00+00:00"
     }
   ]
 }

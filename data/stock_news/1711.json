@@ -1,33 +1,81 @@
 {
-  "updated_at": "2026-11-18T22:20:30.265123+08:00",
+  "updated_at": "2026-11-27T10:58:51.872463+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1711",
   "name": "永光",
-  "count": 4,
+  "count": 12,
   "news": [
     {
-      "title": "營收速報 - 永光(1711)10月營收7.37億元年增率高達26.17％",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uaExyTWVoaFltakJKOHN2YkdCdHBTWlVEOFR0WTBpX3E2djQxWHZ4REZ3YnpTbE5KYVd1bmR6c1V6NFN2T0JNTDFLejNnY3M?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-06T08:00:00+00:00"
+      "title": "永光(1711) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GZXhGOGx0MjM3YTgtcEtRYUYyYVZrZldKMHZzZWxoZkxIamlHRWh5RG53enBSYnp4SlUtVmNIdl84a2dZUUM1czc3MVVVd2hQSVJF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-26T07:47:29+00:00"
     },
     {
-      "title": "【12:23 即時新聞】永光(1711)盤中走強，AI封裝材料布局成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3p3ZEY0emdSenYxaDlUNXU4NXB5ODhXX2VpQWpYZmhqR2VVRmUyX2hkQUFEbzY0OG5tSEloVVZrQ1VHNkR0YklTRTJ3Y2VpSm9sUjlic3pFT3o4X19vVDFpU1VqOGNVMV9JeDZtYkd5c0tWamZfVHVrRkJJUGdDWElBQWNobnRLblNoUy1B?oc=5",
+      "title": "1711永光｜一日漲停即遇壓回吐轉為「拉回打第二隻腳」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QeUlUVU5QSmd4Y2o5bXBfRDdCOHltQkxuMExJSGpwZExSVVAxcVpBVDNSdU9iampYcGJYaFFQeHNLa0NlQ3FLaEc0X1NYX2loMjdabW5VWmk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-25T06:28:51+00:00"
+    },
+    {
+      "title": "新股抽籤慘！尖點抽中一張已賠逾14萬元 永光今天才抽現賠7700元",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQZlpMdkFWaE15X21IdGVRSzNta1Z2YnRXbGZkM3RtX2x0MnNFbGdid3lMbEVZV1FRUFZQblVDcjF5UlY0YWh4MmRCZEx4TXp0bl9vMUgtTnQ2Xzh5WGVxS21fUjkwSlRvR1RLeTYzUTVTcWdpZG9QNEZYUDVlQURIZlduVERYY1VWMGhJV1B1SXJ3bE1BWnJVTTc3RTZFUWlqUTgxeVlqNnlrd2FGZXpyM2VTZ1R3R01BdzVOVWw2WWczMXI1ZW5laW9lTUpBcGpYeHNWQmtzX0t4V1N5M0tPdXZwYjFISFlmUE5fUC1iei10MlFwTHdQRHFNVW9QTndLa2FGcVNWaV8tTjZZbXUwX0RZbkliQ3hESlpDR2dfWjNQQy1aU3NqbWxnX3hQQl94Ul8xMlFXMEN0T1AtNXUwMDY3eEJQWlFiU2pVYk5NN1RFQmd2cE5lU3dRWG9KcmFhc3F1U1RhRURuQWZwdVUtRVJNZEpjalV3d1F3aHpHUi14LXZBblFqaDQtc0NHWkhTa29PMWFuUDZhektq?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-25T04:41:56+00:00"
+    },
+    {
+      "title": "1711永光｜跳空開高鎖漲停、極致量縮鎖籌",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nSTZkWjR0V2hTeDAxS2hrcllkel9BNHVGemhIZ2kwU0Jfb2NOZ0gtU243TktQQ1dzcWpPS25wWlFxZ0NXcXhDbGJyTGdyeUVScFVvd3psdlo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-24T06:04:36+00:00"
+    },
+    {
+      "title": "【13:11 即時新聞】永光(1711)亮燈漲停，盤中買盤回補聚焦電子化學品成長",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjVhQUxselZZNkZNZUVHV0h1eGpKR25URXV5cjZkTHRrVHh1bjZaWVgzSndwLWx4ZEZkWjNOWDFTd21DWlBIS3NSYWYwLXA4MkZobWt6ZjliOGZIeGNpb0ZNOWNwQUV5TmhMZ3R0a3c5Qm5GU3dDUFk2RDctMnVXSWUxZ3JqRktJT1BLVE9B?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-11-04T08:00:00+00:00"
+      "published_at": "2026-11-24T05:12:12+00:00"
     },
     {
-      "title": "永光除權首日狂飆逾8%、砸17億擴產強攻半導體！電化營收暴增！",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TUnJadmZUSXB0THV6am91VDhwYkIyWElJVUxzQ042TWt0ZEFtQ0JxQmV3NkNWRGlJdndaT0hWcHpaSFRhVTZqS1JpX0VXNVczeFEtekQtR1ZNdVMwNEpWNjdjN3lrQmN3dEpTc1Y3aw?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-10-20T07:00:00+00:00"
+      "title": "永光Q4營運看正面，明年擴產效益可期",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPV2VEUzN0UDlmUGp6UllPcVpQX3U3Ump6RUgzNHNTWVFuRWZkUjNuazNFY0FLRnY3YllDY0JzZmcxU3ppUXQwVkVnRWM1S1NPXzNjaDlRenNhSjJWM3dKSEg2TWtlcHp0dFQ1ZjR1ZFIyOUVubnRCcVFiZzFaa2gxdEp5aUs0bG56eTBITE1tc0l5OWE2eE5FWXJoZjJEZ3dqNVR2WHc4TlF6WXJ4M3J1eFNDQWNnNENlU2oyRDlTV1RERWppYk0yc0FYdDVMRmJKZl94Zjg5RXNRMlRZSHh3ODZRNmZuc3VfQzFpTm5NVHV6M0E1cVJJenR6VnZfMXBpSDdNTXIxMk5kZlM1Y2JJSW1BTQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-24T04:14:12+00:00"
     },
     {
-      "title": "【11:42 即時新聞】永光(1711) 盤中走強，市場聚焦電子化學品擴產",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGtVMmUyM19Nb3NnU0ZNUWl4c0dWT3dpV2FwYWNXU2drcGpSNW1hOXJOTGFBVW0yQi04aXhIQVZBbXRjb2RaWUE5ZnpKMWhJd3VrZFdYZGwxTTVuSUx1T2x6TDRraFJQS3JnNHM0NUVJYkpjOUdfZmwya2dobzFBN21kWkhpRGpEbUJsYTZR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-20T07:00:00+00:00"
+      "title": "1711永光｜強勢拉升翻紅、留長下影線實體紅K",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5N3hvM2FmbnAxWmdHT2lVX0xxeEIzUE9UYmZsUEtycVVaRVFWdUhQNTQtYlBfaUNMZGNxNGxoNHJYT29MakUydmRrS2tOc3IzWjdtclFiZkE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T09:22:52+00:00"
+    },
+    {
+      "title": "1711 永光 - 反彈無力- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wZVpNbmdYUzBqTkk2X3JIQlRQbGgybDZmZVlacFFLVWc3ZkFmTnlyUmdHRzZ4SjJ6ZEpNeGJ0VEdOVWszemFsOENrZUNiOFlZLVYzd01VNmM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-23T07:32:33+00:00"
+    },
+    {
+      "title": "永光（1711）34元申購價高於現價－熱門話題｜股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XM29RTGlVRVVXcXNnX1UtYXEyRUZxMGtiT2NOamZhZFF3OFlLR3AxcEltNVgyZlljbm5nMzc2UnhkRVB0cDdFVkRZWC1kVmhiR1pMLVlBMG5IWHZjR1E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-21T17:12:21+00:00"
+    },
+    {
+      "title": "台股急殺拖累現增行情 永光新股抽籤中籤現賠逾23％",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYUFaeWFURzB0V2Jtdk9adkJLcWdDbjlieFg1T1dXQXgwamctN1JJVF9ZT2VKSHMzRkNuYklCVDdZdzZucF9RWTVaUXNPbkkyUU9jQlBWWmljT1lMeWFXTVAzVWRjMDQ1NUUtdl9LSjhVN283WGxfTUFB?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-11-20T12:25:00+00:00"
+    },
+    {
+      "title": "信置黃永光:體現集團對香港長遠前景信心",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNX190alR0M2tXR2ZNUzJBYlR4LTVZSWlCNUMxQ0VoVnBCQWhpYXRLTkp1eUF0NGN5OFg1MVMxVlZiV3NMT24zWEpqNmNWUUtFM0JKRHJtdHpmTXNMa3dCOEJ0b3NkZ3UwMEdBaWhyekUyYUFGUmZFTWVlcC1tS09vUkIyRkI2TW1EM3dWdlNyYkFZeksycTZuNTlFb2lRdkVXbDdQMmNJR1ZZckZNMXhkeWlweFE4eXk3WW5hQWhrNWktSUJzRWUwQTY3aDJOXzBpM1UtRldKMFpCa3k3UFBaZDRsN24tdTdYUFI2bWl1aHVPMmh1X29nOGkwbnplZ0k2UU5JdE93S3F1SGE0OWtSdFFORS1Ob180N3RaUXNwdEtWaC0zVVRhWlFYZ0QxRGhmQlM1LXJLajRCUQ?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-11-19T09:57:07+00:00"
+    },
+    {
+      "title": "1711永光｜正式轉為中短期破底探底格局",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBacnh2TXVsWkFqQlM2XzA5NTc4bnlBVENDemNyRFVaUUpnclBLSG5hNUlWYWZDYWpvUjZuZ2Q1UWFBeEJJakVKN0UyRnBYeWloeks2aWNGSU8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-19T07:19:33+00:00"
     }
   ]
 }

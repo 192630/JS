@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-18T22:20:29.049431+08:00",
+  "updated_at": "2026-11-27T10:58:50.388400+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1708",
   "name": "東鹼",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【即時新聞】東鹼跨足半導體供應鏈前三季EPS達3.58元超越去年全年！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOamRlYWczSHpjdVZPWVZxa2xDaUxUS2FrYUJSZDlsMHZzdFZocWZza3hHWlA0a1JZYWJJbldEQzBRcUVyYmJlN0JGRnNlUnFJNlNwMUw4Y3JEeUx0WVRyOVpVakwtbnhQYnNqcXlqcnNJRExrNmh3SmJSWEdVV3haWlZJYV84MGUzemp3cE1BTzA?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-26T15:51:14+00:00"
+    },
+    {
+      "title": "半導體概念股還有8倍本益比？東鹼從肥料跨足晶圓廠 今年EPS估5元",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wQXJIYVhYbGhURTVTalByaTZ0MDhaekNONGoyejhXdXVlbmVlRllfVjhMbEx4SDltSHVvOFZBeFNHLUJldFo1TG9Rc1I4NzdLTXd2STBlVjk5VFHSAV9BVV95cUxOd0lkdUd0OHV2UnlDa280cE9oLXFYS1ZTWHJjS3pmUWo5OGZVT0tsTHhWaUREeUcyYU5paW44MS1xUERScG9BVnNfQTljd1Y4TjZ0QWd4OWVPVThUcmNDYw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-25T08:00:00+00:00"
+    }
+  ]
 }
