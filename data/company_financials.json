@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T17:07:52.011583+08:00",
+  "updated_at": "2026-11-28T02:21:49.909116+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -13,13 +13,12 @@
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_mim",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ci",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_basi",
-    "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_bd",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_fh",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ins",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_mim"
   ],
   "latest_revenue_period": "11510",
-  "company_count": 1400,
+  "company_count": 1393,
   "unit": "新臺幣仟元；EPS為元",
   "companies": {
     "000104": {
@@ -20012,18 +20011,6 @@
       "cumulative_yoy_percent": 7.803356574149973,
       "revenue_note": "-"
     },
-    "5864": {
-      "code": "5864",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第3季",
-      "quarter_revenue": 5410830.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 5019680.0,
-      "parent_net_profit": null,
-      "eps": 9.95
-    },
     "5865": {
       "code": "5865",
       "name": "富邦人壽",
@@ -20338,66 +20325,6 @@
       "cumulative_yoy_percent": 89.7572197527654,
       "revenue_note": "-"
     },
-    "6015": {
-      "code": "6015",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第3季",
-      "quarter_revenue": 3240913.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 1651168.0,
-      "parent_net_profit": null,
-      "eps": 4.13
-    },
-    "6016": {
-      "code": "6016",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第3季",
-      "quarter_revenue": 8046885.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 4126525.0,
-      "parent_net_profit": null,
-      "eps": 5.33
-    },
-    "6020": {
-      "code": "6020",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第3季",
-      "quarter_revenue": 942989.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 662871.0,
-      "parent_net_profit": null,
-      "eps": 2.63
-    },
-    "6021": {
-      "code": "6021",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第3季",
-      "quarter_revenue": 3569397.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 2420392.0,
-      "parent_net_profit": null,
-      "eps": 7.84
-    },
-    "6023": {
-      "code": "6023",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第3季",
-      "quarter_revenue": 3650123.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 2622548.0,
-      "parent_net_profit": null,
-      "eps": 6.97
-    },
     "6024": {
       "code": "6024",
       "name": "群益期",
@@ -20436,18 +20363,6 @@
       "last_year_cumulative_revenue": 6071906.0,
       "cumulative_yoy_percent": 164.14649699781256,
       "revenue_note": "-"
-    },
-    "6026": {
-      "code": "6026",
-      "name": "",
-      "market": "上櫃",
-      "profit_period": "115年第3季",
-      "quarter_revenue": 1483207.0,
-      "gross_profit": null,
-      "operating_profit": null,
-      "net_profit": 1164337.0,
-      "parent_net_profit": null,
-      "eps": 2.94
     },
     "6029": {
       "code": "6029",
