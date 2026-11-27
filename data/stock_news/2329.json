@@ -1,27 +1,81 @@
 {
-  "updated_at": "2026-11-19T11:42:06.657352+08:00",
+  "updated_at": "2026-11-28T06:09:27.672019+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2329",
   "name": "華泰",
-  "count": 3,
+  "count": 12,
   "news": [
     {
-      "title": "華泰證券：Anthropic上市後將成為觀察美股盈利的重要窗口",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIZlBlME5LUWFrNHF6MkRnZkpGYmRUYWRFZE43SmRFaF9CODlId25UWlJpM3JmaUtJam9vN3NpWWpiRFA3eFBzVUlYOFQxX3I2Y3hYbzQ1LWVRU21jRWdlajJkT0p2eEpVclE?oc=5",
+      "title": "榮昌生物(09995)擬以1500萬元向華泰證券購買理財產品 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jU0tSOXV5N0JuNGN3bWRqLVJpamVXQklybVVpc196RHFaZ3ZCNXBfWTczNzJuX1Zxam5KMGRpbWVnVV8xNkI5QXRFTkt0N21CS19fdXdPRzNsMWJkN25WSk9tTHRaSHJ1ZHZHZFNZODk?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-27T12:01:17+00:00"
+    },
+    {
+      "title": "榮昌生物(09995.HK)11月27日向華泰證券購買1500萬元理財產品",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54QUhDTzR6VTd4eGg4ajZDaE9vN3pjNzFkVDQ0cEVMemNKSzZLTlFoTDkyNGluQjIzSURzTjMtckNtdTFFVUo5X05Ma2tFNU9PLXpCNlhYZ0RHVGI0TXdEZnU0bDJ4dE1RdUE?oc=5",
       "source": "TradingView",
-      "published_at": "2026-11-19T00:44:54+00:00"
+      "published_at": "2026-11-27T11:01:47+00:00"
+    },
+    {
+      "title": "華泰瑞銀(08006)股價下跌8.889%，現價港幣$0.082",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JNDJMTTFLVlo0V1Bod21LRER4dFRJNGlSMHRfeXNSNHZHZEVHMEswU2U4M1gyMGxWVEk5ekFCdlJhZkFOOFBTT2ZHa2N0eV9RbmtaMjRfRWxXeDNMQmNzeENjUE5uWDRhU19ta1pKVFplMVE?oc=5",
+      "source": "AAstocks",
+      "published_at": "2026-11-27T06:34:34+00:00"
+    },
+    {
+      "title": "華泰盈科港韓半導(03569) 交易所買賣基金的交易資料",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xY1dlM0NFdC1HOUlWOUc5V2JEY3FqZGJ1SmRsQXNhZU1WcFB0TUhWaGhqcF9UNTNhVHkyaEZjd3BHS0tkM254T2ZUNTI4cnE3a04xLWpnbkZuNE1sWEp0c0w0WUdndw?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-11-26T13:39:36+00:00"
+    },
+    {
+      "title": "華泰證券給予聯想集團目標價38港元 AI服務器放量驅動業績超預期",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rTkh0eTBCcVlMU19UV283eTRaOW52cVpXMV9sYjZVTnhXYTZ4NElIX216ams2WUYwTmNWa1h0QzBJVC1RbnVybjJFWmx3NW5ZY1g1YXMyZEtFcTJQSDRoNjl3Q0VBMzZqNGc?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-26T06:49:09+00:00"
+    },
+    {
+      "title": "華泰證券聲明：網傳市場言論並非研究所人員發表",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXcmlFSkU0RXYtQWlFS2tYbUlBM0ZOa3JmOWROdnQtaDNvQ29sRTBieGdxUS1fRUlHMmtDZURCQTZEU21lRDNidWQ1V2V0VXVzUkFrOXlZbUtZdEhDZ2RET0MtbDk?oc=5",
+      "source": "觀點網",
+      "published_at": "2026-11-20T07:08:07+00:00"
+    },
+    {
+      "title": "華泰證券闢謠：網傳市場言論非公司研究所相關人員發表",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xN0RtSnU5elQxZDFKWGJwZXZaalllT0lPS2NMT3h1blRIR3NMZ0IzZlRVWG53cjk0WENpRlNBTVRZTjN4MURUMi1ZcWVtOTdvOGdJbW1kTTB5OU55a3ZVTUhkM3dhZlYteU1J?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-20T06:32:00+00:00"
+    },
+    {
+      "title": "萬得艾思與華泰證券簽署人工智能戰略合作協議",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02eFNmcGxzUUNIRUMwZHp2Q3VXVkM2bmhLcFNCNVFOd0laZG80aHJ0UmNXSnBRSGtkQl9vWk5LYk1FSDRocUZCOGZNYjlFVXo1OFZLWDEwWXBMQTQxdWtiTVZOdDZFUWNEQlE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-19T23:53:01+00:00"
+    },
+    {
+      "title": "專題／華泰Outlet嘉義店拚2028年第四季開幕 220品牌搶攻軌道商機",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nQ0RRT3BpYjRXaENrNWg5M01GbG1uVU1GdkdMS0xXVmQtalgyYzFrb2FBVkZOSkNUb2FWUUJPZ3I1MFVmdFVCc3JXTlV0VkZrX25VQWFiVl9VVGtaU2NrY0xXNVRINFZ1QXAw0gFwQVVfeXFMUEpuTkVWeXJ0Q2dRUjIwRXRhQUYwZ21XalprWktqQUpnMW51RklTV3ZJaWtoREk3dlhMVTRJeHFLUjdDamdLSy0zemQ3YmRYY2NuWE8xRkl3NThkOHc3cVpXaWl3NmZKb2hMYU9TczhKXw?oc=5",
+      "source": "好房網News",
+      "published_at": "2026-11-19T08:00:00+00:00"
+    },
+    {
+      "title": "Outlet嘉義店要來了！華泰名品城規畫220品牌進駐 預計2028年底開幕",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNWklOZ3ZLcTU3czVqd192TXZ0dUtoMllxdmZ1bmdQVDZVX3Z5ejRlUnFFQ3JQU2FETW4xeWU5SHRHc1lSTUZyd0ttbzhvNzFXcUF3UFF2cUNqdG00U0pFaDZMUmZrSlhaMTZtQm9ObmFEYk54LTAyTGt5YTBVSklSZWJqeFZEaHlVam1ZVmY1eEx5QXBISTZFQldXSWlZS2dBM3l6TDgtV3huZ1FjQnk4T1djMjVhMExMX3ljUkV4TUhlWnlEYWRjRncxc2NqanhoWGRxcW9tYzRzOTIxUHZZVXdJS1NWd1FTNDNKMEpmOWNLT0V4QkVOc0txZGJGZ2JuYkJ3bkxKeHZqVE9ZTEtJMTRGcnRxMmFxV2pMbjRja01kSncyMExCNlZZSTc3Q2lReDFJa2pybXVESXk2X3IyTW84N1BpTFNaQkhuMFhZS1pteVB0VXhQYnBEY01rWE05S1Z2MzhyS1VKbDVlSHFRbE13eENIQUM2NUdkMFFaWHpmMm5mUzA5VUJtMmtkdw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-19T08:00:00+00:00"
     },
     {
       "title": "華泰證券(06886)：“22華泰G7”將於11月23日付息 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43OFRsV1RCdDg5blNQTGV1UVVtX2dabnlCZEdZRFl2eG5zVWlFdGR0LUVtWnlEMzNkc2VrLXctcC1FX3ZIakZwZGJqX3Bub2wwSUJLc2NucWFrX0VaQktZLUJOSXhMTEJZRGljLUZrY1Q?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-11-18T11:58:05+00:00"
+      "published_at": "2026-11-18T11:59:02+00:00"
     },
     {
-      "title": "2329 華泰 - 在啥小 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lTjNNZnVGY00yZmVEMzMyZXROR2ozUlIxZlRMb2N2c3BVY1U4NDk0cks3NmNhY0w2d0FRb2QyUEFVbnlsMHo2R3BJZTBJQTVadm82bHFKOTU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-11T03:03:15+00:00"
+      "title": "台股大跌連Outlet也受傷！華泰名品城總座曝人潮明顯打九折",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPd08waXZsX0xjZF81OGZVSkNHN1VSVG1xTGdJRWR2MmdpaFM3c29MV1RseXZHVkIwZGpfRFdoc3BQazdBSXh4eW5DQXg5ejNveE1BVjdCX0xPZzQxSTMycEdNNm11MjlrM0N4TThxbTM3UXd4ZXI0NlZMRGtaVHZiRFlrMXdnY3NnQ1R5RWVwdVVrTFU0N3lrYzhwX19XV0pwak1QRzN3NU9HRzhIYjAwaERibmhaT1RCUnhtcUhqcHVlNGU1OXZ0R2xuSzVac2R3ZXJwRWtSckd5UnBvT0FoTkJtTWx3NVJ3MnFwaUZQQ3pQaDZjNGx2eEVzcGdsLUJtdVJoWGw2OVhmMmxRcjBxd3dFc3p3NTRJV2V5SlgzQUplQ3FBMVNkTkNCVFRWWFROOVVuNDYtYmRqc0dWM1p0UWM2Z3g1UGpNa3g0NWZrTUJUNFhyMEZUeXYxdzZVNU1ELTZQYTJ1WFFzZGVJU1EyQzZJRkxXekxNOVU2V3V2dVpaZGc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-11-18T08:00:00+00:00"
     }
   ]
 }
