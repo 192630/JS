@@ -1,27 +1,39 @@
 {
-  "updated_at": "2026-11-19T06:09:52.760152+08:00",
+  "updated_at": "2026-11-27T20:49:52.599614+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2014",
   "name": "中鴻",
-  "count": 3,
+  "count": 5,
   "news": [
     {
-      "title": "2002 中鋼- 稅率最高27%！歐盟課鋼材反傾銷稅中鋼、中鴻承壓- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DYU9QR1R4S2hYNmRaZTdrMFI1aExaeThURi1LTU9Rc21pUXZ1cThnUGpGRWpGbWNkcGt1MUl1WV9aRXVwbHdYNnNFY3k2VmhELWVYYWJnRUc?oc=5",
+      "title": "中鴻(2014) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LREN0TkM2U0UtZkdqd3dlV044QzZDVmNQWk5nMHRSd3RsY0FmVWtwc0pzeDRHbF9fd3pqM0VFVjRKU1FxZ1Nxb1g0RE5INzl3QXYw?oc=5",
       "source": "CMoney",
-      "published_at": "2026-11-17T02:43:03+00:00"
+      "published_at": "2026-11-26T04:55:46+00:00"
+    },
+    {
+      "title": "中鴻下月內銷開漲盤",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IRTZCZ0hGNFBrY1ZuZWlKU2RjbVo4MFFrN2RQeDB1bm5fR3gyZ3dZYXVsUjA0TlN0NXkwS0lBY2xub243Q2hnWkY5T2NZc1ND0gFWQVVfeXFMTUR2eDdscDNhTE0wd1ppMmFiSWlkc1BNQVZMMW9pMXhxMjR6Y1U1U1Q3NmtMU2piX2IwMVFKb3BPVHpPYWNJa1ZrYW1ZRmFISEFyT3F5a3c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-19T15:10:23+00:00"
+    },
+    {
+      "title": "中鴻12月內銷盤價溫和調漲 歐美補庫動能持續、鋼市穩步回溫",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zOGhlekl2cUlDRkpZUnl5WTdoMXZZTDQ2WTZZd0NmVTk4UVF5Q1lKeGNTSE5EV0RBMUZCMzF2b3hDcHV4N1I1dTdvd3hILWc?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-19T10:28:47+00:00"
+    },
+    {
+      "title": "中鴻新盤價：內銷熱、冷軋及鍍鋅鋼漲300元 期待鋼市穩定前行",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uV1FQWEpnbTFYYlc5YTRBeVNjUTNMd3JrUlVyQTJ5Zk02dkVJUlFkXzhyYXpzWnJiUEFUajZvYWE4TTNtT3M2Yl9ORE9ZNWkz0gFWQVVfeXFMTURud21tZlRHOUJvWEFORFJiakYtWDZWYW4ycDhpOW55MHRyckJjLU5Ma0UycFpfOUxRY2JKTTYwWWY5YTRzN0pRQ3BGbndTMDdyQ2d5T1E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-19T09:35:57+00:00"
     },
     {
       "title": "中鴻財報／2026年前三季獲利84萬元 較去年同期轉虧為盈",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KZEthb1V0QTRiSi1xQ0hDcUFaV0t2b2xfMVlHRWoxeWNkRzF0N2pMSmVETDlnOWg4akdfNTd0SzlUV2ptRDVCYUI4eHZtLWlV0gFWQVVfeXFMTU1EV25GQ1NxZUhUbExibF9KcjZ3NWJJSWJIdmd2anpYaFlrdUtnUXl1SFdSR0hQZ3F1ZWlEbVpwTlA3Q1dUd3hPVW1LaUxXdGRIakMtTnc?oc=5",
       "source": "UDN",
       "published_at": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "title": "中鴻鋼管訂單排程3個月，年底接單無虞",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxONndIY1U5RkVMay1aME9mbzlZMmNXQlBwZGJ0S09uMm43eUxRclhmYXVvVzRmeThBQW1iaUNtdkpTLWpnWjI5VEltOWV6TFM5bEd2aTFjTXJpd3kxZ0tWdjZ5SThhX3NOUGMtOWJSUThDeEV3eHdXQWV1U3hTMUZsSGRGQUlUZGpJN1ZXbEtpUmVFS0Jub3lYa2VUSmFyME9KWGNCaGUwRDZWVmdTT0p2V21OUnlXa2ZjTnlSV3k2djNpbVFQVmZMaHV5cHIzY3RESW5LOGlVS1o3ZUpjZDliY0hKTWQ2ZEJZWk9vZEFFNkNiOTVDOGlSVnlZeEh2YVVQYWFBQkFVUXFCaVdpTEdKTVktX3diMnhkVjlJZkVB?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-10-21T07:00:00+00:00"
     }
   ]
 }

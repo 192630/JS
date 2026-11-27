@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-11-19T06:09:49.701834+08:00",
+  "updated_at": "2026-11-27T20:49:49.636129+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2007",
   "name": "燁興",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "燁興岡山廠明年元旦停產鋼線材訂單轉往屏南",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tM1M1OXh3TjFnSnlITkhuMVVtVXdHajNNNjlodFhEbFJrVm5aWnRyeTRZdWFWbTJ6aUpkY1lpUDVwdXlYM2ZBM3lkRVZnQ1E?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-27T00:00:05+00:00"
+    },
     {
       "title": "營收速報 - 燁興(2007)10月營收4.10億元年增率高達45.04％",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBId3ZWZDVFdHdKZzdXT2ZDVC1zeXFOeHRld2l0bFJDdlFhMHJYNUJqNGZMMVhUTkdual9vOFNUb3FpVU00NzhaT2lTNkdQOXc?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-11-09T03:50:13+00:00"
+      "published_at": "2026-11-09T08:00:00+00:00"
     }
   ]
 }
