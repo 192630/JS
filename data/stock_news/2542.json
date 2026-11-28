@@ -1,45 +1,69 @@
 {
-  "updated_at": "2026-11-20T06:18:56.108299+08:00",
+  "updated_at": "2026-11-28T21:19:52.727433+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2542",
   "name": "興富發",
-  "count": 6,
+  "count": 10,
   "news": [
     {
-      "title": "【10:43 即時新聞】興富發(2542)盤中小漲，市場關注完工交屋與獲利成長",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWU56RlZqclpNUFhpMGlOaExGdFplQ29lY3BVaWdrUDR5a0Vad0ppS0lZb0R5U0FjdVhwMUFzemd3NEh3OGZranB2YmZTT29lZ09hWXdXSGtnOFA5S3pVZGJ5SU5nWVdMbXdQRFoxd3Zvc3RWcWZLczJVS0tCWlVDSDlYUFBmM0JQOWVKWnFR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-11-19T02:45:18+00:00"
+      "title": "《投信賣超4-2》宏碁(4728)、南電(3463)、興富發(3228)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejRCT2g2Y2MyX0FWSlRpZEU2RlRiNlpPRmJQQ0IwaEItZ0I0U1FqT1g1WDBtYjdaNTkybnItendldlpDa3VPS3RqY0N5OExkNmhnMkx0WXBOUzRXUGJHbTB2YXI2dzFjWXQ1VnJxQlpwSWV6eDJfNVM3cWhfbGM1UUVIUjY4ZE82?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-28T01:06:00+00:00"
     },
     {
-      "title": "興富發（2542）10月營收公布－熱門話題｜股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uS19BRkVkMkV3QUlLc2dFdTBTc054dVhwd01feUpHZVNjQVBEMlp3RkY3R3loekNUZjRqenZnNTFuQzFwUlVveTg5eDJOR2tqMEdqSGNSdkh3c2FVbGc?oc=5",
+      "title": "【本週復盤】興富發、潤泰新、華固最深跌11.11%，營建／都更危老13檔全收黑",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVMVBCZVJxaXM3cUJjOG5Cam82R2pLdG5pZkJhZzU0VWx0YkVRb2JTc095N2FHZU1WRjVFNkZPSW4zQXVmc2Q5eElaMURRWmx5YS1GYmF6M1M?oc=5",
       "source": "CMoney",
-      "published_at": "2026-11-13T07:17:31+00:00"
+      "published_at": "2026-11-22T03:40:39+00:00"
+    },
+    {
+      "title": "【本週復盤】興富發、潤泰新、華固最深跌11.11%，營建／都更危老13檔全收黑-起漲K線",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0s1X24xamVrTmlIbGc5RFYyd2UyU1ZmUnlXdmFJaTZwSkdSUUlaLUFuQlBhVGFHTjh3TWNxM0xEekw1UkhZQUJNaVF0UFdva3lUaHpiZFdfRDB6bzAyNGFJRUxiZ0RpYVhUS0EwU0ZKakNpMXZEUVZ6UWNvMlRvLWE3Tk0?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-22T03:40:33+00:00"
+    },
+    {
+      "title": "興富發(2542)主力進出、主力買賣超張數與買賣家數差 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HdEo4ZU93NWZXcktVS3JvS203bm81WUZKcEFBejR0ZlRpTE5mRlg4ZmtSRmFobzJxMjVXT3VEM1l2YjBLSjVzSklwS0NUV21HREd1azc3RlJ4VG5HSzNDeg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-21T08:00:00+00:00"
+    },
+    {
+      "title": "【10:43 即時新聞】興富發(2542)盤中小漲，市場關注完工交屋與獲利成長",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wanVmUUpVTmhha3lSVE5NdnhYaUZmVHREUEF3VEZxR1QySGdndmloZXBOVFU5aVlIMm94Mlc5aXRaR0FBVEdNWFo0dkNRS19tMzBHekM2TUw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-19T02:45:20+00:00"
+    },
+    {
+      "title": "興富發財報／迎交屋潮！前三季 EPS 3.83元 賺贏去年全年",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91OVNvX0h5NXJGWFU1ZVQ0dHpTYjBIZU5SUVJTR0pTRHRmOGxvbmpMaElFTFFBSGhpQnp2UHhsWmdSeGQ2UzZJVzRrRkktWjg10gFWQVVfeXFMUFdUZUk5b3Bja0U5R21lRXVtT3hGTXl1aWVEeU5UcUxLY1pFcUhzVmpTWWtJU2FnMUhoelRTaTVqMXh6Y2dOYm1HbkxvWWJVLU5qaEFvV2c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-11-12T08:00:00+00:00"
+    },
+    {
+      "title": "興富發前三季大賺逾80億、EPS達3.83元第四季迎完工交屋高峰- 房市",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Qy1XYi1EYms4MHdnZzVoSFFvM2hiWmRIQ2ZxbkNEeTNtd1NGOEdJOF9QeFY1MDhKUzJ3dzBtdEVsLS1peXlnRWsxNFRBbEw3eFVydnhkMnFzdkFPcDhn?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-11-12T08:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】最新宣布興富發前三季EPS達3.83元，獲利賺贏去年全年！",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04akJLMEVQZk5Ucld0ODJXaElua2hwQVpSZUdTLTlpQmNuM1Q3TG5SMHZyTHZHRDM0UTFUVnIwMjNTREc4dTZRQW10Z1phM0tJbUZpMXlkXzRPc0xPSmVmcC02SzRiOE0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-12T08:00:00+00:00"
     },
     {
       "title": "營收速報 - 興富發(2542)10月營收52.77億元年增率高達31.68％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEUi1lc00wdHVRbGdZdmhPZERZNHlHOHRxMl8xa1l3Z1hDMTBLaEJ2b0M5QzZBZUNOcGVIRi1RenBnT0RlLUQ3VElMYXZjUkw5LS1kTGhpNWxCbmVXVGRJcVFWMkRXNV9ZRVkyNGVLOGZVTnlQZGc?oc=5",
       "source": "永豐金證券",
-      "published_at": "2026-11-09T17:21:00+00:00"
+      "published_at": "2026-11-10T08:00:00+00:00"
     },
     {
       "title": "【12:37 即時新聞】興富發(2542)盤中震盪走強，法人買盤與營收動能受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWNSdTVDQjNvSFZhbDFHemV0SnFhMWlscnBENHF6ZV9PbWRRRkRxM2R3bEpmR1daMm5JcFoxZURPUzVUeXlvZDl6UUEySkRnNGpqU0VOWnlrYlZ6MWJIWGsyR0hSbDA0Q2I1REF2WDBpVXRvTmxmZnpEUzNsMmdsQWFROWpWQzFGS2ViSGFn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-11-05T08:00:00+00:00"
-    },
-    {
-      "title": "【12:02 即時新聞】興富發(2542)小漲整理，盤中焦點在營收爆發與獲利預期",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcWJOTXQ2WjBFQmVlb0F6bkJqUkt5S0dKR2hUVG1ocEt0dW9Pc193RUpua3NidTV5Z05CRHc3Z2cyQk9yaTBHV0daOTRSMnJhUVd4aXlPZFVKaS1HUERlTHNYMDNRTmoyRURUOFJPSGNuRnlBMHk3OXpvTWF4VERIYm1LcU8yYTBKb3h0QW9B?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-10-29T07:00:00+00:00"
-    },
-    {
-      "title": "2542 興富發- 發哥被大退訂- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GZ1luaXh5dUMwM1RUZlc2VVd4ODgzT1Q0SG5sZ0t2OXRaN1JIYi0zaVV6QWkwSjYxTEtmUGxldk5GTVlLakFDd2dlTE9fc1ZfUEYxdEdZUXE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-10-29T01:05:55+00:00"
     }
   ]
 }

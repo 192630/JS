@@ -1,51 +1,81 @@
 {
-  "updated_at": "2026-11-20T06:19:14.372257+08:00",
+  "updated_at": "2026-11-28T21:20:12.151151+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2705",
   "name": "六福",
-  "count": 7,
+  "count": 12,
   "news": [
     {
-      "title": "六福酒店推新品 春節.聚餐有「福」可享",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOHpSakNQckxBZWppQW90RlQyOXRUOHJPOTdnZV9JekV4cGttS2FBZGVHd2hLdHJZOW9oRzR6cG9qeXVJMTlSLWxqRG5XZUQ5WThaS0hpdDZRY21XbWFWSEY2UTZOeDVhcXM3YjRJYmVRRjBPamd2R21YR19URFd1MHpUWUlIN0c4WnlPdnN1Tk1sNDY3czhkZDlSeWtlN2hNNURfZFlpLXM3bU9EVkxQelRTR2ZGR1VGN2o2Y1pka21JbFNyV0lEbUo5UDdsdVZuN2RpdlFIRzFLTzlZT0kwWENIVXo4ZXAzWnlOTTV4Rmd6MGM5VFN6U21kLVJaQ1hFQ0ExaGhZcWdfRUM5OW9BZjF1NS0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-18T09:06:52+00:00"
+      "title": "高盛：維持六福集團(00590)目標價17.9港元 評級“沽售” 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDaUxCMzBDYmNXT2JlcEZ4RVNES0psOXJyc2pqbElrNjJ5ZzN3N21PLWZfOGNJbGlFc0poRnNYT0tPem9CSnR6RnVpb1JrUDVNbVRLSFpUOHc5bml6Nk9ZQmpOWHhmbnplcUtHNzJOeHE?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-27T11:57:32+00:00"
     },
     {
-      "title": "六福手工外帶年菜開賣！雙特金賞龍蝦鮑魚搬回家，1/29 前預訂享早鳥 9 折",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EYnNrTUVUY0FBUDBvLTFZVzZZNmdub012cHhYWEZrbFgtdlZYdE4wcnlkZzlFRXlXLU5OYjdVTXZNcFNXajUzci1hcFFPaGFRR0xHS2RDS1Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-18T05:56:00+00:00"
+      "title": "大行評級｜高盛：六福集團上半財年業績遜預期，維持“沽售”評級",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZzFsWnczLXhmQTVKdnItOEMtcjlWWVNMVDVBV3gzdS1CRk9wMGhfcDhZblhtNDRDUGw4YjlmWjQtLUZzbk1vRDJqMmRtTlFDZHhyQWpCaTkxb2xBVTNqcXhuQzkwcEZtNHc?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-27T08:07:44+00:00"
     },
     {
-      "title": "2027年菜懶人包！台北花園、六福萬怡外帶年菜開訂 佛跳牆、龍蝦料理上桌",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HeDVKRkRJWGh1VDlUOFBNMlZwTjJuSXZMdzE4eXVoUDI4X29rY3RQUmotNkYxR1BCZUFjTVE0YmhRUExYaE5iTEYwYmN3UlhRd0UweHdjNmxLaXpXZ0cweVNkVk9rRmtJaGE2ek9WVQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-11-18T02:52:55+00:00"
+      "title": "花旗：維持六福集團(00590)目標價27.4港元 評級“買入” 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EMjZoMnZkT0VlT0hMQ2RxbHp4VnV0T1BZeUtrZzNxeXFwUlJOVGlva3JMakkxc2ZpZG9DT0FhVUU2dlpWdlJ3YVVnS1VhM3hNOEFKdnFnMzNlZXR6aGlNZVAtYUxuS1F1OG5xSzBVNDA?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-27T07:56:17+00:00"
     },
     {
-      "title": "六福續拓休閒/生態旅遊商機；提前布局春節餐飲市場",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNa3ZzNVlhZ0U2OHlwZGhlNXRHbzRRTnBYeXRTMWNqOGEwTDFwdE90OUpsLWpfR2ZLS0VCVEJvenFMTm45S21vS0JkUjV4WlZucEFzT0tNc1FYNXdVRWRIZUFfVEJJZGlTQ3p3d194SnVuRTQ0T1pJZ1VuUFRHRE5CRHZQbFBxYTJmRy1UU3VxSEdYMGtYMEdCdFVRaFVLa1NXbWZfMFpJRERtS3ZSLTJnSWVZT1lvSHpQeGxleUZ4eGdNMTBMWU9KY25vNTY0eHdKSnZvUDU0ZWpTblBZbU5QMk5DVUZyU2lkS1AyQ21TSlB5eGExUkJuM2FpdEFaUUlwU1hRMl9FNVlJWEpqSTZnUGJoU3p3aVJTalV5el8yOFlVeW5NbUk3akZ4b3NsSVE0VnNTYlBzVXh5UUFzcWhiTzIxNjUzdmY5U1JQelFRbW5mNl94ZXJic25xTGZYXy1tejNkWldR?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-11-17T03:41:30+00:00"
+      "title": "《大行》高盛維持六福(00590.HK)「沽售」評級上半財年業績遜預期財經新聞Financial News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekJYSmV0QUlKMTNxUDRyZkRZeXAtQnJFc0VsM2QzNWVHcF9YTGhqcWFnbzdLdDZ0YVVfN2Z4WGdWNnR3VFlEYm5idlYtVkQ0UC16QThLNnRGS29VVU1CaTY4VWhkSFZqVUdiUlkxWXBXbldhWGsxTkNaa0syMk1nQlNENkh6UQ?oc=5",
+      "source": "AAstocks",
+      "published_at": "2026-11-27T07:31:00+00:00"
     },
     {
-      "title": "2070 精湛 - 六福萬怡粵亮「粵藏冬珍宴」超吸睛！五道冬季新菜11/16登場 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nMWVhX21LZ2c4RnEyR2NCLTY1eHdOU0MzRUtieWo0bGRscl9BWV9nRzI3S2FyWXdpVnpfQThhSTQzSE5MWWQzYlNEendsNXRfclA0OWItVXY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-13T06:37:28+00:00"
+      "title": "港股異動| 六福集團(00590)跌超8% 中期溢利同比增長15% 毛利率下降10.4個百分點作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnOXFLYVZHUHV6RnY2WXRMR0tqd1piMFZpdXZEU3lHdWNvVkE0M1JGWHM4NHFuVUpZWmQxZG8ybmkwX2JJcE45VVU2TDJuczUySmJWNVBQS2NTVTc0TDc2cVNYU2tocWdpeE9pNXctT3c?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-27T05:41:57+00:00"
     },
     {
-      "title": "六福 (2705.TW) 季節性回報圖表",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4SGFUeWpGdlc3b3VGbEhUNGZ0Nk1mMjVCU0xLUklMUmF2LVc1TXVweVJqN19FY0d6UTdYUHdGdG9zWTdRNk9yMXFOaFhNUTJ2RVNuUnQ5SWl3NmpRNGNyNzVtZDFkdw?oc=5",
+      "title": "港股異動丨六福集團大跌8%創2025年7月以來新低，中期毛利率大跌",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrNUl6OHMtNjk1TmpBZzdxdjB2SFZxaTZGZnRLTHl0QlpQeDFsblNnemlSSTZ1WW5yV1BRRkpDNHkxcmo4d1daMFhpcHVvVHA1UjNCNnBMa1VBeUs1Y1RiRzZEYjgtbEVtQVE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-27T02:46:04+00:00"
+    },
+    {
+      "title": "異動股丨六福跌逾6% 中期毛利率大跌",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQN3RFUm1wUFhLVkdoX09hVjk2d2hwOHE3Qkt4QXJXR1A1cVhTZTVZbVgzc1FldHc3WXdZQ3d1V0hYSFV6NmxNRlIwUjdZc0I4QW1NeGxGX3Y1SGhScTgxdGpiNWhIRFI5RWhWVGlaMExYLWhuMFVrbThXWnF3NkZYejZNOHFLaWQ1X2xyeFJBWTFDQld1cG45X2I0NlM2aGlnQTNSWml0enQxX0x5c0VVa1VOR1Fjak1KemNBM1BkTlA5TDB1WklsQWZMSXp0NEN1dzYyZ2lraWIyTDQ5MFM1Tmc2Z1duM1otRE9MS2YzN2VkZWd0XzhPeHVWaEczWElaMmxuZG1Jc0JkUVU4NFlJT0xJZnV1bEdjMWktbURGVlg?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-11-27T02:15:39+00:00"
+    },
+    {
+      "title": "金價對沖獲利3億六福中期盈利升成半- Bamboo Works - China stock insights for global investors",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSl85VU1iM08wV0VhbGpTMWJhemk1UTNZU1BhcVVGSWo2SFN4RnplN3dFOWhOdU1femNOaG95eDR2X3JZSkxXZXpsNHI1bW5ZZ2djN292UGxhRVpxUldBVTdvd0FZWWk2emJSZXlmWkZoLVlGOFgxWW56RmE5NHJ4WnNSOFllc1ctS2ZmVi1SU3VuUHlqZVFfblZ2VGdBeml2OU9WY0JZanpBYXZQdlhVSGVncFJBUmxOU0UxcEpUbG1CY3A3bjZWZGp2YlNSRzNKTk9ZSnJYTEtSZUpfYUFzSkRNaHBfbG56QlJHaFBCaWFpMVJnNWowMWdBdlBHazdXTHlKZGZFOEQ?oc=5",
+      "source": "thebambooworks.com",
+      "published_at": "2026-11-27T01:31:08+00:00"
+    },
+    {
+      "title": "金價對沖獲利3億六福中期盈利升成半",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQX1NxZlphQWtFdFNxUllILVc2ZGFjV3MzcmZ2andBak9WT25hMURDaEwzeDI5RXY1UTBxc000U1ZYbmdzU0hVdVNPWXhMajhXMk00SkY5bE1BQ0QwRk5jUnRQZVBSb091R0pDX1VfRExVM1RMT25kYl9OSjdsVklZNG5hSzJ0OUlBNnF6bG5ybk0xTy1BaGg0TTJNeEFkUUN4X0RsaS1aTEhXSDJiaGVQV3o4cFk3Mzdfcm15Zkt4NVVHWjNod1F1c1puSTVwd0hzUEhhSmdoNFJqd2swc215cG0ybE1rdUoyNXlLZlB5RHFrcE1BVlk3SVNwUU9JZjd4U09NQlpBeGhFUnlpNkZtS2hxTXd1Q3hfa3EzUnZENG0?oc=5",
       "source": "Yahoo 財經",
-      "published_at": "2026-11-12T08:00:00+00:00"
+      "published_at": "2026-11-27T01:25:27+00:00"
     },
     {
-      "title": "《大行》花旗降六福(00590.HK)目標價至27.4元 下調盈測",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMXNBYTRzbmcyZ0lHbjBJaHM0TTRyV1A4dHpHdkRlVmU0U281RGp4NVJXM3VVVGJYRS10ZU9TNUVVUHI4cGM0eXBMenZSSTVZNWIyZThsSnFLcXFhUWlDdE5Rd1FmazBVNkU0M3N2WlhxczA2ZERHQW9xQms2WDBLdkZyY2M3cFlhR3BNREVwY2h1bXpvU2dLQVBnR0ZHVU5OLVVYNjBhaFlNNDAxeEdhbmVsajFQd0RWTFRxM0dmMklNM1hoNVRZSU9sQmtjNERvN0VXVTliVzJRNTdiVHlxMkFXZVEwcDBaajRscU9vSXkzTDg?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-10-26T07:00:00+00:00"
+      "title": "六福集團(00590)發佈中期業績 股東應占溢利7.12億港元 同比增加15% 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VjZoMy05a3FhUXctc3JWV3I5X3VOaDdzdXQ4TUFSMElwU1hGNThTNThpQkpBbzhmVjU5MEtpdGtYWGlRZWIxYW9FdHhCQWhUR29FbkprVkxyXzB5dkFlRUxGRkxEalZnSE1SZTdiZU8?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-11-26T17:20:46+00:00"
+    },
+    {
+      "title": "六福集團中期多賺一成半",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORnpjSFVFQXUtSDVHVFRYQ2M2MlhuLXBZU1lzeVBHd1MyRjZ5cmZmNkVtNGw1U1BFWHVYR1c0bWRTR3dpSzluVlpDSE1oVTN6TGZ5eWlMbTF2S3FwZk91VXBWX2JtVEpsS2NXYjZnWEZUTk9jd2dDNDh3a05KSUlGMmtYTFFtYmljLUVRUktkTjc5V0dHZzkwQk5QODBtRGRDbHQta1YzdG41aXVjcHFvaE43VDJLZlNuR1E3Y29NUlh3RzBTZGtpcjB5Yw?oc=5",
+      "source": "TVB",
+      "published_at": "2026-11-26T14:52:00+00:00"
+    },
+    {
+      "title": "【港股今日睇】六福毛利率大跌 股價會否步周大福後塵?",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43MjNLZHBXNlpqTzlyT3ZkbWNlQ2VqaHFPSVBhVlFUVENNSnk4VXJFUEJ4ZWJWZVM0QjhhNFRjbUZpR3VCeXhUU0l1OU1zcnhWT2l0azFuTXdDMzZuTE1EakVXSjY0TzItSEEtelFGbFRrQQ?oc=5",
+      "source": "Now 財經",
+      "published_at": "2026-11-26T14:36:00+00:00"
     }
   ]
 }

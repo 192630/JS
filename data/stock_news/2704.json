@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-20T06:19:13.877560+08:00",
+  "updated_at": "2026-11-28T21:20:11.654509+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2704",
   "name": "國賓",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "個股：國賓6/10-11/24處分富邦金股票2,537,772股，保留盈餘增加數約1.21億元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1JWWXRuQWdqQTM0czR3bVN4d0I2UDZMcTRvZ2tpMjRjRWVjaTdsOTBNMzcyRXNOd2pjdzE1VnYyVW1SQnBtQXItZ1VmTXNZWE55ZWtIVjJZNy10Q21lM1RadldlUmFVekJyQlpwX1paOW9sOEItQTlEYmtlbWtSa1poX1oxTXB2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-24T23:09:00+00:00"
+    },
+    {
+      "title": "華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲台交流",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OeEFnZFFKZndiUEF5NmtZUDZxUDJZRHRKSUdwY1RJS2YwS0pudzhQUFo1TVBzd0lacTVQclN3UUxWVGtVU3diRHJEazhEOEZTaGtSMGp6TE9tZ9IBX0FVX3lxTE1nUEV0d2xsb3hBT0hZTEVxYnFVUzNGVHpHVzFXcnRDdXg2RDFkZjN4MXFTU2ZiSE9sVG9MY3VkTVlZTDNCMnJGaTRFN3cyeDIyN3IwX1ppS3oxa2NIa21Z?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-11-22T13:21:30+00:00"
+    }
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-20T06:18:53.677617+08:00",
+  "updated_at": "2026-11-28T21:19:50.272616+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2536",
   "name": "宏普",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "宏普三井新北第一案台日首發「台北橋站」軌道精品宅-房地產",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hVWoyOUY3cVpyLWE1dlpBeFdLeU5qTGQxSjRoZHJLRDFxd3p3c3BpNGFjRklPV053SXNBanhITDU3WmZJQ2pGd0pneWU0cnBqUnd6MTNJOFRLN1gyR3VNbUJseVlVSWJ2SXBnN3E1NENfN2J3WVE?oc=5",
+      "source": "商周財富網",
+      "published_at": "2026-11-27T01:00:40+00:00"
+    },
+    {
+      "title": "宏普三井新北第一案 台日首發「台北橋站」軌道精品宅",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ISm1CVGp6UmpzLU9BOC1aeHVlN01MeXRMTGdBUEtOT0JFZmpjSlZIR0hoWEkwM2hmaFFTVmd6QjNLckoyMXcxM1ZpTGtHdUpXOEE?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-11-26T04:15:15+00:00"
+    }
+  ]
 }
