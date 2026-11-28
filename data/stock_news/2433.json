@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-19T21:34:44.448441+08:00",
+  "updated_at": "2026-11-28T12:01:39.799356+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2433",
   "name": "互盛電",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《外資機構主要進出個股4-4》花旗環球證鴻海(3306)、華航(2433)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFBwNkFkUHVZY05jUnhfVVVDcHZFR0ZGUV9uMmNZVE96WElDRzJWXzZEdmo5clBGOHRzMU01MXV2OGtEbXhXSHBCT0hPaGZoZ2RpeXlIWE5Wbl9uTDJPc09sNkVBZXRDOU51NWx3c1JaakpXUkFQQzl0RGY3M0k3bWU4R19tRVRa?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-26T08:35:00+00:00"
+    },
+    {
+      "title": "【即時新聞】互盛電今日宣布第三季財報，單季每股盈餘1.34元，前三季獲利表現穩健",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDFPZGp3czA5eEdmaDNZa3ZINmhuamRNYlFKRk1kVjNOcFQ5My1lSjN6Z2w5VkVuYmk0bWpCZnJObEpaZFNpYzVyUXdzMjZ4VTMxVlVJLU51a3ZxZmVPUWZwS0YwMW1EQUtvT016RUF6ZllvdUNaNTR0YjV0dFBqX2JpUndORmVCcVhVZGxMdGY?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-11-09T08:00:00+00:00"
+    }
+  ]
 }

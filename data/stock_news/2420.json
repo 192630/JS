@@ -1,45 +1,39 @@
 {
-  "updated_at": "2026-11-19T21:34:39.379394+08:00",
+  "updated_at": "2026-11-28T12:01:34.363407+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2420",
   "name": "新巨",
-  "count": 6,
+  "count": 5,
   "news": [
-    {
-      "title": "新巨豐創歷史新低",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tNlg0ZENLQjJWVjBQX2xFVHZ0Q3Z1Y0VLSXJwV3VpQW8wMTV4OWEtWWtrVU95X2ZoMUNYNnZhYURfZ0tvWEx3eDR0QzBKYjBHeFllUEtKQ2ppUUV0T3pveng2Qjlab3BXYkE?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-11-19T03:49:32+00:00"
-    },
-    {
-      "title": "新巨(2420) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdXlydVJobHVEbmc0ZnNUWlJBLTNCUjAzSjVtMzdVWUxJTWR2WjBzQzZ4YWdEZGRfWkNEemZpLVBJemJlcWNHX2wybTFxMkhEaEFZ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-11-18T04:30:28+00:00"
-    },
-    {
-      "title": "新巨(2420) 營益率站上 36 %，毛利率回落、費用再省一成二",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95dWNNRnQxeTZpUV9vR2hBc3o1WFd4MW9YRm1QbEZIc1VpRXFXVllUOXkwbU0zamxUSl8xSDJha05DV3JmbzNIb1ZwZ0gzNk0?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-11T08:00:13+00:00"
-    },
     {
       "title": "新巨(2420) 電源占比升到 48.1 %，微動開關 51.9 % 仍過半",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oR1U5RzBvT1JaZUU1MjdXbFAtWnkycl95ZGpaQ1BlaVV4NXBzNFFXaWlMMjNKVW1Obnh4b19GRDZDekczMm1XRV9WeUtncGc?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-11-11T08:00:12+00:00"
-    },
-    {
-      "title": "新巨(2420) AI 伺服器占出貨 25 到 30 %，8,000 瓦機種預計今年底送樣",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0MzU5TVdPeHE2YjJMYmZEOERCVkFZNDAzaHh2MTNlMUJRVGJPTHluaWJJSXRvaWtXT0NuZm8tbmpmbmJvV0NtcFV2Z2N5RzA?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-11-11T08:00:12+00:00"
+      "published_at": "2026-11-11T08:00:00+00:00"
     },
     {
       "title": "新巨(2420) 電源未見缺料，3 週內交貨比重維持六成多",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPLVd6RS0wZDVvalNPM3pnVS1QVzIwRzBNcjFHMzNzRHRiOGZQV3hxRkg3M1JDQVlEWnJDRmNsTzZGR2c1UWpkT2lsYkRwMnc?oc=5",
       "source": "鉅亨網",
-      "published_at": "2026-11-11T08:00:06+00:00"
+      "published_at": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "title": "新巨(2420) 軍工電源進入量產，歐美客戶開始小量出貨",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeXIyX3cxbnBsT2FlQXJLa1dqYVhRdjNrXzY3TjZ6M1E0ZWRDMWJDVVM1TDVzU1dkc1JlTDR1TEU2ZGlXaW41R1k5YkxZWTg?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "title": "新巨(2420) AI 伺服器占出貨 25 到 30 %，8,000 瓦機種預計今年底送樣",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0MzU5TVdPeHE2YjJMYmZEOERCVkFZNDAzaHh2MTNlMUJRVGJPTHluaWJJSXRvaWtXT0NuZm8tbmpmbmJvV0NtcFV2Z2N5RzA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "title": "新巨(2420) 營益率站上 36 %，毛利率回落、費用再省一成二",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95dWNNRnQxeTZpUV9vR2hBc3o1WFd4MW9YRm1QbEZIc1VpRXFXVllUOXkwbU0zamxUSl8xSDJha05DV3JmbzNIb1ZwZ0gzNk0?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-11-11T08:00:00+00:00"
     }
   ]
 }

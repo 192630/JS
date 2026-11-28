@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-19T21:34:43.576662+08:00",
+  "updated_at": "2026-11-28T12:01:38.938051+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2431",
   "name": "聯昌",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "股票精選：Ta Ann 與聯昌集團",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNlFJZ2Utc1AwY3BYclFYM1dVVTFvazhoZXR6bE83WmlJNEw1a2thcml4YzA5TzZDSlpjVVNmZzVlQTlnRTNJTWtUSHhtVnpIZTY3UnVhRG9wbUp1RFlacHc2V3Q3UllZMnZKN3VLWGVMQmN6QUwzcU9qc256MFVzVlFrdjM5MnFqM3c?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-11-27T00:37:45+00:00"
+    },
+    {
+      "title": "《停資停券一覽表》 聯昌、欣技",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3FBQ1BETjgtYnAxbGhTeXdDZXoyVmRXUXphU240Z1hHOXFsY1ZCdkM3aW5OTWVvbXJtTFRhQkozMUN4TE5uMUlFa1c3eVpoTE1BdFlJZHNBeEZtSWRZZnJPMXJ2WlU1UkFRWHdwakt1SlJSUmF0cmJibGZmcUtRQVNQQ3hIa1hO?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-27T00:02:00+00:00"
+    },
+    {
+      "title": "《證交所》聯昌等5檔上市股票今起恢復融資券交易",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1RYUVFyblhJcmswbkR5Z1FzUVo1aG1KbUl1WDhZYXF6NXczV0gyTUd3SmVFeU1CMjlPSHFxQ1RjSEVYWnhwQk9pY195dmo4MHh3Z296MUlVek9PN1J5ZWxNNGhRZE1FM0JSaUgyLXFmNE1UOXBzT2xhNjNGVTU1VFpLZnNuWEE4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-23T23:48:00+00:00"
+    }
+  ]
 }

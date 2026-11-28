@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-19T21:34:40.193690+08:00",
+  "updated_at": "2026-11-28T12:01:35.209576+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2423",
   "name": "固緯",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "個股：固緯(2423)遭致茂提起之公平交易法訴訟遭法院駁回，營運維持正常運作",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlItZURRdnVheUEzZkRZQkVzNGp1ams1SEdxTVBjN3ZQVldoZThBb25iVF9QRkN3MV9rcy1LX1ZYZEFDWGpZYzNiVUY0eWxscjNqTTlNVmZmNTJmYUxTajBFSDhsalM5MTBLS2hwVlpXb092a2VmNW9od1lYUU5Jdmp6TUExYWNC?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-27T05:41:00+00:00"
+    },
+    {
+      "title": "固緯(2423) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfQlZNUlQ1RDgtZ1R0VHFNcXJNdG83RU1RQjllUURpOHcyQkl1ZlpiNUMyX1NNSGxDaVVkQkplaVZjRTlpTkhfdjNVYml2TENKWURJ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-11-24T12:49:44+00:00"
+    }
+  ]
 }

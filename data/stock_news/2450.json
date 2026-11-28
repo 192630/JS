@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-19T21:34:48.696077+08:00",
+  "updated_at": "2026-11-28T12:01:44.606297+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2450",
   "name": "神腦",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "《集中市場券商賣超比前30名 3-2》神腦(-17.73)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWZFRWVSS2RFNm5mMkd6UVdjR2VKYnY5LWg2VklxUkhyLU9MUVJzcDBpbzFJcGNzX1VZOEFEakwzYkk4b1ExRmpBTk5DV21hUkZiRU14T2laYl9hWmtUN2kwR1BXV0FBZTZ0ckstYUhYNi1kbHBnUzRKWG9VdUpqUFJhdXZaZ3NO?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-11-25T23:29:00+00:00"
+    },
+    {
+      "title": "行動電源回收換現金限時7天！最高150元、舊換新折500元…燦坤神腦德誼…回收獎勵地點、兌換規則整理",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekR4ellSUnNycW52SmxRdFE0Wko1djZ1V0VZSEFmZXJRdTdhWHFfUU5MX3dQZVJnM1dSdWdKTUtHSWhsZzhjOTdHNHFaS0NnVGtxQjhfM19kQkZSRXFtQ0FEejlmcVhqQm9LV0ZqR1ZUU2tiSjRIZWxUc3FJMG1NTQ?oc=5",
+      "source": "今周刊",
+      "published_at": "2026-11-02T08:00:00+00:00"
+    }
+  ]
 }
